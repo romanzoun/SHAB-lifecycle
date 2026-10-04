@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>1f4d8eee-a54d-4266-885c-9183161ee476</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004811703</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Lumière-Spectacle LSB SA, Crassier, neu Lumière-Spectacle LSB SA en liquidation</de>
+    <en>Change Lumière-Spectacle LSB SA, Crassier, new Lumière-Spectacle LSB SA en liquidation</en>
+    <it>Cambiamenti Lumière-Spectacle LSB SA, Crassier, nuovo Lumière-Spectacle LSB SA en liquidation</it>
+    <fr>Mutation Lumière-Spectacle LSB SA, Crassier, nouveau Lumière-Spectacle LSB SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1265</journalNumber>
+  <journalDate>2020-01-17</journalDate>
+  <publicationText>Lumière-Spectacle LSB SA, à Crassier, CHE-106.487.173 (FOSC du 19.12.2013, p. 0/7225834). Selon décision de son assemblée générale du 14 janvier 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Lumière-Spectacle LSB SA en liquidation. L'administrateur Boillet Michel, désormais à Crassier, est nommé liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Lumière-Spectacle LSB SA en liquidation</name>
+      <uid>CHE-106.487.173</uid>
+      <uidOrganisationId>106487173</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007399891</code13>
+      <seat>Crassier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Jura</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1263</swissZipCode>
+        <town>Crassier</town>
+      </address>
+    </company>
+    <purpose>création d'éclairages pour spectacles; vente et location d'équipements électriques pour les spectacles ou autres (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Lumière-Spectacle LSB SA</name>
+      <uid>CHE-106.487.173</uid>
+      <uidOrganisationId>106487173</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007399891</code13>
+      <seat>Crassier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Jura</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1263</swissZipCode>
+        <town>Crassier</town>
+      </address>
+    </company>
+    <purpose>création d'éclairages pour spectacles; vente et location d'équipements électriques pour les spectacles ou autres (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

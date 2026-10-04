@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>1a75ce51-7cd3-4025-96f6-28d034922aa8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004812905</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation HSBC Private Banking Holdings (Suisse) SA, Genève</de>
+    <en>Change HSBC Private Banking Holdings (Suisse) SA, Genève</en>
+    <it>Cambiamenti HSBC Private Banking Holdings (Suisse) SA, Genève</it>
+    <fr>Mutation HSBC Private Banking Holdings (Suisse) SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1251</journalNumber>
+  <journalDate>2020-01-20</journalDate>
+  <publicationText>HSBC Private Banking Holdings (Suisse) SA, à Genève, CHE-108.538.870 (FOSC du 23.12.2019, p. 0/1004791588). Suppression des clauses statutaires relatives aux apports en nature, conformément à l'art. 628, al. 4 CO. Communication aux actionnaires: lettre recommandée ou citation remise contre récépissé. Nouveaux statuts du 14.01.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>HSBC Private Banking Holdings (Suisse) SA</name>
+      <uid>CHE-108.538.870</uid>
+      <uidOrganisationId>108538870</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66017409966</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o HSBC Private Bank (Suisse) SA</addressLine1>
+        <street>quai des Bergues</street>
+        <houseNumber>9-17</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>détention de participations dans des institutions bancaires, sociétés financières ou autres, à l'exclusion des participations immobilières, sauf dans les cas où la législation suisse le permet; offrir des prestations de services s'y rapportant.</purpose>
+    <capital>
+      <nominal>1363330000.00</nominal>
+      <paid>1363330000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>HSBC Private Banking Holdings (Suisse) SA</name>
+      <uid>CHE-108.538.870</uid>
+      <uidOrganisationId>108538870</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66017409966</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o HSBC Private Bank (Suisse) SA</addressLine1>
+        <street>quai des Bergues</street>
+        <houseNumber>9-17</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>détention de participations dans des institutions bancaires, sociétés financières ou autres, à l'exclusion des participations immobilières, sauf dans les cas où la législation suisse le permet; offrir des prestations de services s'y rapportant.</purpose>
+    <capital>
+      <nominal>1363330000.00</nominal>
+      <paid>1363330000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-23</lastFoscDate>
+    <lastFoscNumber>248</lastFoscNumber>
+    <lastFoscSequence>1004791588</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

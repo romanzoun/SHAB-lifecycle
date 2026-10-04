@@ -37,7 +37,7 @@ def events(prefix):
 @pytest.mark.parametrize("prefix,rule,count", CASES)
 def test_samples_fully_parsed(prefix, rule, count):
     result = parse(prefix)
-    assert PARSER_VERSION == 254
+    assert PARSER_VERSION >= 254
     assert result.sub_rubric == "HR02"
     assert result.status == "FULLY_PARSED"
     assert result.leftover_text == ""
