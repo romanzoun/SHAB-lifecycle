@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.13/HR02-export.xsd">
+<meta>
+  <id>f3dab80d-3cd7-4e7c-ab04-502e4483d31d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005319422</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-10-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <secondaryTenants>
+    <tenantCode>kabti</tenantCode>
+    <publicationDate>2021-10-25</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation Associazione - fea - forum european economics and architectures in liquidazione, Chiasso</de>
+    <en>Change Associazione - fea - forum european economics and architectures in liquidazione, Chiasso</en>
+    <it>Cambiamenti Associazione - fea - forum european economics and architectures in liquidazione, Chiasso</it>
+    <fr>Mutation Associazione - fea - forum european economics and architectures in liquidazione, Chiasso</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23835</journalNumber>
+  <journalDate>2021-10-20</journalDate>
+  <publicationText>Associazione - fea - forum european economics and architectures in liquidazione, in Chiasso, CHE-115.201.708, associazione (Nr. FUSC 130 del 09.07.2018, Pubbl. 4346093). L'associazione deve essere cancellata d'ufficio conformemente all'art. 934 CO, in quanto priva di attività commerciale e di attivi. La cancellazione non può tuttavia essere effettuata mancando il consenso delle autorità fiscali federali e cantonali.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Associazione - fea - forum european economics and architectures in liquidazione</name>
+      <uid>CHE-115.201.708</uid>
+      <uidOrganisationId>115201708</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50160137425</code13>
+      <seat>Chiasso</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Promuovere innovazioni scientifiche e tecnologiche, specialmente attraverso la ricerca ed il propagamento di cognizioni scientifiche, tecnologiche, o aziendali sulle possibilità d'innovazioni o aumenti di efficenza in imprese economiche ed altre organizzazioni o istituzioni.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Associazione - fea - forum european economics and architectures in liquidazione</name>
+      <uid>CHE-115.201.708</uid>
+      <uidOrganisationId>115201708</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50160137425</code13>
+      <seat>Chiasso</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Promuovere innovazioni scientifiche e tecnologiche, specialmente attraverso la ricerca ed il propagamento di cognizioni scientifiche, tecnologiche, o aziendali sulle possibilità d'innovazioni o aumenti di efficenza in imprese economiche ed altre organizzazioni o istituzioni.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-09</lastFoscDate>
+    <lastFoscNumber>130</lastFoscNumber>
+    <lastFoscSequence>4346093</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>9eca1d51-dd94-45ea-b706-965823049d76</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004480713</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Kempter Immobilier SNC en liquidation, Vufflens-la-Ville</de>
+    <en>Change Kempter Immobilier SNC en liquidation, Vufflens-la-Ville</en>
+    <it>Cambiamenti Kempter Immobilier SNC en liquidation, Vufflens-la-Ville</it>
+    <fr>Mutation Kempter Immobilier SNC en liquidation, Vufflens-la-Ville</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18527</journalNumber>
+  <journalDate>2018-10-16</journalDate>
+  <publicationText>Kempter Immobilier SNC, à Vufflens-la-Ville, CHE-314.997.690, Société en nom collectif (FOSC du 05.10.2018, p. 0/1004470727). Rectificatif: la société ayant été radiée par erreur, elle est réinscrite comme ci-devant (FOSC du 15.01.2018, p. 0/3989653). Selon décision des associés du 13 octobre 2018, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Kempter Immobilier SNC en liquidation. Les associés Angéloz Sébastien et Kempter Ruben sont nommés liquidateurs avec signature indididuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kempter Immobilier SNC en liquidation</name>
+      <uid>CHE314997690</uid>
+      <uidOrganisationId>314997690</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011776397</code13>
+      <seat>Vufflens-la-Ville</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>l'Arzillier</street>
+        <houseNumber>45</houseNumber>
+        <swissZipCode>1302</swissZipCode>
+        <town>Vufflens-la-Ville</town>
+      </address>
+    </company>
+    <purpose>recherche de locataires solvables; remise de baux dans le cas de résiliations anticipées; vente et location de biens immobiliers.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kempter Immobilier SNC</name>
+      <uid>CHE314997690</uid>
+      <uidOrganisationId>314997690</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011776397</code13>
+      <seat>Vufflens-la-Ville</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>l'Arzillier</street>
+        <houseNumber>45</houseNumber>
+        <swissZipCode>1302</swissZipCode>
+        <town>Vufflens-la-Ville</town>
+      </address>
+    </company>
+    <purpose>recherche de locataires solvables; remise de baux dans le cas de résiliations anticipées; vente et location de biens immobiliers.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-05</lastFoscDate>
+    <lastFoscSequence>1004470727</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

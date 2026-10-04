@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>6a4fa2ca-4101-40dc-ac9b-d8bf046406f4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004481817</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation HJD DISTRIBUTION SA, Genève</de>
+    <en>Change HJD DISTRIBUTION SA, Genève</en>
+    <it>Cambiamenti HJD DISTRIBUTION SA, Genève</it>
+    <fr>Mutation HJD DISTRIBUTION SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19216</journalNumber>
+  <journalDate>2018-10-17</journalDate>
+  <publicationText>HJD DISTRIBUTION SA, à Genève, CHE-100.443.243 (FOSC du 06.12.2017, p. 0/3914747). L'administratrice secrétaire Dutertre Virginie n'exerce plus la signature sociale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>HJD DISTRIBUTION SA</name>
+      <uid>CHE100443243</uid>
+      <uidOrganisationId>100443243</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66014679998</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Croix-d'Or</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>commerce, création, diffusion, promotion et représentation de parfums et produits cosmétiques, articles de luxe, d'horlogerie et de bijouterie, jeux de société; dépôt de marques, prise de participations dans des entreprises poursuivant un but analogue.</purpose>
+    <capital>
+      <nominal>400000.00</nominal>
+      <paid>400000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>HJD DISTRIBUTION SA</name>
+      <uid>CHE100443243</uid>
+      <uidOrganisationId>100443243</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66014679998</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Croix-d'Or</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>commerce, création, diffusion, promotion et représentation de parfums et produits cosmétiques, articles de luxe, d'horlogerie et de bijouterie, jeux de société; dépôt de marques, prise de participations dans des entreprises poursuivant un but analogue.</purpose>
+    <capital>
+      <nominal>400000.00</nominal>
+      <paid>400000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-12-06</lastFoscDate>
+    <lastFoscSequence>3914747</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

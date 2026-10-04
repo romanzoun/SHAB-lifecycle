@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>d3247e50-e6a6-40c6-9f8b-8d02560c8c18</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004729124</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Lengacher Optik, Muri bei Bern</de>
+    <en>Change Lengacher Optik, Muri bei Bern</en>
+    <it>Cambiamenti Lengacher Optik, Muri bei Bern</it>
+    <fr>Mutation Lengacher Optik, Muri bei Bern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14948</journalNumber>
+  <journalDate>2019-09-30</journalDate>
+  <publicationText>Lengacher Optik, in Muri bei Bern, CHE-107.455.690, Einzelunternehmen (SHAB Nr. 184 vom 24.09.2019, Publ. 1004722370). Das Einzelunternehmen wurde vom Handelsregisteramt des Kantons Bern mittels TR-Eintrag Nr. 14499 vom 19.09.2019, publiziert im SHAB Nr. 184 vom 24.09.2019, irrtümlich gelöscht. Der genannte Löschungseintrag wird deshalb hiermit widerrufen. [gestrichen: Da der Geschäftsbetrieb aufgehört hat, wird das Einzelunternehmen in Anwendung von Art. 159 Abs. 5 lit. a HRegV von Amtes wegen gelöscht.]. Da der Inhaber den Geschäftsbetrieb weiterführt, sind die Voraussetzungen für eine Löschung gemäss Art. 159 Abs. 5 lit. a HRegV nicht erfüllt. Die Eintragung bleibt folgedessen bestehen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Lengacher Optik</name>
+      <uid>CHE-107.455.690</uid>
+      <uidOrganisationId>107455690</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03510045030</code13>
+      <seat>Muri bei Bern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Worbstrasse</street>
+        <houseNumber>221</houseNumber>
+        <swissZipCode>3073</swissZipCode>
+        <town>Gümligen</town>
+      </address>
+    </company>
+    <purpose>Verkauf von Brillen und anderen Handelswaren.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Lengacher Optik</name>
+      <uid>CHE-107.455.690</uid>
+      <uidOrganisationId>107455690</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03510045030</code13>
+      <seat>Muri bei Bern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Worbstrasse</street>
+        <houseNumber>221</houseNumber>
+        <swissZipCode>3073</swissZipCode>
+        <town>Gümligen</town>
+      </address>
+    </company>
+    <purpose>Verkauf von Brillen und anderen Handelswaren.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-24</lastFoscDate>
+    <lastFoscNumber>184</lastFoscNumber>
+    <lastFoscSequence>1004722370</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>2b201203-81fb-4718-a802-4c2727675796</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004658635</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Swiss Food Group SA, Genève</de>
+    <en>Change Swiss Food Group SA, Genève</en>
+    <it>Cambiamenti Swiss Food Group SA, Genève</it>
+    <fr>Mutation Swiss Food Group SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11678</journalNumber>
+  <journalDate>2019-06-19</journalDate>
+  <publicationText>Swiss Food Group SA, à Genève, CHE-350.707.178 (FOSC du 22.05.2019, p. 0/1004636296). Chevrier Philippe, de Thônex, à Genthod, de Chieusses de Combaud Benoît, de France, à Montanaire, F, Hauser Claude, de Genève, à Versoix et Novak-Moser Michèle, de Chêne-Bougeries, sont membres du conseil d'administration avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Swiss Food Group SA</name>
+      <uid>CHE350707178</uid>
+      <uidOrganisationId>350707178</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66036650188</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Rhône</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>acquérir et détenir des participations dans des sociétés, suisses ou étrangères, actives dans le domaine de l'alimentation; acquérir ou détenir des marques et brevets s'y rapportant (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>250000.00</nominal>
+      <paid>250000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Swiss Food Group SA</name>
+      <uid>CHE350707178</uid>
+      <uidOrganisationId>350707178</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66036650188</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Rhône</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>acquérir et détenir des participations dans des sociétés, suisses ou étrangères, actives dans le domaine de l'alimentation; acquérir ou détenir des marques et brevets s'y rapportant (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>250000.00</nominal>
+      <paid>250000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-22</lastFoscDate>
+    <lastFoscSequence>1004636296</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

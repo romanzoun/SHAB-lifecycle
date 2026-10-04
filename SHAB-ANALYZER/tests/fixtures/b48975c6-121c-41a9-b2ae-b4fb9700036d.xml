@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b45df00c-542d-4e49-bf83-fc65be7f462b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004518720</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Fondation du Pain de Saint Antoine, Fribourg</de>
+    <en>Change Fondation du Pain de Saint Antoine, Fribourg</en>
+    <it>Cambiamenti Fondation du Pain de Saint Antoine, Fribourg</it>
+    <fr>Mutation Fondation du Pain de Saint Antoine, Fribourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6465</journalNumber>
+  <journalDate>2018-12-07</journalDate>
+  <publicationText>Fondation du Pain de Saint Antoine, à Fribourg, CHE-115.773.608 (FOSC du 18.12.2017, p. 0/3937393). L'organe de révision inscrit Déco Fiduciaire &amp; Gérance SA (CHE-108.733.791) se nomme désormais FIDUVISION SA, maintenant à Gibloux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation du Pain de Saint Antoine</name>
+      <uid>CHE115773608</uid>
+      <uidOrganisationId>115773608</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735449725</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Banque Cantonale de Fribourg</addressLine1>
+        <street>Boulevard de Pérolles</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>venir au secours des pauvres, principalement dans le canton de Fribourg (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>FIDUVISION SA</name>
+        <country>CH</country>
+        <uid>CHE108733791</uid>
+        <uidOrganisationId>108733791</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation du Pain de Saint Antoine</name>
+      <uid>CHE115773608</uid>
+      <uidOrganisationId>115773608</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735449725</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Banque Cantonale de Fribourg</addressLine1>
+        <street>Boulevard de Pérolles</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>venir au secours des pauvres, principalement dans le canton de Fribourg (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-12-18</lastFoscDate>
+    <lastFoscSequence>3937393</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

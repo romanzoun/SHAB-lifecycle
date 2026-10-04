@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.26/HR02-export.xsd">
+<meta>
+  <id>f94ad590-323d-4420-9c51-674a20576c0c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006766815</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2026-09-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Solanne KLG, Richterswil</de>
+    <en>Change Solanne KLG, Richterswil</en>
+    <it>Cambiamenti Solanne KLG, Richterswil</it>
+    <fr>Mutation Solanne KLG, Richterswil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>44705</journalNumber>
+  <journalDate>2026-09-23</journalDate>
+  <publicationText>Solanne KLG, in Richterswil, CHE-436.148.085, Kollektivgesellschaft (SHAB Nr. 183 vom 21.09.2023, Publ. 1005842257). Domizil neu: Seestrasse 70a, 8805 Richterswil. Zweck neu: Erwerb, Entwicklung und Verkauf von Immobilien. Handel mit Waren und Produkten aller Art, insbesondere über Online-Shops und andere E-Commerce-Kanäle, einschliesslich der Entwicklung, Herstellung, Vermarktung, des Vertriebs sowie des Imports und Exports solcher Waren und Produkte. Die Gesellschaft kann damit verbundene Dienstleistungen erbringen und alle Tätigkeiten ausüben, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Solanne KLG</name>
+      <uid>CHE-436.148.085</uid>
+      <uidOrganisationId>436148085</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02020095753</code13>
+      <seat>Richterswil</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seestrasse</street>
+        <houseNumber>70a</houseNumber>
+        <swissZipCode>8805</swissZipCode>
+        <town>Richterswil</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Entwicklung und Verkauf von Immobilien. Handel mit Waren und Produkten aller Art, insbesondere über Online-Shops und andere E-Commerce-Kanäle, einschliesslich der Entwicklung, Herstellung, Vermarktung, des Vertriebs sowie des Imports und Exports solcher Waren und Produkte. Die Gesellschaft kann damit verbundene Dienstleistungen erbringen und alle Tätigkeiten ausüben, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Solanne KLG</name>
+      <uid>CHE-436.148.085</uid>
+      <uidOrganisationId>436148085</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02020095753</code13>
+      <seat>Richterswil</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Julian Freitag</addressLine1>
+        <street>Seestrasse</street>
+        <houseNumber>70a</houseNumber>
+        <swissZipCode>8805</swissZipCode>
+        <town>Richterswil</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Bau und Verkauf von Immobilien.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2023-09-21</lastFoscDate>
+    <lastFoscNumber>183</lastFoscNumber>
+    <lastFoscSequence>1005842257</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>true</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

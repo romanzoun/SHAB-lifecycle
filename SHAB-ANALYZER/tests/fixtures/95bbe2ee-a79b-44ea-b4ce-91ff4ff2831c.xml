@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>954a96d9-3775-49a1-a61c-d287e2b6afc3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004733596</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Landwirtschaftliches Altersheim Hermolingen, Rothenburg</de>
+    <en>Change Landwirtschaftliches Altersheim Hermolingen, Rothenburg</en>
+    <it>Cambiamenti Landwirtschaftliches Altersheim Hermolingen, Rothenburg</it>
+    <fr>Mutation Landwirtschaftliches Altersheim Hermolingen, Rothenburg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8043</journalNumber>
+  <journalDate>2019-10-04</journalDate>
+  <publicationText>Landwirtschaftliches Altersheim Hermolingen, in Rothenburg, CHE-107.251.839, Stiftung (SHAB Nr. 196 vom 10.10.2018, Publ. 1004473461). Urkundenänderung: 13.08.2019. Organisation neu: [Organisation gestrichen gemäss Art. 95 Abs. 1 lit. h. HRegV]. [Die publikationspflichtigen Tatsachen haben keine Änderung erfahren.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Landwirtschaftliches Altersheim Hermolingen</name>
+      <uid>CHE-107.251.839</uid>
+      <uidOrganisationId>107251839</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10070039984</code13>
+      <seat>Rothenburg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>Hermolingen</addressLine2>
+        <street>Stationsstrasse</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>6023</swissZipCode>
+        <town>Rothenburg</town>
+      </address>
+    </company>
+    <purpose>Erwerb einer Liegenschaft und Errichtung und Betrieb eines Altersheimes zur Unterbringung alter und gebrechlicher Personen; Unterkunft und Verpflegung älterer, gebrechlicher und arbeitsunfähig gewordener landwirtschaftlicher Arbeiter; Aufnahme von Personen als Bewohner, die nicht aus der Landwirtschaft stammen und weibliche Personen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Landwirtschaftliches Altersheim Hermolingen</name>
+      <uid>CHE-107.251.839</uid>
+      <uidOrganisationId>107251839</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10070039984</code13>
+      <seat>Rothenburg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>Hermolingen</addressLine2>
+        <street>Stationsstrasse</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>6023</swissZipCode>
+        <town>Rothenburg</town>
+      </address>
+    </company>
+    <purpose>Erwerb einer Liegenschaft und Errichtung und Betrieb eines Altersheimes zur Unterbringung alter und gebrechlicher Personen; Unterkunft und Verpflegung älterer, gebrechlicher und arbeitsunfähig gewordener landwirtschaftlicher Arbeiter; Aufnahme von Personen als Bewohner, die nicht aus der Landwirtschaft stammen und weibliche Personen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-10</lastFoscDate>
+    <lastFoscNumber>196</lastFoscNumber>
+    <lastFoscSequence>1004473461</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

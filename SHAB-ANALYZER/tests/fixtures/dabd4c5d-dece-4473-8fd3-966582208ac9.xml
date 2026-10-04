@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>da3310cd-d536-40c4-a334-6d70fb2a4e67</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004748302</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Stiftung "Stonewall", Basel</de>
+    <en>Change Stiftung "Stonewall", Basel</en>
+    <it>Cambiamenti Stiftung "Stonewall", Basel</it>
+    <fr>Mutation Stiftung "Stonewall", Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6195</journalNumber>
+  <journalDate>2019-10-25</journalDate>
+  <publicationText>Stiftung "Stonewall", in Basel, CHE-110.146.290, Stiftung (SHAB Nr. 70 vom 10.04.2019, Publ. 1004607581). Mit Verfügung vom 01.10.2019 hat die Aufsichtsbehörde ihre Verfügung vom 21.11.2013, mit welcher die Stiftung von der Pflicht zur Bezeichnung einer Revisionsstelle befreit worden ist, widerrufen. [bisher: Die Stiftung wurde mit Verfügung der Aufsichtsbehörde vom 21.11.2013 von der Pflicht befreit, eine Revisionsstelle zu bezeichnen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stiftung "Stonewall"</name>
+      <uid>CHE-110.146.290</uid>
+      <uidOrganisationId>110146290</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27070004095</code13>
+      <seat>Basel</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Dr. Stefan Grieder</addressLine1>
+        <street>St.Alban-Rheinweg</street>
+        <houseNumber>188</houseNumber>
+        <swissZipCode>4052</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Unterstützung von homosexuellen Personen und Gruppen sowie von Personen, Gruppen und Projekten, die sich mit Homosexuelle betreffende Fragen beschäftigen.</purpose>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stiftung "Stonewall"</name>
+      <uid>CHE-110.146.290</uid>
+      <uidOrganisationId>110146290</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27070004095</code13>
+      <seat>Basel</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Dr. Stefan Grieder</addressLine1>
+        <street>St.Alban-Rheinweg</street>
+        <houseNumber>188</houseNumber>
+        <swissZipCode>4052</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Unterstützung von homosexuellen Personen und Gruppen sowie von Personen, Gruppen und Projekten, die sich mit Homosexuelle betreffende Fragen beschäftigen.</purpose>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-10</lastFoscDate>
+    <lastFoscNumber>70</lastFoscNumber>
+    <lastFoscSequence>1004607581</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

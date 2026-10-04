@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>53e4f817-288d-4dda-9c89-5fbf5c934066</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004758719</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Morganti Finance SA, Pully, neu Morganti Finance SA en liquidation</de>
+    <en>Change Morganti Finance SA, Pully, new Morganti Finance SA en liquidation</en>
+    <it>Cambiamenti Morganti Finance SA, Pully, nuovo Morganti Finance SA en liquidation</it>
+    <fr>Mutation Morganti Finance SA, Pully, nouveau Morganti Finance SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20189</journalNumber>
+  <journalDate>2019-11-08</journalDate>
+  <publicationText>Morganti Finance SA, à Pully, CHE-115.026.813 (FOSC du 13.08.2014, p. 0/1661243). Selon décision de son assemblée générale du 4 novembre 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Morganti Finance SA en liquidation. Les 100 actions nominatives de CHF 1'000 ne sont plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO). Morganti Laura, administratrice présidente, est nommée liquidatrice avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Morganti Finance SA en liquidation</name>
+      <uid>CHE-115.026.813</uid>
+      <uidOrganisationId>115026813</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010593513</code13>
+      <seat>Pully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Caudoz</street>
+        <houseNumber>50 B</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>gestion de patrimoines et administration de sociétés.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>BfB Fidam révision SA</name>
+        <country>CH</country>
+        <uid>CHE106054851</uid>
+        <uidOrganisationId>106054851</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Morganti Finance SA</name>
+      <uid>CHE-115.026.813</uid>
+      <uidOrganisationId>115026813</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010593513</code13>
+      <seat>Pully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Caudoz</street>
+        <houseNumber>50 B</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>gestion de patrimoines et administration de sociétés.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>BfB Fidam révision SA</name>
+        <country>CH</country>
+        <uid>CHE106054851</uid>
+        <uidOrganisationId>106054851</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-08-13</lastFoscDate>
+    <lastFoscNumber>154</lastFoscNumber>
+    <lastFoscSequence>1661243</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

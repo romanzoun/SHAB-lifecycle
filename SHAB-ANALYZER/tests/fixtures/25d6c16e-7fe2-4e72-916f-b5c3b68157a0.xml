@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>25c6c92e-5272-4f84-9050-0c6fa9543351</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004674981</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation CAVALCADE Sàrl, Genève</de>
+    <en>Change CAVALCADE Sàrl, Genève</en>
+    <it>Cambiamenti CAVALCADE Sàrl, Genève</it>
+    <fr>Mutation CAVALCADE Sàrl, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13081</journalNumber>
+  <journalDate>2019-07-09</journalDate>
+  <publicationText>CAVALCADE Sàrl, à Genève, CHE-255.770.396 (FOSC du 21.09.2016, p. 0/3066755). De Preux Julien et von Ritter-Zahony David Alexandre ont chacun cédé 35 parts de CHF 100 à Hugentobler Nina, d'Uzwil, à Yverdon-les-Bains, nouvelle associée pour 70 parts de CHF 100, nommée en outre gérante Nina avec signature collective à deux; par conséquent, De Preux Julien et von Ritter-Zahony David Alexandre sont maintenant chacun associé pour 70 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CAVALCADE Sàrl</name>
+      <uid>CHE255770396</uid>
+      <uidOrganisationId>255770396</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66013720168</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Bains</street>
+        <houseNumber>63</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une agence créative (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>21000.00</nominal>
+      <paid>21000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CAVALCADE Sàrl</name>
+      <uid>CHE255770396</uid>
+      <uidOrganisationId>255770396</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66013720168</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Bains</street>
+        <houseNumber>63</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une agence créative (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>21000.00</nominal>
+      <paid>21000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-09-21</lastFoscDate>
+    <lastFoscSequence>3066755</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

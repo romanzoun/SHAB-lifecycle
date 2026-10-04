@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>e133b6ed-b9ed-4178-a123-2474f79f3cc0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004649724</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation COUNTRY MUSIC CLUB OF SWITZERLAND (CMC) in Liquidation, bisher COUNTRY MUSIC CLUB OF SWITZERLAND (CMC), Uitikon</de>
+    <en>Change COUNTRY MUSIC CLUB OF SWITZERLAND (CMC) in Liquidation, to date COUNTRY MUSIC CLUB OF SWITZERLAND (CMC), Uitikon</en>
+    <it>Cambiamenti COUNTRY MUSIC CLUB OF SWITZERLAND (CMC) in Liquidation, prima COUNTRY MUSIC CLUB OF SWITZERLAND (CMC), Uitikon</it>
+    <fr>Mutation COUNTRY MUSIC CLUB OF SWITZERLAND (CMC) in Liquidation, Uitikon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22129</journalNumber>
+  <journalDate>2019-06-07</journalDate>
+  <publicationText>COUNTRY MUSIC CLUB OF SWITZERLAND (CMC), in Uitikon, CHE-102.525.685, Verein (SHAB Nr. 80 vom 26.04.2019, Publ. 1004617569). Name neu: COUNTRY MUSIC CLUB OF SWITZERLAND (CMC) in Liquidation. Eintragung von Amtes wegen. Der Verein ist gemäss Art. 77 ZGB von Gesetztes wegen aufgelöst, weil der Vorstand nicht mehr statutengemäss bestellt werden kann.</publicationText>
+  <commonsNew>
+    <company>
+      <name>COUNTRY MUSIC CLUB OF SWITZERLAND (CMC) in Liquidation</name>
+      <uid>CHE102525685</uid>
+      <uidOrganisationId>102525685</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02069000968</code13>
+      <seat>Uitikon</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Der Verein will die Country- und Western-Musik fördern und verbreiten, veranstaltet regelmässig Clubanlässe, pflegt Kontakte zu anderen Clubs und Vereinen mit ähnlichen Interessen, unterstützt den Country- und Western Dance. Der Verein kann hierzu Mitglied einer Dachorganisation oder einer anderen im Interesse des CMC stehenden Organisation sein. Der CMC ist politisch und konfessionell neutral.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>COUNTRY MUSIC CLUB OF SWITZERLAND (CMC)</name>
+      <uid>CHE102525685</uid>
+      <uidOrganisationId>102525685</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02069000968</code13>
+      <seat>Uitikon</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Der Verein will die Country- und Western-Musik fördern und verbreiten, veranstaltet regelmässig Clubanlässe, pflegt Kontakte zu anderen Clubs und Vereinen mit ähnlichen Interessen, unterstützt den Country- und Western Dance. Der Verein kann hierzu Mitglied einer Dachorganisation oder einer anderen im Interesse des CMC stehenden Organisation sein. Der CMC ist politisch und konfessionell neutral.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-26</lastFoscDate>
+    <lastFoscNumber>80</lastFoscNumber>
+    <lastFoscSequence>1004617569</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>ca8e8a23-6c46-45ed-b22f-37ac5f0ad420</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004688977</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Actif!, Vallorbe</de>
+    <en>Change Fondation Actif!, Vallorbe</en>
+    <it>Cambiamenti Fondation Actif!, Vallorbe</it>
+    <fr>Mutation Fondation Actif!, Vallorbe</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13723</journalNumber>
+  <journalDate>2019-07-29</journalDate>
+  <publicationText>Fondation Actif!, à Vallorbe, CHE-138.142.123 (FOSC du 13.02.2019, p. 0/1004565811). Nouveaux membres du conseil de fondation avec signature collective à deux avec le président: Joseph Sonia, de et à Sainte-Croix, et Martin Valéry, de et à Froideville.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Actif!</name>
+      <uid>CHE138142123</uid>
+      <uidOrganisationId>138142123</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011634988</code13>
+      <seat>Vallorbe</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o vo énergies holding SA</addressLine1>
+        <street>Grand-Rue</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1337</swissZipCode>
+        <town>Vallorbe</town>
+      </address>
+    </company>
+    <purpose>la fondation a pour but le soutien financier d'initiatives locales, publiques ou privées, en lien avec les énergies renouvelables et l'efficience énergétique dans les parties du canton de Vaud où le groupe vo énergies exerce ses activités.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Actif!</name>
+      <uid>CHE138142123</uid>
+      <uidOrganisationId>138142123</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011634988</code13>
+      <seat>Vallorbe</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o vo énergies holding SA</addressLine1>
+        <street>Grand-Rue</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1337</swissZipCode>
+        <town>Vallorbe</town>
+      </address>
+    </company>
+    <purpose>la fondation a pour but le soutien financier d'initiatives locales, publiques ou privées, en lien avec les énergies renouvelables et l'efficience énergétique dans les parties du canton de Vaud où le groupe vo énergies exerce ses activités.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-13</lastFoscDate>
+    <lastFoscSequence>1004565811</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

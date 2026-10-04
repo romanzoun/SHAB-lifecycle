@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>06939586-0b84-413a-abbb-5f8b96f224f8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004454668</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation etavita-nova GmbH in Liquidation, Rothenburg</de>
+    <en>Change etavita-nova GmbH in Liquidation, Rothenburg</en>
+    <it>Cambiamenti etavita-nova GmbH in Liquidation, Rothenburg</it>
+    <fr>Mutation etavita-nova GmbH in Liquidation, Rothenburg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7298</journalNumber>
+  <journalDate>2018-09-10</journalDate>
+  <publicationText>etavita-nova GmbH in Liquidation, in Rothenburg, CHE-114.120.680, Gesellschaft mit beschränkter Haftung (SHAB Nr. 249 vom 23.12.2015, Publ. 2559729). Die Liquidation ist durchgeführt. [Sobald die Zustimmungen der Steuerverwaltungen vorliegen, wird die Firma gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>etavita-nova GmbH in Liquidation</name>
+      <uid>CHE114120680</uid>
+      <uidOrganisationId>114120680</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10047887075</code13>
+      <seat>Rothenburg</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schützenweidstrasse</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>6023</swissZipCode>
+        <town>Rothenburg</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Bereich Gastronomie und anverwandten Gebieten, insbesondere Führung von Gast- und Dienstleistungsbetrieben sowie allen damit in Verbindung stehenden Grenzbereichen; Beteiligungen; Erwerb, Verwaltung und Verwertung von Grundstücken.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>etavita-nova GmbH in Liquidation</name>
+      <uid>CHE114120680</uid>
+      <uidOrganisationId>114120680</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10047887075</code13>
+      <seat>Rothenburg</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schützenweidstrasse</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>6023</swissZipCode>
+        <town>Rothenburg</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Bereich Gastronomie und anverwandten Gebieten, insbesondere Führung von Gast- und Dienstleistungsbetrieben sowie allen damit in Verbindung stehenden Grenzbereichen; Beteiligungen; Erwerb, Verwaltung und Verwertung von Grundstücken.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-12-23</lastFoscDate>
+    <lastFoscNumber>249</lastFoscNumber>
+    <lastFoscSequence>2559729</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

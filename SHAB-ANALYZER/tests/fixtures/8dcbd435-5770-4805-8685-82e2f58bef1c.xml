@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>8db83a43-4d9a-42c1-bdaf-30e37354f920</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004633640</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SO</cantons>
+  <title>
+    <de>Mutation Stiftung Schauenburg in Liquidation, Selzach</de>
+    <en>Change Stiftung Schauenburg in Liquidation, Selzach</en>
+    <it>Cambiamenti Stiftung Schauenburg in Liquidation, Selzach</it>
+    <fr>Mutation Stiftung Schauenburg in Liquidation, Selzach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2318</journalNumber>
+  <journalDate>2019-05-15</journalDate>
+  <publicationText>Nachtrag des im SHAB Nr. 37 vom 22.02.2019, Publ. 1'004'572'847, publizierten TR-Eintrags Nr. 918 vom 19.02.2019 Stiftung Schauenburg in Liquidation, in Selzach, CHE-110.386.902, Stiftung (SHAB Nr. 37 vom 22.02.2019, Publ. 1004572847). Die Stiftung ist gemäss Regierungsratsbeschluss vom 22.01.2019 aufgehoben.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stiftung Schauenburg in Liquidation</name>
+      <uid>CHE110386902</uid>
+      <uidOrganisationId>110386902</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH25570001056</code13>
+      <seat>Selzach</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>bei Roland Flury</addressLine1>
+        <street>Forstweg</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>2545</swissZipCode>
+        <town>Selzach</town>
+      </address>
+    </company>
+    <purpose>Stiftung z.G. der nach Herkommen berechtigten Mitglieder der Schauenburgberggemeinde.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stiftung Schauenburg in Liquidation</name>
+      <uid>CHE110386902</uid>
+      <uidOrganisationId>110386902</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH25570001056</code13>
+      <seat>Selzach</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>bei Roland Flury</addressLine1>
+        <street>Forstweg</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>2545</swissZipCode>
+        <town>Selzach</town>
+      </address>
+    </company>
+    <purpose>Stiftung z.G. der nach Herkommen berechtigten Mitglieder der Schauenburgberggemeinde.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-22</lastFoscDate>
+    <lastFoscNumber>37</lastFoscNumber>
+    <lastFoscSequence>1004572847</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Solothurn</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

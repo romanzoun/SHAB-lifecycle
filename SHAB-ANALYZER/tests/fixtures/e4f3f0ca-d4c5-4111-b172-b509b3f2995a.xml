@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>e4d5d327-f15d-446d-adee-e3681f7f957f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004656919</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation senseLAN GmbH, Düdingen</de>
+    <en>Change senseLAN GmbH, Düdingen</en>
+    <it>Cambiamenti senseLAN GmbH, Düdingen</it>
+    <fr>Mutation senseLAN GmbH, Düdingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3435</journalNumber>
+  <journalDate>2019-06-18</journalDate>
+  <publicationText>senseLAN GmbH, in Düdingen, CHE-109.366.100 (SHAB vom 21.07.2016, s. 0/2966183). Vollständige Adresse: Duensstrasse 1, 3186 Düdingen. Die Erklärung vom 26.03.2009 über den Verzicht auf die eingeschränkte Revision ist gelöscht worden. Neue Revisionsstelle: CORE Revision AG (CHE-230.955.198), in Düdingen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>senseLAN GmbH</name>
+      <translations>[fr] senseLAN Sàrl</translations>
+      <uid>CHE109366100</uid>
+      <uidOrganisationId>109366100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706411649</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Duensstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Informatik- und Internetbereich.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>CORE Revision AG</name>
+        <country>CH</country>
+        <uid>CHE230955198</uid>
+        <uidOrganisationId>230955198</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>senseLAN GmbH</name>
+      <translations>[fr] senseLAN Sàrl</translations>
+      <uid>CHE109366100</uid>
+      <uidOrganisationId>109366100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706411649</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Duensstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Informatik- und Internetbereich.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-07-21</lastFoscDate>
+    <lastFoscSequence>2966183</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

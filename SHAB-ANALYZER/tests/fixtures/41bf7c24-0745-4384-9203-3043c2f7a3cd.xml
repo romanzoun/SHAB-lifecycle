@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>418922f3-a402-443b-b446-664b8ed2efe4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004732176</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation El Rifai Automobile GmbH, Rümlang</de>
+    <en>Change El Rifai Automobile GmbH, Rümlang</en>
+    <it>Cambiamenti El Rifai Automobile GmbH, Rümlang</it>
+    <fr>Mutation El Rifai Automobile GmbH, Rümlang</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>38429</journalNumber>
+  <journalDate>2019-10-03</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 191 vom 03.10.2019 publizierten TR-Eintrags Nr. 37793 vom 30.09.2019 El Rifai Automobile GmbH, in Rümlang, CHE-413.581.181, Gesellschaft mit beschränkter Haftung (SHAB Nr. 191 vom 03.10.2019, Publ. 1004728973). Im SHAB Nr. 191 vom 03.10.2019 publizierten TR-Eintrag 37793 wurde irrtümlich [bisher: unbekannte Staatsangehörigkeit] publiziert. Korrekt ist [bisher: palästinensischer Staatsangehöriger].</publicationText>
+  <commonsNew>
+    <company>
+      <name>El Rifai Automobile GmbH</name>
+      <uid>CHE-413.581.181</uid>
+      <uidOrganisationId>413581181</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02040548613</code13>
+      <seat>Rümlang</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Riedgrabenstrasse</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>8153</swissZipCode>
+        <town>Rümlang</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt Handel mit Autos, Reparaturen, Lackier- und Karosseriearbeiten und Finishing von Fahrzeugen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>El Rifai Automobile GmbH</name>
+      <uid>CHE-413.581.181</uid>
+      <uidOrganisationId>413581181</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02040548613</code13>
+      <seat>Rümlang</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Riedgrabenstrasse</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>8153</swissZipCode>
+        <town>Rümlang</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt Handel mit Autos, Reparaturen, Lackier- und Karosseriearbeiten und Finishing von Fahrzeugen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-03</lastFoscDate>
+    <lastFoscNumber>191</lastFoscNumber>
+    <lastFoscSequence>1004728973</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

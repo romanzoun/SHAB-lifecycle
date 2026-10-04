@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>a7c40fd2-d60c-4fc2-9988-81d82e032a5c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004553618</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Rayform SA, Renens (VD)</de>
+    <en>Change Rayform SA, Renens (VD)</en>
+    <it>Cambiamenti Rayform SA, Renens (VD)</it>
+    <fr>Mutation Rayform SA, Renens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1629</journalNumber>
+  <journalDate>2019-01-24</journalDate>
+  <publicationText>Rayform SA, à Renens (VD), CHE-224.892.715 (FOSC du 18.01.2019, p. 0/1004545737). Rectificatif: l'inscription n° 970 du 15.01.2019 (FOSC du 18.01.2019, p. 0/1004545737) est rectifiée en ce sens que le capital-actions est composé de 12'963'000 actions nominatives de CHF 0.01, avec restrictions quant à la transmissibilité selon statuts (et non de CHF 1 comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Rayform SA</name>
+      <translations>[de] Rayform AG [en] Rayform Ltd</translations>
+      <uid>CHE224892715</uid>
+      <uidOrganisationId>224892715</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011650890</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Closel</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens (VD)</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: la recherche, le développement, la fabrication, la promotion, la prestation de services et la commercialisation de produits dont la forme permet de créer des images lumineuses par réflexion ou réfraction de lumière (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>129630.00</nominal>
+      <paid>79630.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Rayform SA</name>
+      <translations>[de] Rayform AG [en] Rayform Ltd</translations>
+      <uid>CHE224892715</uid>
+      <uidOrganisationId>224892715</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011650890</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Closel</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens (VD)</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: la recherche, le développement, la fabrication, la promotion, la prestation de services et la commercialisation de produits dont la forme permet de créer des images lumineuses par réflexion ou réfraction de lumière (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>129630.00</nominal>
+      <paid>79630.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-18</lastFoscDate>
+    <lastFoscSequence>1004545737</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

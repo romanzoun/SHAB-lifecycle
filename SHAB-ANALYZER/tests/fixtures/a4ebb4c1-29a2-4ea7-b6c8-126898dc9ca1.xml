@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>a4749468-0dc3-48cd-9f6e-1dd9e692c425</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004603568</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation TecnoWeld S.à r.l. en liquidation, bisher TecnoWeld S.à r.l., Lonay</de>
+    <en>Change TecnoWeld S.à r.l. en liquidation, to date TecnoWeld S.à r.l., Lonay</en>
+    <it>Cambiamenti TecnoWeld S.à r.l. en liquidation, prima TecnoWeld S.à r.l., Lonay</it>
+    <fr>Mutation TecnoWeld S.à r.l. en liquidation, Lonay</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6190</journalNumber>
+  <journalDate>2019-04-01</journalDate>
+  <publicationText>TecnoWeld S.à r.l., à Lonay, CHE-100.330.277 (FOSC du 19.12.2013, p. 0/7225834). Selon décision de son assemblée des associés du 27 mars 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: TecnoWeld S.à r.l. en liquidation. Dubois Corinne, qui est maintenant de Monthey, à La Rippe, est nommée liquidatrice avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>TecnoWeld S.à r.l. en liquidation</name>
+      <uid>CHE100330277</uid>
+      <uidOrganisationId>100330277</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001697962</code13>
+      <seat>Lonay</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Denges</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1027</swissZipCode>
+        <town>Lonay</town>
+      </address>
+    </company>
+    <purpose>commerce et fabrication de produits pour la soudure, l'entretien et la réparation.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TecnoWeld S.à r.l.</name>
+      <uid>CHE100330277</uid>
+      <uidOrganisationId>100330277</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001697962</code13>
+      <seat>Lonay</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Denges</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1027</swissZipCode>
+        <town>Lonay</town>
+      </address>
+    </company>
+    <purpose>commerce et fabrication de produits pour la soudure, l'entretien et la réparation.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

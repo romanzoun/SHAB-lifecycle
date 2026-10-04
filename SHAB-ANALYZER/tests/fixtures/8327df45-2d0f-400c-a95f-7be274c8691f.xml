@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>82c20fdc-603d-4aab-9df0-ce8bfeffa3a3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004546624</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Cellere Bau AG, St. Gallen</de>
+    <en>Change Cellere Bau AG, St. Gallen</en>
+    <it>Cambiamenti Cellere Bau AG, St. Gallen</it>
+    <fr>Mutation Cellere Bau AG, St. Gallen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>473</journalNumber>
+  <journalDate>2019-01-16</journalDate>
+  <publicationText>Cellere Bau AG, in St. Gallen, CHE-105.884.175, Aktiengesellschaft (SHAB Nr. 201 vom 17.10.2018, Publ. 1004478553). Zweigniederlassung neu: Birr (CHE-345.159.199) . Schattdorf (CHE-395-384.120).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cellere Bau AG</name>
+      <uid>CHE105884175</uid>
+      <uidOrganisationId>105884175</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030024435</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hodlerstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>9008</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Ausführung von Bauarbeiten, insbesondere von Strassen- und Tiefbauarbeiten aller Art. Die Gesellschaft kann Liegenschaften erwerben, im In- und Ausland Zweigniederlassungen errichten sowie Unternehmen jeglicher Art gründen, übernehmen oder sich an solchen beteiligen.</purpose>
+    <capital>
+      <nominal>9000000.00</nominal>
+      <paid>9000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cellere Bau AG</name>
+      <uid>CHE105884175</uid>
+      <uidOrganisationId>105884175</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030024435</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hodlerstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>9008</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Ausführung von Bauarbeiten, insbesondere von Strassen- und Tiefbauarbeiten aller Art. Die Gesellschaft kann Liegenschaften erwerben, im In- und Ausland Zweigniederlassungen errichten sowie Unternehmen jeglicher Art gründen, übernehmen oder sich an solchen beteiligen.</purpose>
+    <capital>
+      <nominal>9000000.00</nominal>
+      <paid>9000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-17</lastFoscDate>
+    <lastFoscNumber>201</lastFoscNumber>
+    <lastFoscSequence>1004478553</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

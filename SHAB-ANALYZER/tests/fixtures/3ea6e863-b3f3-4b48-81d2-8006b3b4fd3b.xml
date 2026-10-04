@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3e35b412-403a-4ad4-a013-f82e6f8ac1f0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004570695</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>NW</cantons>
+  <title>
+    <de>Mutation Helmadis AG, Stansstad</de>
+    <en>Change Helmadis AG, Stansstad</en>
+    <it>Cambiamenti Helmadis AG, Stansstad</it>
+    <fr>Mutation Helmadis AG, Stansstad</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>223</journalNumber>
+  <journalDate>2019-02-15</journalDate>
+  <publicationText>Helmadis AG, in Stansstad, CHE-445.929.905, Aktiengesellschaft (SHAB Nr. 252 vom 31.12.2018, Publ. 1004532915). Statutenänderung: 13.02.2019. [bisher: Die Gesellschaft hat mit Beschluss vom 17.01.2018 die anlässlich der Generalversammlung vom 15.06.2017 eingeführte genehmigte Kapitalerhöhung gemäss näherer Umschreibung in den Statuten geändert.].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Helmadis AG</name>
+      <uid>CHE445929905</uid>
+      <uidOrganisationId>445929905</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH15030036753</code13>
+      <seat>Stansstad</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rotzbergstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6362</swissZipCode>
+        <town>Stansstad</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt das Halten von Beteiligungen.</purpose>
+    <capital>
+      <nominal>571000.00</nominal>
+      <paid>571000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Helmadis AG</name>
+      <uid>CHE445929905</uid>
+      <uidOrganisationId>445929905</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH15030036753</code13>
+      <seat>Stansstad</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rotzbergstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6362</swissZipCode>
+        <town>Stansstad</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt das Halten von Beteiligungen.</purpose>
+    <capital>
+      <nominal>571000.00</nominal>
+      <paid>571000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-31</lastFoscDate>
+    <lastFoscNumber>252</lastFoscNumber>
+    <lastFoscSequence>1004532915</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Nidwalden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

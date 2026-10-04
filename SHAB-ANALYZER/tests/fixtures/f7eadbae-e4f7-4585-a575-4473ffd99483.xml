@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>f7e6d15a-00fc-48b2-aca7-591ccf4739ca</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005179146</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation ALLEZA SA, Estavayer</de>
+    <en>Change ALLEZA SA, Estavayer</en>
+    <it>Cambiamenti ALLEZA SA, Estavayer</it>
+    <fr>Mutation ALLEZA SA, Estavayer</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3482</journalNumber>
+  <journalDate>2021-05-07</journalDate>
+  <publicationText>ALLEZA SA, à Estavayer, CHE-114.776.633 (FOSC du 23.04.2020, p. 0/1004875898). Le 1er mai 2021, les actions au porteur ont été converties de par la loi en actions nominatives. Les statuts de la société n'ont pas encore été adaptés à la conversion, mais devront l'être lors de la prochaine. Capital-actions: CHF 100'000, entièrement libéré, divisé en 100 actions de CHF 1'000, nominatives (jusqu'ici: 100 actions de CHF 1'000, au porteur).</publicationText>
+  <commonsNew>
+    <company>
+      <name>ALLEZA SA</name>
+      <uid>CHE-114.776.633</uid>
+      <uidOrganisationId>114776633</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030126037</code13>
+      <seat>Estavayer</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o ABH Fiduciaire Sàrl</addressLine1>
+        <street>Route de la Condémine</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>1475</swissZipCode>
+        <town>Forel FR</town>
+      </address>
+    </company>
+    <purpose>consulting, conseils, gestion, acquisition et vente de participations, ingénierie financière, commerciale et immobilière, acquisition, vente et gestion de biens mobiliers et immobiliers, mise en place de services y relatifs, ainsi que l'achat et la vente de marques, licences, modèles et patentes. Toutes activités en relation avec les domaines mentionnés auprès des sociétés et entreprises nationales et internationales (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ALLEZA SA</name>
+      <uid>CHE-114.776.633</uid>
+      <uidOrganisationId>114776633</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030126037</code13>
+      <seat>Estavayer</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o ABH Fiduciaire Sàrl</addressLine1>
+        <street>Route de la Condémine</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>1475</swissZipCode>
+        <town>Forel FR</town>
+      </address>
+    </company>
+    <purpose>consulting, conseils, gestion, acquisition et vente de participations, ingénierie financière, commerciale et immobilière, acquisition, vente et gestion de biens mobiliers et immobiliers, mise en place de services y relatifs, ainsi que l'achat et la vente de marques, licences, modèles et patentes. Toutes activités en relation avec les domaines mentionnés auprès des sociétés et entreprises nationales et internationales (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-23</lastFoscDate>
+    <lastFoscNumber>78</lastFoscNumber>
+    <lastFoscSequence>1004875898</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

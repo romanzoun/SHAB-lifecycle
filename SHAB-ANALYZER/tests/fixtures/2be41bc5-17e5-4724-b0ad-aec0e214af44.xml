@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>2b640b01-eed4-4d84-8b53-ba2c821c0a9a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004464432</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Primplants S.A., Lonay</de>
+    <en>Change Primplants S.A., Lonay</en>
+    <it>Cambiamenti Primplants S.A., Lonay</it>
+    <fr>Mutation Primplants S.A., Lonay</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16914</journalNumber>
+  <journalDate>2018-09-24</journalDate>
+  <publicationText>Primplants S.A., à Lonay, CHE-103.877.141 (FOSC du 27.06.2018, p. 0/4318473). Statuts modifiés le 13 septembre 2018. Communications aux actionnaires: par lettre ou courriel. Selon déclaration du 13 septembre 2018, la société n'est pas soumise à une révision ordinaire et renonce à une révision restreinte.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Primplants S.A.</name>
+      <uid>CHE103877141</uid>
+      <uidOrganisationId>103877141</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000785965</code13>
+      <seat>Lonay</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Denges 21-23</street>
+        <swissZipCode>1027</swissZipCode>
+        <town>Lonay</town>
+      </address>
+    </company>
+    <purpose>production, achat, vente et distribution de plants ainsi que de tous produits agricoles; toutes opérations mobilières, immobilières et financières.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Primplants S.A.</name>
+      <uid>CHE103877141</uid>
+      <uidOrganisationId>103877141</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000785965</code13>
+      <seat>Lonay</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Denges 21-23</street>
+        <swissZipCode>1027</swissZipCode>
+        <town>Lonay</town>
+      </address>
+    </company>
+    <purpose>production, achat, vente et distribution de plants ainsi que de tous produits agricoles; toutes opérations mobilières, immobilières et financières.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-27</lastFoscDate>
+    <lastFoscSequence>4318473</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

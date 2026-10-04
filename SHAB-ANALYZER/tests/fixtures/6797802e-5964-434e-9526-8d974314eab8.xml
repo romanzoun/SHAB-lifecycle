@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>6787c781-c4a3-4e5f-85bc-a47b46ea346c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004517584</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Batmatechsa Sàrl, Belfaux</de>
+    <en>Change Batmatechsa Sàrl, Belfaux</en>
+    <it>Cambiamenti Batmatechsa Sàrl, Belfaux</it>
+    <fr>Mutation Batmatechsa Sàrl, Belfaux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6415</journalNumber>
+  <journalDate>2018-12-06</journalDate>
+  <publicationText>Batmatechsa Sàrl, à Belfaux, CHE-320.827.406 (FOSC du 28.11.2018, p. 0/1004507725). Rectification: l'inscription n° 6175 du 23.11.2018 (FOSC du 28.11.2018, Id 1004507725) est rectifiée dans ce sens que le nom correct est Salah Lotfi (et non pas Salha Lofti).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Batmatechsa Sàrl</name>
+      <uid>CHE320827406</uid>
+      <uidOrganisationId>320827406</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735628429</code13>
+      <seat>Belfaux</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Rosière</street>
+        <houseNumber>73</houseNumber>
+        <swissZipCode>1782</swissZipCode>
+        <town>Belfaux</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise générale de construction (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Batmatechsa Sàrl</name>
+      <uid>CHE320827406</uid>
+      <uidOrganisationId>320827406</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735628429</code13>
+      <seat>Belfaux</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Rosière</street>
+        <houseNumber>73</houseNumber>
+        <swissZipCode>1782</swissZipCode>
+        <town>Belfaux</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise générale de construction (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-28</lastFoscDate>
+    <lastFoscSequence>1004507725</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

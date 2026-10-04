@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>00747e07-5dbb-4f4b-9a16-84a7375081ba</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004625447</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation SAMA Immobilien AG, Lausen</de>
+    <en>Change SAMA Immobilien AG, Lausen</en>
+    <it>Cambiamenti SAMA Immobilien AG, Lausen</it>
+    <fr>Mutation SAMA Immobilien AG, Lausen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2231</journalNumber>
+  <journalDate>2019-05-03</journalDate>
+  <publicationText>SAMA Immobilien AG, in Lausen, CHE-114.716.252, Aktiengesellschaft (SHAB Nr. 78 vom 24.04.2019, Publ. 1004616057). Mit Verfügung des Friedensrichteramtes Liestal-Lausen vom 26.04.2019 werden die Beschlüsse der Generalversammlung vom 11.10.2018 über die Wahl von Sophie Straumann und Daniel Hofmann als Verwaltungsratsmitglieder für nichtig erklärt. Da die Gesellschaft bereits selber Veränderungen angemeldet hatte, führt die Verfügung zu keinen neuen Einträgen oder Streichungen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SAMA Immobilien AG</name>
+      <uid>CHE114716252</uid>
+      <uidOrganisationId>114716252</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030125189</code13>
+      <seat>Lausen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>4415</swissZipCode>
+        <town>Lausen</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Management- und Beratungsdienstleistungen im Baubereich sowie Bau, Erwerb, Verwaltung und Veräusserung von Liegenschaften aller Art im In- und Ausland. Die Gesellschaft kann sich an anderen Unternehmen beteiligen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SAMA Immobilien AG</name>
+      <uid>CHE114716252</uid>
+      <uidOrganisationId>114716252</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030125189</code13>
+      <seat>Lausen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>4415</swissZipCode>
+        <town>Lausen</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Management- und Beratungsdienstleistungen im Baubereich sowie Bau, Erwerb, Verwaltung und Veräusserung von Liegenschaften aller Art im In- und Ausland. Die Gesellschaft kann sich an anderen Unternehmen beteiligen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-24</lastFoscDate>
+    <lastFoscNumber>78</lastFoscNumber>
+    <lastFoscSequence>1004616057</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

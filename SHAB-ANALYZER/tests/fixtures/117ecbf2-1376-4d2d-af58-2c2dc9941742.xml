@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>115f5068-37a8-49f5-aa3f-f8abcb49b543</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004511157</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation F. et J. Vuille Sàrl, Boudry</de>
+    <en>Change F. et J. Vuille Sàrl, Boudry</en>
+    <it>Cambiamenti F. et J. Vuille Sàrl, Boudry</it>
+    <fr>Mutation F. et J. Vuille Sàrl, Boudry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4470</journalNumber>
+  <journalDate>2018-11-28</journalDate>
+  <publicationText>F. et J. Vuille Sàrl, à Boudry, CHE-114.584.128 (FOSC du 20.12.2016, p. 0/3234887). L'associé Vuille Fred Willy a cédé 1 de ses 8 parts sociales de CHF 1'000 à l'associé Vuille John Fredy, lequel devient ainsi titulaire de 13 parts sociales de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>F. et J. Vuille Sàrl</name>
+      <uid>CHE114584128</uid>
+      <uidOrganisationId>114584128</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541032589</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>faubourg Philippe-Suchard</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>2017</swissZipCode>
+        <town>Boudry</town>
+      </address>
+    </company>
+    <purpose>exécution de travaux de ferblanterie et ses dérivés.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>F. et J. Vuille Sàrl</name>
+      <uid>CHE114584128</uid>
+      <uidOrganisationId>114584128</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541032589</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>faubourg Philippe-Suchard</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>2017</swissZipCode>
+        <town>Boudry</town>
+      </address>
+    </company>
+    <purpose>exécution de travaux de ferblanterie et ses dérivés.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-12-20</lastFoscDate>
+    <lastFoscSequence>3234887</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

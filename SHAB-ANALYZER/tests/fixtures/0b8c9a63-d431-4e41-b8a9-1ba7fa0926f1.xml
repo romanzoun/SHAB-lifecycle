@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0b894e57-8fdc-4f73-8251-ab4fb0d72e5e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004506853</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation WOOD-art Floristik Regula Eugster, Gaiserwald</de>
+    <en>Change WOOD-art Floristik Regula Eugster, Gaiserwald</en>
+    <it>Cambiamenti WOOD-art Floristik Regula Eugster, Gaiserwald</it>
+    <fr>Mutation WOOD-art Floristik Regula Eugster, Gaiserwald</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10601</journalNumber>
+  <journalDate>2018-11-22</journalDate>
+  <publicationText>WOOD-art Floristik Regula Eugster, in Gaiserwald, CHE-315.110.633, Einzelunternehmen (SHAB Nr. 221 vom 14.11.2018, Publ. 1004497593). Das Kantonsgericht St. Gallen hat der Beschwerde gegen die Verfügung des Konkursrichters des Kreisgerichts St. Gallen vom 06.11.2018 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen. [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Verfügung des Konkursrichters des Kreisgerichts St.Gallen vom 06.11.2018 mit Wirkung ab dem 06.11.2018, 09.00 Uhr der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>WOOD-art Floristik Regula Eugster</name>
+      <uid>CHE315110633</uid>
+      <uidOrganisationId>315110633</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32020782630</code13>
+      <seat>Gaiserwald</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>9030</swissZipCode>
+        <town>Abtwil SG</town>
+      </address>
+    </company>
+    <purpose>Führen eines Floristikgeschäfts, An- und Verkauf von Schnitt- und Topfpflanzen, Dekorationsartikel, Handel mit Waren aller Art, Grabpflege sowie Anbieten von Kursen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>WOOD-art Floristik Regula Eugster</name>
+      <uid>CHE315110633</uid>
+      <uidOrganisationId>315110633</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32020782630</code13>
+      <seat>Gaiserwald</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>9030</swissZipCode>
+        <town>Abtwil SG</town>
+      </address>
+    </company>
+    <purpose>Führen eines Floristikgeschäfts, An- und Verkauf von Schnitt- und Topfpflanzen, Dekorationsartikel, Handel mit Waren aller Art, Grabpflege sowie Anbieten von Kursen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-14</lastFoscDate>
+    <lastFoscNumber>221</lastFoscNumber>
+    <lastFoscSequence>1004497593</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

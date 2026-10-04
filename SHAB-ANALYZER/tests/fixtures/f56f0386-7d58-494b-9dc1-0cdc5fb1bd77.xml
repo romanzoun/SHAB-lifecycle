@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>f536eb77-a8a5-4c74-9a06-c08b085a458b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004473070</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Neuseren SA, Anières</de>
+    <en>Change Neuseren SA, Anières</en>
+    <it>Cambiamenti Neuseren SA, Anières</it>
+    <fr>Mutation Neuseren SA, Anières</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18122</journalNumber>
+  <journalDate>2018-10-04</journalDate>
+  <publicationText>Neuseren SA, à Anières, CHE-419.585.757 (FOSC du 28.09.2018, p. 0/1004465410). Administration: Dumont Patrick, nommé vice-président, et délégué, Phansalkar Rohit Kumar, des USA, à Las Vegas, NV, USA, président, et Walls John Russell Fotheringham, de Grande-Bretagne, à Londres, GB, lesquels signent individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Neuseren SA</name>
+      <uid>CHE419585757</uid>
+      <uidOrganisationId>419585757</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66029120187</code13>
+      <seat>Anières</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Patrick Dumont</addressLine1>
+        <street>chemin de Fleur-d'Eau</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1247</swissZipCode>
+        <town>Anières</town>
+      </address>
+    </company>
+    <purpose>en Suisse et à l'étranger, fournir des technologies de l'information, de la vérification, du marketing, des conseils en transactions commerciales et autres conseils en tout genre (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Neuseren SA</name>
+      <uid>CHE419585757</uid>
+      <uidOrganisationId>419585757</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66029120187</code13>
+      <seat>Anières</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Patrick Dumont</addressLine1>
+        <street>chemin de Fleur-d'Eau</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1247</swissZipCode>
+        <town>Anières</town>
+      </address>
+    </company>
+    <purpose>en Suisse et à l'étranger, fournir des technologies de l'information, de la vérification, du marketing, des conseils en transactions commerciales et autres conseils en tout genre (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-28</lastFoscDate>
+    <lastFoscSequence>1004465410</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

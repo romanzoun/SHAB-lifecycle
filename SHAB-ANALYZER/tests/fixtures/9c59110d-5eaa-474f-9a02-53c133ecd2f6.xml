@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>9c4d4dca-6c1d-447d-9df4-5b1d62e3053e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004563263</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Stiftung Hospiz St. Peter, Gurmels</de>
+    <en>Change Stiftung Hospiz St. Peter, Gurmels</en>
+    <it>Cambiamenti Stiftung Hospiz St. Peter, Gurmels</it>
+    <fr>Mutation Stiftung Hospiz St. Peter, Gurmels</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>819</journalNumber>
+  <journalDate>2019-02-06</journalDate>
+  <publicationText>Stiftung Hospiz St. Peter, in Gurmels, CHE-107.762.399 (SHAB vom 07.12.2018, s. 0/1004515164). BM Treuhand Murten AG (CH-217-0530776-9) ist nicht mehr Revisionsstelle. Neue Revisionsstelle: B&amp;P Burkhard &amp; Partner Treuhand GmbH (CHE-112.434.067 ), in Bern.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stiftung Hospiz St. Peter</name>
+      <uid>CHE107762399</uid>
+      <uidOrganisationId>107762399</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705700523</code13>
+      <seat>Gurmels</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>115</houseNumber>
+        <swissZipCode>3212</swissZipCode>
+        <town>Gurmels</town>
+      </address>
+    </company>
+    <purpose>Betagten und Invaliden, vorab aus den Gemeinden Gurmels und Kleinbösingen Obdach und Pflege zu gewähren. Sofern genügend Platz vorhanden ist, können auch Personen aus anderen Gemeinden aufgenommen werden. Die Stiftung verfolgt keinen kommerziellen oder gewinnorientierten Zweck.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>B&amp;P Burkhard &amp; Partner Treuhand GmbH</name>
+        <country>CH</country>
+        <uid>CHE112434067</uid>
+        <uidOrganisationId>112434067</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stiftung Hospiz St. Peter</name>
+      <uid>CHE107762399</uid>
+      <uidOrganisationId>107762399</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705700523</code13>
+      <seat>Gurmels</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>115</houseNumber>
+        <swissZipCode>3212</swissZipCode>
+        <town>Gurmels</town>
+      </address>
+    </company>
+    <purpose>Betagten und Invaliden, vorab aus den Gemeinden Gurmels und Kleinbösingen Obdach und Pflege zu gewähren. Sofern genügend Platz vorhanden ist, können auch Personen aus anderen Gemeinden aufgenommen werden. Die Stiftung verfolgt keinen kommerziellen oder gewinnorientierten Zweck.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>BM Treuhand Murten AG</name>
+        <country>CH</country>
+        <uid>CHE101074214</uid>
+        <uidOrganisationId>101074214</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-07</lastFoscDate>
+    <lastFoscSequence>1004515164</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

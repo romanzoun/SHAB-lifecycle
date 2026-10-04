@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>87487e32-3aa6-4292-9b10-2e97a4baa272</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004946768</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation ENMA Holding AG, St. Moritz</de>
+    <en>Change ENMA Holding AG, St. Moritz</en>
+    <it>Cambiamenti ENMA Holding AG, St. Moritz</it>
+    <fr>Mutation ENMA Holding AG, St. Moritz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3614</journalNumber>
+  <journalDate>2020-07-23</journalDate>
+  <publicationText>ENMA Holding AG, in St. Moritz, CHE-116.016.651, Aktiengesellschaft (SHAB Nr. 247 vom 20.12.2017, Publ. 3945105). Auf die durch das Handelsregisteramt gestützt auf Art. 155 HRegV veranlassten und im Schweiz. Handelsamtsblatt (SHAB) vom 02.06.2020, 03.06.2020 und 04.06.2020 publizierten Rechnungsrufe wurde kein Interesse an der Aufrechterhaltung der Eintragung geltend gemacht. Das amtliche Verfahren zur Löschung der Gesellschaft ist damit abgeschlossen, weil die Gesellschaft keine Geschäftstätigkeit mehr aufweist und keine verwertbaren Aktiven mehr hat. Die Gesellschaft kann mangels Zustimmung der eidg. Steuerverwaltung noch nicht gelöscht werden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ENMA Holding AG</name>
+      <uid>CHE-116.016.651</uid>
+      <uidOrganisationId>116016651</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130150970</code13>
+      <seat>St. Moritz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Grevas</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>7500</swissZipCode>
+        <town>St. Moritz</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Besitz, Verwaltung und Veräusserung von Beteiligungen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ENMA Holding AG</name>
+      <uid>CHE-116.016.651</uid>
+      <uidOrganisationId>116016651</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130150970</code13>
+      <seat>St. Moritz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Grevas</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>7500</swissZipCode>
+        <town>St. Moritz</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Besitz, Verwaltung und Veräusserung von Beteiligungen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-12-20</lastFoscDate>
+    <lastFoscNumber>247</lastFoscNumber>
+    <lastFoscSequence>3945105</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

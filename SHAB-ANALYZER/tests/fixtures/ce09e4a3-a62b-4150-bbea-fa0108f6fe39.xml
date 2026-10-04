@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ce066c28-a87a-465c-8c09-bf915c090075</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004466492</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation CM Hospitality SA, Sion</de>
+    <en>Change CM Hospitality SA, Sion</en>
+    <it>Cambiamenti CM Hospitality SA, Sion</it>
+    <fr>Mutation CM Hospitality SA, Sion</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2414</journalNumber>
+  <journalDate>2018-09-26</journalDate>
+  <publicationText>Rectification de l'inscription au registre journalier no 2'385 du 21.09.2018, publiée dans la FOSC no 186 du 26.09.2018 . CM Hospitality SA, à Sion, CHE-113.610.326, société anonyme (No. FOSC 186 du 26.09.2018, Publ. 1004463525). Par suite de transfert de siège à Le Mont-sur-Lausanne, la société a été inscrite au registre du commerce du canton de Vaud. En conséquence, elle est radiée d'office du registre du commerce du Valais central.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CM Hospitality SA</name>
+      <uid>CHE113610326</uid>
+      <uidOrganisationId>113610326</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010503749</code13>
+      <seat>Sion</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Fiduciaire Fidag SA, succursale de Sion</addressLine1>
+        <street>Chemin du Vieux-Canal</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>L'acquisition, la conception, le développement, la construction, la gestion, l'exploitation, la location et la vente d'hôtels et d'autres établissements à des fins de restauration ou d'hôtellerie (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CM Hospitality SA</name>
+      <uid>CHE113610326</uid>
+      <uidOrganisationId>113610326</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010503749</code13>
+      <seat>Sion</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Fiduciaire Fidag SA, succursale de Sion</addressLine1>
+        <street>Chemin du Vieux-Canal</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>L'acquisition, la conception, le développement, la construction, la gestion, l'exploitation, la location et la vente d'hôtels et d'autres établissements à des fins de restauration ou d'hôtellerie (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-26</lastFoscDate>
+    <lastFoscNumber>186</lastFoscNumber>
+    <lastFoscSequence>1004463525</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

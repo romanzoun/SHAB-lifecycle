@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>28839eda-b3e8-4a5e-8712-9143485ca089</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004810529</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Alpes Promotion société coopérative en liquidation, Ollon</de>
+    <en>Change Alpes Promotion société coopérative en liquidation, Ollon</en>
+    <it>Cambiamenti Alpes Promotion société coopérative en liquidation, Ollon</it>
+    <fr>Mutation Alpes Promotion société coopérative en liquidation, Ollon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1106</journalNumber>
+  <journalDate>2020-01-16</journalDate>
+  <publicationText>Alpes Promotion société coopérative en liquidation, à Ollon, CHE-101.814.460 (FOSC du 17.05.2019, p. 0/1004632994). La société est réinscrite au registre du commerce conformément à la décision du président du Tribunal de l'arrondissement de l'Est vaudois du 14 janvier 2020 [les faits inscrits relatifs au liquidateur et à l'adresse de liquidation demeurent valables.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Alpes Promotion société coopérative en liquidation</name>
+      <uid>CHE-101.814.460</uid>
+      <uidOrganisationId>101814460</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001709167</code13>
+      <seat>Ollon</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Villars Tourisme</addressLine1>
+        <street>case postale</street>
+        <houseNumber>100</houseNumber>
+        <swissZipCode>1884</swissZipCode>
+        <town>Villars-sur-Ollon</town>
+      </address>
+    </company>
+    <purpose>la société a pour but d'assurer la promotion des destinations touristiques de Villars, Gryon, Bex et Les Diablerets (pour but complet cf. statuts)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Alpes Promotion société coopérative en liquidation</name>
+      <uid>CHE-101.814.460</uid>
+      <uidOrganisationId>101814460</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001709167</code13>
+      <seat>Ollon</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Villars Tourisme</addressLine1>
+        <street>case postale</street>
+        <houseNumber>100</houseNumber>
+        <swissZipCode>1884</swissZipCode>
+        <town>Villars-sur-Ollon</town>
+      </address>
+    </company>
+    <purpose>la société a pour but d'assurer la promotion des destinations touristiques de Villars, Gryon, Bex et Les Diablerets (pour but complet cf. statuts)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-17</lastFoscDate>
+    <lastFoscNumber>95</lastFoscNumber>
+    <lastFoscSequence>1004632994</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

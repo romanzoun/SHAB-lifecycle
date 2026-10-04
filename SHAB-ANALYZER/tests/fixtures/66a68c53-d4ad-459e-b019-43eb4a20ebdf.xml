@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>665617e1-e2e0-4e12-ab21-38c1b876fea8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004713533</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Parquet Shmid - Eminaj, La Tène</de>
+    <en>Change Parquet Shmid - Eminaj, La Tène</en>
+    <it>Cambiamenti Parquet Shmid - Eminaj, La Tène</it>
+    <fr>Mutation Parquet Shmid - Eminaj, La Tène</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2835</journalNumber>
+  <journalDate>2019-09-05</journalDate>
+  <publicationText>Parquet Shmid - Eminaj, à La Tène, CHE-406.714.927 (FOSC du 28.08.2019, p. 0/1004704624). Par ordonnance du 02.09.2019 le Tribunal cantonal a suspendu l'exécution du jugement de faillite rendu le 19.08.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Parquet Shmid - Eminaj</name>
+      <uid>CHE-406.714.927</uid>
+      <uidOrganisationId>406714927</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541106249</code13>
+      <seat>La Tène</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Marin-Epagnier, rue de la Gare</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>2074</swissZipCode>
+        <town>Marin-Epagnier</town>
+      </address>
+    </company>
+    <purpose>pose de parquets, revêtement de sols, tapis, décoration d'intérieur.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Parquet Shmid - Eminaj</name>
+      <uid>CHE-406.714.927</uid>
+      <uidOrganisationId>406714927</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541106249</code13>
+      <seat>La Tène</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Marin-Epagnier, rue de la Gare</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>2074</swissZipCode>
+        <town>Marin-Epagnier</town>
+      </address>
+    </company>
+    <purpose>pose de parquets, revêtement de sols, tapis, décoration d'intérieur.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-28</lastFoscDate>
+    <lastFoscNumber>165</lastFoscNumber>
+    <lastFoscSequence>1004704624</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

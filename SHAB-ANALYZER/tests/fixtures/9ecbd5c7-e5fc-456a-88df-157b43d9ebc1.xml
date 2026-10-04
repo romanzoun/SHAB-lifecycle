@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>9e481d3b-e8ca-466e-9ff1-a04c67db83d7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004504549</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Kleintierpraxis Barboutzet, Barbara Manser, Courtepin</de>
+    <en>Change Kleintierpraxis Barboutzet, Barbara Manser, Courtepin</en>
+    <it>Cambiamenti Kleintierpraxis Barboutzet, Barbara Manser, Courtepin</it>
+    <fr>Mutation Kleintierpraxis Barboutzet, Barbara Manser, Courtepin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6104</journalNumber>
+  <journalDate>2018-11-20</journalDate>
+  <publicationText>Kleintierpraxis Barboutzet, Barbara Manser, in Courtepin, CHE-383.791.292 (SHAB vom 13.11.2018, s. 0/1004496526). Berichtigung der Eintragung Nr. 5846 vom 08.11.2018 (SHAB vom 13.11.2018, Id 1004496526): die richtige UID-Nummer lautet CHE-336.003.380 (und nicht CHE-383.791.292).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kleintierpraxis Barboutzet, Barbara Manser</name>
+      <uid>CHE336003380</uid>
+      <uidOrganisationId>336003380</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735685100</code13>
+      <seat>Courtepin</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de la Forêt</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1784</swissZipCode>
+        <town>Courtepin</town>
+      </address>
+    </company>
+    <purpose>Tierarztpraxis.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kleintierpraxis Barboutzet, Barbara Manser</name>
+      <uid>CHE383791292</uid>
+      <uidOrganisationId>383791292</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735685100</code13>
+      <seat>Courtepin</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de la Forêt</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1784</swissZipCode>
+        <town>Courtepin</town>
+      </address>
+    </company>
+    <purpose>Tierarztpraxis.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-13</lastFoscDate>
+    <lastFoscSequence>1004496526</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>true</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

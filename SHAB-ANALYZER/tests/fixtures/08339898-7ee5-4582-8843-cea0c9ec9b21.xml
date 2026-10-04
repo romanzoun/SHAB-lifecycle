@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>082b4280-6b9d-4e7f-94de-8e5e5949934d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004536412</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SwissInnov Product Sàrl, Gland</de>
+    <en>Change SwissInnov Product Sàrl, Gland</en>
+    <it>Cambiamenti SwissInnov Product Sàrl, Gland</it>
+    <fr>Mutation SwissInnov Product Sàrl, Gland</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>99</journalNumber>
+  <journalDate>2019-01-03</journalDate>
+  <publicationText>SwissInnov Product Sàrl, à Gland, CHE-110.127.648 (FOSC du 21.11.2016, p. 0/3173539). L'associé-gérant Navarro Thierry cède 10 de ses 20 parts de CHF 1'000 à Junod Florent, de Carouge (GE), à Genève, nouvel associé avec 10 parts de CHF 1'000, gérant président avec signature individuelle; Navarro Thierry reste titulaire de 10 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SwissInnov Product Sàrl</name>
+      <uid>CHE110127648</uid>
+      <uidOrganisationId>110127648</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010346395</code13>
+      <seat>Gland</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de l'Etraz</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le développement, la vente et la gestion de projets pour solutions informatiques relatives notamment à la protection des contenus pour des supports vidéo (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SwissInnov Product Sàrl</name>
+      <uid>CHE110127648</uid>
+      <uidOrganisationId>110127648</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010346395</code13>
+      <seat>Gland</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de l'Etraz</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le conseil, le développement, la production, la commercialisation et la vente de tous produits, notamment dans les domaines industriel et médical (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-11-21</lastFoscDate>
+    <lastFoscSequence>3173539</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

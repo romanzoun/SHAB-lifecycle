@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>4df6c75b-d620-4316-af8b-017ae3311746</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004718712</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation Quartierladen Bouali, Münchenstein</de>
+    <en>Change Quartierladen Bouali, Münchenstein</en>
+    <it>Cambiamenti Quartierladen Bouali, Münchenstein</it>
+    <fr>Mutation Quartierladen Bouali, Münchenstein</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4354</journalNumber>
+  <journalDate>2019-09-13</journalDate>
+  <publicationText>Quartierladen Bouali, in Münchenstein, CHE-274.744.927, Einzelunternehmen (SHAB Nr. 174 vom 10.09.2019, Publ. 1004713106). Mit Verfügung des Appellationsgerichts Basel-Stadt vom 10.09.2019 ist der Beschwerde gegen die Verfügung des Konkursrichters des Zivilgerichts Basel-Stadt vom 03.09.2019 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt worden. Demnach besteht das Einzelunternehmen entsprechend den früheren Eintragungen weiter. [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Verfügung des Konkursrichters des Zivilgerichts des Kantons Basel-Stadt vom 03.09.2019 mit Wirkung ab dem 03.09.2019, 15:22 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Quartierladen Bouali</name>
+      <uid>CHE-274.744.927</uid>
+      <uidOrganisationId>274744927</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010212118</code13>
+      <seat>Münchenstein</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Frankfurt-Strasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>4142</swissZipCode>
+        <town>Münchenstein</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Lieferdienstes und Handel mit Waren aller Art, insbesondere mit Lebensmitteln und Getränken, sowie Erbringung von Dienstleistungen aller Art in diesem Zusammenhang.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Quartierladen Bouali</name>
+      <uid>CHE-274.744.927</uid>
+      <uidOrganisationId>274744927</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010212118</code13>
+      <seat>Münchenstein</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Frankfurt-Strasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>4142</swissZipCode>
+        <town>Münchenstein</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Lieferdienstes und Handel mit Waren aller Art, insbesondere mit Lebensmitteln und Getränken, sowie Erbringung von Dienstleistungen aller Art in diesem Zusammenhang.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-10</lastFoscDate>
+    <lastFoscNumber>174</lastFoscNumber>
+    <lastFoscSequence>1004713106</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

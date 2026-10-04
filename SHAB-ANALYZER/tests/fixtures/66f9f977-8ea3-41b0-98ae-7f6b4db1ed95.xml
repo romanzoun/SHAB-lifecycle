@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>66cd8722-ad24-48e1-8adc-d32de3dd2eac</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004687820</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>OW</cantons>
+  <title>
+    <de>Mutation SHB Architekten GmbH, Engelberg</de>
+    <en>Change SHB Architekten GmbH, Engelberg</en>
+    <it>Cambiamenti SHB Architekten GmbH, Engelberg</it>
+    <fr>Mutation SHB Architekten GmbH, Engelberg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>937</journalNumber>
+  <journalDate>2019-07-26</journalDate>
+  <publicationText>SHB Architekten GmbH, in Engelberg, CHE-280.599.355, schweizerische Zweigniederlassung (SHAB Nr. 10 vom 16.01.2013, S.0, Publ. 7017258), Hauptsitz in: Horw. Neue Identifikationsnummer Hauptsitz: CHE-108.175.069 [bisher: Identifikationsnummer Hauptsitz: CH-100.4.018.732-3]. Registrierung Hauptsitz neu: Handelsregister des Kantons Luzern.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SHB Architekten GmbH</name>
+      <uid>CHE280599355</uid>
+      <uidOrganisationId>280599355</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH14090043652</code13>
+      <seat>Engelberg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>6390</swissZipCode>
+        <town>Engelberg</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>SHB Architekten GmbH</name>
+      <country>CH</country>
+      <uid>CHE108175069</uid>
+      <uidOrganisationId>108175069</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SHB Architekten GmbH</name>
+      <uid>CHE280599355</uid>
+      <uidOrganisationId>280599355</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH14090043652</code13>
+      <seat>Engelberg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>6390</swissZipCode>
+        <town>Engelberg</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>SHB Architekten GmbH</name>
+      <country>CH</country>
+      <uid>CHE108175069</uid>
+      <uidOrganisationId>108175069</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-01-16</lastFoscDate>
+    <lastFoscNumber>10</lastFoscNumber>
+    <lastFoscSequence>7017258</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Obwalden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

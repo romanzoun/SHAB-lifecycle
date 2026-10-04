@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>711c696a-20b3-411e-909a-005d902bf102</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005155147</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation CARWASH - MOBILSERVICE (SVEN SKUTNIK), Aesch (BL)</de>
+    <en>Change CARWASH - MOBILSERVICE (SVEN SKUTNIK), Aesch (BL)</en>
+    <it>Cambiamenti CARWASH - MOBILSERVICE (SVEN SKUTNIK), Aesch (BL)</it>
+    <fr>Mutation CARWASH - MOBILSERVICE (SVEN SKUTNIK), Aesch (BL)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2106</journalNumber>
+  <journalDate>2021-04-16</journalDate>
+  <publicationText>CARWASH - MOBILSERVICE (SVEN SKUTNIK), in Aesch (BL), CHE-374.821.250, Einzelunternehmen (SHAB Nr. 61 vom 29.03.2021, Publ. 1005135918). Da der Inhaber den Geschäftsbetrieb weiterführt, sind die Voraussetzungen für eine Löschung gemäss Art. 159 Abs. 5 lit. a HRegV nicht erfüllt. Die Eintragung bleibt bestehen. [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Verfügung des Konkursrichters des Zivilkreisgerichts Basel-Landschaft West vom 16.02.2021 mit Wirkung ab dem 16.02.2021, 11:00 Uhr, der Konkurs eröffnet worden.]. [gestrichen: Das Konkursverfahren ist mit Verfügung des Konkursrichters des Zivilkreisgerichts Basel-Landschaft West vom 22.03.2021 mangels Aktiven eingestellt worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>CARWASH - MOBILSERVICE (SVEN SKUTNIK)</name>
+      <uid>CHE-374.821.250</uid>
+      <uidOrganisationId>374821250</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010237149</code13>
+      <seat>Aesch (BL)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neuhofweg</street>
+        <houseNumber>51</houseNumber>
+        <swissZipCode>4147</swissZipCode>
+        <town>Aesch BL</town>
+      </address>
+    </company>
+    <purpose>Autoreinigung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CARWASH - MOBILSERVICE (SVEN SKUTNIK)</name>
+      <uid>CHE-374.821.250</uid>
+      <uidOrganisationId>374821250</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010237149</code13>
+      <seat>Aesch (BL)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neuhofweg</street>
+        <houseNumber>51</houseNumber>
+        <swissZipCode>4147</swissZipCode>
+        <town>Aesch BL</town>
+      </address>
+    </company>
+    <purpose>Autoreinigung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-03-29</lastFoscDate>
+    <lastFoscNumber>61</lastFoscNumber>
+    <lastFoscSequence>1005135918</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

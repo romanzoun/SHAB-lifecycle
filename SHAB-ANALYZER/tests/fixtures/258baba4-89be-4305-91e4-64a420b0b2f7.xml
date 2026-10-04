@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>255c59b4-1049-4a0e-83a6-d02305b7ef60</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004471817</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation D&amp;D Team Sàrl, Rolle</de>
+    <en>Change D&amp;D Team Sàrl, Rolle</en>
+    <it>Cambiamenti D&amp;D Team Sàrl, Rolle</it>
+    <fr>Mutation D&amp;D Team Sàrl, Rolle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17650</journalNumber>
+  <journalDate>2018-10-03</journalDate>
+  <publicationText>D&amp;D Team Sàrl, à Rolle, CHE-287.813.822 (FOSC du 28.08.2018, p. 0/4439387). Frachon Eric cède 5 de ses 10 parts de CHF 200 par 3 parts à Dietrich Gregory et par 2 parts à Debroux Julien, désormais titulaires de respectivement 43 et 42 parts de CHF 200. Frachon Eric a désormais 5 parts de CHF 200.</publicationText>
+  <commonsNew>
+    <company>
+      <name>D&amp;D Team Sàrl</name>
+      <uid>CHE287813822</uid>
+      <uidOrganisationId>287813822</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011483546</code13>
+      <seat>Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Général-Guisan</street>
+        <houseNumber>52</houseNumber>
+        <swissZipCode>1180</swissZipCode>
+        <town>Rolle</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités d'étude, création, réalisation et commercialisation d'accessoires principalement dans le domaine de la mode, ainsi que toute offre de prestations de services y relatives (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>D&amp;D Team Sàrl</name>
+      <uid>CHE287813822</uid>
+      <uidOrganisationId>287813822</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011483546</code13>
+      <seat>Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Général-Guisan</street>
+        <houseNumber>52</houseNumber>
+        <swissZipCode>1180</swissZipCode>
+        <town>Rolle</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités d'étude, création, réalisation et commercialisation d'accessoires principalement dans le domaine de la mode, ainsi que toute offre de prestations de services y relatives (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-28</lastFoscDate>
+    <lastFoscSequence>4439387</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

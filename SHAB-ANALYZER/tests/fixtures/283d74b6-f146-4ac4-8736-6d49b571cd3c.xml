@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>28262054-1030-418a-91b1-369705d83310</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004517571</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Swiss Interim TTF SA succursale de Fribourg, Fribourg</de>
+    <en>Change Swiss Interim TTF SA succursale de Fribourg, Fribourg</en>
+    <it>Cambiamenti Swiss Interim TTF SA succursale de Fribourg, Fribourg</it>
+    <fr>Mutation Swiss Interim TTF SA succursale de Fribourg, Fribourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6430</journalNumber>
+  <journalDate>2018-12-06</journalDate>
+  <publicationText>Swiss Interim TTF SA succursale de Fribourg, à Fribourg, CHE-383.190.359 (FOSC du 09.02.2018, p. 0/4047059). Nouveau siège principal: Lausanne.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Swiss Interim TTF SA succursale de Fribourg</name>
+      <uid>CHE383190359</uid>
+      <uidOrganisationId>383190359</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735386902</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de la Gare</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>placement de personnel fixe et temporaire, conseils aux entreprises en matière de rapport avec le personnel et location de services en tous genres, spécialement en Suisse et en Europe.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Swiss Interim TTF SA</name>
+      <country>CH</country>
+      <uid>CHE104942350</uid>
+      <uidOrganisationId>104942350</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Swiss Interim TTF SA succursale de Fribourg</name>
+      <uid>CHE383190359</uid>
+      <uidOrganisationId>383190359</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735386902</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de la Gare</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>placement de personnel fixe et temporaire, conseils aux entreprises en matière de rapport avec le personnel et location de services en tous genres, spécialement en Suisse et en Europe.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-02-09</lastFoscDate>
+    <lastFoscSequence>4047059</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

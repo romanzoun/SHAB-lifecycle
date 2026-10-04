@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>718c192a-4ce2-4d99-8d5e-1d7ea5f22c06</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004549293</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Pius Buchs SA, Meyrin</de>
+    <en>Change Pius Buchs SA, Meyrin</en>
+    <it>Cambiamenti Pius Buchs SA, Meyrin</it>
+    <fr>Mutation Pius Buchs SA, Meyrin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1410</journalNumber>
+  <journalDate>2019-01-18</journalDate>
+  <publicationText>Pius Buchs SA, à Meyrin, CHE-107.859.923 (FOSC du 08.08.2017, p. 0/3685777). But modifié sur un point non soumis à publication. Statuts modifiés le 15.01.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pius Buchs SA</name>
+      <uid>CHE107859923</uid>
+      <uidOrganisationId>107859923</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001829822</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Ruisseau</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1216</swissZipCode>
+        <town>Cointrin</town>
+      </address>
+    </company>
+    <purpose>tout commerce de véhicules automobiles; achat, vente, location, gestion et mise en valeur de biens immobiliers, à l'exception de toutes opérations prohibées par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pius Buchs SA</name>
+      <uid>CHE107859923</uid>
+      <uidOrganisationId>107859923</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001829822</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Ruisseau</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1216</swissZipCode>
+        <town>Cointrin</town>
+      </address>
+    </company>
+    <purpose>tout commerce de véhicules automobiles; achat, vente, location, gestion et mise en valeur de biens immobiliers, à l'exception de toutes opérations prohibées par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-08-08</lastFoscDate>
+    <lastFoscSequence>3685777</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

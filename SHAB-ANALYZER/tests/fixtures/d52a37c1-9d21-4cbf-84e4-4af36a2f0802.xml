@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>d51fa90e-5cbc-4834-aeae-f6f98a9e56af</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004746591</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation WP Construction SA, Corsier-sur-Vevey</de>
+    <en>Change WP Construction SA, Corsier-sur-Vevey</en>
+    <it>Cambiamenti WP Construction SA, Corsier-sur-Vevey</it>
+    <fr>Mutation WP Construction SA, Corsier-sur-Vevey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19092</journalNumber>
+  <journalDate>2019-10-23</journalDate>
+  <publicationText>WP Construction SA, à Corsier-sur-Vevey, CHE-135.202.763 (FOSC du 21.10.2019, p. 0/1004741862). Rectificatif: l'inscription n°18610 du 16.10.2019 (FOSC du 21.10.2019, p. 0/1004741862) est rectifiée en ce sens que Wächtler Marc se nomme Wächter Marc.</publicationText>
+  <commonsNew>
+    <company>
+      <name>WP Construction SA</name>
+      <uid>CHE-135.202.763</uid>
+      <uidOrganisationId>135202763</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011874251</code13>
+      <seat>Corsier-sur-Vevey</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Châtillon</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1804</swissZipCode>
+        <town>Corsier-sur-Vevey</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités dans le domaine de l'immobilier et de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>WP Construction SA</name>
+      <uid>CHE-135.202.763</uid>
+      <uidOrganisationId>135202763</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011874251</code13>
+      <seat>Corsier-sur-Vevey</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Châtillon</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1804</swissZipCode>
+        <town>Corsier-sur-Vevey</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités dans le domaine de l'immobilier et de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-21</lastFoscDate>
+    <lastFoscNumber>203</lastFoscNumber>
+    <lastFoscSequence>1004741862</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>de399ede-af18-47fd-9b55-0a0af853b90a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004650867</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation IRREVERSIBLE Sonia Ribeaud, Zürich</de>
+    <en>Change IRREVERSIBLE Sonia Ribeaud, Zürich</en>
+    <it>Cambiamenti IRREVERSIBLE Sonia Ribeaud, Zürich</it>
+    <fr>Mutation IRREVERSIBLE Sonia Ribeaud, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22359</journalNumber>
+  <journalDate>2019-06-11</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 111 vom 12.06.2019 publizierten TR-Eintrags Nr. 21'956 vom 06.06.2019 IRREVERSIBLE Sonia Ribeaud, in Zürich, CHE-159.095.759, Einzelunternehmen (SHAB Nr. 111 vom 12.06.2019, Publ. 1004648677). Mit dem im SHAB-Nr. 111 vom 12.06.2019 publizierten TR-Eintrag 21956/2019 wurde das falsche SHAB-Zitat publiziert. Korrekt wäre: (SHAB Nr. 110 vom 11.06.2019, Publ. 1004647605).</publicationText>
+  <commonsNew>
+    <company>
+      <name>IRREVERSIBLE Sonia Ribeaud</name>
+      <uid>CHE159095759</uid>
+      <uidOrganisationId>159095759</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010814727</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Giessereistrasse</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>8005</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Nähatelier / atelier de couture.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IRREVERSIBLE Sonia Ribeaud</name>
+      <uid>CHE159095759</uid>
+      <uidOrganisationId>159095759</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010814727</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Giessereistrasse</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>8005</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Nähatelier / atelier de couture.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-12</lastFoscDate>
+    <lastFoscNumber>111</lastFoscNumber>
+    <lastFoscSequence>1004648677</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

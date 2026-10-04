@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>02605ffd-7133-4cd5-924b-a609226e9bd6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004703660</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation ChondroNest SA, Conthey</de>
+    <en>Change ChondroNest SA, Conthey</en>
+    <it>Cambiamenti ChondroNest SA, Conthey</it>
+    <fr>Mutation ChondroNest SA, Conthey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2192</journalNumber>
+  <journalDate>2019-08-22</journalDate>
+  <publicationText>ChondroNest SA, à Conthey, CHE-188.201.354, société anonyme (No. FOSC 199 du 15.10.2018, Publ. 1004476979). Modification des statuts: 22.07.2019. L'assemblée générale a introduit une clause statutaire relative à une augmentation autorisée du capital par décision du 22.07.2019. Pour les détails, voir les statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ChondroNest SA</name>
+      <translations>[de] ChondroNest AG [it] ChondroNest Ltd</translations>
+      <uid>CHE188201354</uid>
+      <uidOrganisationId>188201354</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630167024</code13>
+      <seat>Conthey</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Eterpys</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>1964</swissZipCode>
+        <town>Conthey</town>
+      </address>
+    </company>
+    <purpose>Le développement et la commercialisation de dispositifs médicaux notamment dans le domaine de la reconstruction de l'appareil locomoteur en matière orthopédique ainsi que la prestation de tous les services dans ces domaines (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>112000.00</nominal>
+      <paid>112000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ChondroNest SA</name>
+      <translations>[de] ChondroNest AG [it] ChondroNest Ltd</translations>
+      <uid>CHE188201354</uid>
+      <uidOrganisationId>188201354</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630167024</code13>
+      <seat>Conthey</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Eterpys</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>1964</swissZipCode>
+        <town>Conthey</town>
+      </address>
+    </company>
+    <purpose>Le développement et la commercialisation de dispositifs médicaux notamment dans le domaine de la reconstruction de l'appareil locomoteur en matière orthopédique ainsi que la prestation de tous les services dans ces domaines (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>112000.00</nominal>
+      <paid>112000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-15</lastFoscDate>
+    <lastFoscNumber>199</lastFoscNumber>
+    <lastFoscSequence>1004476979</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

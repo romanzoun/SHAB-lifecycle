@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>06014c21-6bb8-49b4-b90f-a799eaf7efab</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005102553</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Forum transfrontalier Arc jurassien, La Chaux-de-Fonds</de>
+    <en>Change Forum transfrontalier Arc jurassien, La Chaux-de-Fonds</en>
+    <it>Cambiamenti Forum transfrontalier Arc jurassien, La Chaux-de-Fonds</it>
+    <fr>Mutation Forum transfrontalier Arc jurassien, La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1244</journalNumber>
+  <journalDate>2021-02-11</journalDate>
+  <publicationText>Forum transfrontalier Arc jurassien, à La Chaux-de-Fonds, CHE-115.699.343 (FOSC du 16.11.2016, p. 0/3166343). Nouvelle raison sociale de l'organe de révision "Société Fiduciaire Vigilis S.A.": "Vigilis SA", dont le numéro d'identification CH-645-1005376-3 est remplacé par le numéro d'identification des entreprises (IDE/UID) CHE-102.360.639.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Forum transfrontalier Arc jurassien</name>
+      <uid>CHE-115.699.343</uid>
+      <uidOrganisationId>115699343</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541052808</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Marcel Schiess</addressLine1>
+        <street>rue Jardinière</street>
+        <houseNumber>101</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>promouvoir et développer la coopération transfrontalière entre la Suisse et la France de part et d'autre de la frontière de l'Arc Jurassien.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Forum transfrontalier Arc jurassien</name>
+      <uid>CHE-115.699.343</uid>
+      <uidOrganisationId>115699343</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541052808</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Marcel Schiess</addressLine1>
+        <street>rue Jardinière</street>
+        <houseNumber>101</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>promouvoir et développer la coopération transfrontalière entre la Suisse et la France de part et d'autre de la frontière de l'Arc Jurassien.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Vigilis SA</name>
+        <country>CH</country>
+        <uid>CHE102360639</uid>
+        <uidOrganisationId>102360639</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-11-16</lastFoscDate>
+    <lastFoscNumber>223</lastFoscNumber>
+    <lastFoscSequence>3166343</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>e9a60322-a88c-436f-97b0-519e85937d7a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004709497</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation TEAMFACT GmbH Chemnitz, Zweigniederlassung Zürich, Zürich</de>
+    <en>Change TEAMFACT GmbH Chemnitz, Zweigniederlassung Zürich, Zürich</en>
+    <it>Cambiamenti TEAMFACT GmbH Chemnitz, Zweigniederlassung Zürich, Zürich</it>
+    <fr>Mutation TEAMFACT GmbH Chemnitz, Zweigniederlassung Zürich, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>33983</journalNumber>
+  <journalDate>2019-09-02</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 166 vom 29.08.2019 publizierten TR-Eintrag Nr. 33158 vom 26.08.2019 TEAMFACT GmbH Chemnitz, Zweigniederlassung Zürich, in Zürich, CHE-148.799.141, ausländische Zweigniederlassung (SHAB Nr. 166 vom 29.08.2019, Publ. 1004704807), Hauptsitz in: Chemnitz (DE). Kapital Hauptsitz neu: EUR 27'000.00; Liberierung: EUR 27'000.00 [nicht: Kapital Hauptsitz: EUR 27'000.00; Liberierung: EUR 13'500.00].</publicationText>
+  <commonsNew>
+    <company>
+      <name>TEAMFACT GmbH Chemnitz, Zweigniederlassung Zürich</name>
+      <uid>CHE-148.799.141</uid>
+      <uidOrganisationId>148799141</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090044771</code13>
+      <seat>Zürich</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bergstrasse</street>
+        <houseNumber>107</houseNumber>
+        <swissZipCode>8032</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Unternehmensberatung, insbesondere die IT-Beratung unter Einsatz von SAP-Produkten, darüber hinaus das Halten von Schulungen und die Entwicklung von Softwareprodukten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TEAMFACT GmbH Chemnitz, Zweigniederlassung Zürich</name>
+      <uid>CHE-148.799.141</uid>
+      <uidOrganisationId>148799141</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090044771</code13>
+      <seat>Zürich</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bergstrasse</street>
+        <houseNumber>107</houseNumber>
+        <swissZipCode>8032</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-29</lastFoscDate>
+    <lastFoscNumber>166</lastFoscNumber>
+    <lastFoscSequence>1004704807</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

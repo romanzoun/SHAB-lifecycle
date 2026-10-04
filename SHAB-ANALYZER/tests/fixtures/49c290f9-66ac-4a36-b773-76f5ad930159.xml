@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.15/HR02-export.xsd">
+<meta>
+  <id>49a175dc-9157-4add-893d-709f2429a8bc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005538684</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-08-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Domaine de la Bergerie SA, Gland</de>
+    <en>Change Domaine de la Bergerie SA, Gland</en>
+    <it>Cambiamenti Domaine de la Bergerie SA, Gland</it>
+    <fr>Mutation Domaine de la Bergerie SA, Gland</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15190</journalNumber>
+  <journalDate>2022-08-05</journalDate>
+  <publicationText>Domaine de la Bergerie SA, à Gland, CHE-475.087.547 (FOSC du 16.02.2022, p. 0/1005407317). Lucet Léopold et Radovanovic Bojan continuent à engager la société par leur signature collective à deux, désormais pas entre eux. Roeder Robert continue à engager la société par sa signature collective à deux, désormais pas avec Grandjean Sandy. Grandjean Sandy continue à engager la société par sa procuration collective à deux, désormais pas avec Roeder Robert.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Domaine de la Bergerie SA</name>
+      <uid>CHE-475.087.547</uid>
+      <uidOrganisationId>475087547</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011714770</code13>
+      <seat>Gland</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route Suisse</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'achat, la construction, la location, l'exploitation, la gérance, la mise en valeur et la vente d'immeubles, à l'exception des opérations prohibées par la LFAIE (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Domaine de la Bergerie SA</name>
+      <uid>CHE-475.087.547</uid>
+      <uidOrganisationId>475087547</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011714770</code13>
+      <seat>Gland</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route Suisse</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'achat, la construction, la location, l'exploitation, la gérance, la mise en valeur et la vente d'immeubles, à l'exception des opérations prohibées par la LFAIE (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2022-02-16</lastFoscDate>
+    <lastFoscNumber>33</lastFoscNumber>
+    <lastFoscSequence>1005407317</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

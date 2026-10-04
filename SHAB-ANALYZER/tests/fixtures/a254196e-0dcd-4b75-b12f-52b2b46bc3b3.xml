@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>a2356d3d-cc6f-4e70-acf2-d8b268640433</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004577465</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation troisval SA en liquidation, bisher troisval SA, Chavannes-des-Bois</de>
+    <en>Change troisval SA en liquidation, to date troisval SA, Chavannes-des-Bois</en>
+    <it>Cambiamenti troisval SA en liquidation, prima troisval SA, Chavannes-des-Bois</it>
+    <fr>Mutation troisval SA en liquidation, Chavannes-des-Bois</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3832</journalNumber>
+  <journalDate>2019-02-25</journalDate>
+  <publicationText>troisval SA, à Chavannes-des-Bois, CHE-195.983.911 (FOSC du 07.06.2016, p. 0/2875211). Selon décision de son assemblée générale du 13 février 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: troisval SA en liquidation (troisval AG in Liquidation) (troisval Ltd in liquidation). L'administrateur Dannenhauer Frank, dont la signature est radiée, est nommé liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>troisval SA en liquidation</name>
+      <translations>[de] troisval AG in Liquidation [en] troisval Ltd in liquidation</translations>
+      <uid>CHE195983911</uid>
+      <uidOrganisationId>195983911</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011605702</code13>
+      <seat>Chavannes-des-Bois</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Frank Dannenhauer</addressLine1>
+        <street>Résidence Le Manège</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1290</swissZipCode>
+        <town>Chavannes-des-Bois</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la prestation de tous services en matière de gestion d'entreprise notamment tout conseil en matière de stratégie et organisation (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>troisval SA</name>
+      <translations>[de] troisval AG [en] troisval Ltd</translations>
+      <uid>CHE195983911</uid>
+      <uidOrganisationId>195983911</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011605702</code13>
+      <seat>Chavannes-des-Bois</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Frank Dannenhauer</addressLine1>
+        <street>Résidence Le Manège</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1290</swissZipCode>
+        <town>Chavannes-des-Bois</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la prestation de tous services en matière de gestion d'entreprise notamment tout conseil en matière de stratégie et organisation (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-06-07</lastFoscDate>
+    <lastFoscSequence>2875211</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

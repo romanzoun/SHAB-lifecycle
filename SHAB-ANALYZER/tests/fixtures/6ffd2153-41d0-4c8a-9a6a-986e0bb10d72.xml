@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>6ff25f00-b930-4439-ba13-870c6ce053ef</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004641278</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation One Swiss Bank SA, Genève</de>
+    <en>Change One Swiss Bank SA, Genève</en>
+    <it>Cambiamenti One Swiss Bank SA, Genève</it>
+    <fr>Mutation One Swiss Bank SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10080</journalNumber>
+  <journalDate>2019-05-24</journalDate>
+  <publicationText>One Swiss Bank SA, à Genève, CHE-112.045.116 (FOSC du 29.04.2019, p. 0/1004619417). L'inscription no 19869 du 26.10.2018 (FOSC du 31.10.2018 p.0/1004488081) est rectifiée en ce sens qu'une procuration collective à deux, avec un administrateur, un membre du comité de direction ou le directeur général a été conférée à Ricq Pierre (et non pas une procuration individuelle).</publicationText>
+  <commonsNew>
+    <company>
+      <name>One Swiss Bank SA</name>
+      <uid>CHE112045116</uid>
+      <uidOrganisationId>112045116</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66094910040</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Mines</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1202</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exercice d'une activité bancaire et de négociant en valeurs mobilières; la société est principalement active dans la gestion de fortune, le conseil en placements et autres activités liées.</purpose>
+    <capital>
+      <nominal>25000000.00</nominal>
+      <paid>25000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>One Swiss Bank SA</name>
+      <uid>CHE112045116</uid>
+      <uidOrganisationId>112045116</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66094910040</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Mines</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1202</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exercice d'une activité bancaire et de négociant en valeurs mobilières; la société est principalement active dans la gestion de fortune, le conseil en placements et autres activités liées.</purpose>
+    <capital>
+      <nominal>25000000.00</nominal>
+      <paid>25000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-29</lastFoscDate>
+    <lastFoscSequence>1004619417</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>df7de8cc-c33a-4070-8fbd-e5f58d4372d9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004734810</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Horner Reisen AG, Tafers</de>
+    <en>Change Horner Reisen AG, Tafers</en>
+    <it>Cambiamenti Horner Reisen AG, Tafers</it>
+    <fr>Mutation Horner Reisen AG, Tafers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5639</journalNumber>
+  <journalDate>2019-10-07</journalDate>
+  <publicationText>Horner Reisen AG, in Tafers, CHE-114.504.230 (SHAB vom 07.10.2019, s. 0/1004731498). Berichtigung der Eintragung Nr. 5562 vom 02.10.2019 (SHAB vom 07.10.2019, Id 1004731498): Seidl Patrick war nie Mitglied des Verwaltungsrats, sein Eintrag ist gelöscht. Eingetragene Personen geändert: Wieland Christoph, Verwaltungsratmitglied, von Murten, in Mont-Vully (und nicht in Faoug).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Horner Reisen AG</name>
+      <uid>CHE-114.504.230</uid>
+      <uidOrganisationId>114504230</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735409003</code13>
+      <seat>Tafers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mariahilfstrasse</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>1712</swissZipCode>
+        <town>Tafers</town>
+      </address>
+    </company>
+    <purpose>Erbringen von Dienstleistungen als Reiseveranstalter, Betrieb eines Personentransportunternehmens und einer Reparaturwerkstatt sowie Erbringen von Verwaltungsdienstleistungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Horner Reisen AG</name>
+      <uid>CHE-114.504.230</uid>
+      <uidOrganisationId>114504230</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735409003</code13>
+      <seat>Tafers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mariahilfstrasse</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>1712</swissZipCode>
+        <town>Tafers</town>
+      </address>
+    </company>
+    <purpose>Erbringen von Dienstleistungen als Reiseveranstalter, Betrieb eines Personentransportunternehmens und einer Reparaturwerkstatt sowie Erbringen von Verwaltungsdienstleistungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-07</lastFoscDate>
+    <lastFoscNumber>193</lastFoscNumber>
+    <lastFoscSequence>1004731498</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

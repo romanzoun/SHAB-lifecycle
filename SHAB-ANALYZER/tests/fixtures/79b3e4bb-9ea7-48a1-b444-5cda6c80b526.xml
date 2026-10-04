@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>7967fe3b-850f-4366-b77d-2e9c9b7c76f8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004703646</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Grange Investments SA, Bagnes</de>
+    <en>Change Grange Investments SA, Bagnes</en>
+    <it>Cambiamenti Grange Investments SA, Bagnes</it>
+    <fr>Mutation Grange Investments SA, Bagnes</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2157</journalNumber>
+  <journalDate>2019-08-22</journalDate>
+  <publicationText>Grange Investments SA, à Bagnes, CHE-109.264.296, société anonyme (No. FOSC 245 du 17.12.2015, Publ. 2547255). Modification des statuts: 21.08.2019. Faits qualifiés: [Abrogation de la clause d'apport en nature et de reprise de biens] [biffé: Apport en nature : selon contrat du 02.07.2001, John Magnier fait apport des 250 actions nominatives liées de CHF 1'000.-- constituant le capital-actions de la société "GRANGES SERVICES SA" à Genève; la valeur de cet apport est de CHF 250'000.--, accepté pour ce montant et totalement imputé sur le capital, en contrepartie, l'apportant reçoit la totalité des actions].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Grange Investments SA</name>
+      <uid>CHE109264296</uid>
+      <uidOrganisationId>109264296</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630061284</code13>
+      <seat>Bagnes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Poste</street>
+        <houseNumber>22A</houseNumber>
+        <swissZipCode>1936</swissZipCode>
+        <town>Verbier</town>
+      </address>
+    </company>
+    <purpose>financement et participation à toutes sociétés et entreprises financières, industrielles ou commerciales en Suisse ou à l'étranger; toutes prestations de services et de conseils; toutes activités convergentes</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Grange Investments SA</name>
+      <uid>CHE109264296</uid>
+      <uidOrganisationId>109264296</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630061284</code13>
+      <seat>Bagnes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Poste</street>
+        <houseNumber>22A</houseNumber>
+        <swissZipCode>1936</swissZipCode>
+        <town>Verbier</town>
+      </address>
+    </company>
+    <purpose>financement et participation à toutes sociétés et entreprises financières, industrielles ou commerciales en Suisse ou à l'étranger; toutes prestations de services et de conseils; toutes activités convergentes</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-12-17</lastFoscDate>
+    <lastFoscNumber>245</lastFoscNumber>
+    <lastFoscSequence>2547255</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

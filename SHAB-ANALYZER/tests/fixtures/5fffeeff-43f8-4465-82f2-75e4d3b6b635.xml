@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>5fe8a121-abfb-4342-b501-7a5993ae2074</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004503129</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Genossenschaft Seesauna Stäfa, Stäfa</de>
+    <en>Change Genossenschaft Seesauna Stäfa, Stäfa</en>
+    <it>Cambiamenti Genossenschaft Seesauna Stäfa, Stäfa</it>
+    <fr>Mutation Genossenschaft Seesauna Stäfa, Stäfa</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>41505</journalNumber>
+  <journalDate>2018-11-19</journalDate>
+  <publicationText>Genossenschaft Seesauna Stäfa, in Stäfa, CHE-349.162.846, Genossenschaft (SHAB Nr. 163 vom 24.08.2018, Publ. 4432905). Statutenänderung: 05.11.2018. Anteilscheine neu: CHF 2'000.00, CHF 5'000.00, CHF 9'000.00 [bisher: CHF 2'000.00, CHF 5'000.00, CHF 10'000.00].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Genossenschaft Seesauna Stäfa</name>
+      <uid>CHE349162846</uid>
+      <uidOrganisationId>349162846</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02050005948</code13>
+      <seat>Stäfa</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Raymond Gillardon</addressLine1>
+        <street>Laubstenstrasse</street>
+        <houseNumber>15a</houseNumber>
+        <swissZipCode>8712</swissZipCode>
+        <town>Stäfa</town>
+      </address>
+    </company>
+    <purpose>Die Genossenschaft bezweckt den Betrieb einer Sauna zugunsten seiner Mitglieder zu günstigen Konditionen. Zwecks Gesundheitsförderung und zur Erweiterung des Erholungsangebots in Stäfa und Umgebung ist die Sauna auch Nichtmitgliedern zu zumindest kostendeckenden Preisen zugänglich.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Genossenschaft Seesauna Stäfa</name>
+      <uid>CHE349162846</uid>
+      <uidOrganisationId>349162846</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02050005948</code13>
+      <seat>Stäfa</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Raymond Gillardon</addressLine1>
+        <street>Laubstenstrasse</street>
+        <houseNumber>15a</houseNumber>
+        <swissZipCode>8712</swissZipCode>
+        <town>Stäfa</town>
+      </address>
+    </company>
+    <purpose>Die Genossenschaft bezweckt den Betrieb einer Sauna zugunsten seiner Mitglieder zu günstigen Konditionen. Zwecks Gesundheitsförderung und zur Erweiterung des Erholungsangebots in Stäfa und Umgebung ist die Sauna auch Nichtmitgliedern zu zumindest kostendeckenden Preisen zugänglich.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-24</lastFoscDate>
+    <lastFoscNumber>163</lastFoscNumber>
+    <lastFoscSequence>4432905</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>9ae22ac7-ac49-4e3d-9f36-9b6a65fd61e1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004657306</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation MEDPLACE SAGL, bisher MEDPLACE SAGL in liquidazione, Lugano</de>
+    <en>Change MEDPLACE SAGL, to date MEDPLACE SAGL in liquidazione, Lugano</en>
+    <it>Cambiamenti MEDPLACE SAGL, prima MEDPLACE SAGL in liquidazione, Lugano</it>
+    <fr>Mutation MEDPLACE SAGL, Lugano</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8967</journalNumber>
+  <journalDate>2019-06-18</journalDate>
+  <publicationText>MEDPLACE SAGL in liquidazione, in Lugano, CHE-113.804.250, società a garanzia limitata (Nr. FUSC 6 del 10.01.2019, Pubbl. 1004538470). Nuova ditta: MEDPLACE SAGL. [radiati: Con decreto della Pretura del Distretto di Lugano del 07.12.2018, è stato dichiarato lo scioglimento della società e ordinata la liquidazione in via di fallimento (art. 731b cpv. 1 cfr. 3 CO).]. Con decisione del 29.04.2019, il Tribunale d'appello del Cantone Ticino ha annullato la decisione di scioglimento della Pretura del Distretto di Lugano del 07.12.2018, in quanto la società ha ripristinato la situazione legale relativa alla sua organizzazione. Secondo dichiarazione del 28.03.2019 la società non è soggetta alla revisione ordinaria e rinuncia a una revisione limitata.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MEDPLACE SAGL</name>
+      <uid>CHE113804250</uid>
+      <uidOrganisationId>113804250</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50140091373</code13>
+      <seat>Lugano</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Senago</street>
+        <houseNumber>17a</houseNumber>
+        <swissZipCode>6912</swissZipCode>
+        <town>Pazzallo</town>
+      </address>
+    </company>
+    <purpose>La gestione di uno studio di fisioterapia, la prestazione di cure fisioterapiche con particolare attenzione alla fisioterapia sportiva, nonché qualsiasi attività nell'ambito della fisioterapia e della riabilitazione, del fitness, del benessere fisico e della salute in generale. Esercitare tutte le attività aventi un rapporto con lo scopo sociale.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MEDPLACE SAGL in liquidazione</name>
+      <uid>CHE113804250</uid>
+      <uidOrganisationId>113804250</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50140091373</code13>
+      <seat>Lugano</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Senago</street>
+        <houseNumber>17a</houseNumber>
+        <swissZipCode>6912</swissZipCode>
+        <town>Pazzallo</town>
+      </address>
+    </company>
+    <purpose>La gestione di uno studio di fisioterapia, la prestazione di cure fisioterapiche con particolare attenzione alla fisioterapia sportiva, nonché qualsiasi attività nell'ambito della fisioterapia e della riabilitazione, del fitness, del benessere fisico e della salute in generale. Esercitare tutte le attività aventi un rapporto con lo scopo sociale.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-10</lastFoscDate>
+    <lastFoscNumber>6</lastFoscNumber>
+    <lastFoscSequence>1004538470</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

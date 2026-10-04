@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+<meta>
+  <id>5214f573-51ef-4a96-96bb-3fa24a4e7cce</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005438998</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-03-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Agemo S.A., Vucherens</de>
+    <en>Change Agemo S.A., Vucherens</en>
+    <it>Cambiamenti Agemo S.A., Vucherens</it>
+    <fr>Mutation Agemo S.A., Vucherens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6106</journalNumber>
+  <journalDate>2022-03-25</journalDate>
+  <publicationText>Agemo S.A., à Vucherens, CHE-105.917.159 (FOSC du 10.06.2016, p. 0/2883365). Stettler Jérôme, de Eggiwil, à Ursy, avec signature collective à deux, et Stettler-Vaucher Laure, de Eggiwil, à Jorat-Mézières, avec signature collective à deux, sont membres du conseil d'administration.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Agemo S.A.</name>
+      <uid>CHE-105.917.159</uid>
+      <uidOrganisationId>105917159</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001575004</code13>
+      <seat>Vucherens</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Carrouge</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1509</swissZipCode>
+        <town>Vucherens</town>
+      </address>
+    </company>
+    <purpose>commerce de tout produit, en particulier d'aliments congelés et frais.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Agemo S.A.</name>
+      <uid>CHE-105.917.159</uid>
+      <uidOrganisationId>105917159</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001575004</code13>
+      <seat>Vucherens</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Carrouge</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1509</swissZipCode>
+        <town>Vucherens</town>
+      </address>
+    </company>
+    <purpose>commerce de tout produit, en particulier d'aliments congelés et frais.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-06-10</lastFoscDate>
+    <lastFoscNumber>111</lastFoscNumber>
+    <lastFoscSequence>2883365</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

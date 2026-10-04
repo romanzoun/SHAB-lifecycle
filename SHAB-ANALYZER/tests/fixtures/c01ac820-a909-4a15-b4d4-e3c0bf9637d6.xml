@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>bf692d1d-05db-4ec7-993d-974d6c620ce4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004534592</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Banca dello Stato del Cantone Ticino, Bellinzona</de>
+    <en>Change Banca dello Stato del Cantone Ticino, Bellinzona</en>
+    <it>Cambiamenti Banca dello Stato del Cantone Ticino, Bellinzona</it>
+    <fr>Mutation Banca dello Stato del Cantone Ticino, Bellinzona</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>26</journalNumber>
+  <journalDate>2019-01-02</journalDate>
+  <publicationText>Banca dello Stato del Cantone Ticino, in Bellinzona, CHE-108.954.636, natura giuridica particolare (Nr. FUSC 243 del 14.12.2018, Pubbl. 1004521600). Nuovo capitale liberato: CHF 430'000'000.00 [finora: CHF 300'000'000.00]. Con risoluzioni del Consiglio di Stato del 22.08.2018 è stato autorizzato l'aumento del capitale di dotazione a CHF 430'000.000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Banca dello Stato del Cantone Ticino</name>
+      <uid>CHE108954636</uid>
+      <uidOrganisationId>108954636</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50080005319</code13>
+      <seat>Bellinzona</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Viale H. Guisan</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6500</swissZipCode>
+        <town>Bellinzona</town>
+      </address>
+    </company>
+    <purpose>Favorire lo sviluppo economico del Cantone. Essa offre al pubblico la possibilità di investire in modo sicuro e redditizio i suoi risparmi.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Banca dello Stato del Cantone Ticino</name>
+      <uid>CHE108954636</uid>
+      <uidOrganisationId>108954636</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50080005319</code13>
+      <seat>Bellinzona</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Viale H. Guisan</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6500</swissZipCode>
+        <town>Bellinzona</town>
+      </address>
+    </company>
+    <purpose>Favorire lo sviluppo economico del Cantone. Essa offre al pubblico la possibilità di investire in modo sicuro e redditizio i suoi risparmi.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-14</lastFoscDate>
+    <lastFoscNumber>243</lastFoscNumber>
+    <lastFoscSequence>1004521600</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

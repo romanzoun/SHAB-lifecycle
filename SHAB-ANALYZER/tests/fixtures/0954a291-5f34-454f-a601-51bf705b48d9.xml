@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0934715b-fbb3-44dc-b440-617947bc719b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004480579</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation GMB Autocenter Ramadani, Wettingen</de>
+    <en>Change GMB Autocenter Ramadani, Wettingen</en>
+    <it>Cambiamenti GMB Autocenter Ramadani, Wettingen</it>
+    <fr>Mutation GMB Autocenter Ramadani, Wettingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10591</journalNumber>
+  <journalDate>2018-10-16</journalDate>
+  <publicationText>GMB Autocenter Ramadani, in Wettingen, CHE-264.381.987, Einzelunternehmen (SHAB Nr. 188 vom 28.09.2018, Publ. 1004465258). Mit Verfügung des Obergerichtes des Kantons Aargau vom 09.10.2018 ist der Beschwerde gegen die Verfügung des Konkursrichters des Bezirksgerichts Kulm vom 20.09.2018 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt worden. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen. [gestrichen: Mit Verfügung des Gerichtspräsidiums Kulm vom 20.09.2018 ist über den Inhaber dieses Einzelunternehmens mit Wirkung ab dem 20.09.2018, 08.55 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>GMB Autocenter Ramadani</name>
+      <uid>CHE264381987</uid>
+      <uidOrganisationId>264381987</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40016023020</code13>
+      <seat>Wettingen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>5430</swissZipCode>
+        <town>Wettingen</town>
+      </address>
+    </company>
+    <purpose>Service, Reparaturen an und Reinigung von Autos, Reifenservice, Achsvermessungen sowie Handel mit Autos und Tuningzubehör.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GMB Autocenter Ramadani</name>
+      <uid>CHE264381987</uid>
+      <uidOrganisationId>264381987</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40016023020</code13>
+      <seat>Wettingen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>5430</swissZipCode>
+        <town>Wettingen</town>
+      </address>
+    </company>
+    <purpose>Service, Reparaturen an und Reinigung von Autos, Reifenservice, Achsvermessungen sowie Handel mit Autos und Tuningzubehör.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-28</lastFoscDate>
+    <lastFoscNumber>188</lastFoscNumber>
+    <lastFoscSequence>1004465258</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

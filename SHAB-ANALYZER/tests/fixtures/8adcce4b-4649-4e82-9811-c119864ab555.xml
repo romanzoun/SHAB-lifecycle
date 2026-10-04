@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8acd2baf-15c2-496e-95f1-d4a1ffbd91e2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004513024</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Banca Popolare di Sondrio (Suisse) SA, Succursale di St. Moritz, St. Moritz</de>
+    <en>Change Banca Popolare di Sondrio (Suisse) SA, Succursale di St. Moritz, St. Moritz</en>
+    <it>Cambiamenti Banca Popolare di Sondrio (Suisse) SA, Succursale di St. Moritz, St. Moritz</it>
+    <fr>Mutation Banca Popolare di Sondrio (Suisse) SA, Succursale di St. Moritz, St. Moritz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5469</journalNumber>
+  <journalDate>2018-11-30</journalDate>
+  <publicationText>Banca Popolare di Sondrio (Suisse) SA, Succursale di St. Moritz, in St. Moritz, CHE-375.166.778, succursale svizzera (Nr. FUSC 150 del 07.08.2018, Pubbl. 4401253), Sede principale a: Lugano. Nuove disposizioni per la succursale: [radiati: Ulteriore indirizzo: Plazzet 21, 7503 Samedan. ].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Banca Popolare di Sondrio (Suisse) SA, Succursale di St. Moritz</name>
+      <uid>CHE375166778</uid>
+      <uidOrganisationId>375166778</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35090005481</code13>
+      <seat>St. Moritz</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via dal Bagn</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>7500</swissZipCode>
+        <town>St. Moritz</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Banca Popolare di Sondrio (Suisse) SA</name>
+      <country>CH</country>
+      <uid>CHE106128449</uid>
+      <uidOrganisationId>106128449</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Banca Popolare di Sondrio (Suisse) SA, Succursale di St. Moritz</name>
+      <uid>CHE375166778</uid>
+      <uidOrganisationId>375166778</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35090005481</code13>
+      <seat>St. Moritz</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via dal Bagn</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>7500</swissZipCode>
+        <town>St. Moritz</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-07</lastFoscDate>
+    <lastFoscNumber>150</lastFoscNumber>
+    <lastFoscSequence>4401253</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

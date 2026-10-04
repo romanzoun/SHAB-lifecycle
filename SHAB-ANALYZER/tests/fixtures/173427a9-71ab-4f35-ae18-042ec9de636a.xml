@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>17138736-760d-47ea-a9e6-4154a7d03a47</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004529920</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation de prévoyance de The Swatch Group Les Boutiques SA, Lausanne</de>
+    <en>Change Fondation de prévoyance de The Swatch Group Les Boutiques SA, Lausanne</en>
+    <it>Cambiamenti Fondation de prévoyance de The Swatch Group Les Boutiques SA, Lausanne</it>
+    <fr>Mutation Fondation de prévoyance de The Swatch Group Les Boutiques SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22810</journalNumber>
+  <journalDate>2018-12-19</journalDate>
+  <publicationText>Fondation de prévoyance de The Swatch Group Les Boutiques SA, à Lausanne, CHE-109.786.956 (FOSC du 11.07.2017, p. 0/3637819). Acte de fondation modifié le 8 novembre 2018 sur des points non soumis à publication.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation de prévoyance de The Swatch Group Les Boutiques SA</name>
+      <uid>CHE109786956</uid>
+      <uidOrganisationId>109786956</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000500476</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Bourg</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1000</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la prévoyance professionnelle en faveur de l'ensemble du personnel de la société fondatrice et des sociétés qui en sont issues (pour but complet cf. acte de fondation).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation de prévoyance de The Swatch Group Les Boutiques SA</name>
+      <uid>CHE109786956</uid>
+      <uidOrganisationId>109786956</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000500476</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Bourg</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1000</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la prévoyance professionnelle en faveur de l'ensemble du personnel de la société fondatrice et des sociétés qui en sont issues (pour but complet cf. acte de fondation).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-07-11</lastFoscDate>
+    <lastFoscSequence>3637819</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

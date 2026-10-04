@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>69f6288d-cef4-46eb-a951-50972bec8a65</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004588123</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fleur de Houblon SARL, en liquidation, Versoix</de>
+    <en>Change Fleur de Houblon SARL, en liquidation, Versoix</en>
+    <it>Cambiamenti Fleur de Houblon SARL, en liquidation, Versoix</it>
+    <fr>Mutation Fleur de Houblon SARL, en liquidation, Versoix</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4919</journalNumber>
+  <journalDate>2019-03-11</journalDate>
+  <publicationText>Fleur de Houblon SARL, en liquidation, à Versoix, CHE-392.670.428 (FOSC du 07.03.2019, p. 0/1004582985). L'inscription 4381 du 04.03.2019 est rectifiée en ce sens que la société est dissoute par décision de l'assemblée des associés du 28.12.2018 (et non pas du 28.12.2019).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fleur de Houblon SARL, en liquidation</name>
+      <uid>CHE392670428</uid>
+      <uidOrganisationId>392670428</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012140144</code13>
+      <seat>Versoix</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Suisse</street>
+        <houseNumber>45</houseNumber>
+        <swissZipCode>1290</swissZipCode>
+        <town>Versoix</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une épicerie ainsi que la vente de bière à l'emporter (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fleur de Houblon SARL, en liquidation</name>
+      <uid>CHE392670428</uid>
+      <uidOrganisationId>392670428</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012140144</code13>
+      <seat>Versoix</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Suisse</street>
+        <houseNumber>45</houseNumber>
+        <swissZipCode>1290</swissZipCode>
+        <town>Versoix</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une épicerie ainsi que la vente de bière à l'emporter (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-07</lastFoscDate>
+    <lastFoscSequence>1004582985</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

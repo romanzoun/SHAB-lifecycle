@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>392e5d9e-f923-4334-8ae8-2b2c266be69d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004637232</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Cleaning Service SA, Genève</de>
+    <en>Change Cleaning Service SA, Genève</en>
+    <it>Cambiamenti Cleaning Service SA, Genève</it>
+    <fr>Mutation Cleaning Service SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9599</journalNumber>
+  <journalDate>2019-05-20</journalDate>
+  <publicationText>Cleaning Service SA, à Genève, CHE-105.991.517 (FOSC du 15.01.2019, p. 0/1004542305). L'administrateur Dittli Louis n'exerce plus la signature sociale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cleaning Service SA</name>
+      <uid>CHE105991517</uid>
+      <uidOrganisationId>105991517</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000889706</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Prieuré</street>
+        <houseNumber>32</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>gestion d'une entreprise de nettoyage et fourniture de prestations de services de diverse nature dans le domaine du nettoyage, notamment traitement et ponçage de sols de toutes sortes, nettoyage de moquettes, entretien de bureaux et commerce d'appareils et de produits de nettoyage (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cleaning Service SA</name>
+      <uid>CHE105991517</uid>
+      <uidOrganisationId>105991517</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000889706</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Prieuré</street>
+        <houseNumber>32</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>gestion d'une entreprise de nettoyage et fourniture de prestations de services de diverse nature dans le domaine du nettoyage, notamment traitement et ponçage de sols de toutes sortes, nettoyage de moquettes, entretien de bureaux et commerce d'appareils et de produits de nettoyage (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-15</lastFoscDate>
+    <lastFoscSequence>1004542305</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

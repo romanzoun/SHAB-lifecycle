@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+<meta>
+  <id>228e2019-3369-41d9-9a23-82c7187b219a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005393710</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-01-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Parmigiani Fleurier S.A., Val-de-Travers</de>
+    <en>Change Parmigiani Fleurier S.A., Val-de-Travers</en>
+    <it>Cambiamenti Parmigiani Fleurier S.A., Val-de-Travers</it>
+    <fr>Mutation Parmigiani Fleurier S.A., Val-de-Travers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>245</journalNumber>
+  <journalDate>2022-01-26</journalDate>
+  <publicationText>Parmigiani Fleurier S.A., à Val-de-Travers, CHE-106.680.617 (FOSC du 24.02.2021, p. 0/1005109309). Nouvelle raison sociale de l'organe de révision "Ofisa SA", dont le numéro fédéral CH-550.0.067.334-5 est remplacé par le numéro IDE /UID CHE-105.764.401: "Ofisa Berney Associés SA".</publicationText>
+  <commonsNew>
+    <company>
+      <name>Parmigiani Fleurier S.A.</name>
+      <uid>CHE-106.680.617</uid>
+      <uidOrganisationId>106680617</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510077720</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fleurier, rue du Temple</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2114</swissZipCode>
+        <town>Fleurier</town>
+      </address>
+    </company>
+    <purpose>conception, production et commercialisation de produits horlogers et apparentés.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Parmigiani Fleurier S.A.</name>
+      <uid>CHE-106.680.617</uid>
+      <uidOrganisationId>106680617</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510077720</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fleurier, rue du Temple</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2114</swissZipCode>
+        <town>Fleurier</town>
+      </address>
+    </company>
+    <purpose>conception, production et commercialisation de produits horlogers et apparentés.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Ofisa Berney Associés SA</name>
+        <country>CH</country>
+        <uid>CHE105764401</uid>
+        <uidOrganisationId>105764401</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-02-24</lastFoscDate>
+    <lastFoscNumber>38</lastFoscNumber>
+    <lastFoscSequence>1005109309</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

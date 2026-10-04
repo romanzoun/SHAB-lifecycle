@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>3e8096fa-5b64-42b6-b85c-d85d34d594fc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004669418</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation CR Building SA, Martigny</de>
+    <en>Change CR Building SA, Martigny</en>
+    <it>Cambiamenti CR Building SA, Martigny</it>
+    <fr>Mutation CR Building SA, Martigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1783</journalNumber>
+  <journalDate>2019-07-02</journalDate>
+  <publicationText>CR Building SA, à Martigny, CHE-108.724.898, société anonyme (No. FOSC 125 du 02.07.2019, Publ. 1004665577). Transfert de patrimoine: selon contrat du 27.06.2019, la société a transféré des actifs pour CHF 1'657'815.00 et des passifs envers les tiers pour CHF 1'035'327.00 à la société "Raboud SA" à Martigny (CHE-251.336.285). Contre-prestation: créance de CHF 622'488.00 à l'encontre de la société "Raboud SA" à Martigny (CHE-251.336.285).</publicationText>
+  <commonsNew>
+    <company>
+      <name>CR Building SA</name>
+      <uid>CHE108724898</uid>
+      <uidOrganisationId>108724898</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130025224</code13>
+      <seat>Martigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Levant</street>
+        <houseNumber>181</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>toutes opérations immobilières, telles qu'achat, vente, promotion, construction, rénovation, location, administration et gestion de biens immobiliers (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CR Building SA</name>
+      <uid>CHE108724898</uid>
+      <uidOrganisationId>108724898</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130025224</code13>
+      <seat>Martigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Levant</street>
+        <houseNumber>181</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>toutes opérations immobilières, telles qu'achat, vente, promotion, construction, rénovation, location, administration et gestion de biens immobiliers (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-02</lastFoscDate>
+    <lastFoscNumber>125</lastFoscNumber>
+    <lastFoscSequence>1004665577</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

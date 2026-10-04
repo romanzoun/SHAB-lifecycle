@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>44970578-1c58-4d41-8849-4c2f2c615ac9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004585798</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Associazione Piazza Blues, Bellinzona</de>
+    <en>Change Associazione Piazza Blues, Bellinzona</en>
+    <it>Cambiamenti Associazione Piazza Blues, Bellinzona</it>
+    <fr>Mutation Associazione Piazza Blues, Bellinzona</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3771</journalNumber>
+  <journalDate>2019-03-07</journalDate>
+  <publicationText>Associazione Piazza Blues, in Bellinzona, CHE-103.588.300, associazione (Nr. FUSC 68 del 08.04.2005, p.14, Pubbl. 2782906). L'Associzione deve essere cancellata a seguito della procedura di cui all'art. 155 ORC. La cancellazione non può tuttavia essere effettuata mancando il consenso delle autorità fiscali federali e cantonali.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Associazione Piazza Blues</name>
+      <uid>CHE103588300</uid>
+      <uidOrganisationId>103588300</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50060025490</code13>
+      <seat>Bellinzona</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o avv. Daniele Jörg</addressLine1>
+        <street>Via Ospedale</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>6500</swissZipCode>
+        <town>Bellinzona</town>
+      </address>
+    </company>
+    <purpose>L'organizzazione della rassegna Piazza Blues, ripresa dall'Associazione Conga Club, allo scopo di poterne gestire la crescita e al promozione sotto ogni aspetto, nel modo migliore.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Associazione Piazza Blues</name>
+      <uid>CHE103588300</uid>
+      <uidOrganisationId>103588300</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50060025490</code13>
+      <seat>Bellinzona</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o avv. Daniele Jörg</addressLine1>
+        <street>Via Ospedale</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>6500</swissZipCode>
+        <town>Bellinzona</town>
+      </address>
+    </company>
+    <purpose>L'organizzazione della rassegna Piazza Blues, ripresa dall'Associazione Conga Club, allo scopo di poterne gestire la crescita e al promozione sotto ogni aspetto, nel modo migliore.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2005-04-08</lastFoscDate>
+    <lastFoscNumber>68</lastFoscNumber>
+    <lastFoscSequence>2782906</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

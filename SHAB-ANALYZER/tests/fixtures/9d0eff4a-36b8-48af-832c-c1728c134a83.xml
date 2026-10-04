@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>9d0ca11e-a3c5-46ec-ba0b-0a9a1b01eb46</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004590756</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation GP Option SA, Vuadens</de>
+    <en>Change GP Option SA, Vuadens</en>
+    <it>Cambiamenti GP Option SA, Vuadens</it>
+    <fr>Mutation GP Option SA, Vuadens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1508</journalNumber>
+  <journalDate>2019-03-14</journalDate>
+  <publicationText>GP Option SA, à Vuadens, CHE-249.252.779 (SHAB vom 11.05.2018, s. 0/4223459). Selon déclaration du 27.02.2019, la société n'est pas soumise à un contrôle ordinaire et renonce à un contrôle restreint. Multifiduciaire Fribourg S.A., succursale de Bulle (CHE-174.226.833) n'est plus organe de révision.</publicationText>
+  <commonsNew>
+    <company>
+      <name>GP Option SA</name>
+      <uid>CHE249252779</uid>
+      <uidOrganisationId>249252779</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735584400</code13>
+      <seat>Vuadens</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Grisoni-Zaugg S.A.</addressLine1>
+        <street>Rue de Planchy</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1628</swissZipCode>
+        <town>Vuadens</town>
+      </address>
+    </company>
+    <purpose>achat, vente, location, gérance, construction de tous bâtiments, construction en entreprise générale, exploitation de bâtiments commerciaux (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GP Option SA</name>
+      <uid>CHE249252779</uid>
+      <uidOrganisationId>249252779</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735584400</code13>
+      <seat>Vuadens</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Grisoni-Zaugg S.A.</addressLine1>
+        <street>Rue de Planchy</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1628</swissZipCode>
+        <town>Vuadens</town>
+      </address>
+    </company>
+    <purpose>achat, vente, location, gérance, construction de tous bâtiments, construction en entreprise générale, exploitation de bâtiments commerciaux (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-11</lastFoscDate>
+    <lastFoscSequence>4223459</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

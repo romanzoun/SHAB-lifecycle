@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>bc0d0253-5afc-4b65-a9b6-2b220af39c7f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004706448</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation MAXONY Suisse SA, Marchissy</de>
+    <en>Change MAXONY Suisse SA, Marchissy</en>
+    <it>Cambiamenti MAXONY Suisse SA, Marchissy</it>
+    <fr>Mutation MAXONY Suisse SA, Marchissy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15457</journalNumber>
+  <journalDate>2019-08-27</journalDate>
+  <publicationText>MAXONY Suisse SA, à Marchissy, CHE-110.600.685 (FOSC du 19.06.2019, p. 0/1004655167). Gilliéron Catherine n'est plus administratrice; sa signature est radiée. Nouvel administrateur avec signature individuelle: Mendes Mota Frédéric, de Vernier, à Collonge-Bellerive.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MAXONY Suisse SA</name>
+      <uid>CHE-110.600.685</uid>
+      <uidOrganisationId>110600685</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030033073</code13>
+      <seat>Marchissy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Marchairuz</street>
+        <houseNumber>4 B</houseNumber>
+        <swissZipCode>1261</swissZipCode>
+        <town>Marchissy</town>
+      </address>
+    </company>
+    <purpose>Bezweckt, grosszügige Unterstützung von in Not geratenen Personen und gemeinnützigen Institutionen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MAXONY Suisse SA</name>
+      <uid>CHE-110.600.685</uid>
+      <uidOrganisationId>110600685</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030033073</code13>
+      <seat>Marchissy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Marchairuz</street>
+        <houseNumber>4 B</houseNumber>
+        <swissZipCode>1261</swissZipCode>
+        <town>Marchissy</town>
+      </address>
+    </company>
+    <purpose>la fourniture de services et d'applications Internet aux entreprises (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-19</lastFoscDate>
+    <lastFoscNumber>116</lastFoscNumber>
+    <lastFoscSequence>1004655167</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

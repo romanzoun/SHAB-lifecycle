@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3544088d-bc69-4342-8df6-fdebee68e490</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004581887</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation OpT2mise Consulting Sàrl, Cugy (VD)</de>
+    <en>Change OpT2mise Consulting Sàrl, Cugy (VD)</en>
+    <it>Cambiamenti OpT2mise Consulting Sàrl, Cugy (VD)</it>
+    <fr>Mutation OpT2mise Consulting Sàrl, Cugy (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4250</journalNumber>
+  <journalDate>2019-03-01</journalDate>
+  <publicationText>OpT2mise Consulting Sàrl, à Cugy (VD), CHE-236.642.013 (FOSC du 04.04.2018, p. 0/4149301). Meillard Jean-François est désormais à Châtel-Saint-Denis.</publicationText>
+  <commonsNew>
+    <company>
+      <name>OpT2mise Consulting Sàrl</name>
+      <uid>CHE236642013</uid>
+      <uidOrganisationId>236642013</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011790102</code13>
+      <seat>Cugy (VD)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o FM Bureau Comptable Sàrl</addressLine1>
+        <street>Route de Bottens</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1053</swissZipCode>
+        <town>Cugy (VD)</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités de conseil dans le domaine scientifique (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>OpT2mise Consulting Sàrl</name>
+      <uid>CHE236642013</uid>
+      <uidOrganisationId>236642013</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011790102</code13>
+      <seat>Cugy (VD)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o FM Bureau Comptable Sàrl</addressLine1>
+        <street>Route de Bottens</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1053</swissZipCode>
+        <town>Cugy (VD)</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités de conseil dans le domaine scientifique (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-04</lastFoscDate>
+    <lastFoscSequence>4149301</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

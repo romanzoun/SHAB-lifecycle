@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.19/HR02-export.xsd">
+<meta>
+  <id>19e1aa2b-a60f-4550-b9ba-a9d025f082f4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005865189</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-10-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Schwimmschule Züri-Oberland / Schwimmheftverlag, Niederberger, Fischenthal</de>
+    <en>Change Schwimmschule Züri-Oberland / Schwimmheftverlag, Niederberger, Fischenthal</en>
+    <it>Cambiamenti Schwimmschule Züri-Oberland / Schwimmheftverlag, Niederberger, Fischenthal</it>
+    <fr>Mutation Schwimmschule Züri-Oberland / Schwimmheftverlag, Niederberger, Fischenthal</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>42465</journalNumber>
+  <journalDate>2023-10-17</journalDate>
+  <publicationText>Schwimmschule Züri-Oberland / Schwimmheftverlag, Niederberger, in Fischenthal, CHE-112.179.834, Einzelunternehmen (SHAB Nr. 195 vom 09.10.2023, Publ. 1005855450). Die Löschung dieses Einzelunternehmens erfolgte irrtümlich und wird in allen Teilen widerrufen. Das Einzelunternehmen besteht gemäss den früheren Einträgen weiter. [bisher: Das Einzelunternehmen wird infolge Nichtaufnahme des Geschäftsbetriebes gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Schwimmschule Züri-Oberland / Schwimmheftverlag, Niederberger</name>
+      <uid>CHE-112.179.834</uid>
+      <uidOrganisationId>112179834</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010468990</code13>
+      <seat>Fischenthal</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Tösstalstrasse</street>
+        <houseNumber>275</houseNumber>
+        <swissZipCode>8497</swissZipCode>
+        <town>Fischenthal</town>
+      </address>
+    </company>
+    <purpose>Schwimmschule für Kinder und Erwachsene, Verlag von Schwimmlehrmitteln.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Schwimmschule Züri-Oberland / Schwimmheftverlag, Niederberger</name>
+      <uid>CHE-112.179.834</uid>
+      <uidOrganisationId>112179834</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010468990</code13>
+      <seat>Fischenthal</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Tösstalstrasse</street>
+        <houseNumber>275</houseNumber>
+        <swissZipCode>8497</swissZipCode>
+        <town>Fischenthal</town>
+      </address>
+    </company>
+    <purpose>Schwimmschule für Kinder und Erwachsene, Verlag von Schwimmlehrmitteln.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2023-10-09</lastFoscDate>
+    <lastFoscNumber>195</lastFoscNumber>
+    <lastFoscSequence>1005855450</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>true</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

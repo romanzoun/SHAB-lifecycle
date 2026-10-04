@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0e7b2f49-d38f-43aa-a8b0-6153a4a2913f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004505213</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Asllani AG, bisher Asllani AG in Liquidation, Küsnacht (ZH)</de>
+    <en>Change Asllani AG, to date Asllani AG in Liquidation, Küsnacht (ZH)</en>
+    <it>Cambiamenti Asllani AG, prima Asllani AG in Liquidation, Küsnacht (ZH)</it>
+    <fr>Mutation Asllani AG, Küsnacht (ZH)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>41846</journalNumber>
+  <journalDate>2018-11-21</journalDate>
+  <publicationText>Asllani AG in Liquidation, in Küsnacht (ZH), CHE-112.284.425, Aktiengesellschaft (SHAB Nr. 220 vom 13.11.2018, Publ. 1004496086). Firma neu: Asllani AG. Mit Beschluss des Obergerichtes des Kantons Zürich vom 20.11.2018 ist der Beschwerde gegen das Urteil des Konkursrichters des Bezirksgerichts Meilen vom 07.11.2018 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt worden. Demnach wird die Eintragung betreffend Auflösung der Gesellschaft infolge Konkurses im Handelsregister gestrichen. [bisher: Mit Urteil vom 07.11.2018 hat der Konkursrichter des Bezirksgerichts Meilen über die Gesellschaft mit Wirkung ab dem 07.11.2018, 09.15 Uhr, den Konkurs eröffnet; demnach ist die Gesellschaft aufgelöst.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Asllani AG</name>
+      <uid>CHE112284425</uid>
+      <uidOrganisationId>112284425</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030282031</code13>
+      <seat>Küsnacht (ZH)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8700</swissZipCode>
+        <town>Küsnacht ZH</town>
+      </address>
+    </company>
+    <purpose>Verlegen von Platten und Bodenbelägen, Ausführen von Maler- und Gipserarbeiten sowie übriger Handwerksarbeiten</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Asllani AG in Liquidation</name>
+      <uid>CHE112284425</uid>
+      <uidOrganisationId>112284425</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030282031</code13>
+      <seat>Küsnacht (ZH)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8700</swissZipCode>
+        <town>Küsnacht ZH</town>
+      </address>
+    </company>
+    <purpose>Verlegen von Platten und Bodenbelägen, Ausführen von Maler- und Gipserarbeiten sowie übriger Handwerksarbeiten</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-13</lastFoscDate>
+    <lastFoscNumber>220</lastFoscNumber>
+    <lastFoscSequence>1004496086</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

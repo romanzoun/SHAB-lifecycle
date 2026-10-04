@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>312b4fa8-bae5-425a-93ce-880e8acb0b06</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004724560</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation António Germano Mónica dos Santos - Restaurant, Arisdorf</de>
+    <en>Change António Germano Mónica dos Santos - Restaurant, Arisdorf</en>
+    <it>Cambiamenti António Germano Mónica dos Santos - Restaurant, Arisdorf</it>
+    <fr>Mutation António Germano Mónica dos Santos - Restaurant, Arisdorf</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4473</journalNumber>
+  <journalDate>2019-09-23</journalDate>
+  <publicationText>António Germano Mónica dos Santos - Restaurant, in Arisdorf, CHE-332.382.658, Einzelunternehmen (SHAB Nr. 175 vom 11.09.2019, Publ. 1004714024). Mit Verfügung des Kantonsgerichts Basel-Landschaft vom 17.09.2019 ist der Beschwerde gegen die Verfügung der Konkursrichterin des Zivilkreisgerichts Basel-Landschaft Ost vom 05.09.2019 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt worden. Demnach besteht das Einzelunternehmen entsprechend den früheren Eintragungen weiter. [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Verfügung der Konkursrichterin des Zivilkreisgerichts Basel-Landschaft Ost vom 05.09.2019 mit Wirkung ab dem 05.09.2019, 10:00 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>António Germano Mónica dos Santos - Restaurant</name>
+      <uid>CHE-332.382.658</uid>
+      <uidOrganisationId>332382658</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010192033</code13>
+      <seat>Arisdorf</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>4422</swissZipCode>
+        <town>Arisdorf</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Restaurants.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>António Germano Mónica dos Santos - Restaurant</name>
+      <uid>CHE-332.382.658</uid>
+      <uidOrganisationId>332382658</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010192033</code13>
+      <seat>Arisdorf</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>4422</swissZipCode>
+        <town>Arisdorf</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Restaurants.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-11</lastFoscDate>
+    <lastFoscNumber>175</lastFoscNumber>
+    <lastFoscSequence>1004714024</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

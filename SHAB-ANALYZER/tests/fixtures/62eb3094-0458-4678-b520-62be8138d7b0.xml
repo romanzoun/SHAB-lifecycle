@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>612f31e7-c1ac-4379-8746-75aca33d93db</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005274040</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-08-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <secondaryTenants>
+    <tenantCode>kabti</tenantCode>
+    <publicationDate>2021-08-19</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation CLEANING SERVICE di Lungu Adriana, Lugano</de>
+    <en>Change CLEANING SERVICE di Lungu Adriana, Lugano</en>
+    <it>Cambiamenti CLEANING SERVICE di Lungu Adriana, Lugano</it>
+    <fr>Mutation CLEANING SERVICE di Lungu Adriana, Lugano</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21244</journalNumber>
+  <journalDate>2021-08-16</journalDate>
+  <publicationText>CLEANING SERVICE di Lungu Adriana, in Lugano, CHE-199.064.825, impresa individuale (Nr. FUSC 153 del 10.08.2021, Pubbl. 1005268224). Con decisione del 13.08.2021 la Camera di esecuzione e fallimenti del Tribunale d'appello del Cantone Ticino ha accordato effetto sospensivo al reclamo inoltrato contro la decisione di fallimento aperto nei confronti del titolare il 05.08.2021. [radiati: La titolare è stata dichiarata in fallimento con decisione della Pretura del Distretto di Lugano del 04.08.2021 a far tempo dal 05.08.2021 alle ore 10:00.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>CLEANING SERVICE di Lungu Adriana</name>
+      <uid>CHE-199.064.825</uid>
+      <uidOrganisationId>199064825</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110201505</code13>
+      <seat>Lugano</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Aldesago</street>
+        <houseNumber>135</houseNumber>
+        <swissZipCode>6974</swissZipCode>
+        <town>Aldesago</town>
+      </address>
+    </company>
+    <purpose>Servizi di pulizia cantieristica, civile ed industriale. Importazione, acquisto e vendita materiale di consumo e monouso. Servizi di custodia e manutenzione di stabili.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CLEANING SERVICE di Lungu Adriana</name>
+      <uid>CHE-199.064.825</uid>
+      <uidOrganisationId>199064825</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110201505</code13>
+      <seat>Lugano</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Aldesago</street>
+        <houseNumber>135</houseNumber>
+        <swissZipCode>6974</swissZipCode>
+        <town>Aldesago</town>
+      </address>
+    </company>
+    <purpose>Servizi di pulizia cantieristica, civile ed industriale. Importazione, acquisto e vendita materiale di consumo e monouso. Servizi di custodia e manutenzione di stabili.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-08-10</lastFoscDate>
+    <lastFoscNumber>153</lastFoscNumber>
+    <lastFoscSequence>1005268224</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

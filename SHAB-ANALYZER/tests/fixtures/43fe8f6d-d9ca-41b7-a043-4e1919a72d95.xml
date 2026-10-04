@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>43e53ad6-d8d4-40fe-be6d-bb5ad519d2fb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004545698</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Chiffelle Immobilier Sàrl, Chexbres</de>
+    <en>Change Chiffelle Immobilier Sàrl, Chexbres</en>
+    <it>Cambiamenti Chiffelle Immobilier Sàrl, Chexbres</it>
+    <fr>Mutation Chiffelle Immobilier Sàrl, Chexbres</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>934</journalNumber>
+  <journalDate>2019-01-15</journalDate>
+  <publicationText>Chiffelle Immobilier Sàrl, à Chexbres, CHE-418.913.221 (FOSC du 19.12.2013, p. 0/7225834). L'associé-gérant Chiffelle Jérôme, cède 156 parts de ses 400 parts de CHF 100 à Guex Vincent, de Belfaux, à Montreux, nouvel associé sans signature. Chiffelle Jérôme reste titulaire de 244 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Chiffelle Immobilier Sàrl</name>
+      <uid>CHE418913221</uid>
+      <uidOrganisationId>418913221</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011207114</code13>
+      <seat>Chexbres</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Bourg</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>1071</swissZipCode>
+        <town>Chexbres</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: courtage, achat, vente et construction de biens immobiliers (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Chiffelle Immobilier Sàrl</name>
+      <uid>CHE418913221</uid>
+      <uidOrganisationId>418913221</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011207114</code13>
+      <seat>Chexbres</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Bourg</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>1071</swissZipCode>
+        <town>Chexbres</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: courtage, achat, vente et construction de biens immobiliers (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

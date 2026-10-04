@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>392dd998-e735-4a14-ae4b-b92426a62a74</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004485236</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Fondation LUCA, Sion</de>
+    <en>Change Fondation LUCA, Sion</en>
+    <it>Cambiamenti Fondation LUCA, Sion</it>
+    <fr>Mutation Fondation LUCA, Sion</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2648</journalNumber>
+  <journalDate>2018-10-23</journalDate>
+  <publicationText>Fondation LUCA, à Sion, CHE-110.308.279, fondation (No. FOSC 210 du 30.10.2017, Publ. 3839173). Personne(s) et signature(s) radiée(s): Alpes Audit SA, à Martigny, organe de révision.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation LUCA</name>
+      <uid>CHE110308279</uid>
+      <uidOrganisationId>110308279</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62670090655</code13>
+      <seat>Sion</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Chanoine-Berchtold</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>lutter contre les abus sexuels et les maltraitances commis à l'endroit des enfants; elle se propose d'agir dans le terrain, avec des techniques d'enquêteurs, dans le but d'établir des preuves convaincantes et de les exploiter de manière optimale pour le bien des enfants victimes de violences</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation LUCA</name>
+      <uid>CHE110308279</uid>
+      <uidOrganisationId>110308279</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62670090655</code13>
+      <seat>Sion</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Chanoine-Berchtold</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>lutter contre les abus sexuels et les maltraitances commis à l'endroit des enfants; elle se propose d'agir dans le terrain, avec des techniques d'enquêteurs, dans le but d'établir des preuves convaincantes et de les exploiter de manière optimale pour le bien des enfants victimes de violences</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-10-30</lastFoscDate>
+    <lastFoscNumber>210</lastFoscNumber>
+    <lastFoscSequence>3839173</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

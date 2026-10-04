@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>9385e47c-6d09-48c5-a3f8-f5d89e3a2d22</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004617428</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation ACN Advanced Communications Networks SA, Neuchâtel</de>
+    <en>Change ACN Advanced Communications Networks SA, Neuchâtel</en>
+    <it>Cambiamenti ACN Advanced Communications Networks SA, Neuchâtel</it>
+    <fr>Mutation ACN Advanced Communications Networks SA, Neuchâtel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1284</journalNumber>
+  <journalDate>2019-04-18</journalDate>
+  <publicationText>ACN Advanced Communications Networks SA, à Neuchâtel, CHE-107.460.343 (FOSC du 27.12.2018, p. 0/1004531562). Administration: Chave Pierre-Olivier, jusqu'ici vice-président, nommé président, Boss Antoine, nommé secrétaire, Horvath Stephan, maintenant domicilié à Ipsach, Mirow Michael, jusqu'ici président, et Cergel Lubomir, lesquels continuent de signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ACN Advanced Communications Networks SA</name>
+      <uid>CHE107460343</uid>
+      <uidOrganisationId>107460343</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510007306</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Puits-Godet</street>
+        <houseNumber>8a</houseNumber>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>développement, fabrication, distribution, installation de produits pour l'intégration de réseaux informatiques (données et multimédia), avec prestations de services et de conseil, ainsi que distribution de produits complémentaires.</purpose>
+    <capital>
+      <nominal>14746534.98</nominal>
+      <paid>14746534.98</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ACN Advanced Communications Networks SA</name>
+      <uid>CHE107460343</uid>
+      <uidOrganisationId>107460343</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510007306</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Puits-Godet</street>
+        <houseNumber>8a</houseNumber>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>développement, fabrication, distribution, installation de produits pour l'intégration de réseaux informatiques (données et multimédia), avec prestations de services et de conseil, ainsi que distribution de produits complémentaires.</purpose>
+    <capital>
+      <nominal>14746534.98</nominal>
+      <paid>14746534.98</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-27</lastFoscDate>
+    <lastFoscSequence>1004531562</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>dcec5f8a-d63a-4003-a2dd-b09957a03aba</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004543461</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation CREAJOB SERVICES SA, Lancy</de>
+    <en>Change CREAJOB SERVICES SA, Lancy</en>
+    <it>Cambiamenti CREAJOB SERVICES SA, Lancy</it>
+    <fr>Mutation CREAJOB SERVICES SA, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>820</journalNumber>
+  <journalDate>2019-01-11</journalDate>
+  <publicationText>CREAJOB SERVICES SA, à Lancy, CHE-113.312.567 (FOSC du 18.05.2016, p. 0/2837367). Administration: Gomez Roland Dominique Lucien, de France, à Manosque, F, président, Vesuvio Rose-Marie, nommée déléguée et Gomez Roland Joseph, de France, à Manosque, F, tous trois avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CREAJOB SERVICES SA</name>
+      <uid>CHE113312567</uid>
+      <uidOrganisationId>113312567</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66028010064</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Grand-Lancy</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>location de services, sélection, recrutement et prêt de personnel, coaching et management, gestion des ressources humaines ainsi placées et des salaires, principalement à Genève, ainsi que toute activité y relative.</purpose>
+    <capital>
+      <nominal>101000.00</nominal>
+      <paid>101000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CREAJOB SERVICES SA</name>
+      <uid>CHE113312567</uid>
+      <uidOrganisationId>113312567</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66028010064</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Grand-Lancy</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>location de services, sélection, recrutement et prêt de personnel, coaching et management, gestion des ressources humaines ainsi placées et des salaires, principalement à Genève, ainsi que toute activité y relative.</purpose>
+    <capital>
+      <nominal>101000.00</nominal>
+      <paid>101000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-05-18</lastFoscDate>
+    <lastFoscSequence>2837367</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

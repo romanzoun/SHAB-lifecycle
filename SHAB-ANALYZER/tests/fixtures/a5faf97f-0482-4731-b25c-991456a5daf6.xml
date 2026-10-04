@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>a5ad30a8-49b9-4811-8fd9-841f50318814</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004771532</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Mentice SA, Lausanne, neu Mentice SA en liquidation</de>
+    <en>Change Mentice SA, Lausanne, new Mentice SA en liquidation</en>
+    <it>Cambiamenti Mentice SA, Lausanne, nuovo Mentice SA en liquidation</it>
+    <fr>Mutation Mentice SA, Lausanne, nouveau Mentice SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21335</journalNumber>
+  <journalDate>2019-11-26</journalDate>
+  <publicationText>Mentice SA, à Lausanne, CHE-105.504.076 (FOSC du 18.02.2015, p. 0/1996729). Selon décision de son assemblée générale du 14 novembre 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Mentice SA en liquidation par Fidexaudit SA (CHE-107.516.529), à Lausanne, liquidatrice. Les 428'718 actions nominatives de CHF 10, formant l'entier du capital-actions, ne sont plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mentice SA en liquidation</name>
+      <uid>CHE-105.504.076</uid>
+      <uidOrganisationId>105504076</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010085650</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Fidexaudit SA</addressLine1>
+        <street>Chemin de Mornex</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>conception, production, assemblage et distribution d'appareils et services dans le domaine de la réalité virtuelle, de la robotique et de l'informatique.</purpose>
+    <capital>
+      <nominal>4287180.00</nominal>
+      <paid>4287180.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mentice SA</name>
+      <uid>CHE-105.504.076</uid>
+      <uidOrganisationId>105504076</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010085650</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Fidexaudit SA</addressLine1>
+        <street>Chemin de Mornex</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>conception, production, assemblage et distribution d'appareils et services dans le domaine de la réalité virtuelle, de la robotique et de l'informatique.</purpose>
+    <capital>
+      <nominal>4287180.00</nominal>
+      <paid>4287180.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-02-18</lastFoscDate>
+    <lastFoscNumber>33</lastFoscNumber>
+    <lastFoscSequence>1996729</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>30fc69a5-8456-4c17-8844-e1c29b295139</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004732715</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation LEUBA HIAG SA, Füllinsdorf</de>
+    <en>Change LEUBA HIAG SA, Füllinsdorf</en>
+    <it>Cambiamenti LEUBA HIAG SA, Füllinsdorf</it>
+    <fr>Mutation LEUBA HIAG SA, Füllinsdorf</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4684</journalNumber>
+  <journalDate>2019-10-03</journalDate>
+  <publicationText>LEUBA HIAG SA, in Füllinsdorf, CHE-100.123.867, Aktiengesellschaft (SHAB Nr. 191 vom 03.10.2019, Publ. 1004729425). Zweigniederlassung neu: [Folgende Zweigniederlassungen sind aufgehoben worden:] [gestrichen: Leibstadt (CHE-247.913.860) HR AG]. [gestrichen: Bern (CHE-237.415.394) HR BE].</publicationText>
+  <commonsNew>
+    <company>
+      <name>LEUBA HIAG SA</name>
+      <uid>CHE-100.123.867</uid>
+      <uidOrganisationId>100123867</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28039119373</code13>
+      <seat>Füllinsdorf</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wölferstrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>4414</swissZipCode>
+        <town>Füllinsdorf</town>
+      </address>
+    </company>
+    <purpose>Handel mit Holzwerkstoffen und Bauelementen sowie verwandten Artikeln. Die Gesellschaft kann Grundstücke erwerben, belasten und veräussern, sowie sich an andern Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LEUBA HIAG SA</name>
+      <uid>CHE-100.123.867</uid>
+      <uidOrganisationId>100123867</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28039119373</code13>
+      <seat>Füllinsdorf</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wölferstrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>4414</swissZipCode>
+        <town>Füllinsdorf</town>
+      </address>
+    </company>
+    <purpose>Handel mit Holzwerkstoffen und Bauelementen sowie verwandten Artikeln. Die Gesellschaft kann Grundstücke erwerben, belasten und veräussern, sowie sich an andern Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-03</lastFoscDate>
+    <lastFoscNumber>191</lastFoscNumber>
+    <lastFoscSequence>1004729425</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

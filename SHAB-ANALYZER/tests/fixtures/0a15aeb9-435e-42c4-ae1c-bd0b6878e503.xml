@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>0a082944-3be4-4495-bf93-60c5371dafcd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004785875</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Pharmacie Marti SA, Val-de-Ruz</de>
+    <en>Change Pharmacie Marti SA, Val-de-Ruz</en>
+    <it>Cambiamenti Pharmacie Marti SA, Val-de-Ruz</it>
+    <fr>Mutation Pharmacie Marti SA, Val-de-Ruz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3994</journalNumber>
+  <journalDate>2019-12-12</journalDate>
+  <publicationText>Pharmacie Marti SA, à Val-de-Ruz, CHE-471.207.077 (FOSC du 06.11.2017, p. 0/3852053). Nouvelle raison sociale de l'organe de révision "Fiduconsult Exafid SA" (CHE-100.349.199): "Fiduconsult Neuchâtel SA".</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pharmacie Marti SA</name>
+      <uid>CHE-471.207.077</uid>
+      <uidOrganisationId>471207077</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541074660</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Cernier, rue Frédéric-Soguel</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>2053</swissZipCode>
+        <town>Cernier</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une pharmacie, fabriquer et faire commerce de produits pharmaceutiques, de produits vétérinaires, de produits relevant de la para-pharmacie, de la droguerie, de l'herboristerie, de l'hygiène, des cosmétiques et de la parfumerie (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Fiduconsult Neuchâtel SA</name>
+        <country>CH</country>
+        <uid>CHE100349199</uid>
+        <uidOrganisationId>100349199</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pharmacie Marti SA</name>
+      <uid>CHE-471.207.077</uid>
+      <uidOrganisationId>471207077</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541074660</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Cernier, rue Frédéric-Soguel</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>2053</swissZipCode>
+        <town>Cernier</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une pharmacie, fabriquer et faire commerce de produits pharmaceutiques, de produits vétérinaires, de produits relevant de la para-pharmacie, de la droguerie, de l'herboristerie, de l'hygiène, des cosmétiques et de la parfumerie (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-06</lastFoscDate>
+    <lastFoscNumber>215</lastFoscNumber>
+    <lastFoscSequence>3852053</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.21/HR02-export.xsd">
+<meta>
+  <id>85a8583f-f092-4c42-b408-a5ee10b2cc09</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006054124</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-06-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Société Immobilière Le Feuillage SA, Céligny</de>
+    <en>Change Société Immobilière Le Feuillage SA, Céligny</en>
+    <it>Cambiamenti Société Immobilière Le Feuillage SA, Céligny</it>
+    <fr>Mutation Société Immobilière Le Feuillage SA, Céligny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11172</journalNumber>
+  <journalDate>2024-06-06</journalDate>
+  <publicationText>Société Immobilière Le Feuillage SA, à Céligny, CHE-102.699.569 (FOSC du 16.08.2021, p. 0/1005271841). Le 01.05.2021, les actions au porteur ont été converties de par la loi en actions nominatives; par décision de l'assemblée générale du 30.05.2024, les statuts de la société ont été adaptés à la conversion. Capital-actions: CHF 50'000, libéré à concurrence de CHF 50'000, divisé en 50 actions de CHF 1'000, nominatives, désormais liées selon statuts. Communication aux actionnaires: par courrier simple ou par courriel. Nouveaux statuts du 30.05.2024.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Société Immobilière Le Feuillage SA</name>
+      <uid>CHE-102.699.569</uid>
+      <uidOrganisationId>102699569</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000819270</code13>
+      <seat>Céligny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Crans</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1298</swissZipCode>
+        <town>Céligny</town>
+      </address>
+    </company>
+    <purpose>achat, location et revente d'immeubles sis dans le canton de Genève.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Société Immobilière Le Feuillage SA</name>
+      <uid>CHE-102.699.569</uid>
+      <uidOrganisationId>102699569</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000819270</code13>
+      <seat>Céligny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Crans</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1298</swissZipCode>
+        <town>Céligny</town>
+      </address>
+    </company>
+    <purpose>achat, location et revente d'immeubles sis dans le canton de Genève.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-08-16</lastFoscDate>
+    <lastFoscNumber>157</lastFoscNumber>
+    <lastFoscSequence>1005271841</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

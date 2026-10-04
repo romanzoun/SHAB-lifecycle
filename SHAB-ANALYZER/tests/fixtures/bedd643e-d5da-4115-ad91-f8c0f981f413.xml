@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>be9d8daf-3a80-459e-bdfd-3fc03d5ba3c7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004516932</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Espace Charpente SARL, Genève</de>
+    <en>Change Espace Charpente SARL, Genève</en>
+    <it>Cambiamenti Espace Charpente SARL, Genève</it>
+    <fr>Mutation Espace Charpente SARL, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22690</journalNumber>
+  <journalDate>2018-12-05</journalDate>
+  <publicationText>Espace Charpente SARL, à Genève, CHE-239.786.743 (FOSC du 03.02.2017, p. 0/3326825). L'associé-gérant Gall Damien Fabrice détient 54 parts de CHF 200 et l'associé-gérant Guillaud Alexandre détient 35 parts de CHF 200 par suite de cession de 5 parts de CHF 200 chacun. Cessionnaire et nouvel associé-gérant: Grogielli Julien, de France, à Le Sappey, F, pour 10 parts de CHF 200, avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Espace Charpente SARL</name>
+      <uid>CHE239786743</uid>
+      <uidOrganisationId>239786743</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002930175</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Arnaud Greco</addressLine1>
+        <street>rue de la Dôle</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1203</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>le travail de charpente, menuiserie et construction à ossature bois (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Espace Charpente SARL</name>
+      <uid>CHE239786743</uid>
+      <uidOrganisationId>239786743</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002930175</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Arnaud Greco</addressLine1>
+        <street>rue de la Dôle</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1203</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>le travail de charpente, menuiserie et construction à ossature bois (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-02-03</lastFoscDate>
+    <lastFoscSequence>3326825</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

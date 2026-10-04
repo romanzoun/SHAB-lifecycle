@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>b5526fe8-18b7-44a4-8a05-63282995178b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004713435</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Theodora, Lonay</de>
+    <en>Change Fondation Theodora, Lonay</en>
+    <it>Cambiamenti Fondation Theodora, Lonay</it>
+    <fr>Mutation Fondation Theodora, Lonay</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16049</journalNumber>
+  <journalDate>2019-09-05</journalDate>
+  <publicationText>Fondation Theodora, à Lonay, CHE-107.613.291 (FOSC du 03.07.2018, p. 0/4332575). Nouveau membre du conseil de fondation avec signature collective à deux avec le président, le vice-président ou le secrétaire: Mechkatti Marquis Samira, de Lutry, à Aubonne.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Theodora</name>
+      <translations>(Stiftung Theodora) (Fondazione Theodora) (Theodora Foundation)</translations>
+      <uid>CHE-107.613.291</uid>
+      <uidOrganisationId>107613291</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000657351</code13>
+      <seat>Lonay</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Bief 6 bis</street>
+        <swissZipCode>1027</swissZipCode>
+        <town>Lonay</town>
+      </address>
+    </company>
+    <purpose>apporter un soulagement moral et physique aux enfants hospitalisés, notamment par l'organisation d'animations humoristiques ou autres à leur intention.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Theodora</name>
+      <translations>(Stiftung Theodora) (Fondazione Theodora) (Theodora Foundation)</translations>
+      <uid>CHE-107.613.291</uid>
+      <uidOrganisationId>107613291</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000657351</code13>
+      <seat>Lonay</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Bief 6 bis</street>
+        <swissZipCode>1027</swissZipCode>
+        <town>Lonay</town>
+      </address>
+    </company>
+    <purpose>apporter un soulagement moral et physique aux enfants hospitalisés, notamment par l'organisation d'animations humoristiques ou autres à leur intention.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-03</lastFoscDate>
+    <lastFoscNumber>126</lastFoscNumber>
+    <lastFoscSequence>4332575</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

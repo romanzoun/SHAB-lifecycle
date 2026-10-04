@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>32c0fce4-1d2f-4b17-b40f-94db288761d6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004712612</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Albis Finanz AG, Zürich</de>
+    <en>Change Albis Finanz AG, Zürich</en>
+    <it>Cambiamenti Albis Finanz AG, Zürich</it>
+    <fr>Mutation Albis Finanz AG, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>34506</journalNumber>
+  <journalDate>2019-09-05</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 171 vom 05.09.2019 publizierten TR-Eintrags Nr. 33883 vom 02.09.2019 Albis Finanz AG, in Zürich, CHE-108.677.678, Aktiengesellschaft (SHAB Nr. 171 vom 05.09.2019, Publ. 1004709397). Mit dem im SHAB-Nr. 171 vom 05.09.2019 eingetragenen TR-Eintrag 33883/2019 wurde auf das falsche SHAB-Zitat bezug genommen. Korrekt wäre: SHAB Nr. 170 von 04.09.2019, Publ. 1004708464.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Albis Finanz AG</name>
+      <translations>(Albis Finanz SA) (Albis Finanz Ltd)</translations>
+      <uid>CHE-108.677.678</uid>
+      <uidOrganisationId>108677678</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030201189</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Talstrasse</street>
+        <houseNumber>83</houseNumber>
+        <swissZipCode>8001</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Beratung und Durchführung von Finanztransaktionen sowie Verwaltung von Vermögen; kann sich an Unternehmen aller Art beteiligen sowie Grundstücke erwerben, halten und veräussern.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Albis Finanz AG</name>
+      <translations>(Albis Finanz SA) (Albis Finanz Ltd)</translations>
+      <uid>CHE-108.677.678</uid>
+      <uidOrganisationId>108677678</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030201189</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Talstrasse</street>
+        <houseNumber>83</houseNumber>
+        <swissZipCode>8001</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Beratung und Durchführung von Finanztransaktionen sowie Verwaltung von Vermögen; kann sich an Unternehmen aller Art beteiligen sowie Grundstücke erwerben, halten und veräussern.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-05</lastFoscDate>
+    <lastFoscNumber>171</lastFoscNumber>
+    <lastFoscSequence>1004709397</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

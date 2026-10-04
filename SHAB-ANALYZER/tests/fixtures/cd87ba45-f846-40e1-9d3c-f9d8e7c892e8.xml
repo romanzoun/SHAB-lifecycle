@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>cd6b97e3-6646-4fc9-a72f-3ec7b0e3b940</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004608041</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation LPR Productions SA, Meyrin</de>
+    <en>Change LPR Productions SA, Meyrin</en>
+    <it>Cambiamenti LPR Productions SA, Meyrin</it>
+    <fr>Mutation LPR Productions SA, Meyrin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6889</journalNumber>
+  <journalDate>2019-04-05</journalDate>
+  <publicationText>LPR Productions SA, à Meyrin, CHE-113.723.284 (FOSC du 02.07.2018, p. 0/4329493). Administration: Roger Louis-Pierre, nommé président, avec signature individuelle, Berney Charles, de Collex-Bossy, à Genève, Berney Laurent, de Collex-Bossy, à Collonge-Bellerive et Fournier Thierry, de Genève, à Founex, tous trois avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LPR Productions SA</name>
+      <uid>CHE113723284</uid>
+      <uidOrganisationId>113723284</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66016650074</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>0</addressLine2>
+        <street>rue de Veyrot 9, Bâtiment Images</street>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>tout conseil et assistance dans le domaine du traitement de l'information; distribution et développement de programmes de contrôle pour ordinateurs; commerce, production, réalisation, montage de tous produits en relation avec l'audiovisuel; prise de participations dans ces sociétés poursuivant le même but.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LPR Productions SA</name>
+      <uid>CHE113723284</uid>
+      <uidOrganisationId>113723284</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66016650074</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Veyrot 9, Bâtiment Images</street>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>tout conseil et assistance dans le domaine du traitement de l'information; distribution et développement de programmes de contrôle pour ordinateurs; commerce, production, réalisation, montage de tous produits en relation avec l'audiovisuel; prise de participations dans ces sociétés poursuivant le même but.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-02</lastFoscDate>
+    <lastFoscSequence>4329493</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

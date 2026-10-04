@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ca21799f-db2f-459f-adf3-e4a1e672e8b9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004451341</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Apartements Schützenmatt AG, Basel</de>
+    <en>Change Apartements Schützenmatt AG, Basel</en>
+    <it>Cambiamenti Apartements Schützenmatt AG, Basel</it>
+    <fr>Mutation Apartements Schützenmatt AG, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5003</journalNumber>
+  <journalDate>2018-09-04</journalDate>
+  <publicationText>Apartements Schützenmatt AG, in Basel, CHE-107.378.173, Aktiengesellschaft (SHAB Nr. 207 vom 26.10.2009, Publ. 5310174). Statutenänderung: 24.08.2018. Qualifizierte Tatbestände neu: [Die Bestimmung über die Sacheinlage- und übernahme bei der Gründung ist aus den Statuten gestrichen worden.] [gestrichen: Sacheinlage und -übernahme: Hoteleinrichtungen gemäss Inventar vom 12.12.1991 zum Preis von CHF 268'483.60 , wovon 100'000.- an da Grundkapital angerechnet werden.]. Mitteilungen neu: Mitteilungen können durch eingeschriebenen Brief erfolgen, sofern sämtliche Adressen der Aktionäre bekannt sind, ansonsten im Publikationsorgan. Gemäss Erklärung vom 24.08.2018 erfüllt die Gesellschaft die Voraussetzungen für den Verzicht auf die eingeschränkte Revision. Ausgeschiedene Personen und erloschene Unterschriften: DATO-Treuhand AG, in Basel, Revisionsstelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Apartements Schützenmatt AG</name>
+      <uid>CHE107378173</uid>
+      <uidOrganisationId>107378173</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030002618</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schützenmattstr.</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>4051</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Führung von Hotels und Restaurants, insbesondere Führung von Apartement-Hotels, ferner Verwaltung und Vermittlung von Liegenschaften Dritter. Die Gesellschaft kann sich an anderen Unternehmungen beteiligen sowie Liegenschaften erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Apartements Schützenmatt AG</name>
+      <uid>CHE107378173</uid>
+      <uidOrganisationId>107378173</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030002618</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schützenmattstr.</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>4051</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Führung von Hotels und Restaurants, insbesondere Führung von Apartement-Hotels, ferner Verwaltung und Vermittlung von Liegenschaften Dritter. Die Gesellschaft kann sich an anderen Unternehmungen beteiligen sowie Liegenschaften erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2009-10-26</lastFoscDate>
+    <lastFoscNumber>207</lastFoscNumber>
+    <lastFoscSequence>5310174</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

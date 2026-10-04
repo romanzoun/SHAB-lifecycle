@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>abd04ce8-69f0-4a53-a6e4-9a625247368f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004675045</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation SERVETTE FOOTBALL CLUB 1890 SA, Lancy</de>
+    <en>Change SERVETTE FOOTBALL CLUB 1890 SA, Lancy</en>
+    <it>Cambiamenti SERVETTE FOOTBALL CLUB 1890 SA, Lancy</it>
+    <fr>Mutation SERVETTE FOOTBALL CLUB 1890 SA, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13139</journalNumber>
+  <journalDate>2019-07-09</journalDate>
+  <publicationText>SERVETTE FOOTBALL CLUB 1890 SA, à Lancy, CHE-114.667.398 (FOSC du 12.02.2019, p. 0/1004564930). Georges Constantin, jusqu'ici directeur général, nommé membre et délégué du conseil d'administration, signe désormais collectivement à deux sans autre restriction.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SERVETTE FOOTBALL CLUB 1890 SA</name>
+      <uid>CHE114667398</uid>
+      <uidOrganisationId>114667398</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000130090</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jeunes</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>toutes activités liées au sport et plus spécialement au football (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>320000.00</nominal>
+      <paid>320000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SERVETTE FOOTBALL CLUB 1890 SA</name>
+      <uid>CHE114667398</uid>
+      <uidOrganisationId>114667398</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000130090</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jeunes</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>toutes activités liées au sport et plus spécialement au football (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>320000.00</nominal>
+      <paid>320000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-12</lastFoscDate>
+    <lastFoscSequence>1004564930</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

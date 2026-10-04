@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>8cd27f1e-714b-4197-8f08-2c592c4eb8cf</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004734755</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation APTG AG, Baar</de>
+    <en>Change APTG AG, Baar</en>
+    <it>Cambiamenti APTG AG, Baar</it>
+    <fr>Mutation APTG AG, Baar</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14291</journalNumber>
+  <journalDate>2019-10-07</journalDate>
+  <publicationText>APTG AG, in Baar, CHE-107.124.885, Aktiengesellschaft (SHAB Nr. 160 vom 21.08.2019, Publ. 1004699601). Mit Entscheid vom 03.10.2019 hat der Einzelrichter am Kantonsgericht die definitive Nachlassstundung bis 14.02.2020 verlängert. [bisher: Mit Entscheid vom 05.06.2019 hat der Einzelrichter am Kantonsgericht die definitive Nachlassstundung bis 14.10.2019 bewilligt.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>APTG AG</name>
+      <translations>(APTG SA) (APTG Ltd)</translations>
+      <uid>CHE-107.124.885</uid>
+      <uidOrganisationId>107124885</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030006137</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Blegistrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Verwaltung, Beratung und Koordination von Beteiligungen, hauptsächlich in der Verpackungsindustrie; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>99726860.00</nominal>
+      <paid>99726860.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>APTG AG</name>
+      <translations>(APTG SA) (APTG Ltd)</translations>
+      <uid>CHE-107.124.885</uid>
+      <uidOrganisationId>107124885</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030006137</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Blegistrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Verwaltung, Beratung und Koordination von Beteiligungen, hauptsächlich in der Verpackungsindustrie; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>99726860.00</nominal>
+      <paid>99726860.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-21</lastFoscDate>
+    <lastFoscNumber>160</lastFoscNumber>
+    <lastFoscSequence>1004699601</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

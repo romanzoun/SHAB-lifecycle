@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>a9f5bc4f-4dd1-4c1f-a922-fc5c194bd8e7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004500981</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Fondation Marc Jurt, Cortaillod</de>
+    <en>Change Fondation Marc Jurt, Cortaillod</en>
+    <it>Cambiamenti Fondation Marc Jurt, Cortaillod</it>
+    <fr>Mutation Fondation Marc Jurt, Cortaillod</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4319</journalNumber>
+  <journalDate>2018-11-14</journalDate>
+  <publicationText>Fondation Marc Jurt, à Cortaillod, CHE-110.223.513 (FOSC du 10.10.2018, p. 0/1004474071). L'inscription n° 3858 du 05.10.2018 est complétée en ce sens que Breguet Georges Antoine David, maintenant originaire de Val-de-Ruz, Jurt Eric Roland, Minder Staiff Nicole Valérie, maintenant originaire de Val-de-Travers, Olivier Jean-Michel Pierre Henri, Rapp Neelum et Wohlhauser Romain Paul, maintenant domicilié à La Grande Béroche, membres du conseil de fondation, exercent désormais la signature sociale, collectivement à deux avec le président.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Marc Jurt</name>
+      <uid>CHE110223513</uid>
+      <uidOrganisationId>110223513</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510093476</code13>
+      <seat>Cortaillod</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Eric Jurt</addressLine1>
+        <street>rue des Chavannes</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>2016</swissZipCode>
+        <town>Cortaillod</town>
+      </address>
+    </company>
+    <purpose>entretenir la mémoire et faire connaître l'oeuvre du peintre-graveur Marc Jurt (1955-2006).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Marc Jurt</name>
+      <uid>CHE110223513</uid>
+      <uidOrganisationId>110223513</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510093476</code13>
+      <seat>Cortaillod</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Eric Jurt</addressLine1>
+        <street>rue des Chavannes</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>2016</swissZipCode>
+        <town>Cortaillod</town>
+      </address>
+    </company>
+    <purpose>entretenir la mémoire et faire connaître l'oeuvre du peintre-graveur Marc Jurt (1955-2006).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-10</lastFoscDate>
+    <lastFoscSequence>1004474071</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

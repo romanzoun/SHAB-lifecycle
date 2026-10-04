@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>20a1b760-ad97-42c4-9dd4-050210bcaae2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004640029</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Vins Domaine du Moulin Sàrl, Mathod</de>
+    <en>Change Vins Domaine du Moulin Sàrl, Mathod</en>
+    <it>Cambiamenti Vins Domaine du Moulin Sàrl, Mathod</it>
+    <fr>Mutation Vins Domaine du Moulin Sàrl, Mathod</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9453</journalNumber>
+  <journalDate>2019-05-23</journalDate>
+  <publicationText>Vins Domaine du Moulin Sàrl, à Mathod, CHE-113.491.725 (FOSC du 28.07.2017, p. 0/3672253). Les associés-gérants Gass Annette, Gass Daniel et Gass Reynald, cèdent chacun respectivement 2, 2 et 1 part de CHF 1'000 à Gass Stéphane, de Binningen, à Mathod, nouvel associé avec 5 parts de CHF 1'000, gérant avec signature individuelle; Gass Annette, Gass Daniel et Gass Reynald restent chacun titulaires de 5 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Vins Domaine du Moulin Sàrl</name>
+      <uid>CHE113491725</uid>
+      <uidOrganisationId>113491725</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010498636</code13>
+      <seat>Mathod</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Rances</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1438</swissZipCode>
+        <town>Mathod</town>
+      </address>
+    </company>
+    <purpose>commerce de vins, achat de raisin et vinification.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Vins Domaine du Moulin Sàrl</name>
+      <uid>CHE113491725</uid>
+      <uidOrganisationId>113491725</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010498636</code13>
+      <seat>Mathod</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Rances</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1438</swissZipCode>
+        <town>Mathod</town>
+      </address>
+    </company>
+    <purpose>commerce de vins, achat de raisin et vinification.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-07-28</lastFoscDate>
+    <lastFoscSequence>3672253</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

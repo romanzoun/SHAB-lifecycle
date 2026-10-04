@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>7f8bbca6-040f-4212-87c5-16c15a27a56f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004587755</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Stromtechnik Linder &amp; Co. in Liquidation, bisher Stromtechnik Linder &amp; Co., St. Margrethen</de>
+    <en>Change Stromtechnik Linder &amp; Co. in Liquidation, to date Stromtechnik Linder &amp; Co., St. Margrethen</en>
+    <it>Cambiamenti Stromtechnik Linder &amp; Co. in Liquidation, prima Stromtechnik Linder &amp; Co., St. Margrethen</it>
+    <fr>Mutation Stromtechnik Linder &amp; Co. in Liquidation, St. Margrethen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2386</journalNumber>
+  <journalDate>2019-03-11</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 3 vom 05.01.2017, publizierten TR-Eintrags Nr. 12'008 vom 30.12.2016 Stromtechnik Linder &amp; Co., in St. Margrethen, CHE-177.464.257, Kollektivgesellschaft (SHAB Nr. 3 vom 05.01.2017, S.0, Publ. 3261931). Firma neu: Stromtechnik Linder &amp; Co. in Liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stromtechnik Linder &amp; Co. in Liquidation</name>
+      <uid>CHE177464257</uid>
+      <uidOrganisationId>177464257</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32020776576</code13>
+      <seat>St. Margrethen</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Bereich Elektrizität, insbesondere Planung und Projektierung von Stromanlagen sowie deren bauliche Ausführung, Führung und Verwaltung von Elektrizitätsversorgungs unternehmen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stromtechnik Linder &amp; Co.</name>
+      <uid>CHE177464257</uid>
+      <uidOrganisationId>177464257</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32020776576</code13>
+      <seat>St. Margrethen</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Bereich Elektrizität, insbesondere Planung und Projektierung von Stromanlagen sowie deren bauliche Ausführung, Führung und Verwaltung von Elektrizitätsversorgungs unternehmen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-01-05</lastFoscDate>
+    <lastFoscNumber>3</lastFoscNumber>
+    <lastFoscSequence>3261931</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

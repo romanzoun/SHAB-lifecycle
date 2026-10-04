@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>392d8763-f6cf-48c4-93dc-3cdfbae679db</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004809479</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Xyloforme SA, Lancy</de>
+    <en>Change Xyloforme SA, Lancy</en>
+    <it>Cambiamenti Xyloforme SA, Lancy</it>
+    <fr>Mutation Xyloforme SA, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1020</journalNumber>
+  <journalDate>2020-01-15</journalDate>
+  <publicationText>Xyloforme SA, à Lancy, CHE-106.447.647 (FOSC du 13.05.2015, p. 0/2150815). La clause statutaire relative à l'apport en nature effectué à la constitution est supprimée conformément à l'art. 628, al. 4, CO. Communication aux actionnaires: lettre recommandée. Nouveaux statuts du 08.01.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Xyloforme SA</name>
+      <uid>CHE-106.447.647</uid>
+      <uidOrganisationId>106447647</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003819894</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Louis-Hubert</street>
+        <houseNumber>4</houseNumber>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>fabrication de meubles en tout genre et travaux d'ébénisterie, de menuiserie et d'agencement; planification et conduite de travaux se rapportant au bâtiment; participations.</purpose>
+    <capital>
+      <nominal>122000.00</nominal>
+      <paid>122000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Xyloforme SA</name>
+      <uid>CHE-106.447.647</uid>
+      <uidOrganisationId>106447647</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003819894</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Louis-Hubert</street>
+        <houseNumber>4</houseNumber>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>fabrication de meubles en tout genre et travaux d'ébénisterie, de menuiserie et d'agencement; planification et conduite de travaux se rapportant au bâtiment; participations.</purpose>
+    <capital>
+      <nominal>122000.00</nominal>
+      <paid>122000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-05-13</lastFoscDate>
+    <lastFoscNumber>91</lastFoscNumber>
+    <lastFoscSequence>2150815</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

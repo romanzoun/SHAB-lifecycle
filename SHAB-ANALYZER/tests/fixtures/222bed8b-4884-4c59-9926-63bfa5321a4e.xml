@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.16/HR02-export.xsd">
+<meta>
+  <id>222ac9e9-f986-44fd-941a-f78e61f43676</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005605876</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-11-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Cabinet vétérinaire du Molage S.A., Aigle</de>
+    <en>Change Cabinet vétérinaire du Molage S.A., Aigle</en>
+    <it>Cambiamenti Cabinet vétérinaire du Molage S.A., Aigle</it>
+    <fr>Mutation Cabinet vétérinaire du Molage S.A., Aigle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20941</journalNumber>
+  <journalDate>2022-11-11</journalDate>
+  <publicationText>Cabinet vétérinaire du Molage S.A., à Aigle, CHE-107.329.051 (FOSC du 01.02.2022, p. 0/1005394689). Statuts modifiés le 07.11.2022. Les 100 actions nominatives de CHF 1'000 sont transformées en 100'000 actions nominatives de CHF 1, avec restrictions quant à la transmissibilité selon statuts. Nouvelles communications aux actionnaires: par courrier électronique ou par lettre recommandée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cabinet vétérinaire du Molage S.A.</name>
+      <uid>CHE-107.329.051</uid>
+      <uidOrganisationId>107329051</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001700088</code13>
+      <seat>Aigle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Molage</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>1860</swissZipCode>
+        <town>Aigle</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un cabinet vétérinaire.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cabinet vétérinaire du Molage S.A.</name>
+      <uid>CHE-107.329.051</uid>
+      <uidOrganisationId>107329051</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001700088</code13>
+      <seat>Aigle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Molage</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>1860</swissZipCode>
+        <town>Aigle</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un cabinet vétérinaire.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2022-02-01</lastFoscDate>
+    <lastFoscNumber>22</lastFoscNumber>
+    <lastFoscSequence>1005394689</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

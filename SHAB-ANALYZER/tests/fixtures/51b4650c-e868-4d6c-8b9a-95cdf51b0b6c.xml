@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>51ac494d-e43e-4a62-9d3d-656df19ef701</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004620635</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Maschinengenossenschaft Gurzelen, Gurzelen</de>
+    <en>Change Maschinengenossenschaft Gurzelen, Gurzelen</en>
+    <it>Cambiamenti Maschinengenossenschaft Gurzelen, Gurzelen</it>
+    <fr>Mutation Maschinengenossenschaft Gurzelen, Gurzelen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6593</journalNumber>
+  <journalDate>2019-04-26</journalDate>
+  <publicationText>Maschinengenossenschaft Gurzelen, in Gurzelen, CHE-102.344.563, Genossenschaft (SHAB Nr. 100 vom 28.05.2018, Publ. 4251379). Statutenänderung: 16.04.2019. Haftung/Nachschusspflicht neu: [Die persönliche Haftung wurde aus den Statuten entfernt.] [gestrichen: Haftung/Nachschusspflicht: Persönliche und solidarische, subsidiäre Haftbarkeit der Genossenschafter.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Maschinengenossenschaft Gurzelen</name>
+      <uid>CHE102344563</uid>
+      <uidOrganisationId>102344563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03550100552</code13>
+      <seat>Gurzelen</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Otto von Niederhäusern</addressLine1>
+        <street>Mühlematt</street>
+        <houseNumber>95/Gurzelen</houseNumber>
+        <swissZipCode>3664</swissZipCode>
+        <town>Burgistein</town>
+      </address>
+    </company>
+    <purpose>Zweck der Genossenschaft ist das Halten von Maschinen zur gemeinschaftlichen Nutzung sowie die Verwaltung des Dreschschopfs in Gurzelen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Maschinengenossenschaft Gurzelen</name>
+      <uid>CHE102344563</uid>
+      <uidOrganisationId>102344563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03550100552</code13>
+      <seat>Gurzelen</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Otto von Niederhäusern</addressLine1>
+        <street>Mühlematt</street>
+        <houseNumber>95/Gurzelen</houseNumber>
+        <swissZipCode>3664</swissZipCode>
+        <town>Burgistein</town>
+      </address>
+    </company>
+    <purpose>Zweck der Genossenschaft ist das Halten von Maschinen zur gemeinschaftlichen Nutzung sowie die Verwaltung des Dreschschopfs in Gurzelen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-28</lastFoscDate>
+    <lastFoscNumber>100</lastFoscNumber>
+    <lastFoscSequence>4251379</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

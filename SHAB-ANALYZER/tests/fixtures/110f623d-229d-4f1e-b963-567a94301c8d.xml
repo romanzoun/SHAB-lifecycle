@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>1078dedb-b334-4a27-b099-86ee8084b9e4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004779381</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Optique Schoenberg S.A., Fribourg</de>
+    <en>Change Optique Schoenberg S.A., Fribourg</en>
+    <it>Cambiamenti Optique Schoenberg S.A., Fribourg</it>
+    <fr>Mutation Optique Schoenberg S.A., Fribourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6874</journalNumber>
+  <journalDate>2019-12-05</journalDate>
+  <publicationText>Optique Schoenberg S.A., à Fribourg, CHE-106.546.309 (SHAB vom 13.06.2019, s. 0/1004650148). Personnes inscrites modifiées: Fidusar Fiduciaire fribourgeoise des arts et métiers (CH-217-0150199-3), organe de révision, nouvelle raison sociale fidusar sa (CHE-107.768.746), maintenant à Granges-Paccot.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Optique Schoenberg S.A.</name>
+      <uid>CHE-106.546.309</uid>
+      <uidOrganisationId>106546309</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701365856</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Tavel</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>exploiter un magasin d'optique avec atelier et examen de la vue; adapter des lentilles de contact, acheter et vendre, monter et réparer tous produits, appareils et fournitures ressortissant du domaine de l'optique et des branches annexes.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>fidusar sa</name>
+        <country>CH</country>
+        <uid>CHE107768746</uid>
+        <uidOrganisationId>107768746</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Optique Schoenberg S.A.</name>
+      <uid>CHE-106.546.309</uid>
+      <uidOrganisationId>106546309</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701365856</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Tavel</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>exploiter un magasin d'optique avec atelier et examen de la vue; adapter des lentilles de contact, acheter et vendre, monter et réparer tous produits, appareils et fournitures ressortissant du domaine de l'optique et des branches annexes.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>fidusar sa</name>
+        <country>CH</country>
+        <uid>CHE107768746</uid>
+        <uidOrganisationId>107768746</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-13</lastFoscDate>
+    <lastFoscNumber>112</lastFoscNumber>
+    <lastFoscSequence>1004650148</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

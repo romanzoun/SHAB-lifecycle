@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>6a5ad0bf-1131-46c3-8513-35165af59f69</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004695668</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation IMMOSEEKER AG Zweigniederlassung Seeland, Kerzers</de>
+    <en>Change IMMOSEEKER AG Zweigniederlassung Seeland, Kerzers</en>
+    <it>Cambiamenti IMMOSEEKER AG Zweigniederlassung Seeland, Kerzers</it>
+    <fr>Mutation IMMOSEEKER AG Zweigniederlassung Seeland, Kerzers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4499</journalNumber>
+  <journalDate>2019-08-09</journalDate>
+  <publicationText>IMMOSEEKER AG Zweigniederlassung Seeland, in Kerzers, CHE-157.275.925 (SHAB vom 08.05.2018, s. 0/4217463). Neuer Hauptsitz: Zürich.</publicationText>
+  <commonsNew>
+    <company>
+      <name>IMMOSEEKER AG Zweigniederlassung Seeland</name>
+      <uid>CHE157275925</uid>
+      <uidOrganisationId>157275925</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735444964</code13>
+      <seat>Kerzers</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Murtenstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3210</swissZipCode>
+        <town>Kerzers</town>
+      </address>
+    </company>
+    <purpose>(Siehe Zweck des Hauptsitzes gemäss Art. 110, Abs. 1, Bst. d HRegV)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>IMMOSEEKER AG</name>
+      <country>CH</country>
+      <uid>CHE114107515</uid>
+      <uidOrganisationId>114107515</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IMMOSEEKER AG Zweigniederlassung Seeland</name>
+      <uid>CHE157275925</uid>
+      <uidOrganisationId>157275925</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735444964</code13>
+      <seat>Kerzers</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Murtenstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3210</swissZipCode>
+        <town>Kerzers</town>
+      </address>
+    </company>
+    <purpose>(Siehe Zweck des Hauptsitzes gemäss Art. 110, Abs. 1, Bst. d HRegV)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>IMMOSEEKER AG</name>
+      <country>CH</country>
+      <uid>CHE114107515</uid>
+      <uidOrganisationId>114107515</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-08</lastFoscDate>
+    <lastFoscSequence>4217463</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

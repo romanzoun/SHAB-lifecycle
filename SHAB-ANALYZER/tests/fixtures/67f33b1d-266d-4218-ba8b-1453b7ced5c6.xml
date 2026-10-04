@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>679678fb-f4b2-4555-937d-59acf9108abe</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004501746</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Wolf Bausysteme AG, Bellikon</de>
+    <en>Change Wolf Bausysteme AG, Bellikon</en>
+    <it>Cambiamenti Wolf Bausysteme AG, Bellikon</it>
+    <fr>Mutation Wolf Bausysteme AG, Bellikon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11789</journalNumber>
+  <journalDate>2018-11-15</journalDate>
+  <publicationText>Wolf Bausysteme AG, in Bellikon, CHE-106.085.544, Aktiengesellschaft (SHAB Nr. 117 vom 20.06.2013, Publ. 928581). Zweigniederlassung neu: Winterthur (CHE-436.035.222) (HR ZH).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Wolf Bausysteme AG</name>
+      <uid>CHE106085544</uid>
+      <uidOrganisationId>106085544</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030102920</code13>
+      <seat>Bellikon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schlossberg</street>
+        <houseNumber>9a</houseNumber>
+        <swissZipCode>5454</swissZipCode>
+        <town>Bellikon</town>
+      </address>
+    </company>
+    <purpose>Projektierung, Entwicklung, Planung und Ausführung von Bodensystemen, Innenausbau sowie Erstellung von und Handel mit Baukomponenten und Erbringung aller damit zusammenhängenden Dienstleistungen; die Gesellschaft kann Zweigniederlassungen errichten, sich an anderen, auch in anderen Geschäftsbereichen tätigen Unternehmen beteiligen, sowie Grundeigentum und Rechte erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Wolf Bausysteme AG</name>
+      <uid>CHE106085544</uid>
+      <uidOrganisationId>106085544</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030102920</code13>
+      <seat>Bellikon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schlossberg</street>
+        <houseNumber>9a</houseNumber>
+        <swissZipCode>5454</swissZipCode>
+        <town>Bellikon</town>
+      </address>
+    </company>
+    <purpose>Projektierung, Entwicklung, Planung und Ausführung von Bodensystemen, Innenausbau sowie Erstellung von und Handel mit Baukomponenten und Erbringung aller damit zusammenhängenden Dienstleistungen; die Gesellschaft kann Zweigniederlassungen errichten, sich an anderen, auch in anderen Geschäftsbereichen tätigen Unternehmen beteiligen, sowie Grundeigentum und Rechte erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-06-20</lastFoscDate>
+    <lastFoscNumber>117</lastFoscNumber>
+    <lastFoscSequence>928581</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

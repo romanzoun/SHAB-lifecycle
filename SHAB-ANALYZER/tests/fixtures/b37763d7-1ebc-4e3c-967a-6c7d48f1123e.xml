@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>b3443115-9fff-461a-a12f-925407bcb0c4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004733197</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Hospitadom SA, Cortaillod</de>
+    <en>Change Hospitadom SA, Cortaillod</en>
+    <it>Cambiamenti Hospitadom SA, Cortaillod</it>
+    <fr>Mutation Hospitadom SA, Cortaillod</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3180</journalNumber>
+  <journalDate>2019-10-03</journalDate>
+  <publicationText>Hospitadom SA, à Cortaillod, CHE-153.172.031 (FOSC du 29.05.2018, p. 0/4255447). Administration: Altwegg Jean, maintenant domicilié à Coppet, nommé président, Revel de Lambert Xavier Louis Guillaume, de France, à Neuilly-sur-Seine, F, secrétaire, et François Olivier Ennemond Marie Joseph, de France, à Paris, F, lesquels signent individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hospitadom SA</name>
+      <uid>CHE-153.172.031</uid>
+      <uidOrganisationId>153172031</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541161548</code13>
+      <seat>Cortaillod</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Boudry</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>2016</swissZipCode>
+        <town>Cortaillod</town>
+      </address>
+    </company>
+    <purpose>organisation du retour et maintien à domicile des patients afin de raccourcir leur séjour hospitalier, notamment par des conseils en nutrition clinique (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hospitadom SA</name>
+      <uid>CHE-153.172.031</uid>
+      <uidOrganisationId>153172031</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541161548</code13>
+      <seat>Cortaillod</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Boudry</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>2016</swissZipCode>
+        <town>Cortaillod</town>
+      </address>
+    </company>
+    <purpose>organisation du retour et maintien à domicile des patients afin de raccourcir leur séjour hospitalier, notamment par des conseils en nutrition clinique (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-29</lastFoscDate>
+    <lastFoscNumber>101</lastFoscNumber>
+    <lastFoscSequence>4255447</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

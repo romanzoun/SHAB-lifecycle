@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>b27b3fe7-f5f2-4d16-8e63-44f56477c7da</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004759698</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation LE CASQUE D'OR Sàrl en liquidation, Gollion</de>
+    <en>Change LE CASQUE D'OR Sàrl en liquidation, Gollion</en>
+    <it>Cambiamenti LE CASQUE D'OR Sàrl en liquidation, Gollion</it>
+    <fr>Mutation LE CASQUE D'OR Sàrl en liquidation, Gollion</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20258</journalNumber>
+  <journalDate>2019-11-11</journalDate>
+  <publicationText>LE CASQUE D'OR Sàrl en liquidation, à Gollion, CHE-111.779.807 (FOSC du 06.11.2019, p. 0/1004753687). Rectificatif: l'inscription n° 19005 du 22.10.2019 (FOSC du 25.10.2019, p.0/1004745514) est rectifiée en ce sens que le délai fixé dans la décision du président du Tribunal de l'arrondissement de la Côte du 24 septembre 2019 n'étant pas encore échu, la décision ne doit pas être publiée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LE CASQUE D'OR Sàrl en liquidation</name>
+      <uid>CHE-111.779.807</uid>
+      <uidOrganisationId>111779807</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010404813</code13>
+      <seat>Gollion</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Centre d'instruction de la protection civile</street>
+        <swissZipCode>1124</swissZipCode>
+        <town>Gollion</town>
+      </address>
+    </company>
+    <purpose>exploitation et gestion de tout établissement public (notamment bars, cafés, restaurants, hôtels ou autres).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LE CASQUE D'OR Sàrl en liquidation</name>
+      <uid>CHE-111.779.807</uid>
+      <uidOrganisationId>111779807</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010404813</code13>
+      <seat>Gollion</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Centre d'instruction de la protection civile</street>
+        <swissZipCode>1124</swissZipCode>
+        <town>Gollion</town>
+      </address>
+    </company>
+    <purpose>exploitation et gestion de tout établissement public (notamment bars, cafés, restaurants, hôtels ou autres).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-06</lastFoscDate>
+    <lastFoscNumber>215</lastFoscNumber>
+    <lastFoscSequence>1004753687</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

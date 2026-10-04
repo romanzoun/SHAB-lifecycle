@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>562c7fcf-825e-4234-9c6c-e6f84c889488</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004733287</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation ZICC SA, Genève</de>
+    <en>Change ZICC SA, Genève</en>
+    <it>Cambiamenti ZICC SA, Genève</it>
+    <fr>Mutation ZICC SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18512</journalNumber>
+  <journalDate>2019-10-03</journalDate>
+  <publicationText>ZICC SA, à Genève, CHE-112.433.493 (FOSC du 23.09.2019, p. 0/1004722062). L'inscription 17404 du 18.09.2019 (publication FOSC du 23.09.2019 page 0/1004722062) est complétée en ce sens que le capital-actions de la société est de CHF 1'000'000, entièrement libéré, divisé en 1'000 actions de CHF 1'000, au porteur.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ZICC SA</name>
+      <uid>CHE-112.433.493</uid>
+      <uidOrganisationId>112433493</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010444557</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Amococadiz Sàrl</addressLine1>
+        <street>Route des Jeunes</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: les opérations immobilières dans le domaine commercial; l'exploitation d'hôtels ainsi que toute prestation en matière hôtelière (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ZICC SA</name>
+      <uid>CHE-112.433.493</uid>
+      <uidOrganisationId>112433493</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010444557</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Amococadiz Sàrl</addressLine1>
+        <street>Route des Jeunes</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: les opérations immobilières dans le domaine commercial; l'exploitation d'hôtels ainsi que toute prestation en matière hôtelière (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-23</lastFoscDate>
+    <lastFoscNumber>183</lastFoscNumber>
+    <lastFoscSequence>1004722062</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

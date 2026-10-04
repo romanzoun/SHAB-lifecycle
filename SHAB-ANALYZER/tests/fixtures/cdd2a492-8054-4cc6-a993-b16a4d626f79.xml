@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>cdb31e91-3fa4-4dd4-b6ea-616a6db8b752</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004581907</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Créations Tête en l'air, Reuse Bertin, Massongex</de>
+    <en>Change Créations Tête en l'air, Reuse Bertin, Massongex</en>
+    <it>Cambiamenti Créations Tête en l'air, Reuse Bertin, Massongex</it>
+    <fr>Mutation Créations Tête en l'air, Reuse Bertin, Massongex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>614</journalNumber>
+  <journalDate>2019-03-01</journalDate>
+  <publicationText>Créations Tête en l'air, Reuse Bertin, à Massongex, CHE-209.224.570, entreprise individuelle (No. FOSC 34 du 19.02.2019, Publ. 1004570280). Par décision du 27.02.2019, le Tribunal Cantonal du Valais a annulé la faillite de la titulaire de l'entreprise prononcée le 16.01.2019; l'inscription est rétablie comme ci-devant (FOSC No 37 du 24.02.2014 publ. 1'362'515).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Créations Tête en l'air, Reuse Bertin</name>
+      <uid>CHE209224570</uid>
+      <uidOrganisationId>209224570</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62120082497</code13>
+      <seat>Massongex</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Vérossaz</street>
+        <houseNumber>101</houseNumber>
+        <swissZipCode>1871</swissZipCode>
+        <town>Les Giettes</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un atelier de création de pièces uniques et petites séries notamment bijoux, tableaux, vêtements, coussins etc… ; vente de produits artisanaux et créatifs</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Créations Tête en l'air, Reuse Bertin</name>
+      <uid>CHE209224570</uid>
+      <uidOrganisationId>209224570</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62120082497</code13>
+      <seat>Massongex</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Vérossaz</street>
+        <houseNumber>101</houseNumber>
+        <swissZipCode>1871</swissZipCode>
+        <town>Les Giettes</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un atelier de création de pièces uniques et petites séries notamment bijoux, tableaux, vêtements, coussins etc… ; vente de produits artisanaux et créatifs</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-19</lastFoscDate>
+    <lastFoscNumber>34</lastFoscNumber>
+    <lastFoscSequence>1004570280</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

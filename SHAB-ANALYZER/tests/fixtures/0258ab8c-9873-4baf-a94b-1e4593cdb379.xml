@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>021cc4bf-ad7a-4c6e-8abe-87e298cb2bc0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004602300</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Creola SA, Chiasso</de>
+    <en>Change Creola SA, Chiasso</en>
+    <it>Cambiamenti Creola SA, Chiasso</it>
+    <fr>Mutation Creola SA, Chiasso</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4988</journalNumber>
+  <journalDate>2019-03-29</journalDate>
+  <publicationText>Creola SA, in Chiasso, CHE-102.876.914, società anonima (Nr. FUSC 54 del 19.03.2019, Pubbl. 1004591019). Statuti modificati: 21.03.2019. Nuove azioni: 5'000'000 azioni al portatore da CHF 0.01 [finora: 50 azioni al portatore da CHF 1'000.00].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Creola SA</name>
+      <uid>CHE102876914</uid>
+      <uidOrganisationId>102876914</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH52430018905</code13>
+      <seat>Chiasso</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Interfida SA</addressLine1>
+        <street>Corso San Gottardo</street>
+        <houseNumber>35</houseNumber>
+        <swissZipCode>6830</swissZipCode>
+        <town>Chiasso</town>
+      </address>
+    </company>
+    <purpose>la partecipazione finanziaria ad altre società ed in particolare l'acquisto e la gestione di titoli azionari di società nazionali ed estere, nonché l'acquisto, la gestione e la vendita di immobili sia in Svizzera che all'estero.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Creola SA</name>
+      <uid>CHE102876914</uid>
+      <uidOrganisationId>102876914</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH52430018905</code13>
+      <seat>Chiasso</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Interfida SA</addressLine1>
+        <street>Corso San Gottardo</street>
+        <houseNumber>35</houseNumber>
+        <swissZipCode>6830</swissZipCode>
+        <town>Chiasso</town>
+      </address>
+    </company>
+    <purpose>la partecipazione finanziaria ad altre società ed in particolare l'acquisto e la gestione di titoli azionari di società nazionali ed estere, nonché l'acquisto, la gestione e la vendita di immobili sia in Svizzera che all'estero.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-19</lastFoscDate>
+    <lastFoscNumber>54</lastFoscNumber>
+    <lastFoscSequence>1004591019</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

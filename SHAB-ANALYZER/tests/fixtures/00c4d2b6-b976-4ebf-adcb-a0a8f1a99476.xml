@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>009b065c-401f-4939-9590-8fb2c8aa3b79</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004464101</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Nerinvest AG, Murten</de>
+    <en>Change Nerinvest AG, Murten</en>
+    <it>Cambiamenti Nerinvest AG, Murten</it>
+    <fr>Mutation Nerinvest AG, Murten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5055</journalNumber>
+  <journalDate>2018-09-24</journalDate>
+  <publicationText>Nerinvest AG, in Murten, CHE-101.581.468 (SHAB vom 26.03.2018, s. 0/4134061). Fusion: Die Gesellschaft übernimmt die Anlage- und Versicherungsberatung Invest AG (CHE-104.056.135), in Murten, gemäss Fusionsvertrag vom 10.09.2018 und Bilanz per 30.06.2018 gehen Aktiven von CHF 9'822'424.25 und Passiven (Fremdkapital) von CHF 12'207'157.31 auf die übernehmende Gesellschaft über. Da die übernehmende Gesellschaft sämtliche Aktien der übertragenden Gesellschaft hält, findet weder eine Kapitalerhöhung noch ein Aktientausch statt. Die übernehmende Gesellschaft weist gemäss Bestätigung zugelassenen Revisionsexperten über frei verwendbares Eigenkapital im Umfang des Kapitalverlustes und der Überschuldung der übertragenden Gesellschaft auf.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Nerinvest AG</name>
+      <translations>[fr] Nerinvest SA</translations>
+      <uid>CHE101581468</uid>
+      <uidOrganisationId>101581468</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705306771</code13>
+      <seat>Murten</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Merlachfeld</street>
+        <houseNumber>215</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Beteiligung an anderen Unternehmen; Kauf, Verwaltung und Verkauf von Liegenschaften; Ausführung von Generalunternehmermandaten; Treuhand- und Finanzberatung (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Nerinvest AG</name>
+      <translations>[fr] Nerinvest SA</translations>
+      <uid>CHE101581468</uid>
+      <uidOrganisationId>101581468</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705306771</code13>
+      <seat>Murten</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Merlachfeld</street>
+        <houseNumber>215</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Beteiligung an anderen Unternehmen; Kauf, Verwaltung und Verkauf von Liegenschaften; Ausführung von Generalunternehmermandaten; Treuhand- und Finanzberatung (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-03-26</lastFoscDate>
+    <lastFoscSequence>4134061</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

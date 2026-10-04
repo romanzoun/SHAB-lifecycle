@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>07b96412-aa83-4768-8bc3-8f6261b54186</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004577821</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Zeller Services Limited, London, Zweigniederlassung Fischenthal, Fischenthal</de>
+    <en>Change Zeller Services Limited, London, Zweigniederlassung Fischenthal, Fischenthal</en>
+    <it>Cambiamenti Zeller Services Limited, London, Zweigniederlassung Fischenthal, Fischenthal</it>
+    <fr>Mutation Zeller Services Limited, London, Zweigniederlassung Fischenthal, Fischenthal</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8661</journalNumber>
+  <journalDate>2019-02-26</journalDate>
+  <publicationText>Zeller Services Limited, London, Zweigniederlassung Fischenthal, in Fischenthal, CHE-470.939.864, ausländische Zweigniederlassung (SHAB Nr. 11 vom 17.01.2019, Publ. 1004543574), Hauptsitz in: London (GB). Angaben zur Zweigniederlassung neu: Gegenstand des Unternehmens sind gemeinnützige Tätigkeiten sowie Sponsoring und Marketing mit den dazugehörigen Dienstleistungen, Eventtätigkeiten, Eventmarketing, Telefonverkauf, Call Agent, und Generieren von Spendentätigkeiten. [bisher: Gegenstand des Unternehmens sind gemeinnützige Tätigkeiten sowie Sponsoring und Marketing mit den dazugehörigen Dienstleistungen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Zeller Services Limited, London, Zweigniederlassung Fischenthal</name>
+      <uid>CHE470939864</uid>
+      <uidOrganisationId>470939864</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090052855</code13>
+      <seat>Fischenthal</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Tösstalstrasse</street>
+        <houseNumber>180</houseNumber>
+        <swissZipCode>8497</swissZipCode>
+        <town>Fischenthal</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Zeller Services Limited, London, Zweigniederlassung Fischenthal</name>
+      <uid>CHE470939864</uid>
+      <uidOrganisationId>470939864</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090052855</code13>
+      <seat>Fischenthal</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Tösstalstrasse</street>
+        <houseNumber>180</houseNumber>
+        <swissZipCode>8497</swissZipCode>
+        <town>Fischenthal</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-17</lastFoscDate>
+    <lastFoscNumber>11</lastFoscNumber>
+    <lastFoscSequence>1004543574</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

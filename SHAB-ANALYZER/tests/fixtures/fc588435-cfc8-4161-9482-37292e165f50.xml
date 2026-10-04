@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>fc32a1b7-f54b-4b92-b4a2-ab4608984ade</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004684438</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation La Coccinelle Verte II SA, Rochefort</de>
+    <en>Change La Coccinelle Verte II SA, Rochefort</en>
+    <it>Cambiamenti La Coccinelle Verte II SA, Rochefort</it>
+    <fr>Mutation La Coccinelle Verte II SA, Rochefort</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2417</journalNumber>
+  <journalDate>2019-07-22</journalDate>
+  <publicationText>La Coccinelle Verte II SA, à Rochefort, CHE-318.399.499 (FOSC du 30.11.2017, p. 0/3902445). Administration: Combe Philip Laurent, nommé président, Bützberger René Emile, de Bleienbach, à Lavey-Morcles, Falzone Fabrice Michel, de Belgique, à Renens (VD), et Pous François Jean Emmanuel, de Bischofszell, à Saint-Prex. Signature individuelle du président ou collective à deux des autres membres du conseil d'administration.</publicationText>
+  <commonsNew>
+    <company>
+      <name>La Coccinelle Verte II SA</name>
+      <uid>CHE318399499</uid>
+      <uidOrganisationId>318399499</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541128323</code13>
+      <seat>Rochefort</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chambrelien, Le Burkli</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2019</swissZipCode>
+        <town>Chambrelien</town>
+      </address>
+    </company>
+    <purpose>production et livraison de repas, import et export, production et commercialisation de produits alimentaires, consulting et gestion de restaurants (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>La Coccinelle Verte II SA</name>
+      <uid>CHE318399499</uid>
+      <uidOrganisationId>318399499</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541128323</code13>
+      <seat>Rochefort</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chambrelien, Le Burkli</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2019</swissZipCode>
+        <town>Chambrelien</town>
+      </address>
+    </company>
+    <purpose>production et livraison de repas, import et export, production et commercialisation de produits alimentaires, consulting et gestion de restaurants (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-30</lastFoscDate>
+    <lastFoscSequence>3902445</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

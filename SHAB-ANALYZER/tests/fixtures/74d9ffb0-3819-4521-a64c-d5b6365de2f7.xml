@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>74bc35a5-87cf-4bb4-9742-a202d4e6c913</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004452174</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Dama AG in Liquidation, Luzern</de>
+    <en>Change Dama AG in Liquidation, Luzern</en>
+    <it>Cambiamenti Dama AG in Liquidation, Luzern</it>
+    <fr>Mutation Dama AG in Liquidation, Luzern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7223</journalNumber>
+  <journalDate>2018-09-05</journalDate>
+  <publicationText>Dama AG in Liquidation, in Luzern, CHE-102.446.554, Aktiengesellschaft (SHAB Nr. 83 vom 01.05.2018, Publ. 4203877). Die Zustimmungen der Steuerverwaltungen liegen vor. Die Gesellschaft ist erloschen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Dama AG in Liquidation</name>
+      <uid>CHE102446554</uid>
+      <uidOrganisationId>102446554</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10030113408</code13>
+      <seat>Luzern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Erich Kellenberger</addressLine1>
+        <street>Kasimir Pfyfferstrasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>6003</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Erwerb und Verwaltung von Beteiligungen in jeder Form an anderen Unternehmungen im In- und Ausland sowie sonstige Anlage von Kapitalien, insbesondere auch in Liegenschaften; Beteiligungen; Ausübung aller kommerziellen, finanziellen und anderen Tätigkeiten.</purpose>
+    <capital>
+      <nominal>1500000.00</nominal>
+      <paid>1500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Dama AG in Liquidation</name>
+      <uid>CHE102446554</uid>
+      <uidOrganisationId>102446554</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10030113408</code13>
+      <seat>Luzern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Erich Kellenberger</addressLine1>
+        <street>Kasimir Pfyfferstrasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>6003</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Erwerb und Verwaltung von Beteiligungen in jeder Form an anderen Unternehmungen im In- und Ausland sowie sonstige Anlage von Kapitalien, insbesondere auch in Liegenschaften; Beteiligungen; Ausübung aller kommerziellen, finanziellen und anderen Tätigkeiten.</purpose>
+    <capital>
+      <nominal>1500000.00</nominal>
+      <paid>1500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-01</lastFoscDate>
+    <lastFoscNumber>83</lastFoscNumber>
+    <lastFoscSequence>4203877</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

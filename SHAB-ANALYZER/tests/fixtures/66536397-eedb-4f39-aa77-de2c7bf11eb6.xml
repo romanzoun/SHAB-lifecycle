@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>656a857b-2235-4ef9-9230-fb9e833da42a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004475561</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation GHS Moser, Alterswil</de>
+    <en>Change GHS Moser, Alterswil</en>
+    <it>Cambiamenti GHS Moser, Alterswil</it>
+    <fr>Mutation GHS Moser, Alterswil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5363</journalNumber>
+  <journalDate>2018-10-09</journalDate>
+  <publicationText>GHS Moser, in Alterswil, CHE-473.773.235 (SHAB vom 09.10.2018, s. 0/1004472559). Berichtigung der Eintragung Nr. 5248 vom 04.10.2018 (SHAB vom 09.10.2018, Id 1004472559): Die richtige UID-Nummer lautet: CHE-111.106.991 (und nicht: CHE-473.773.235).</publicationText>
+  <commonsNew>
+    <company>
+      <name>GHS Moser</name>
+      <uid>CHE111106991</uid>
+      <uidOrganisationId>111106991</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735682504</code13>
+      <seat>Alterswil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zum Holz</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>1715</swissZipCode>
+        <town>Alterswil</town>
+      </address>
+    </company>
+    <purpose>Montage und Reparaturen von Geflügelhallen und Industriehallen, Heizungs-, Lüftungs-, Fütterungs- und anderen Einrichtungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GHS Moser</name>
+      <uid>CHE473773235</uid>
+      <uidOrganisationId>473773235</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735682504</code13>
+      <seat>Alterswil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zum Holz</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>1715</swissZipCode>
+        <town>Alterswil</town>
+      </address>
+    </company>
+    <purpose>Montage und Reparaturen von Geflügelhallen und Industriehallen, Heizungs-, Lüftungs-, Fütterungs- und anderen Einrichtungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-09</lastFoscDate>
+    <lastFoscSequence>1004472559</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>true</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

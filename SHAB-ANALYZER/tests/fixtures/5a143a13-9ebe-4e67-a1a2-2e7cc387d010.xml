@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>5a0b4156-a2a8-44af-8164-c363c0ea8e2d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004650162</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation HTZ Kader Yurteri Gerüstbau GmbH in Liquidation, Düdingen</de>
+    <en>Change HTZ Kader Yurteri Gerüstbau GmbH in Liquidation, Düdingen</en>
+    <it>Cambiamenti HTZ Kader Yurteri Gerüstbau GmbH in Liquidation, Düdingen</it>
+    <fr>Mutation HTZ Kader Yurteri Gerüstbau GmbH in Liquidation, Düdingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3236</journalNumber>
+  <journalDate>2019-06-07</journalDate>
+  <publicationText>HTZ Kader Yurteri Gerüstbau GmbH in Liquidation, in Düdingen, CHE-401.439.429 (SHAB vom 09.11.2018, s. 0/1004494392). Eingetragene Person geändert: Kader Yurteri, korrekterweise Colak-Yurteri Kader, Gesellschafterin, 20 Stammanteile zu CHF 1'000, Geschäftsführerin, Einzelunterschrift, neu Gesellschafterin, 20 Stammanteile zu CHF 1'000, ohne Unterschrift, nun in Wünnewil-Flamatt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>HTZ Kader Yurteri Gerüstbau GmbH in Liquidation</name>
+      <uid>CHE401439429</uid>
+      <uidOrganisationId>401439429</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735590129</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Die Montage und Demontage von Gerüstkonstruktionen sowie die Erbringung von sämtlichen Dienstleistungen im Gerüstbau (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>HTZ Kader Yurteri Gerüstbau GmbH in Liquidation</name>
+      <uid>CHE401439429</uid>
+      <uidOrganisationId>401439429</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735590129</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Die Montage und Demontage von Gerüstkonstruktionen sowie die Erbringung von sämtlichen Dienstleistungen im Gerüstbau (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-09</lastFoscDate>
+    <lastFoscSequence>1004494392</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

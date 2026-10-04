@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>c9773257-0d00-4413-a81c-7e126cb5b85b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004630828</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Eseye Global Sàrl en liquidation, bisher Eseye Global Sàrl, Ormont-Dessous</de>
+    <en>Change Eseye Global Sàrl en liquidation, to date Eseye Global Sàrl, Ormont-Dessous</en>
+    <it>Cambiamenti Eseye Global Sàrl en liquidation, prima Eseye Global Sàrl, Ormont-Dessous</it>
+    <fr>Mutation Eseye Global Sàrl en liquidation, Ormont-Dessous</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8614</journalNumber>
+  <journalDate>2019-05-10</journalDate>
+  <publicationText>Eseye Global Sàrl, à Ormont-Dessous, CHE-170.740.048 (FOSC du 28.01.2019, p. 0/1004552528). Selon décision de son assemblée des associés du 8 mai 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Eseye Global Sàrl en liquidation. Gebbe Andreas est élu liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Eseye Global Sàrl en liquidation</name>
+      <uid>CHE170740048</uid>
+      <uidOrganisationId>170740048</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011642511</code13>
+      <seat>Ormont-Dessous</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Fenillet</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1866</swissZipCode>
+        <town>La Forclaz VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la gestion des ventes, sur le territoire suisse et à l'international, des produits et services de la société Eseye Limited, dont le siège est à Guildford (Royaume-Uni), laquelle est active dans le domaine de l'informatique, en particulier dans la production de cartes SIM, de routeurs et de modems et dans la fourniture de services de technologie de l'information (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Eseye Global Sàrl</name>
+      <uid>CHE170740048</uid>
+      <uidOrganisationId>170740048</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011642511</code13>
+      <seat>Ormont-Dessous</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Fenillet</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1866</swissZipCode>
+        <town>La Forclaz VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la gestion des ventes, sur le territoire suisse et à l'international, des produits et services de la société Eseye Limited, dont le siège est à Guildford (Royaume-Uni), laquelle est active dans le domaine de l'informatique, en particulier dans la production de cartes SIM, de routeurs et de modems et dans la fourniture de services de technologie de l'information (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-28</lastFoscDate>
+    <lastFoscSequence>1004552528</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

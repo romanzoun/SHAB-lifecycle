@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+<meta>
+  <id>0fd34d34-1bbe-47e0-b525-6798ac7c50e8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005430002</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-03-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation VSCR (Vasco's Smoker Club) in Liquidation, Rümlang</de>
+    <en>Change VSCR (Vasco's Smoker Club) in Liquidation, Rümlang</en>
+    <it>Cambiamenti VSCR (Vasco's Smoker Club) in Liquidation, Rümlang</it>
+    <fr>Mutation VSCR (Vasco's Smoker Club) in Liquidation, Rümlang</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11215</journalNumber>
+  <journalDate>2022-03-15</journalDate>
+  <publicationText>VSCR (Vasco's Smoker Club) in Liquidation, in Rümlang, CHE-104.851.931, Verein (SHAB Nr. 117 vom 19.06.2020, Publ. 1004914650). Das amtliche Verfahren zur Löschung der Rechtseinheit gemäss Art. 934 OR i.V.m. Art. 153 HRegV ist gemäss rechtskräftiger Verfügung vom 25.01.2022 abgeschlossen. Die Rechtseinheit kann mangels Zustimmung der Eidgenössischen und kantonalen Steuerverwaltungen noch nicht gelöscht werden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>VSCR (Vasco's Smoker Club) in Liquidation</name>
+      <uid>CHE-104.851.931</uid>
+      <uidOrganisationId>104851931</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02060014220</code13>
+      <seat>Rümlang</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Iris Vasco</addressLine1>
+        <street>Oberdorfstrasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>8153</swissZipCode>
+        <town>Rümlang</town>
+      </address>
+    </company>
+    <purpose>Bezweckt folgende Tätigkeiten: Smokers Club; Kochclub; Music Events; Ice Hockey-Fanclub.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>VSCR (Vasco's Smoker Club) in Liquidation</name>
+      <uid>CHE-104.851.931</uid>
+      <uidOrganisationId>104851931</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02060014220</code13>
+      <seat>Rümlang</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Iris Vasco</addressLine1>
+        <street>Oberdorfstrasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>8153</swissZipCode>
+        <town>Rümlang</town>
+      </address>
+    </company>
+    <purpose>Bezweckt folgende Tätigkeiten: Smokers Club; Kochclub; Music Events; Ice Hockey-Fanclub.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-19</lastFoscDate>
+    <lastFoscNumber>117</lastFoscNumber>
+    <lastFoscSequence>1004914650</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

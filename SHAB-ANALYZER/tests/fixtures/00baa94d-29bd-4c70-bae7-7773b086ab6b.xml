@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>fa1e869a-7a42-4c1c-b410-baa13a1b1c98</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004718999</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation PODALIRE SA, Avenches</de>
+    <en>Change PODALIRE SA, Avenches</en>
+    <it>Cambiamenti PODALIRE SA, Avenches</it>
+    <fr>Mutation PODALIRE SA, Avenches</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16547</journalNumber>
+  <journalDate>2019-09-13</journalDate>
+  <publicationText>PODALIRE SA, à Avenches, CHE-483.904.898 (FOSC du 14.02.2017, p. 0/3346655). Statuts modifiés le 21 août 2019. Création d'un capital-participation: CHF 250'000, entièrement libéré, divisé en 50 bons de participation au porteur de CHF 5'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>PODALIRE SA</name>
+      <uid>CHE-483.904.898</uid>
+      <uidOrganisationId>483904898</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011719301</code13>
+      <seat>Avenches</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o David Gallay</addressLine1>
+        <street>Rue Centrale</street>
+        <houseNumber>62</houseNumber>
+        <swissZipCode>1580</swissZipCode>
+        <town>Avenches</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la mise à disposition et la gestion de locaux en vue de faciliter et d'améliorer la médecine de premier recours (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PODALIRE SA</name>
+      <uid>CHE-483.904.898</uid>
+      <uidOrganisationId>483904898</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011719301</code13>
+      <seat>Avenches</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o David Gallay</addressLine1>
+        <street>Rue Centrale</street>
+        <houseNumber>62</houseNumber>
+        <swissZipCode>1580</swissZipCode>
+        <town>Avenches</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la mise à disposition et la gestion de locaux en vue de faciliter et d'améliorer la médecine de premier recours (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-02-14</lastFoscDate>
+    <lastFoscNumber>31</lastFoscNumber>
+    <lastFoscSequence>3346655</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>98117400-dd2c-47ae-a557-bbd0890d04cb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004724503</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Thiarque Sàrl en liquidation, Fribourg</de>
+    <en>Change Thiarque Sàrl en liquidation, Fribourg</en>
+    <it>Cambiamenti Thiarque Sàrl en liquidation, Fribourg</it>
+    <fr>Mutation Thiarque Sàrl en liquidation, Fribourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5345</journalNumber>
+  <journalDate>2019-09-23</journalDate>
+  <publicationText>Thiarque Sàrl en liquidation, à Fribourg, CHE-101.188.869 (FOSC du 23.04.2019, p. 0/1004614783). Nouvelle adresse de liquidation: Chemin des Kybourg 1, c/o Reduto SA., 1700 Fribourg.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Thiarque Sàrl en liquidation</name>
+      <uid>CHE-101.188.869</uid>
+      <uidOrganisationId>101188869</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710005034</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o Reduto SA.</addressLine1>
+        <street>Chemin des Kybourg</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </liqAddress>
+    </company>
+    <purpose>prestation de conseils économique et d'intérim management à l'étranger.</purpose>
+    <capital>
+      <nominal>24000.00</nominal>
+      <paid>24000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Thiarque Sàrl en liquidation</name>
+      <uid>CHE-101.188.869</uid>
+      <uidOrganisationId>101188869</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710005034</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o Fiduciaire Jordan S.A.</addressLine1>
+        <street>Boulevard de Pérolles</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </liqAddress>
+    </company>
+    <purpose>prestation de conseils économique et d'intérim management à l'étranger.</purpose>
+    <capital>
+      <nominal>24000.00</nominal>
+      <paid>24000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-23</lastFoscDate>
+    <lastFoscNumber>77</lastFoscNumber>
+    <lastFoscSequence>1004614783</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

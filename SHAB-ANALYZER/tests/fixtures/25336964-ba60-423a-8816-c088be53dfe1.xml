@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.15/HR02-export.xsd">
+<meta>
+  <id>251c6b40-bf56-4d2e-8cec-68c6a0147d03</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005504948</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-06-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Manfred Stucki Bedachungen, Röthenbach im Emmental</de>
+    <en>Change Manfred Stucki Bedachungen, Röthenbach im Emmental</en>
+    <it>Cambiamenti Manfred Stucki Bedachungen, Röthenbach im Emmental</it>
+    <fr>Mutation Manfred Stucki Bedachungen, Röthenbach im Emmental</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9516</journalNumber>
+  <journalDate>2022-06-22</journalDate>
+  <publicationText>Manfred Stucki Bedachungen, in Röthenbach im Emmental, CHE-114.264.497, Einzelunternehmen (SHAB Nr. 68 vom 10.04.2018, Publ. 4160663). Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vermögensübertragungsvertrag vom 14.06.2022 und Inventar per 31.12.2021 Aktiven von CHF 396'892.74 und Passiven (Fremdkapital) von CHF 176'021.49 auf die Stucki Bedachungen &amp; Spenglerei GmbH, in Röthenbach im Emmental (CHE-344.203.811). Gegenleistung: 100 Stammanteile zu CHF 1'000.00 und eine Forderung von CHF 120'871.25.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Manfred Stucki Bedachungen</name>
+      <uid>CHE-114.264.497</uid>
+      <uidOrganisationId>114264497</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610736415</code13>
+      <seat>Röthenbach im Emmental</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rüegsegg</street>
+        <houseNumber>269</houseNumber>
+        <swissZipCode>3538</swissZipCode>
+        <town>Röthenbach im Emmental</town>
+      </address>
+    </company>
+    <purpose>Bedachungen aller Art, Spengler- und Blitzschutzarbeiten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Manfred Stucki Bedachungen</name>
+      <uid>CHE-114.264.497</uid>
+      <uidOrganisationId>114264497</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610736415</code13>
+      <seat>Röthenbach im Emmental</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rüegsegg</street>
+        <houseNumber>269</houseNumber>
+        <swissZipCode>3538</swissZipCode>
+        <town>Röthenbach im Emmental</town>
+      </address>
+    </company>
+    <purpose>Bedachungen aller Art, Spengler- und Blitzschutzarbeiten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-10</lastFoscDate>
+    <lastFoscNumber>68</lastFoscNumber>
+    <lastFoscSequence>4160663</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

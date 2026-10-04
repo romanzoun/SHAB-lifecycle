@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>f05e774e-56bf-4f72-9009-00a99bafcce6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004781087</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation SECOURS HUMANITAIRE, Genève</de>
+    <en>Change Fondation SECOURS HUMANITAIRE, Genève</en>
+    <it>Cambiamenti Fondation SECOURS HUMANITAIRE, Genève</it>
+    <fr>Mutation Fondation SECOURS HUMANITAIRE, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22965</journalNumber>
+  <journalDate>2019-12-06</journalDate>
+  <publicationText>Fondation SECOURS HUMANITAIRE, à Genève, CHE-115.128.572 (FOSC du 20.04.2018, p. 0/4185551). Statuts modifiés le 30.10.2019 sur des points non soumis à la publication.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation SECOURS HUMANITAIRE</name>
+      <uid>CHE-115.128.572</uid>
+      <uidOrganisationId>115128572</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66021630094</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Royaume</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>aide aux pauvres, aux malades, aux handicapés, aux orphelins et aux élèves nécessiteux notamment aux territoires palestiniens occupés; installation et gestion de centres médicaux et éducatifs et le soutien des projets de protection de l'environnement et de développement durable; accomplissement et encouragement de travaux bénévoles en relation avec cet objectif (cf. acte de fondation pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation SECOURS HUMANITAIRE</name>
+      <uid>CHE-115.128.572</uid>
+      <uidOrganisationId>115128572</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66021630094</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Royaume</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>aide aux pauvres, aux malades, aux handicapés, aux orphelins et aux élèves nécessiteux notamment aux territoires palestiniens occupés; installation et gestion de centres médicaux et éducatifs et le soutien des projets de protection de l'environnement et de développement durable; accomplissement et encouragement de travaux bénévoles en relation avec cet objectif (cf. acte de fondation pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-20</lastFoscDate>
+    <lastFoscNumber>76</lastFoscNumber>
+    <lastFoscSequence>4185551</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

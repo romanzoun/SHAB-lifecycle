@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>9f14f16f-b36a-46c2-a10f-47f4aa27417c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004660586</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Acquaroli Michel, Carouge (GE)</de>
+    <en>Change Acquaroli Michel, Carouge (GE)</en>
+    <it>Cambiamenti Acquaroli Michel, Carouge (GE)</it>
+    <fr>Mutation Acquaroli Michel, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11818</journalNumber>
+  <journalDate>2019-06-21</journalDate>
+  <publicationText>Acquaroli Michel, à Carouge (GE), CHE-108.225.371 (FOSC du 14.12.2018, p. 0/1004521854). Transfert de patrimoine: selon contrat du 20.06.2019, le titulaire a transféré des actifs pour CHF 65'443'001.80 et des passifs envers les tiers de CHF 42'139'452.29, à Miléna Immobilier SA (CHE-254.188.880), à Carouge (GE). Contre-prestation: CHF 65'443'001.80. Transfert de patrimoine: selon contrat du 20.06.2019, le titulaire a transféré des actifs pour CHF 46'501.39 et des passifs envers les tiers de CHF 1'800, à Acquaroli Architecte Sàrl (CHE-191.681.084), à Carouge (GE). Contre-prestation: CHF 46'501.39.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Acquaroli Michel</name>
+      <uid>CHE108225371</uid>
+      <uidOrganisationId>108225371</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66009960067</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Fontenette</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>architecte; achat, location et vente d'immeubles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Acquaroli Michel</name>
+      <uid>CHE108225371</uid>
+      <uidOrganisationId>108225371</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66009960067</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Fontenette</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>architecte; achat, location et vente d'immeubles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-14</lastFoscDate>
+    <lastFoscSequence>1004521854</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

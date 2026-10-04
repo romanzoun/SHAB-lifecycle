@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.20/HR02-export.xsd">
+<meta>
+  <id>a7d56487-b3a6-4c54-be67-a18ffb5759ae</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005998193</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-04-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation PharmaTrail AG, Basel</de>
+    <en>Change PharmaTrail AG, Basel</en>
+    <it>Cambiamenti PharmaTrail AG, Basel</it>
+    <fr>Mutation PharmaTrail AG, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2217</journalNumber>
+  <journalDate>2024-03-26</journalDate>
+  <publicationText>PharmaTrail AG, in Basel, CHE-187.858.267, Aktiengesellschaft (SHAB Nr. 51 vom 13.03.2024, Publ. 1005984503). Statutenänderung: 21.03.2024. Kapitalband gemäss näherer Umschreibung in den Statuten. [bisher: Kapitalband gemäss näherer Umschreibung in den Statuten.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>PharmaTrail AG</name>
+      <translations>(PharmaTrail Ltd) (PharmaTrail SA)</translations>
+      <uid>CHE-187.858.267</uid>
+      <uidOrganisationId>187858267</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030443207</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Peter Merian-Strasse</street>
+        <houseNumber>90</houseNumber>
+        <swissZipCode>4052</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Entwicklung und Vermarktung von Software und Applikationen sowie Erbringung von damit zusammenhängenden Dienstleistungen aller Art, insbesondere für Anwendungen im Bereich Pharma- und Biotechindustrie; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>797282.00</nominal>
+      <paid>797282.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PharmaTrail AG</name>
+      <translations>(PharmaTrail Ltd) (PharmaTrail SA)</translations>
+      <uid>CHE-187.858.267</uid>
+      <uidOrganisationId>187858267</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030443207</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Peter Merian-Strasse</street>
+        <houseNumber>90</houseNumber>
+        <swissZipCode>4052</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Entwicklung und Vermarktung von Software und Applikationen sowie Erbringung von damit zusammenhängenden Dienstleistungen aller Art, insbesondere für Anwendungen im Bereich Pharma- und Biotechindustrie; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>797282.00</nominal>
+      <paid>797282.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2024-03-13</lastFoscDate>
+    <lastFoscNumber>51</lastFoscNumber>
+    <lastFoscSequence>1005984503</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

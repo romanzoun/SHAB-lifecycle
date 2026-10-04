@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>4ec1684c-c41f-40b9-bdd3-63a52176407a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004528087</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Eisbahn Wohlen Genossenschaft, Wohlen (AG)</de>
+    <en>Change Eisbahn Wohlen Genossenschaft, Wohlen (AG)</en>
+    <it>Cambiamenti Eisbahn Wohlen Genossenschaft, Wohlen (AG)</it>
+    <fr>Mutation Eisbahn Wohlen Genossenschaft, Wohlen (AG)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13113</journalNumber>
+  <journalDate>2018-12-18</journalDate>
+  <publicationText>Eisbahn Wohlen Genossenschaft, in Wohlen (AG), CHE-106.060.159, Genossenschaft (SHAB Nr. 5 vom 09.01.2015, Publ. 1919803). Vermögensübertragung: Die Genossenschaft überträgt gemäss Vertrag vom 28.11.2018 Aktiven von CHF 1'773'454.00 und Passiven (Fremdkapital) von CHF 1'257'163.00 auf die Sportpark Bünzmatt AG, in Wohlen (AG) (CHE-166.696.556). Gegenleistung: keine.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Eisbahn Wohlen Genossenschaft</name>
+      <uid>CHE106060159</uid>
+      <uidOrganisationId>106060159</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40059160734</code13>
+      <seat>Wohlen (AG)</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Urs Meier</addressLine1>
+        <street>Stegmattweg</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>5610</swissZipCode>
+        <town>Wohlen AG</town>
+      </address>
+    </company>
+    <purpose>Erstellung und Betrieb einer Kunsteisbahn.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Eisbahn Wohlen Genossenschaft</name>
+      <uid>CHE106060159</uid>
+      <uidOrganisationId>106060159</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40059160734</code13>
+      <seat>Wohlen (AG)</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Urs Meier</addressLine1>
+        <street>Stegmattweg</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>5610</swissZipCode>
+        <town>Wohlen AG</town>
+      </address>
+    </company>
+    <purpose>Erstellung und Betrieb einer Kunsteisbahn.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-01-09</lastFoscDate>
+    <lastFoscNumber>5</lastFoscNumber>
+    <lastFoscSequence>1919803</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

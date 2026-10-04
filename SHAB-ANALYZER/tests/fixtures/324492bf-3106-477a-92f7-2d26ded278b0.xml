@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>32423e9b-aa6f-4a51-bd94-0016ad8dc71d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004788603</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Hôpital intercantonal de la Broye, Payerne</de>
+    <en>Change Hôpital intercantonal de la Broye, Payerne</en>
+    <it>Cambiamenti Hôpital intercantonal de la Broye, Payerne</it>
+    <fr>Mutation Hôpital intercantonal de la Broye, Payerne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22742</journalNumber>
+  <journalDate>2019-12-16</journalDate>
+  <publicationText>Hôpital intercantonal de la Broye, à Payerne, CHE-174.033.257 (FOSC du 12.11.2019, p. 0/1004757779). La signature de Becaud Francis est radiée. Signature collective à deux est conférée à Coley Brian, de Grenchen, à Estavayer, directeur, membre de la direction générale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hôpital intercantonal de la Broye</name>
+      <uid>CHE-174.033.257</uid>
+      <uidOrganisationId>174033257</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011507693</code13>
+      <seat>Payerne</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de la Colline</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt den An- und Verkauf von Kassensystemen und Schankanlagen, deren Registrierung, Reparaturen, Handel mit Ersatzteilen, Installation, Programmierung sowie Erbringung von weiteren Dienstleistungen im Bereich des Hauptzwecks. Die Gesellschaft kann im In- und Ausland Zweigniederlassungen errichten, sich an anderen Unternehmungen beteiligen oder solche übernehmen sowie Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hôpital intercantonal de la Broye</name>
+      <uid>CHE-174.033.257</uid>
+      <uidOrganisationId>174033257</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011507693</code13>
+      <seat>Payerne</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de la Colline</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>l'Etablissement dispense des prestations dans le domaine sanitaire, conformément au mandat donné par les deux Conseils d'Etat.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-12</lastFoscDate>
+    <lastFoscNumber>219</lastFoscNumber>
+    <lastFoscSequence>1004757779</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

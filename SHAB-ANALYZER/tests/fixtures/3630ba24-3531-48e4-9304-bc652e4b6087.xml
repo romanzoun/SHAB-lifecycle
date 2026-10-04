@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>3622f2ac-8bb9-4876-8072-967689e54d4f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005087528</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation UE-H SA, Lausanne, neu UE-H SA en liquidation</de>
+    <en>Change UE-H SA, Lausanne, new UE-H SA en liquidation</en>
+    <it>Cambiamenti UE-H SA, Lausanne, nuovo UE-H SA en liquidation</it>
+    <fr>Mutation UE-H SA, Lausanne, nouveau UE-H SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1793</journalNumber>
+  <journalDate>2021-01-26</journalDate>
+  <publicationText>UE-H SA, à Lausanne, CHE-111.699.255 (FOSC du 03.08.2018, p. 0/4396677). Selon décision de son assemblée générale du 20.01.2021, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: UE-H SA en liquidation. Les 100 actions nominatives de CHF 1'000 ne sont désormais plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO). Maire Laurent est nommé liquidateur.</publicationText>
+  <commonsNew>
+    <company>
+      <name>UE-H SA en liquidation</name>
+      <uid>CHE-111.699.255</uid>
+      <uidOrganisationId>111699255</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430282267</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o MCE Avocats</addressLine1>
+        <street>Rue du Grand-Chêne</street>
+        <houseNumber>1-3</houseNumber>
+        <swissZipCode>1002</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>toute activité commerciale en général, opérations d'import-export, en particulier acquisition et vente de cosmétiques et de parfumerie; acquisition, détention et gestion de participations dans d'autres sociétés; acquisition et gestion de propriétés immobilières à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>UE-H SA</name>
+      <uid>CHE-111.699.255</uid>
+      <uidOrganisationId>111699255</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430282267</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o MCE Avocats</addressLine1>
+        <street>Rue du Grand-Chêne</street>
+        <houseNumber>1-3</houseNumber>
+        <swissZipCode>1002</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>toute activité commerciale en général, opérations d'import-export, en particulier acquisition et vente de cosmétiques et de parfumerie; acquisition, détention et gestion de participations dans d'autres sociétés; acquisition et gestion de propriétés immobilières à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-03</lastFoscDate>
+    <lastFoscNumber>148</lastFoscNumber>
+    <lastFoscSequence>4396677</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

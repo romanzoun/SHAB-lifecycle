@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>c827039b-177c-4ebe-816f-97e65a9f891c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004520029</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation Karl Meyer Holding AG, Allschwil</de>
+    <en>Change Karl Meyer Holding AG, Allschwil</en>
+    <it>Cambiamenti Karl Meyer Holding AG, Allschwil</it>
+    <fr>Mutation Karl Meyer Holding AG, Allschwil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6085</journalNumber>
+  <journalDate>2018-12-10</journalDate>
+  <publicationText>Karl Meyer Holding AG, in Allschwil, CHE-100.940.926, Aktiengesellschaft (SHAB Nr. 87 vom 07.05.2018, Publ. 4215051). Vermögensübertragung: Die Aktiengesellschaft überträgt gemäss Vertrag vom 05.12.2018 Aktiven von CHF 7'998'234.00 und Passiven (Fremdkapital) von CHF 0.00 auf die "KamKam AG" (CHE-363.840.817), in Basel. Gegenleistung: keine. Vermögensübertragung: Die Aktiengesellschaft überträgt gemäss Vertrag vom 05.12.2018 Aktiven von CHF 5'118'234.00 und Passiven (Fremdkapital) von CHF 0.00 auf die "Markus Meyer AG" (CHE-254.464.324), in Basel. Gegenleistung: keine.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Karl Meyer Holding AG</name>
+      <uid>CHE100940926</uid>
+      <uidOrganisationId>100940926</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030013365</code13>
+      <seat>Allschwil</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Immosense AG</addressLine1>
+        <street>Fabrikstrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>4123</swissZipCode>
+        <town>Allschwil</town>
+      </address>
+    </company>
+    <purpose>Erwerb und Verwaltung von Beteiligungen an industriellen und kommerziellen Unternehmungen. Die Gesellschaft kann Finanzgeschäfte aller Art durchführen sowie Grundeigentum erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>1500000.00</nominal>
+      <paid>1500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Karl Meyer Holding AG</name>
+      <uid>CHE100940926</uid>
+      <uidOrganisationId>100940926</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030013365</code13>
+      <seat>Allschwil</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Immosense AG</addressLine1>
+        <street>Fabrikstrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>4123</swissZipCode>
+        <town>Allschwil</town>
+      </address>
+    </company>
+    <purpose>Erwerb und Verwaltung von Beteiligungen an industriellen und kommerziellen Unternehmungen. Die Gesellschaft kann Finanzgeschäfte aller Art durchführen sowie Grundeigentum erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>1500000.00</nominal>
+      <paid>1500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-07</lastFoscDate>
+    <lastFoscNumber>87</lastFoscNumber>
+    <lastFoscSequence>4215051</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

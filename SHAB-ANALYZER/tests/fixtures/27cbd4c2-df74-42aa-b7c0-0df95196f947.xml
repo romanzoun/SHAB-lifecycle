@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>27b637b2-7c0d-428a-b87d-fee8ee0784ab</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004782114</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation VILLAGE DU SOIR SA, Lancy</de>
+    <en>Change VILLAGE DU SOIR SA, Lancy</en>
+    <it>Cambiamenti VILLAGE DU SOIR SA, Lancy</it>
+    <fr>Mutation VILLAGE DU SOIR SA, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23110</journalNumber>
+  <journalDate>2019-12-09</journalDate>
+  <publicationText>VILLAGE DU SOIR SA, à Lancy, CHE-316.659.028 (FOSC du 29.10.2019, p. 0/1004747725). 160 actions de CHF 100, jusqu'ici ordinaires, sont maintenant privilégiées quant au dividende. Capital-actions: CHF 100'000, entièrement libéré, divisé en 530 actions de CHF 100, privilégiées quant au dividende et 470 actions ordinaires de CHF 100, toutes nominatives. Statuts modifiés le 04.12.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>VILLAGE DU SOIR SA</name>
+      <uid>CHE-316.659.028</uid>
+      <uidOrganisationId>316659028</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022950167</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route des Jeunes</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy</town>
+      </address>
+    </company>
+    <purpose>l'exploitation d'établissements publics, l'organisation de manifestations, l'organisation d'événements artistiques et culturels (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>VILLAGE DU SOIR SA</name>
+      <uid>CHE-316.659.028</uid>
+      <uidOrganisationId>316659028</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022950167</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route des Jeunes</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy</town>
+      </address>
+    </company>
+    <purpose>l'exploitation d'établissements publics, l'organisation de manifestations, l'organisation d'événements artistiques et culturels (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-29</lastFoscDate>
+    <lastFoscNumber>209</lastFoscNumber>
+    <lastFoscSequence>1004747725</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

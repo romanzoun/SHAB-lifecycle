@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>47c20ec3-5c77-445d-9209-bbf34cc1a9a8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004749730</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Api Theatrical Promotions SA, Genève</de>
+    <en>Change Api Theatrical Promotions SA, Genève</en>
+    <it>Cambiamenti Api Theatrical Promotions SA, Genève</it>
+    <fr>Mutation Api Theatrical Promotions SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20117</journalNumber>
+  <journalDate>2019-10-28</journalDate>
+  <publicationText>Api Theatrical Promotions SA, à Genève, CHE-102.528.689 (FOSC du 10.02.2017, p. 0/3341297). Le prénom exact de l'administrateur est Muller Pierre Richard et non pas Muller Pierre-Richard.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Api Theatrical Promotions SA</name>
+      <uid>CHE-102.528.689</uid>
+      <uidOrganisationId>102528689</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001579735</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard James-Fazy 10, c/Pierre-Richard Muller</street>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>production, coproduction, gestion et promotion de spectacles, de comédies musicales et représentations théâtrales, d'émissions télévisées et radiophoniques, de films et de tous moyens de reproductions filmés et sonores; location de matériel destiné à la réalisation de ces activités; achat, vente, exploitation et représentation de tous brevets et licences se rapportant au but de la société.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Api Theatrical Promotions SA</name>
+      <uid>CHE-102.528.689</uid>
+      <uidOrganisationId>102528689</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001579735</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard James-Fazy 10, c/Pierre-Richard Muller</street>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>production, coproduction, gestion et promotion de spectacles, de comédies musicales et représentations théâtrales, d'émissions télévisées et radiophoniques, de films et de tous moyens de reproductions filmés et sonores; location de matériel destiné à la réalisation de ces activités; achat, vente, exploitation et représentation de tous brevets et licences se rapportant au but de la société.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-02-10</lastFoscDate>
+    <lastFoscNumber>29</lastFoscNumber>
+    <lastFoscSequence>3341297</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

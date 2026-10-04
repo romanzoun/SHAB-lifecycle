@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>7419edca-7e5a-4cb6-a124-ea2c59f9eebc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004514490</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation IS Wealth Management SA, Sion</de>
+    <en>Change IS Wealth Management SA, Sion</en>
+    <it>Cambiamenti IS Wealth Management SA, Sion</it>
+    <fr>Mutation IS Wealth Management SA, Sion</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3016</journalNumber>
+  <journalDate>2018-12-03</journalDate>
+  <publicationText>IS Wealth Management SA, à Sion, CHE-112.769.728, société anonyme (No. FOSC 75 du 19.04.2018, Publ. 4182665). Personne(s) et signature(s) radiée(s): Fiduciaire Fidag SA succursale de Sion, à Sion, organe de révision. Selon déclaration du 06.11.2018, il est renoncé à un contrôle restreint.</publicationText>
+  <commonsNew>
+    <company>
+      <name>IS Wealth Management SA</name>
+      <uid>CHE112769728</uid>
+      <uidOrganisationId>112769728</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630101914</code13>
+      <seat>Sion</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>place du Midi</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>gestion de patrimoines mobiliers et immobiliers, placements financiers et immobiliers, prestations de services d'intermédiaires et conseils pour l'achat et la vente de biens mobiliers et immobiliers, en Suisse ou à l'étranger</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IS Wealth Management SA</name>
+      <uid>CHE112769728</uid>
+      <uidOrganisationId>112769728</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630101914</code13>
+      <seat>Sion</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>place du Midi</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>gestion de patrimoines mobiliers et immobiliers, placements financiers et immobiliers, prestations de services d'intermédiaires et conseils pour l'achat et la vente de biens mobiliers et immobiliers, en Suisse ou à l'étranger</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-19</lastFoscDate>
+    <lastFoscNumber>75</lastFoscNumber>
+    <lastFoscSequence>4182665</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

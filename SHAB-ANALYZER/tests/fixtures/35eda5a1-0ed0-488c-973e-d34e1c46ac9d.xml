@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3597140c-99d2-4dc4-84a8-088525e32172</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004459734</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation Butini, Onex</de>
+    <en>Change Fondation Butini, Onex</en>
+    <it>Cambiamenti Fondation Butini, Onex</it>
+    <fr>Mutation Fondation Butini, Onex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16725</journalNumber>
+  <journalDate>2018-09-17</journalDate>
+  <publicationText>Fondation Butini, à Onex, CHE-102.029.908 (FOSC du 01.03.2018, p. 0/4086377). La mention relative à la composition du conseil n'étant plus soumise à inscription, elle est radiée d'office.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Butini</name>
+      <uid>CHE102029908</uid>
+      <uidOrganisationId>102029908</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000689130</code13>
+      <seat>Onex</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Gustave-Rochette</street>
+        <houseNumber>14</houseNumber>
+        <town>Onex</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un hôpital pour femmes et enfants à ressources modestes, sans distinction de nationalité. La fondation pourra également s'occuper en général de l'assistance aux personnes âgées, sans distinction de nationalité, de sexe ou de confession, notamment pour l'exploitation d'un centre abritant un complexe médico-social composé d'un foyer permanent, d'un foyer de jour et d'une garderie d'enfants, tendant à donner aux personnes âgées un environnement naturel et normal.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Butini</name>
+      <uid>CHE102029908</uid>
+      <uidOrganisationId>102029908</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000689130</code13>
+      <seat>Onex</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Gustave-Rochette</street>
+        <houseNumber>14</houseNumber>
+        <town>Onex</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un hôpital pour femmes et enfants à ressources modestes, sans distinction de nationalité. La fondation pourra également s'occuper en général de l'assistance aux personnes âgées, sans distinction de nationalité, de sexe ou de confession, notamment pour l'exploitation d'un centre abritant un complexe médico-social composé d'un foyer permanent, d'un foyer de jour et d'une garderie d'enfants, tendant à donner aux personnes âgées un environnement naturel et normal.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-03-01</lastFoscDate>
+    <lastFoscSequence>4086377</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

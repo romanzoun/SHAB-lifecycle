@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8dc4112c-094e-482a-b43c-10446a2f651b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004567224</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Inter Pipeline Luxembourg S.à r.l., Luxembourg, Zürich Branch, Zürich</de>
+    <en>Change Inter Pipeline Luxembourg S.à r.l., Luxembourg, Zürich Branch, Zürich</en>
+    <it>Cambiamenti Inter Pipeline Luxembourg S.à r.l., Luxembourg, Zürich Branch, Zürich</it>
+    <fr>Mutation Inter Pipeline Luxembourg S.à r.l., Luxembourg, Zürich Branch, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6646</journalNumber>
+  <journalDate>2019-02-12</journalDate>
+  <publicationText>Inter Pipeline Luxembourg S.à r.l., Luxembourg, Zürich Branch, in Zürich, CHE-438.605.685, ausländische Zweigniederlassung (SHAB Nr. 164 vom 27.08.2018, Publ. 4435401), Hauptsitz in: Luxemburg. Kapital Hauptsitz neu: EUR 12'411.00; Liberierung EUR 12'411.00 [bisher: Kapital Hauptsitz: EUR 12'401.00; Liberierung: EUR 12'401.00].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Inter Pipeline Luxembourg S.à r.l., Luxembourg, Zürich Branch</name>
+      <uid>CHE438605685</uid>
+      <uidOrganisationId>438605685</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090040863</code13>
+      <seat>Zürich</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Talstrasse</street>
+        <houseNumber>83</houseNumber>
+        <swissZipCode>8001</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Jede Tätigkeit, die im Zusammenhang mit der Leitung und Verwaltung der konzerninternen finanziellen Vermögenswerte der Zweigniederlassung zugeteilt werden, gemäss den von Zeit zu Zeit verabschiedeten Beschlüssen der Gesellschaft.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Inter Pipeline Luxembourg S.à r.l., Luxembourg, Zürich Branch</name>
+      <uid>CHE438605685</uid>
+      <uidOrganisationId>438605685</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090040863</code13>
+      <seat>Zürich</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Talstrasse</street>
+        <houseNumber>83</houseNumber>
+        <swissZipCode>8001</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-27</lastFoscDate>
+    <lastFoscNumber>164</lastFoscNumber>
+    <lastFoscSequence>4435401</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

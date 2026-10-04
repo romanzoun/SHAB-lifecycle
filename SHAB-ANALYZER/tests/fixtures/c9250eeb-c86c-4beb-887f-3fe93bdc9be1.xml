@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>c900707b-4e5f-4767-b964-f256729495b5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004778090</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation R. Kuriger AG, Düdingen, neu R. Kuriger AG in Liquidation</de>
+    <en>Change R. Kuriger AG, Düdingen, new R. Kuriger AG in Liquidation</en>
+    <it>Cambiamenti R. Kuriger AG, Düdingen, nuovo R. Kuriger AG in Liquidation</it>
+    <fr>Mutation R. Kuriger AG, Düdingen, nouveau R. Kuriger AG in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6832</journalNumber>
+  <journalDate>2019-12-04</journalDate>
+  <publicationText>R. Kuriger AG, in Düdingen, CHE-107.962.515 (SHAB vom 23.12.2016, s. 0/3243903). Die Gesellschaft ist laut Beschluss der Generalversammlung vom 26.11.2019 aufgelöst. Die Liquidation wird unter der Firma: R. Kuriger AG in Liquidation durchgeführt. Eingetragene Person geändert: Kuriger René, Verwaltungsratsmitglied, Geschäftsführer, Einzelunterschrift, neu Verwaltungsratsmitglied, Geschäftsführer, Liquidator, Einzelunterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>R. Kuriger AG in Liquidation</name>
+      <uid>CHE-107.962.515</uid>
+      <uidOrganisationId>107962515</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706302671</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o René Kuriger</addressLine1>
+        <street>Grubenweg</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Baugeschäftes Hoch- und Tiefbau sowie der Handel mit Liegenschaften (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>R. Kuriger AG</name>
+      <uid>CHE-107.962.515</uid>
+      <uidOrganisationId>107962515</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706302671</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o René Kuriger</addressLine1>
+        <street>Grubenweg</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Baugeschäftes Hoch- und Tiefbau sowie der Handel mit Liegenschaften (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-12-23</lastFoscDate>
+    <lastFoscNumber>250</lastFoscNumber>
+    <lastFoscSequence>3243903</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>025a4cb7-10b0-45e4-9324-4f8a882a406e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004475286</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Textkontext galambos, Uster</de>
+    <en>Change Textkontext galambos, Uster</en>
+    <it>Cambiamenti Textkontext galambos, Uster</it>
+    <fr>Mutation Textkontext galambos, Uster</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>36184</journalNumber>
+  <journalDate>2018-10-09</journalDate>
+  <publicationText>Textkontext galambos, in Uster, CHE-113.940.338, Einzelunternehmen (SHAB Nr. 171 vom 04.09.2008, Publ. 4638066). [gestrichen: Weitere Geschäftsadresse: Quellenstrasse 31, 8005 Zürich].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Textkontext galambos</name>
+      <uid>CHE113940338</uid>
+      <uidOrganisationId>113940338</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010533709</code13>
+      <seat>Uster</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonnenbergstrasse</street>
+        <houseNumber>67</houseNumber>
+        <swissZipCode>8610</swissZipCode>
+        <town>Uster</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Sprachendienstleistungen, insbesondere Texten, Lektorat, Korrektorat und Texte redigieren.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Textkontext galambos</name>
+      <uid>CHE113940338</uid>
+      <uidOrganisationId>113940338</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010533709</code13>
+      <seat>Uster</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonnenbergstrasse</street>
+        <houseNumber>67</houseNumber>
+        <swissZipCode>8610</swissZipCode>
+        <town>Uster</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Sprachendienstleistungen, insbesondere Texten, Lektorat, Korrektorat und Texte redigieren.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2008-09-04</lastFoscDate>
+    <lastFoscNumber>171</lastFoscNumber>
+    <lastFoscSequence>4638066</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

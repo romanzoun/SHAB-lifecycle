@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>d3222b4e-3f84-4e58-9056-f14efa4d8033</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004614778</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Rück + Meier AG, in Liquidation, bisher Rück + Meier AG, Misery-Courtion</de>
+    <en>Change Rück + Meier AG, in Liquidation, to date Rück + Meier AG, Misery-Courtion</en>
+    <it>Cambiamenti Rück + Meier AG, in Liquidation, prima Rück + Meier AG, Misery-Courtion</it>
+    <fr>Mutation Rück + Meier AG, in Liquidation, Misery-Courtion</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2240</journalNumber>
+  <journalDate>2019-04-16</journalDate>
+  <publicationText>Rück + Meier AG, in Misery-Courtion, CHE-108.021.874 (SHAB vom 06.03.2015, s. 0/2028111). Die Gesellschaft ist laut Beschluss der Generalversammlung vom 12.04.2019 aufgelöst. Die Liquidation wird unter der Firma: Rück + Meier AG, in Liquidation durchgeführt. Eingetragene Person geändert: Rück Niklaus Alfons, Verwaltungsratsmitglied, Präsident, Kollektivunterschrift zu zweien, neu Verwaltungsratsmitglied, Präsident, Liquidator, Einzelunterschrift. Liquidationsadresse: Chemin de l'Ancien-Four 7, c/o Niklaus Rück, 1721 Cormérod.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Rück + Meier AG, in Liquidation</name>
+      <uid>CHE108021874</uid>
+      <uidOrganisationId>108021874</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH05330083255</code13>
+      <seat>Misery-Courtion</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de l'Ancien-Four</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1721</swissZipCode>
+        <town>Cormérod</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Niklaus Rück</addressLine1>
+        <street>Chemin de l'Ancien-Four</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1721</swissZipCode>
+        <town>Cormérod</town>
+      </liqAddress>
+    </company>
+    <purpose>Entwicklung, Fabrikation von sowie Handel mit elektronischen Komponenten, Halbfabrikaten und Apparaten (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Rück + Meier AG</name>
+      <uid>CHE108021874</uid>
+      <uidOrganisationId>108021874</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH05330083255</code13>
+      <seat>Misery-Courtion</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de l'Ancien-Four</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1721</swissZipCode>
+        <town>Cormérod</town>
+      </address>
+    </company>
+    <purpose>Entwicklung, Fabrikation von sowie Handel mit elektronischen Komponenten, Halbfabrikaten und Apparaten (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-03-06</lastFoscDate>
+    <lastFoscSequence>2028111</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>4ffbe63f-6756-46d8-84fb-dbc52b5057e4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004692143</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Grgic Management, Le Mouret</de>
+    <en>Change Grgic Management, Le Mouret</en>
+    <it>Cambiamenti Grgic Management, Le Mouret</it>
+    <fr>Mutation Grgic Management, Le Mouret</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4387</journalNumber>
+  <journalDate>2019-08-05</journalDate>
+  <publicationText>Grgic Management , à Le Mouret, CHE-238.332.612 (FOSC du 01.05.2019, p. 0/1004620783). Une opposition motivée a été présentée contre la radiation de cette entité juridique. Le titulaire continue l'exploitation de son commerce. L'inscription subsiste (art. 159 al. 5 ORC).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Grgic Management</name>
+      <uid>CHE238332612</uid>
+      <uidOrganisationId>238332612</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735617263</code13>
+      <seat>Le Mouret</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Damir Grgic</addressLine1>
+        <street>Passage du Querro</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1724</swissZipCode>
+        <town>Le Mouret</town>
+      </address>
+    </company>
+    <purpose>services dans les secteurs de la location et de l'amarrage de yachts, de l'éducation nautique, de la construction navale, du tourisme; services de vente d'aliments et de boissons; ainsi que dans le domaines du chauffage et de l'électricité.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Grgic Management</name>
+      <uid>CHE238332612</uid>
+      <uidOrganisationId>238332612</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735617263</code13>
+      <seat>Le Mouret</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Damir Grgic</addressLine1>
+        <street>Passage du Querro</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1724</swissZipCode>
+        <town>Le Mouret</town>
+      </address>
+    </company>
+    <purpose>services dans les secteurs de la location et de l'amarrage de yachts, de l'éducation nautique, de la construction navale, du tourisme; services de vente d'aliments et de boissons; ainsi que dans le domaines du chauffage et de l'électricité.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-01</lastFoscDate>
+    <lastFoscSequence>1004620783</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

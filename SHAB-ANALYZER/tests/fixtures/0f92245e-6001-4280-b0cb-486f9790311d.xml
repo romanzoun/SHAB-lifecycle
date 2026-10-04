@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>0f92245e-6001-4280-b0cb-486f9790311d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004689115</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Société Marketing.com Sàrl, Genève</de>
+    <en>Change Société Marketing.com Sàrl, Genève</en>
+    <it>Cambiamenti Société Marketing.com Sàrl, Genève</it>
+    <fr>Mutation Société Marketing.com Sàrl, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14550</journalNumber>
+  <journalDate>2019-07-29</journalDate>
+  <publicationText>Société Marketing.com Sàrl, à Genève, CHE-440.582.183 (FOSC du 08.05.2019, p. 0/1004625944). L'inscription no 8586 du 03.05.2019 est complétée dans le sens que l'adresse suivante est aussi radiée: case postale 1140, 1211 Genève 1.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Société Marketing.com Sàrl</name>
+      <uid>CHE440582183</uid>
+      <uidOrganisationId>440582183</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66068660154</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>création, réalisation et référencement de sites internet (marketing sur les moteurs de recherche (SEM) et optimisation pour les moteurs de recherche (SEO)), et de plateformes de commerce en ligne (e-commerce), développement et exploitation de concepts marketing (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Société Marketing.com Sàrl</name>
+      <uid>CHE440582183</uid>
+      <uidOrganisationId>440582183</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66068660154</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>création, réalisation et référencement de sites internet (marketing sur les moteurs de recherche (SEM) et optimisation pour les moteurs de recherche (SEO)), et de plateformes de commerce en ligne (e-commerce), développement et exploitation de concepts marketing (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-08</lastFoscDate>
+    <lastFoscSequence>1004625944</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

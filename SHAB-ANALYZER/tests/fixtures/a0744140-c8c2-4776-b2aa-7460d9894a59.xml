@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>a04d372c-18fd-4a64-b7e3-6aed4e154b83</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004649071</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Spiral Group SA, bisher Spiral Group SA en liquidation, Bösingen</de>
+    <en>Change Spiral Group SA, to date Spiral Group SA en liquidation, Bösingen</en>
+    <it>Cambiamenti Spiral Group SA, prima Spiral Group SA en liquidation, Bösingen</it>
+    <fr>Mutation Spiral Group SA, Bösingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3220</journalNumber>
+  <journalDate>2019-06-06</journalDate>
+  <publicationText>Spiral Group SA en liquidation, à Bösingen, CHE-110.087.546 (FOSC du 19.12.2013, p. 0/7225826). Rectification de l'inscription n° 4468 du 13.10.2004 (FOSC du 19.10.2004, Id 2498192): L'inscription concernant l'ouverture de la faillite est radiée. La faillite a en effet été prononcée à l'encontre de la société SPIRAL SPAS SA (CHE-109.864.869) et non pas Spiral Group SA. Nouvelle raison sociale: Spiral Group SA.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Spiral Group SA</name>
+      <uid>CHE110087546</uid>
+      <uidOrganisationId>110087546</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710022816</code13>
+      <seat>Bösingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>218</houseNumber>
+        <swissZipCode>3178</swissZipCode>
+        <town>Bösingen</town>
+      </address>
+    </company>
+    <purpose>détention de participations dans des sociétés suisses et étrangères. Faire toutes opérations commerciales, civiles, financières, industrielles, mobilières et immobilières se rattachant directement ou indirectement à son but ou qui seraient de nature à en faciliter la réalisation. Accorder des prêts à ses actionnaires et à des tiers, se porter caution d'emprunts souscrits par les actionnaires ou des tiers, garantir ces emprunts ou le nantissement de titres hypothécaires ou par la souscription de tous autres engagements financiers.</purpose>
+    <capital>
+      <nominal>140000.00</nominal>
+      <paid>140000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Spiral Group SA en liquidation</name>
+      <uid>CHE110087546</uid>
+      <uidOrganisationId>110087546</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710022816</code13>
+      <seat>Bösingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>218</houseNumber>
+        <swissZipCode>3178</swissZipCode>
+        <town>Bösingen</town>
+      </address>
+    </company>
+    <purpose>détention de participations dans des sociétés suisses et étrangères. Faire toutes opérations commerciales, civiles, financières, industrielles, mobilières et immobilières se rattachant directement ou indirectement à son but ou qui seraient de nature à en faciliter la réalisation. Accorder des prêts à ses actionnaires et à des tiers, se porter caution d'emprunts souscrits par les actionnaires ou des tiers, garantir ces emprunts ou le nantissement de titres hypothécaires ou par la souscription de tous autres engagements financiers.</purpose>
+    <capital>
+      <nominal>140000.00</nominal>
+      <paid>140000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225826</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

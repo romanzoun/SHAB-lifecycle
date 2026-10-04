@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>20c06bf0-7dbc-4563-af58-2035392ed1ce</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004541708</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation Financial EXPERT AG, Zug</de>
+    <en>Change Financial EXPERT AG, Zug</en>
+    <it>Cambiamenti Financial EXPERT AG, Zug</it>
+    <fr>Mutation Financial EXPERT AG, Zug</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>367</journalNumber>
+  <journalDate>2019-01-10</journalDate>
+  <publicationText>Financial EXPERT AG, in Zug, CHE-101.906.895, Aktiengesellschaft (SHAB Nr. 160 vom 19.08.2016, Publ. 3011383). Zweigniederlassung neu: [gestrichen: Zürich].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Financial EXPERT AG</name>
+      <translations>[fr] Financial EXPERT SA [it] Financial EXPERT Ltd.</translations>
+      <uid>CHE101906895</uid>
+      <uidOrganisationId>101906895</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030245301</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Riedmatt</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren aller Art sowie Verwaltung von mobilen und immobilen Vermögenswerten; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Financial EXPERT AG</name>
+      <translations>[fr] Financial EXPERT SA [it] Financial EXPERT Ltd.</translations>
+      <uid>CHE101906895</uid>
+      <uidOrganisationId>101906895</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030245301</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Riedmatt</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Beratungsdienstleistungen im Vermögensverwaltungs-, Allfinanz-, Versicherungs- und Vorsorgebereich in der Schweiz und im Ausland; kann sich an anderen Finanzdienstleistungsgesellschaften beteiligen sowie Liegenschaften kaufen, belehnen, verwalten und verkaufen</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-08-19</lastFoscDate>
+    <lastFoscNumber>160</lastFoscNumber>
+    <lastFoscSequence>3011383</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>06105240-6a2a-4546-9a2a-a4b337ffb408</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004858900</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation WeiTec Holding GmbH, Zug</de>
+    <en>Change WeiTec Holding GmbH, Zug</en>
+    <it>Cambiamenti WeiTec Holding GmbH, Zug</it>
+    <fr>Mutation WeiTec Holding GmbH, Zug</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4093</journalNumber>
+  <journalDate>2020-03-19</journalDate>
+  <publicationText>WeiTec Holding GmbH, in Zug, CHE-165.473.999, Gesellschaft mit beschränkter Haftung (SHAB Nr. 10 vom 16.01.2020, Publ. 1004806524). Mit Erklärung vom 12.03.2020 wurde auf die eingeschränkte Revision verzichtet.</publicationText>
+  <commonsNew>
+    <company>
+      <name>WeiTec Holding GmbH</name>
+      <uid>CHE-165.473.999</uid>
+      <uidOrganisationId>165473999</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040159828</code13>
+      <seat>Zug</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Baarerstrasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Halten und Verwalten sowie Finanzierung von Beteiligungen an anderen Gesellschaften in der Schweiz und im Ausland; Erbringung von Management- und Finanzierungsdienstleistungen für Tochtergesellschaften und nahestehende Dritte; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>WeiTec Holding GmbH</name>
+      <uid>CHE-165.473.999</uid>
+      <uidOrganisationId>165473999</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040159828</code13>
+      <seat>Zug</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Baarerstrasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Halten und Verwalten sowie Finanzierung von Beteiligungen an anderen Gesellschaften in der Schweiz und im Ausland; Erbringung von Management- und Finanzierungsdienstleistungen für Tochtergesellschaften und nahestehende Dritte; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-16</lastFoscDate>
+    <lastFoscNumber>10</lastFoscNumber>
+    <lastFoscSequence>1004806524</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>fff15228-5e02-4854-905a-c602c62c385b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004623980</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation DMV Ciruolo GmbH, Zürich</de>
+    <en>Change DMV Ciruolo GmbH, Zürich</en>
+    <it>Cambiamenti DMV Ciruolo GmbH, Zürich</it>
+    <fr>Mutation DMV Ciruolo GmbH, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17227</journalNumber>
+  <journalDate>2019-05-02</journalDate>
+  <publicationText>DMV Ciruolo GmbH, in Zürich, CHE-213.609.080, schweizerische Zweigniederlassung (SHAB Nr. 85 vom 03.05.2019, Publ. 1004622249), Hauptsitz in: Wollerau. Bemerkungen zum Hauptsitz neu: Mit Beschluss vom 17.04.2019 hat das Kantonsgericht Schwyz die Verfügung des Einzelrichters des Bezirksgerichts Höfe vom 26.02.2019 betreffend die Konkurseröffnung aufgehoben. Die Gesellschaft besteht entsprechend den früheren Eintragungen weiter. [bisher: Mit Verfügung des Kantonsgerichts Schwyz vom 28.03.2019 ist der Beschwerde gegen die Verfügung des Einzelrichters des Bezirksgerichts Höfe vom 26.02.2019 aufschiebende Wirkung zuerkannt worden. Demnach wird die Eintragung betreffend Auflösung der Gesellschaft infolge Konkurses im Handelsregister gestrichen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>DMV Ciruolo GmbH</name>
+      <uid>CHE213609080</uid>
+      <uidOrganisationId>213609080</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090050303</code13>
+      <seat>Zürich</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gasometerstrasse</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>8005</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>DMV Ciruolo GmbH</name>
+      <country>CH</country>
+      <uid>CHE383671334</uid>
+      <uidOrganisationId>383671334</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>DMV Ciruolo GmbH</name>
+      <uid>CHE213609080</uid>
+      <uidOrganisationId>213609080</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090050303</code13>
+      <seat>Zürich</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gasometerstrasse</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>8005</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>DMV Ciruolo GmbH</name>
+      <country>CH</country>
+      <uid>CHE383671334</uid>
+      <uidOrganisationId>383671334</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-03</lastFoscDate>
+    <lastFoscNumber>85</lastFoscNumber>
+    <lastFoscSequence>1004622249</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

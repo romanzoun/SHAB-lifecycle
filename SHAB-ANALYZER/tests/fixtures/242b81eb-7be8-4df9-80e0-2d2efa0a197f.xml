@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>23e181f0-e9fc-4d79-9821-cb233417a7a7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004736496</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Paul Leu GmbH in Liquidation, Egg</de>
+    <en>Change Paul Leu GmbH in Liquidation, Egg</en>
+    <it>Cambiamenti Paul Leu GmbH in Liquidation, Egg</it>
+    <fr>Mutation Paul Leu GmbH in Liquidation, Egg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>39430</journalNumber>
+  <journalDate>2019-10-09</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 187 vom 27.09.2019 publizierten TR-Eintrag Nr. 37141 vom 24.09.2019 Paul Leu GmbH in Liquidation, in Egg, CHE-105.907.770, Gesellschaft mit beschränkter Haftung (SHAB Nr. 187 vom 27.09.2019, Publ. 1004725188). Im SHAB Nr.187 vom 27.09.2019 publizierten TR Eintrag 37141 vom 24.09.2019 wurde irrtümlich die CH-Nummer weggelassen: Richtig ist: [bisher ABG Holding AG (CH-170.3.019.828-5)].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Paul Leu GmbH in Liquidation</name>
+      <uid>CHE-105.907.770</uid>
+      <uidOrganisationId>105907770</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02040002280</code13>
+      <seat>Egg</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Herstellung und den Vertrieb von Hydraulikelementen. Die Gesellschaft kann im In- und Ausland Zweigniederlassungen errichten, sich bei anderen Unternehmen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder errichten sowie alle Geschäfte eingehen, in denen Synergien mit dem Hauptzweck zu erzielen sind. Sie kann weiter Liegenschaften und Wertschriften erwerben, verwalten und verkaufen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Paul Leu GmbH in Liquidation</name>
+      <uid>CHE-105.907.770</uid>
+      <uidOrganisationId>105907770</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02040002280</code13>
+      <seat>Egg</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Herstellung und den Vertrieb von Hydraulikelementen. Die Gesellschaft kann im In- und Ausland Zweigniederlassungen errichten, sich bei anderen Unternehmen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder errichten sowie alle Geschäfte eingehen, in denen Synergien mit dem Hauptzweck zu erzielen sind. Sie kann weiter Liegenschaften und Wertschriften erwerben, verwalten und verkaufen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-27</lastFoscDate>
+    <lastFoscNumber>187</lastFoscNumber>
+    <lastFoscSequence>1004725188</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

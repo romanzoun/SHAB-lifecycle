@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>30892c1f-2bb3-4a4e-8c8d-8c5ca3c1b661</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004613203</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation Hydros, Genève</de>
+    <en>Change Fondation Hydros, Genève</en>
+    <it>Cambiamenti Fondation Hydros, Genève</it>
+    <fr>Mutation Fondation Hydros, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7348</journalNumber>
+  <journalDate>2019-04-12</journalDate>
+  <publicationText>Fondation Hydros, à Genève, CHE-389.510.066 (FOSC du 19.12.2018, p. 0/1004525588). Bourgeon Jean-Mathieu, Lagarrigue Jérémie ne sont plus membres du conseil; leurs pouvoirs sont radiés.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Hydros</name>
+      <translations>[en] Hydros Foundation</translations>
+      <uid>CHE389510066</uid>
+      <uidOrganisationId>389510066</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002830156</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Lenz &amp; Staehelin</addressLine1>
+        <street>route de Chêne 30, avocats</street>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>sensibiliser le public aux enjeux énergétiques et promouvoir, soutenir et développer une meilleure efficience des énergies de demain (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Hydros</name>
+      <translations>[en] Hydros Foundation</translations>
+      <uid>CHE389510066</uid>
+      <uidOrganisationId>389510066</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002830156</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Lenz &amp; Staehelin</addressLine1>
+        <street>route de Chêne 30, avocats</street>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>sensibiliser le public aux enjeux énergétiques et promouvoir, soutenir et développer une meilleure efficience des énergies de demain (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-19</lastFoscDate>
+    <lastFoscSequence>1004525588</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

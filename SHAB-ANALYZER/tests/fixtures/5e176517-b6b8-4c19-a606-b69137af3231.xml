@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>5e113a34-cecc-4ea6-a1b7-de9482a94021</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004607520</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Gelateria Emilia GmbH, Murten</de>
+    <en>Change Gelateria Emilia GmbH, Murten</en>
+    <it>Cambiamenti Gelateria Emilia GmbH, Murten</it>
+    <fr>Mutation Gelateria Emilia GmbH, Murten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2029</journalNumber>
+  <journalDate>2019-04-05</journalDate>
+  <publicationText>Gelateria Emilia GmbH, in Murten, CHE-343.395.659 (SHAB vom 22.05.2014, s. 0/1515793). Neue zusätzliche Adresse: Neuengasse 48, 2502 Biel/Bienne.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Gelateria Emilia GmbH</name>
+      <translations>[en] Gelateria Emilia LLC [fr] Gelateria Emilia SARL [it] Gelateria Emilia SAGL</translations>
+      <uid>CHE343395659</uid>
+      <uidOrganisationId>343395659</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735554307</code13>
+      <seat>Murten</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Florence Yeboah Livoni</addressLine1>
+        <addressLine2>0</addressLine2>
+        <street>Ryf</street>
+        <houseNumber>93</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Herstellung von und Handel mit Speiseeis und Getränken sowie Waren in diesem Bereich. Ferner Herstellung von und Handel mit italienischen Spezialitäten aller Art (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Gelateria Emilia GmbH</name>
+      <translations>[en] Gelateria Emilia LLC [fr] Gelateria Emilia SARL [it] Gelateria Emilia SAGL</translations>
+      <uid>CHE343395659</uid>
+      <uidOrganisationId>343395659</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735554307</code13>
+      <seat>Murten</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Florence Yeboah Livoni</addressLine1>
+        <street>Ryf</street>
+        <houseNumber>93</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Herstellung von und Handel mit Speiseeis und Getränken sowie Waren in diesem Bereich. Ferner Herstellung von und Handel mit italienischen Spezialitäten aller Art (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-05-22</lastFoscDate>
+    <lastFoscSequence>1515793</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

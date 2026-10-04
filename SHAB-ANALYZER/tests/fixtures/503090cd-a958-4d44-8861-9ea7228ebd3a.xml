@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>50009ec5-bccf-4a17-8633-022ec98d6458</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004505802</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Spital Linth, Uznach</de>
+    <en>Change Spital Linth, Uznach</en>
+    <it>Cambiamenti Spital Linth, Uznach</it>
+    <fr>Mutation Spital Linth, Uznach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10549</journalNumber>
+  <journalDate>2018-11-21</journalDate>
+  <publicationText>Spital Linth, in Uznach, CHE-108.903.521, Besondere Rechtsformen (SHAB Nr. 233 vom 30.11.2017, Publ. 3902685). Kapital neu: CHF 30'910'000.00 [bisher: CHF 2'960'000.00]. Liberierung Kapital neu: CHF 30'910'000.00 [bisher: CHF 2'960'000.00]. Erhöhung des Dotationskapitals gemäss Beschluss der Kantonsrates Kanton St.Gallen vom 01.03.2016 betreffend die Übertragung der Spitalimmobilien um CHF 27'950'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Spital Linth</name>
+      <uid>CHE108903521</uid>
+      <uidOrganisationId>108903521</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32080604682</code13>
+      <seat>Uznach</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gasterstrasse</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>8730</swissZipCode>
+        <town>Uznach</town>
+      </address>
+    </company>
+    <purpose>Betrieb von Spitälern und damit zusammenhängende Nebenbetriebe gemäss Leistungsauftrag des Kantons St. Gallen. Kann sich an anderen Gesellschaften beteiligen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Spital Linth</name>
+      <uid>CHE108903521</uid>
+      <uidOrganisationId>108903521</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32080604682</code13>
+      <seat>Uznach</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gasterstrasse</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>8730</swissZipCode>
+        <town>Uznach</town>
+      </address>
+    </company>
+    <purpose>Betrieb von Spitälern und damit zusammenhängende Nebenbetriebe gemäss Leistungsauftrag des Kantons St. Gallen. Kann sich an anderen Gesellschaften beteiligen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-30</lastFoscDate>
+    <lastFoscNumber>233</lastFoscNumber>
+    <lastFoscSequence>3902685</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

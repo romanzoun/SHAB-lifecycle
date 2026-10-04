@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>e0c02a8f-241b-493b-9f26-5b6b0bae7c01</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004715044</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Transports Publics du Chablais SA, Aigle</de>
+    <en>Change Transports Publics du Chablais SA, Aigle</en>
+    <it>Cambiamenti Transports Publics du Chablais SA, Aigle</it>
+    <fr>Mutation Transports Publics du Chablais SA, Aigle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16224</journalNumber>
+  <journalDate>2019-09-09</journalDate>
+  <publicationText>Transports Publics du Chablais SA, à Aigle, CHE-106.834.613 (FOSC du 10.12.2018, p. 0/1004516831). Nouvelle administratrice sans signature: Allora Maude, de Prilly, à Aigle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Transports Publics du Chablais SA</name>
+      <uid>CHE-106.834.613</uid>
+      <uidOrganisationId>106834613</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010027599</code13>
+      <seat>Aigle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Gare</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>1860</swissZipCode>
+        <town>Aigle</town>
+      </address>
+    </company>
+    <purpose>fournir des prestations de transports publics; exploitation des lignes de chemin de fer Aigle-Leysin (AL), Aigle-Ollon-Monthey-Champéry (AOMC), Aigle-Sépey-Diablerets (ASD) et Bex-Villars-Bretaye (BVB).</purpose>
+    <capital>
+      <nominal>8750000.00</nominal>
+      <paid>8750000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Transports Publics du Chablais SA</name>
+      <uid>CHE-106.834.613</uid>
+      <uidOrganisationId>106834613</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010027599</code13>
+      <seat>Aigle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Gare</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>1860</swissZipCode>
+        <town>Aigle</town>
+      </address>
+    </company>
+    <purpose>fournir des prestations de transports publics; exploitation des lignes de chemin de fer Aigle-Leysin (AL), Aigle-Ollon-Monthey-Champéry (AOMC), Aigle-Sépey-Diablerets (ASD) et Bex-Villars-Bretaye (BVB).</purpose>
+    <capital>
+      <nominal>8750000.00</nominal>
+      <paid>8750000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-10</lastFoscDate>
+    <lastFoscNumber>239</lastFoscNumber>
+    <lastFoscSequence>1004516831</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

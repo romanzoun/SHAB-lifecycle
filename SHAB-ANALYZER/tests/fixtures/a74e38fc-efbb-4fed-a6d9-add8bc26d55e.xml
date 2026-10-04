@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>a74e1ad8-7a8e-4921-8328-e7d0a7871b30</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-0004449766</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Bright Sensors SA, Neuchâtel</de>
+    <en>Change Bright Sensors SA, Neuchâtel</en>
+    <it>Cambiamenti Bright Sensors SA, Neuchâtel</it>
+    <fr>Mutation Bright Sensors SA, Neuchâtel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3475</journalNumber>
+  <journalDate>2018-08-31</journalDate>
+  <publicationText>Bright Sensors SA, à Neuchâtel, CHE-187.663.083 (FOSC du 31.08.2018, p. 0/4446955). L'inscription n° 3433 du 28.08.2018 est complétée en ce sens que la raison sociale comprend une version allemande et une version anglaise. Raison sociale: Bright Sensors SA  (Bright Sensors AG) (Bright Sensors Ltd).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bright Sensors SA</name>
+      <translations>[de] Bright Sensors AG [en] Bright Sensors Ltd</translations>
+      <uid>CHE187663083</uid>
+      <uidOrganisationId>187663083</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011449059</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Neode Parc technologique et industriel SA</addressLine1>
+        <street>rue de la Maladière</street>
+        <houseNumber>71C</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>la société a pour but de développer, produire et vendre des capteurs destinés à l'industrie de l'énergie et octroyer des licences pour les capteurs (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>133333.00</nominal>
+      <paid>83333.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bright Sensors SA</name>
+      <uid>CHE187663083</uid>
+      <uidOrganisationId>187663083</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011449059</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Neode Parc technologique et industriel SA</addressLine1>
+        <street>rue de la Maladière</street>
+        <houseNumber>71C</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>la société a pour but de développer, produire et vendre des capteurs destinés à l'industrie de l'énergie et octroyer des licences pour les capteurs (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>133333.00</nominal>
+      <paid>83333.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-31</lastFoscDate>
+    <lastFoscSequence>4446955</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

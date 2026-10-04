@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>2628b638-75da-4c8e-a0be-c613f276d8c9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004542180</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Agilent Technologies International Sàrl, Rolle</de>
+    <en>Change Agilent Technologies International Sàrl, Rolle</en>
+    <it>Cambiamenti Agilent Technologies International Sàrl, Rolle</it>
+    <fr>Mutation Agilent Technologies International Sàrl, Rolle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>564</journalNumber>
+  <journalDate>2019-01-10</journalDate>
+  <publicationText>Agilent Technologies International Sàrl, à Rolle, CHE-110.260.253 (FOSC du 15.09.2016, p. 0/3057011). Procuration individuelle est conférée à Ammann Erich et Stünzi Hans Ulrich, tous deux de et à Horgen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Agilent Technologies International Sàrl</name>
+      <uid>CHE110260253</uid>
+      <uidOrganisationId>110260253</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010364238</code13>
+      <seat>Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Z.A. La Pièce</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1180</swissZipCode>
+        <town>Rolle</town>
+      </address>
+    </company>
+    <purpose>commercialisation de produits fabriqués et distribués par le groupe Agilent Technologies; prestations de service aux sociétés du groupe notamment dans le domaine de la gestion de ses ressources.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Agilent Technologies International Sàrl</name>
+      <uid>CHE110260253</uid>
+      <uidOrganisationId>110260253</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010364238</code13>
+      <seat>Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Z.A. La Pièce</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1180</swissZipCode>
+        <town>Rolle</town>
+      </address>
+    </company>
+    <purpose>commercialisation de produits fabriqués et distribués par le groupe Agilent Technologies; prestations de service aux sociétés du groupe notamment dans le domaine de la gestion de ses ressources.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-09-15</lastFoscDate>
+    <lastFoscSequence>3057011</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3d315f7d-09eb-4a10-9a65-f5e35f588f9d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004528378</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation FACEACTIVE SA en liquidation, bisher FACEACTIVE SA, La Rippe</de>
+    <en>Change FACEACTIVE SA en liquidation, to date FACEACTIVE SA, La Rippe</en>
+    <it>Cambiamenti FACEACTIVE SA en liquidation, prima FACEACTIVE SA, La Rippe</it>
+    <fr>Mutation FACEACTIVE SA en liquidation, La Rippe</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22680</journalNumber>
+  <journalDate>2018-12-18</journalDate>
+  <publicationText>FACEACTIVE SA, à La Rippe, CHE-116.307.982 (FOSC du 27.04.2017, p. 0/3490701). Selon décision de son assemblée générale du 6 décembre 2018, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: FACEACTIVE SA en liquidation par CF Compagnie fiduciaire de gestion sa (CHE-104.515.812), à Genève, élue liquidatrice. Les 102 actions nominatives de CHF 1'000, formant l'entier du capital-actions, ne sont désormais plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO).</publicationText>
+  <commonsNew>
+    <company>
+      <name>FACEACTIVE SA en liquidation</name>
+      <uid>CHE116307982</uid>
+      <uidOrganisationId>116307982</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030030104</code13>
+      <seat>La Rippe</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Carroz</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1278</swissZipCode>
+        <town>La Rippe</town>
+      </address>
+    </company>
+    <purpose>la société a pour but, à l'exception des opérations prohibées par la LFAIE: l'offre de toutes prestations, conseils et services liés au domaine de la construction immobilière, plus particulièrement la conception et la réalisation de l'enveloppe et du concept énergétique des bâtiments; la vente, la commercialisation et la promotion de produits et matériels liés à l'enveloppe et l'énergie des bâtiments (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>102000.00</nominal>
+      <paid>102000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FACEACTIVE SA</name>
+      <uid>CHE116307982</uid>
+      <uidOrganisationId>116307982</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030030104</code13>
+      <seat>La Rippe</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Carroz</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1278</swissZipCode>
+        <town>La Rippe</town>
+      </address>
+    </company>
+    <purpose>la société a pour but, à l'exception des opérations prohibées par la LFAIE: l'offre de toutes prestations, conseils et services liés au domaine de la construction immobilière, plus particulièrement la conception et la réalisation de l'enveloppe et du concept énergétique des bâtiments; la vente, la commercialisation et la promotion de produits et matériels liés à l'enveloppe et l'énergie des bâtiments (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>102000.00</nominal>
+      <paid>102000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-04-27</lastFoscDate>
+    <lastFoscSequence>3490701</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

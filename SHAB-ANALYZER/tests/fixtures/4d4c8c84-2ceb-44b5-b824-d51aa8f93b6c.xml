@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>4cd557b6-ec7b-4f15-bcdb-23707f93c104</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004778709</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation EPR Electricité Sàrl, Onex</de>
+    <en>Change EPR Electricité Sàrl, Onex</en>
+    <it>Cambiamenti EPR Electricité Sàrl, Onex</it>
+    <fr>Mutation EPR Electricité Sàrl, Onex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22718</journalNumber>
+  <journalDate>2019-12-04</journalDate>
+  <publicationText>EPR Electricité Sàrl, à Onex, CHE-345.622.702 (FOSC du 08.02.2019, p. 0/1004562714). Nouveaux statuts du 18.11.2019. Pache Sébastien Christophe, nommé président, détient désormais 100 parts de CHF 100 par suite de cession de 100 parts de CHF 100 à Bellino Marco, de Genève, à Archamps, F, nouvel associé-gérant pour 100 parts de CHF 100 avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EPR Electricité Sàrl</name>
+      <uid>CHE-345.622.702</uid>
+      <uidOrganisationId>345622702</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004330191</code13>
+      <seat>Onex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Bois-de-la-Chapelle</street>
+        <houseNumber>35</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Onex</town>
+      </address>
+    </company>
+    <purpose>toute activité dans le domaine de l'électricité, des appareils électriques, de l'automatisme des bâtiments, des télécommunications et des réseaux ainsi que des énergies renouvelables (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EPR Electricité Sàrl</name>
+      <uid>CHE-345.622.702</uid>
+      <uidOrganisationId>345622702</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004330191</code13>
+      <seat>Onex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Bois-de-la-Chapelle</street>
+        <houseNumber>35</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Onex</town>
+      </address>
+    </company>
+    <purpose>toute activité dans le domaine de l'électricité, des appareils électriques, de l'automatisme des bâtiments, des télécommunications et des réseaux ainsi que des énergies renouvelables (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-08</lastFoscDate>
+    <lastFoscNumber>27</lastFoscNumber>
+    <lastFoscSequence>1004562714</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

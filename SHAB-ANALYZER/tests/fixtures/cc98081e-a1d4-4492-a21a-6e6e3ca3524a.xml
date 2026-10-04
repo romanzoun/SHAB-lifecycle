@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>cc56b69c-b215-4328-adb6-19de316a9813</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004772803</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation THEATRE DE BEAULIEU SA, Lausanne, neu THEATRE DE BEAULIEU SA en liquidation</de>
+    <en>Change THEATRE DE BEAULIEU SA, Lausanne, new THEATRE DE BEAULIEU SA en liquidation</en>
+    <it>Cambiamenti THEATRE DE BEAULIEU SA, Lausanne, nuovo THEATRE DE BEAULIEU SA en liquidation</it>
+    <fr>Mutation THEATRE DE BEAULIEU SA, Lausanne, nouveau THEATRE DE BEAULIEU SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21457</journalNumber>
+  <journalDate>2019-11-27</journalDate>
+  <publicationText>THEATRE DE BEAULIEU SA, à Lausanne, CHE-479.068.129 (FOSC du 25.05.2018, p. 0/4249963). Selon décision de son assemblée générale du 14 novembre 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: THEATRE DE BEAULIEU SA en liquidation. Les 100 actions nominatives de CHF 1'000, formant l'entier du capital-actions, ne sont désormais plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO). Les administrateurs Gigandet Nicolas, Décosterd Denis, Mirza Laurent et Sager Vincent sont élus liquidateurs avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>THEATRE DE BEAULIEU SA en liquidation</name>
+      <uid>CHE-479.068.129</uid>
+      <uidOrganisationId>479068129</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011689232</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Bergières</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: l'exploitation d'un théâtre; l'accueil de spectacles, concerts et autres manifestations culturelles ou autres, en particulier dans le Théâtre de Beaulieu; toutes prestations de services, activités et commerces de produits liés directement ou indirectement aux buts précités (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Fidinter SA</name>
+        <country>CH</country>
+        <uid>CHE105925319</uid>
+        <uidOrganisationId>105925319</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>THEATRE DE BEAULIEU SA</name>
+      <uid>CHE-479.068.129</uid>
+      <uidOrganisationId>479068129</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011689232</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Bergières</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: l'exploitation d'un théâtre; l'accueil de spectacles, concerts et autres manifestations culturelles ou autres, en particulier dans le Théâtre de Beaulieu; toutes prestations de services, activités et commerces de produits liés directement ou indirectement aux buts précités (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-25</lastFoscDate>
+    <lastFoscNumber>99</lastFoscNumber>
+    <lastFoscSequence>4249963</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

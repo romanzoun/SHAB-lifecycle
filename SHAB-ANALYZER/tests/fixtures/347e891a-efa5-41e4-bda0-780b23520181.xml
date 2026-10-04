@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>346e65c0-2c6e-42d9-9a39-cdfdcd00d463</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004716079</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Dorimar S.A., Crissier</de>
+    <en>Change Dorimar S.A., Crissier</en>
+    <it>Cambiamenti Dorimar S.A., Crissier</it>
+    <fr>Mutation Dorimar S.A., Crissier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16281</journalNumber>
+  <journalDate>2019-09-10</journalDate>
+  <publicationText>Dorimar S.A., à Crissier, CHE-107.397.124 (FOSC du 19.02.2019, p. 0/1004570210). Pereira de Carvalho e Moura José Miguel, qui est maintenant à Crissier et dont la procuration est éteinte, est nommé administrateur président avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Dorimar S.A.</name>
+      <uid>CHE-107.397.124</uid>
+      <uidOrganisationId>107397124</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001681038</code13>
+      <seat>Crissier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Bussigny</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>1023</swissZipCode>
+        <town>Crissier</town>
+      </address>
+    </company>
+    <purpose>production, achat, vente de tous produits agricoles, industriels et alimentaires; prestations de conseil, notamment dans le domaine du marketing, commerce de vins, alcools ou produits similaires.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Fidinter SA</name>
+        <country>CH</country>
+        <uid>CHE105925319</uid>
+        <uidOrganisationId>105925319</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Dorimar S.A.</name>
+      <uid>CHE-107.397.124</uid>
+      <uidOrganisationId>107397124</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001681038</code13>
+      <seat>Crissier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Bussigny</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>1023</swissZipCode>
+        <town>Crissier</town>
+      </address>
+    </company>
+    <purpose>production, achat, vente de tous produits agricoles, industriels et alimentaires; prestations de conseil, notamment dans le domaine du marketing, commerce de vins, alcools ou produits similaires.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Fidinter SA</name>
+        <country>CH</country>
+        <uid>CHE105925319</uid>
+        <uidOrganisationId>105925319</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-19</lastFoscDate>
+    <lastFoscNumber>34</lastFoscNumber>
+    <lastFoscSequence>1004570210</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

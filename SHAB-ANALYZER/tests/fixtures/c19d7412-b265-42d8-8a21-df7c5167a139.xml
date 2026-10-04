@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>c1777f72-71a4-447d-8da8-ed0657444abf</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-0004448667</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Flowers Swiss di Mandaglio Claudio, Lugano</de>
+    <en>Change Flowers Swiss di Mandaglio Claudio, Lugano</en>
+    <it>Cambiamenti Flowers Swiss di Mandaglio Claudio, Lugano</it>
+    <fr>Mutation Flowers Swiss di Mandaglio Claudio, Lugano</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11878</journalNumber>
+  <journalDate>2018-08-30</journalDate>
+  <publicationText>Rettifica dell'iscrizione del registro giornaliero no. 11'308 del 14.08.2018, pubblicato sul FUSC no. 158 del 17.08.2018. Flowers Swiss di Mandaglio Claudio, in Lugano, CHE-149.441.860, ditta individuale (Nr. FUSC 158 del 17.08.2018, Pubbl. 4421687). [no: La procedura di fallimento è stata sospesa per mancanza di attivo con decreto della Pretura del Distretto di Mendrisio-Sud del 13.04.2018. La ditta sarà cancellata se entro tre mesi dalla presente pubblicazione non verrà inoltrata un'opposizione motivata contro la radiazione e non sarà data la prova della continuazione dell'esercizio dell'azienda.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Flowers Swiss di Mandaglio Claudio</name>
+      <uid>CHE149441860</uid>
+      <uidOrganisationId>149441860</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110195365</code13>
+      <seat>Lugano</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Corso Pestalozzi</street>
+        <houseNumber>21A</houseNumber>
+        <swissZipCode>6900</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>Attività di import-export, vendita al dettaglio e all'ingrosso di piante, fiori e decorazioni.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Flowers Swiss di Mandaglio Claudio</name>
+      <uid>CHE149441860</uid>
+      <uidOrganisationId>149441860</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110195365</code13>
+      <seat>Lugano</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Corso Pestalozzi</street>
+        <houseNumber>21A</houseNumber>
+        <swissZipCode>6900</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>Attività di import-export, vendita al dettaglio e all'ingrosso di piante, fiori e decorazioni.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-17</lastFoscDate>
+    <lastFoscNumber>158</lastFoscNumber>
+    <lastFoscSequence>4421687</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

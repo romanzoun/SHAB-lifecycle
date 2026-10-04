@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>443708c8-7268-44cf-a774-ea260c9d6cc6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004636699</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation NIKI G AUTOS GJERGJI, Tafers</de>
+    <en>Change NIKI G AUTOS GJERGJI, Tafers</en>
+    <it>Cambiamenti NIKI G AUTOS GJERGJI, Tafers</it>
+    <fr>Mutation NIKI G AUTOS GJERGJI, Tafers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2852</journalNumber>
+  <journalDate>2019-05-20</journalDate>
+  <publicationText>NIKI G AUTOS GJERGJI, in Tafers, CHE-161.872.538 (SHAB vom 08.01.2016, s. 0/2583789). Eingetragene Person geändert: Gjergji Kadire, Inhaberin, Einzelunterschrift, neu von Düdingen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>NIKI G AUTOS GJERGJI</name>
+      <uid>CHE161872538</uid>
+      <uidOrganisationId>161872538</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735509464</code13>
+      <seat>Tafers</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mariahilfstrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1712</swissZipCode>
+        <town>Tafers</town>
+      </address>
+    </company>
+    <purpose>Autohändler, An- und Verkauf von Autos.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>NIKI G AUTOS GJERGJI</name>
+      <uid>CHE161872538</uid>
+      <uidOrganisationId>161872538</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735509464</code13>
+      <seat>Tafers</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mariahilfstrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1712</swissZipCode>
+        <town>Tafers</town>
+      </address>
+    </company>
+    <purpose>Autohändler, An- und Verkauf von Autos.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-01-08</lastFoscDate>
+    <lastFoscSequence>2583789</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

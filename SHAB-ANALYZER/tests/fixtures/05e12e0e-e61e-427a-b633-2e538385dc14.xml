@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>058da81d-874e-495b-bf0d-8de96182a0e5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004641081</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Claire Magnin, Chexbres</de>
+    <en>Change Fondation Claire Magnin, Chexbres</en>
+    <it>Cambiamenti Fondation Claire Magnin, Chexbres</it>
+    <fr>Mutation Fondation Claire Magnin, Chexbres</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9511</journalNumber>
+  <journalDate>2019-05-24</journalDate>
+  <publicationText>Fondation Claire Magnin, à Chexbres, CHE-105.753.739 (FOSC du 04.12.2018, p. 0/1004512138). Nouveau membre du conseil de fondation avec signature collective à deux avec le président ou le vice-président: Schüler Françoise, de et à Leysin.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Claire Magnin</name>
+      <uid>CHE105753739</uid>
+      <uidOrganisationId>105753739</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001529001</code13>
+      <seat>Chexbres</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Chènevières 4, Chalet Mont Fleuri</street>
+        <swissZipCode>1071</swissZipCode>
+        <town>Chexbres</town>
+      </address>
+    </company>
+    <purpose>assumer l'accueil, l'hébergement, l'assistance, la surveillance et les soins à toute personne dépendante, âgée, handicapée, malade ou convalescente.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Claire Magnin</name>
+      <uid>CHE105753739</uid>
+      <uidOrganisationId>105753739</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001529001</code13>
+      <seat>Chexbres</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Chènevières 4, Chalet Mont Fleuri</street>
+        <swissZipCode>1071</swissZipCode>
+        <town>Chexbres</town>
+      </address>
+    </company>
+    <purpose>assumer l'accueil, l'hébergement, l'assistance, la surveillance et les soins à toute personne dépendante, âgée, handicapée, malade ou convalescente.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-04</lastFoscDate>
+    <lastFoscSequence>1004512138</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

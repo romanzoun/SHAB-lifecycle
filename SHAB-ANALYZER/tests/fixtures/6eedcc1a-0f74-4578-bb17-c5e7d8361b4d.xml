@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>6eeac0e0-7778-4d62-b9cb-c7b0a97db07c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004546946</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Paerli Broye SA, Payerne</de>
+    <en>Change Paerli Broye SA, Payerne</en>
+    <it>Cambiamenti Paerli Broye SA, Payerne</it>
+    <fr>Mutation Paerli Broye SA, Payerne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1067</journalNumber>
+  <journalDate>2019-01-16</journalDate>
+  <publicationText>Paerli Broye SA, à Payerne, CHE-114.570.072 (FOSC du 11.01.2019, p. 0/1004539677). Rectificatif: l'inscription n° 357 du 08.01.2019 (FOSC du 11.01.2019, p. 0/1004539677) est rectifiée en ce sens que l'administrateur Beaud Michel est à Le Pâquier (FR) (et non à Val-de-Ruz comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Paerli Broye SA</name>
+      <uid>CHE114570072</uid>
+      <uidOrganisationId>114570072</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040085007</code13>
+      <seat>Payerne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Z. I. Champs Cheval</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la vente et l'installation de matériel sanitaire et de chauffage, l'achat, la vente et la location de véhicules, l'import-export de biens de tous genres, ainsi que tous travaux dans le domaine de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Paerli Broye SA</name>
+      <uid>CHE114570072</uid>
+      <uidOrganisationId>114570072</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040085007</code13>
+      <seat>Payerne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Z. I. Champs Cheval</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la vente et l'installation de matériel sanitaire et de chauffage, l'achat, la vente et la location de véhicules, l'import-export de biens de tous genres, ainsi que tous travaux dans le domaine de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-11</lastFoscDate>
+    <lastFoscSequence>1004539677</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

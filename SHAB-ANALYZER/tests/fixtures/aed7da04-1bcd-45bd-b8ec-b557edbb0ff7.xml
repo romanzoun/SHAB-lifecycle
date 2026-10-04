@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ae69256f-d5e9-4d66-b25a-3f1661be3f3e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004533796</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Edulution Holdings SA, Bagnes</de>
+    <en>Change Edulution Holdings SA, Bagnes</en>
+    <it>Cambiamenti Edulution Holdings SA, Bagnes</it>
+    <fr>Mutation Edulution Holdings SA, Bagnes</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3358</journalNumber>
+  <journalDate>2018-12-27</journalDate>
+  <publicationText>Edulution Holdings SA, à Bagnes, CHE-198.650.699, société anonyme (No. FOSC 107 du 06.06.2016, Publ. 2872481). Modification des statuts: 21.12.2018. L'assemblée générale a introduit une clause statutaire relative à une augmentation conditionnelle du capital par décision du 21.12.2018: pour les détails, voir les statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Edulution Holdings SA</name>
+      <translations>[de] Edulution Holdings AG [it] Edulution Holdings Limited</translations>
+      <uid>CHE198650699</uid>
+      <uidOrganisationId>198650699</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62140092419</code13>
+      <seat>Bagnes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Corberaye</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>1934</swissZipCode>
+        <town>Le Châble VS</town>
+      </address>
+    </company>
+    <purpose>acquisition, vente, détention à long terme et gestion de participations en Suisse et à l'étranger (cf statuts pour but complet)</purpose>
+    <capital>
+      <nominal>224000.00</nominal>
+      <paid>224000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Edulution Holdings SA</name>
+      <translations>[de] Edulution Holdings AG [it] Edulution Holdings Limited</translations>
+      <uid>CHE198650699</uid>
+      <uidOrganisationId>198650699</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62140092419</code13>
+      <seat>Bagnes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Corberaye</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>1934</swissZipCode>
+        <town>Le Châble VS</town>
+      </address>
+    </company>
+    <purpose>acquisition, vente, détention à long terme et gestion de participations en Suisse et à l'étranger (cf statuts pour but complet)</purpose>
+    <capital>
+      <nominal>224000.00</nominal>
+      <paid>224000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-06-06</lastFoscDate>
+    <lastFoscNumber>107</lastFoscNumber>
+    <lastFoscSequence>2872481</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

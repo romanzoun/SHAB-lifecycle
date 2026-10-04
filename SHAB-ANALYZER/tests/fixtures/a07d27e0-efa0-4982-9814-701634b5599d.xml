@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>a0761e84-b40d-46b3-b5dd-47056eb2bbe6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004505803</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Spitalregion Rheintal Werdenberg Sarganserland, Rebstein</de>
+    <en>Change Spitalregion Rheintal Werdenberg Sarganserland, Rebstein</en>
+    <it>Cambiamenti Spitalregion Rheintal Werdenberg Sarganserland, Rebstein</it>
+    <fr>Mutation Spitalregion Rheintal Werdenberg Sarganserland, Rebstein</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10550</journalNumber>
+  <journalDate>2018-11-21</journalDate>
+  <publicationText>Spitalregion Rheintal Werdenberg Sarganserland, in Rebstein, CHE-110.592.324, Besondere Rechtsformen (SHAB Nr. 233 vom 30.11.2017, Publ. 3902689). Kapital neu: CHF 43'850'000.00 [bisher: CHF 8'190'000.00]. Liberierung Kapital neu: CHF 43'850'000.00 [bisher: CHF 8'190'000.00]. Eröhung des Dotationskapitals gemäss Beschluss des Kantonsrates Kanton St.Gallen vom 01.03.2016 betreffend die Übertragung der Spitalimmobilien um CHF 35'660'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Spitalregion Rheintal Werdenberg Sarganserland</name>
+      <uid>CHE110592324</uid>
+      <uidOrganisationId>110592324</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32080550623</code13>
+      <seat>Rebstein</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Alte Landstrasse</street>
+        <houseNumber>106</houseNumber>
+        <swissZipCode>9445</swissZipCode>
+        <town>Rebstein</town>
+      </address>
+    </company>
+    <purpose>Betrieb von Spitälern und damit zusammenhängender Nebenbetriebe gemäss Leistungsauftrag des Kantons St. Gallen. Kann sich an anderen Gesellschaften beteiligen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Spitalregion Rheintal Werdenberg Sarganserland</name>
+      <uid>CHE110592324</uid>
+      <uidOrganisationId>110592324</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32080550623</code13>
+      <seat>Rebstein</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Alte Landstrasse</street>
+        <houseNumber>106</houseNumber>
+        <swissZipCode>9445</swissZipCode>
+        <town>Rebstein</town>
+      </address>
+    </company>
+    <purpose>Betrieb von Spitälern und damit zusammenhängender Nebenbetriebe gemäss Leistungsauftrag des Kantons St. Gallen. Kann sich an anderen Gesellschaften beteiligen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-30</lastFoscDate>
+    <lastFoscNumber>233</lastFoscNumber>
+    <lastFoscSequence>3902689</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

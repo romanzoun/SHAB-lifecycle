@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0ce919bf-fe3f-4940-9c0f-da26ea780bf8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004503709</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Lambda Dämmtechnik AG Cham in Liquidation, bisher Lambda Dämmtechnik AG Cham, Villmergen</de>
+    <en>Change Lambda Dämmtechnik AG Cham in Liquidation, to date Lambda Dämmtechnik AG Cham, Villmergen</en>
+    <it>Cambiamenti Lambda Dämmtechnik AG Cham in Liquidation, prima Lambda Dämmtechnik AG Cham, Villmergen</it>
+    <fr>Mutation Lambda Dämmtechnik AG Cham in Liquidation, Villmergen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11885</journalNumber>
+  <journalDate>2018-11-19</journalDate>
+  <publicationText>Lambda Dämmtechnik AG Cham, in Villmergen, CHE-314.865.924, schweizerische Zweigniederlassung (SHAB Nr. 107 vom 05.06.2012, Publ. 6704302), Hauptsitz in: Cham. Firma neu: Lambda Dämmtechnik AG Cham in Liquidation. Firma Hauptsitz neu: Lambda Dämmtechnik AG Cham in Liquidation [bisher: Firma des Hauptsitzes: Lambda Dämmtechnik AG Cham]. Angaben zur Zweigniederlassung neu: Auflösung der Gesellschaft am Hauptsitz infolge Konkurseröffnung.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Lambda Dämmtechnik AG Cham in Liquidation</name>
+      <uid>CHE314865924</uid>
+      <uidOrganisationId>314865924</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40090158193</code13>
+      <seat>Villmergen</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>5605</swissZipCode>
+        <town>Dottikon</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Lambda Dämmtechnik AG Cham in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE106102450</uid>
+      <uidOrganisationId>106102450</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Lambda Dämmtechnik AG Cham</name>
+      <uid>CHE314865924</uid>
+      <uidOrganisationId>314865924</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40090158193</code13>
+      <seat>Villmergen</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>5605</swissZipCode>
+        <town>Dottikon</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2012-06-05</lastFoscDate>
+    <lastFoscNumber>107</lastFoscNumber>
+    <lastFoscSequence>6704302</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

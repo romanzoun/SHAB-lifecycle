@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>c6de39d8-2609-4ec1-9d94-52c0d509a9b5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004493184</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation cadonau consulting gmbh in Liquidation, Adelboden</de>
+    <en>Change cadonau consulting gmbh in Liquidation, Adelboden</en>
+    <it>Cambiamenti cadonau consulting gmbh in Liquidation, Adelboden</it>
+    <fr>Mutation cadonau consulting gmbh in Liquidation, Adelboden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15691</journalNumber>
+  <journalDate>2018-11-05</journalDate>
+  <publicationText>cadonau consulting gmbh in Liquidation, in Adelboden, CHE-247.099.679, schweizerische Zweigniederlassung (SHAB Nr. 76 vom 20.04.2018, Publ. 4184079), Hauptsitz in: Münchenbuchsee. Bemerkungen zum Hauptsitz neu: Das Konkursverfahren ist mit Entscheid des zuständigen Einzelgerichts vom 01.11.2018 mangels Aktiven eingestellt worden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>cadonau consulting gmbh in Liquidation</name>
+      <uid>CHE247099679</uid>
+      <uidOrganisationId>247099679</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03690653860</code13>
+      <seat>Adelboden</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fuhrenstrasse</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>3715</swissZipCode>
+        <town>Adelboden</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>cadonau consulting gmbh in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE115012260</uid>
+      <uidOrganisationId>115012260</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>cadonau consulting gmbh in Liquidation</name>
+      <uid>CHE247099679</uid>
+      <uidOrganisationId>247099679</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03690653860</code13>
+      <seat>Adelboden</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fuhrenstrasse</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>3715</swissZipCode>
+        <town>Adelboden</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-20</lastFoscDate>
+    <lastFoscNumber>76</lastFoscNumber>
+    <lastFoscSequence>4184079</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

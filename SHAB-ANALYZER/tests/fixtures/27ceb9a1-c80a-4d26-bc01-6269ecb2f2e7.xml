@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>27b5ba2d-0853-4b3e-92a3-2cf61c3eb14b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004665535</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation LakeDiamond SA, Yverdon-les-Bains</de>
+    <en>Change LakeDiamond SA, Yverdon-les-Bains</en>
+    <it>Cambiamenti LakeDiamond SA, Yverdon-les-Bains</it>
+    <fr>Mutation LakeDiamond SA, Yverdon-les-Bains</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11489</journalNumber>
+  <journalDate>2019-06-27</journalDate>
+  <publicationText>LakeDiamond SA, à Yverdon-les-Bains, CHE-141.951.583 (FOSC du 26.05.2015, p. 0/2167599). Nouvel administrateur avec signature collective à trois: Kummerman Alex, de et à Genève.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LakeDiamond SA</name>
+      <translations>[en] LakeDiamond Ltd [de] LakeDiamond AG</translations>
+      <uid>CHE141951583</uid>
+      <uidOrganisationId>141951583</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011616457</code13>
+      <seat>Yverdon-les-Bains</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Galilée</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1400</swissZipCode>
+        <town>Yverdon-les-Bains</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la fabrication, la transformation, le commerce, le marketing et la distribution de diamants de synthèse, ainsi que de produits dérivés (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LakeDiamond SA</name>
+      <translations>[en] LakeDiamond Ltd [de] LakeDiamond AG</translations>
+      <uid>CHE141951583</uid>
+      <uidOrganisationId>141951583</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011616457</code13>
+      <seat>Yverdon-les-Bains</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Galilée</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1400</swissZipCode>
+        <town>Yverdon-les-Bains</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la fabrication, la transformation, le commerce, le marketing et la distribution de diamants de synthèse, ainsi que de produits dérivés (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-05-26</lastFoscDate>
+    <lastFoscSequence>2167599</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

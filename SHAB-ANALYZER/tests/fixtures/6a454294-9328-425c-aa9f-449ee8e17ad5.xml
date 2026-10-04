@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>6a22bf52-5870-4698-b20a-de6a04d9fd1a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004701473</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation CEASA SA, succursale de Givisiez en liquidation, Givisiez</de>
+    <en>Change CEASA SA, succursale de Givisiez en liquidation, Givisiez</en>
+    <it>Cambiamenti CEASA SA, succursale de Givisiez en liquidation, Givisiez</it>
+    <fr>Mutation CEASA SA, succursale de Givisiez en liquidation, Givisiez</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4631</journalNumber>
+  <journalDate>2019-08-20</journalDate>
+  <publicationText>CEASA SA, succursale de Givisiez en liquidation, à Givisiez, CHE-324.369.472 (FOSC du 05.04.2018, p. 0/4152025). La succursale est radiée par suite de la radiation du siège principal suite à la clôture de la procédure de faillite au 07.08.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CEASA SA, succursale de Givisiez en liquidation</name>
+      <uid>CHE324369472</uid>
+      <uidOrganisationId>324369472</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735506927</code13>
+      <seat>Givisiez</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route André-Piller</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1762</swissZipCode>
+        <town>Givisiez</town>
+      </address>
+    </company>
+    <purpose>(Voir but du siège principal cf. art. 110 al. 1 ORC)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>CEASA SA en liquidation</name>
+      <country>CH</country>
+      <uid>CHE237978993</uid>
+      <uidOrganisationId>237978993</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CEASA SA, succursale de Givisiez en liquidation</name>
+      <uid>CHE324369472</uid>
+      <uidOrganisationId>324369472</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735506927</code13>
+      <seat>Givisiez</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route André-Piller</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1762</swissZipCode>
+        <town>Givisiez</town>
+      </address>
+    </company>
+    <purpose>(Voir but du siège principal cf. art. 110 al. 1 ORC)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-05</lastFoscDate>
+    <lastFoscNumber>65</lastFoscNumber>
+    <lastFoscSequence>4152025</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

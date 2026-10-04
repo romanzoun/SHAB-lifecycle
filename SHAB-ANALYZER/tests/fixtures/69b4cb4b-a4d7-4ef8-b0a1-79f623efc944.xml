@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>697acf31-ac02-4445-8e6c-610b24fbac39</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004724027</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Termiconcept Sàrl, Satigny</de>
+    <en>Change Termiconcept Sàrl, Satigny</en>
+    <it>Cambiamenti Termiconcept Sàrl, Satigny</it>
+    <fr>Mutation Termiconcept Sàrl, Satigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17631</journalNumber>
+  <journalDate>2019-09-20</journalDate>
+  <publicationText>Termiconcept Sàrl, à Satigny, CHE-375.887.441 (FOSC du 20.06.2019, p. 0/1004656430). L'associé-gérant Galvao Davi, maintenant président, détient 100 parts de CHF 100 par suite de cession de 100 parts de CHF 100 à Dinler Tolga, de France, à Feigères, F, nouvel associé-gérant pour 100 parts de CHF 100, avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Termiconcept Sàrl</name>
+      <uid>CHE-375.887.441</uid>
+      <uidOrganisationId>375887441</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66009220139</code13>
+      <seat>Satigny</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Satigny</street>
+        <houseNumber>42 b</houseNumber>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un atelier de polissage, terminaison, rhodiage et autres techniques similaires dans le domaine de l'horlogerie et de la joaillerie (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Termiconcept Sàrl</name>
+      <uid>CHE-375.887.441</uid>
+      <uidOrganisationId>375887441</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66009220139</code13>
+      <seat>Satigny</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Satigny</street>
+        <houseNumber>42 b</houseNumber>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un atelier de polissage, terminaison, rhodiage et autres techniques similaires dans le domaine de l'horlogerie et de la joaillerie (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-20</lastFoscDate>
+    <lastFoscNumber>117</lastFoscNumber>
+    <lastFoscSequence>1004656430</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

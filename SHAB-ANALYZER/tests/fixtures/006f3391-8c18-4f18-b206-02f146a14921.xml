@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>00493e24-6931-425e-a213-6ecb2bc30de6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005181282</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AI</cantons>
+  <title>
+    <de>Mutation Schaugengrund AG, Appenzell</de>
+    <en>Change Schaugengrund AG, Appenzell</en>
+    <it>Cambiamenti Schaugengrund AG, Appenzell</it>
+    <fr>Mutation Schaugengrund AG, Appenzell</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>385</journalNumber>
+  <journalDate>2021-05-10</journalDate>
+  <publicationText>Schaugengrund AG, in Appenzell, CHE-102.778.039, Aktiengesellschaft (SHAB Nr. 63 vom 01.04.2016, S.0, Publ. 2754263). Aktien neu: 50 Namenaktien zu CHF 1'000.00 [bisher: 50 Inhaberaktien zu CHF 1'000.00]. Die Inhaberaktien sind am 1. Mai 2021 von Gesetzes wegen in Namenaktien umgewandelt worden. Die Statuten der Gesellschaft sind noch nicht an die Umwandlung angepasst worden; die Anpassung muss anlässlich der nächsten Statutenänderung erfolgen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Schaugengrund AG</name>
+      <uid>CHE-102.778.039</uid>
+      <uidOrganisationId>102778039</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH31030002684</code13>
+      <seat>Appenzell</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>9050</swissZipCode>
+        <town>Appenzell</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt den An- und Verkauf von Immobilien, Grundstücken sowie die Erstellung von Bauten aller Art. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen. Die Gesellschaft kann alle kommerziellen, finanziellen und anderen Tätigkeiten ausüben, welche mit dem Zweck der Gesellschaft im direkten oder indirekten Zusammenhang stehen.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Schaugengrund AG</name>
+      <uid>CHE-102.778.039</uid>
+      <uidOrganisationId>102778039</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH31030002684</code13>
+      <seat>Appenzell</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>9050</swissZipCode>
+        <town>Appenzell</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt den An- und Verkauf von Immobilien, Grundstücken sowie die Erstellung von Bauten aller Art. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen. Die Gesellschaft kann alle kommerziellen, finanziellen und anderen Tätigkeiten ausüben, welche mit dem Zweck der Gesellschaft im direkten oder indirekten Zusammenhang stehen.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-04-01</lastFoscDate>
+    <lastFoscNumber>63</lastFoscNumber>
+    <lastFoscSequence>2754263</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Appenzell I. Rh.</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>af1031df-9983-4d4c-a346-e58bc31b9db6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004743824</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Bordier Capital SA, Genève, neu Bordier Capital SA, en liquidation</de>
+    <en>Change Bordier Capital SA, Genève, new Bordier Capital SA, en liquidation</en>
+    <it>Cambiamenti Bordier Capital SA, Genève, nuovo Bordier Capital SA, en liquidation</it>
+    <fr>Mutation Bordier Capital SA, Genève, nouveau Bordier Capital SA, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19578</journalNumber>
+  <journalDate>2019-10-18</journalDate>
+  <publicationText>Bordier Capital SA, à Genève, CHE-100.089.874 (FOSC du 09.04.2019, p. 0/1004607012). La société est dissoute par décision de l'assemblée générale du 14.10.2019. La liquidation est opérée sous la raison sociale: Bordier Capital SA, en liquidation. Liquidateurs: Holzer David Alain, de Genève, à Corsier (GE) et Terrier Nicolas, de Basse-Allaine, à Vandoeuvres, lesquels signent collectivement à deux. Adresse de liquidation: Rue de Hollande 16, 1204 Genève.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bordier Capital SA, en liquidation</name>
+      <uid>CHE-100.089.874</uid>
+      <uidOrganisationId>100089874</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005359801</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Hollande</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+      <liqAddress>
+        <street>Rue de Hollande</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>participation directe ou indirecte à d'autres entreprises.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bordier Capital SA</name>
+      <uid>CHE-100.089.874</uid>
+      <uidOrganisationId>100089874</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005359801</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Hollande</street>
+        <houseNumber>16</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>participation directe ou indirecte à d'autres entreprises.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-09</lastFoscDate>
+    <lastFoscNumber>69</lastFoscNumber>
+    <lastFoscSequence>1004607012</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

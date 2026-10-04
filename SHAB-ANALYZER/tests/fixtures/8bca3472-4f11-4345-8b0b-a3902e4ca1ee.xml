@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>8b690fbe-0a7e-4ee0-803d-007d8bd86981</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004752044</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fiduciaire de Rive SA, Genève</de>
+    <en>Change Fiduciaire de Rive SA, Genève</en>
+    <it>Cambiamenti Fiduciaire de Rive SA, Genève</it>
+    <fr>Mutation Fiduciaire de Rive SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20335</journalNumber>
+  <journalDate>2019-10-30</journalDate>
+  <publicationText>Fiduciaire de Rive SA, à Genève, CHE-107.749.826 (FOSC du 30.10.2019, p. 0/1004748665). L'inscription 20042 du 25.10.2019 est rectifiée en ce sens que le nouveau directeur général Kunz Alexandre Adolphe n'est pas membre du conseil d'administration.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fiduciaire de Rive SA</name>
+      <uid>CHE-107.749.826</uid>
+      <uidOrganisationId>107749826</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002149816</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Rive</street>
+        <houseNumber>4</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>toutes opérations entrant dans le cadre des activités d'une société fiduciaire.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Anca Fiduciaire SA</name>
+        <country>CH</country>
+        <uid>CHE103784918</uid>
+        <uidOrganisationId>103784918</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fiduciaire de Rive SA</name>
+      <uid>CHE-107.749.826</uid>
+      <uidOrganisationId>107749826</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002149816</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Rive</street>
+        <houseNumber>4</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>toutes opérations entrant dans le cadre des activités d'une société fiduciaire.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-30</lastFoscDate>
+    <lastFoscNumber>210</lastFoscNumber>
+    <lastFoscSequence>1004748665</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>857333b6-fbc4-42ce-85cf-c4f06ecc437d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004549423</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Galenos Kranken- und Unfallversicherung in Liquidation, Zürich</de>
+    <en>Change Galenos Kranken- und Unfallversicherung in Liquidation, Zürich</en>
+    <it>Cambiamenti Galenos Kranken- und Unfallversicherung in Liquidation, Zürich</it>
+    <fr>Mutation Galenos Kranken- und Unfallversicherung in Liquidation, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3378</journalNumber>
+  <journalDate>2019-01-21</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 12 vom 18.01.2019 publizierten TR-Eintrags Nr. 2'569 vom 15.01.2019 Galenos Kranken- und Unfallversicherung in Liquidation, in Zürich, CHE-107.295.914, Verein (SHAB Nr. 12 vom 18.01.2019, Publ. 1004544880). Tagesregister TR-Nr. 2569 vom 15.01.2019: Der bisherige Wohnsitz von Alois Christ war nicht Beinwil (SO), sondern Mümliswil-Ramiswil.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Galenos Kranken- und Unfallversicherung in Liquidation</name>
+      <uid>CHE107295914</uid>
+      <uidOrganisationId>107295914</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02060002898</code13>
+      <seat>Zürich</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Militärstrasse</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>8004</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Bietet und vermittelt ihren Mitgliedern (Versicherten) Schutz nach dem Grundsatz der Gegenseitigkeit gegen die wirtschaftlichen Folgen von Krankheit und Unfall; kann sich an Organisationen beteiligen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Galenos Kranken- und Unfallversicherung in Liquidation</name>
+      <uid>CHE107295914</uid>
+      <uidOrganisationId>107295914</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02060002898</code13>
+      <seat>Zürich</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Militärstrasse</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>8004</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Bietet und vermittelt ihren Mitgliedern (Versicherten) Schutz nach dem Grundsatz der Gegenseitigkeit gegen die wirtschaftlichen Folgen von Krankheit und Unfall; kann sich an Organisationen beteiligen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-18</lastFoscDate>
+    <lastFoscNumber>12</lastFoscNumber>
+    <lastFoscSequence>1004544880</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

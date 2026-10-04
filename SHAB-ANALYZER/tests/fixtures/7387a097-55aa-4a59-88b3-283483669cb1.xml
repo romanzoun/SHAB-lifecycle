@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>735f0849-c807-4979-9ea5-a3e62c6d7fdc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004622077</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Kallista investissements SA en liquidation, Milvignes</de>
+    <en>Change Kallista investissements SA en liquidation, Milvignes</en>
+    <it>Cambiamenti Kallista investissements SA en liquidation, Milvignes</it>
+    <fr>Mutation Kallista investissements SA en liquidation, Milvignes</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1348</journalNumber>
+  <journalDate>2019-04-29</journalDate>
+  <publicationText>Kallista investissements SA en liquidation, à Milvignes, CHE-114.821.297 (FOSC du 17.10.2018, p. 0/1004478864). Selon déclaration du 20.03.2019, la société n'est pas soumise à un contrôle ordinaire et a renoncé à un contrôle restreint. Domicile de liquidation: chemin des Trévisans 10, c/o Roger Moses, 1213 Onex.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kallista investissements SA en liquidation</name>
+      <uid>CHE114821297</uid>
+      <uidOrganisationId>114821297</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541038644</code13>
+      <seat>Milvignes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o Roger Moses</addressLine1>
+        <street>chemin des Trévisans</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Onex</town>
+      </liqAddress>
+    </company>
+    <purpose>achat de fonds de commerce et tous investissements financiers s'y rapportant; acquérir, gérer, vendre et entretenir des immeubles.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kallista investissements SA en liquidation</name>
+      <uid>CHE114821297</uid>
+      <uidOrganisationId>114821297</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541038644</code13>
+      <seat>Milvignes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>achat de fonds de commerce et tous investissements financiers s'y rapportant; acquérir, gérer, vendre et entretenir des immeubles.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-17</lastFoscDate>
+    <lastFoscSequence>1004478864</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>223e1473-aa8c-4162-8bfa-5b8e2d63ff36</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004744732</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation BioAlliance Pharma Switzerland SA, Genève, neu BioAlliance Pharma Switzerland SA, en liquidation</de>
+    <en>Change BioAlliance Pharma Switzerland SA, Genève, new BioAlliance Pharma Switzerland SA, en liquidation</en>
+    <it>Cambiamenti BioAlliance Pharma Switzerland SA, Genève, nuovo BioAlliance Pharma Switzerland SA, en liquidation</it>
+    <fr>Mutation BioAlliance Pharma Switzerland SA, Genève, nouveau BioAlliance Pharma Switzerland SA, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19680</journalNumber>
+  <journalDate>2019-10-21</journalDate>
+  <publicationText>BioAlliance Pharma Switzerland SA, à Genève, CHE-114.274.478 (FOSC du 09.02.2017, p. 0/3338359). La société est dissoute par décision de l'assemblée générale du 09.10.2019. Sa liquidation est opérée sous la raison sociale: BioAlliance Pharma Switzerland SA, en liquidation. Liquidatrie: l'administratrice Caillat Monique, laquelle continue à signer individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>BioAlliance Pharma Switzerland SA, en liquidation</name>
+      <uid>CHE-114.274.478</uid>
+      <uidOrganisationId>114274478</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66058740085</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Monique Caillat</addressLine1>
+        <street>avenue de Sécheron 15, avocate</street>
+        <swissZipCode>1202</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>entreprendre et de conduire toutes activités, de fournir tous services, pour son propre compte ou pour celui de tiers, en relation avec la recherche, le développement, la production, le marketing, la commercialisation, et la vente de spécialités pharmaceutiques, dispositifs médicaux ou autres médicaments à usage humain (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BioAlliance Pharma Switzerland SA</name>
+      <uid>CHE-114.274.478</uid>
+      <uidOrganisationId>114274478</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66058740085</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Monique Caillat</addressLine1>
+        <street>avenue de Sécheron 15, avocate</street>
+        <swissZipCode>1202</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>entreprendre et de conduire toutes activités, de fournir tous services, pour son propre compte ou pour celui de tiers, en relation avec la recherche, le développement, la production, le marketing, la commercialisation, et la vente de spécialités pharmaceutiques, dispositifs médicaux ou autres médicaments à usage humain (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-02-09</lastFoscDate>
+    <lastFoscNumber>28</lastFoscNumber>
+    <lastFoscSequence>3338359</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

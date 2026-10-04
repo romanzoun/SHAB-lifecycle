@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>a03918fd-ccad-4ac5-aa56-4c410bce5ca3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004485178</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation OsmoBlue Sàrl en liquidation, bisher OsmoBlue Sàrl, Lausanne</de>
+    <en>Change OsmoBlue Sàrl en liquidation, to date OsmoBlue Sàrl, Lausanne</en>
+    <it>Cambiamenti OsmoBlue Sàrl en liquidation, prima OsmoBlue Sàrl, Lausanne</it>
+    <fr>Mutation OsmoBlue Sàrl en liquidation, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18922</journalNumber>
+  <journalDate>2018-10-23</journalDate>
+  <publicationText>OsmoBlue Sàrl, à Lausanne, CHE-293.853.149 (FOSC du 04.03.2015, p. 0/2022769). Selon décision de son assemblée des associés du 18 octobre 2018, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: OsmoBlue Sàrl en liquidation (OsmoBlue GmbH in Liquidation) (OsmoBlue LLC in liquidation). Dahan Elodie est nommée liquidatrice avec signature indidivuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>OsmoBlue Sàrl en liquidation</name>
+      <translations>[de] OsmoBlue GmbH in Liquidation [en] OsmoBlue LLC in liquidation</translations>
+      <uid>CHE293853149</uid>
+      <uidOrganisationId>293853149</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011166329</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Elodie Dahan</addressLine1>
+        <street>Avenue de France</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la recherche, le développement, la fabrication et la commercialisation d'appareils, de technologies et de procédés de fabrication dans le domaine de l'énergie, en particulier pour la production d'énergie à partir de chaleur (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>22200.00</nominal>
+      <paid>22200.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>OsmoBlue Sàrl</name>
+      <translations>[de] OsmoBlue GmbH [en] OsmoBlue LLC</translations>
+      <uid>CHE293853149</uid>
+      <uidOrganisationId>293853149</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011166329</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Elodie Dahan</addressLine1>
+        <street>Avenue de France</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la recherche, le développement, la fabrication et la commercialisation d'appareils, de technologies et de procédés de fabrication dans le domaine de l'énergie, en particulier pour la production d'énergie à partir de chaleur (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>22200.00</nominal>
+      <paid>22200.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-03-04</lastFoscDate>
+    <lastFoscSequence>2022769</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

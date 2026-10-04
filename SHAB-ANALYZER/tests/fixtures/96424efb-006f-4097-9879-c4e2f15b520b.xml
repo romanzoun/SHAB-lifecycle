@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>963b95a3-0476-4c7c-b041-2d3009a55ada</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004650227</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Smart Key Consulting Olarewaju, Basel</de>
+    <en>Change Smart Key Consulting Olarewaju, Basel</en>
+    <it>Cambiamenti Smart Key Consulting Olarewaju, Basel</it>
+    <fr>Mutation Smart Key Consulting Olarewaju, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3253</journalNumber>
+  <journalDate>2019-06-07</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 25 vom 06.02.2019 publizierten TR-Eintrag Nr. 700 vom 01.02.2019 Smart Key Consulting Olarewaju, in Basel, CHE-219.023.926, Einzelunternehmen (SHAB Nr. 25 vom 06.02.2019, Publ. 1004559927). Die Gesellschaft hat sich infolge Ausscheidens des Gesellschafters Simon Olarewaju aufgelöst. Die Firma ist erloschen. Die Gesellschafterin Virginia Olarewaju führt das Geschäft gemäss Art. 579 OR als Einzelunternehmen fort.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Smart Key Consulting Olarewaju</name>
+      <uid>CHE219023926</uid>
+      <uidOrganisationId>219023926</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27020030009</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Burgfelderstr.</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>4055</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Allround Services, Dienstleistungen in diversen Sprachen wie zum Beispiel: Übersetzungen, Steuererklärungen, Versicherungen aller Art, Kredite, Import und Export, Fotografie und Video wichtiger Anlässe und Websites für Firmen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Smart Key Consulting Olarewaju</name>
+      <uid>CHE219023926</uid>
+      <uidOrganisationId>219023926</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27020030009</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Burgfelderstr.</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>4055</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Allround Services, Dienstleistungen in diversen Sprachen wie zum Beispiel: Übersetzungen, Steuererklärungen, Versicherungen aller Art, Kredite, Import und Export, Fotografie und Video wichtiger Anlässe und Websites für Firmen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-06</lastFoscDate>
+    <lastFoscNumber>25</lastFoscNumber>
+    <lastFoscSequence>1004559927</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

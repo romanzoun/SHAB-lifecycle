@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3b53ca36-f59f-42f5-b714-2907ed5ca50f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004531520</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Gérald Clavien, vins de la cave Les deux Crêtes, Miège</de>
+    <en>Change Gérald Clavien, vins de la cave Les deux Crêtes, Miège</en>
+    <it>Cambiamenti Gérald Clavien, vins de la cave Les deux Crêtes, Miège</it>
+    <fr>Mutation Gérald Clavien, vins de la cave Les deux Crêtes, Miège</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3279</journalNumber>
+  <journalDate>2018-12-20</journalDate>
+  <publicationText>Complément de l'inscription au registre journalier no 532 du 18.05.1999, publié dans la FOSC no 104 du 02.06.1999, p. 3'676. Gérald Clavien, vins de la cave Les deux Crêtes, à Miège, CHE-111.554.728, entreprise individuelle (No. FOSC 159 du 12.07.1988). La raison de commerce est radiée, les activités continuant sous une autre forme juridique.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Gérald Clavien, vins de la cave Les deux Crêtes</name>
+      <uid>CHE111554728</uid>
+      <uidOrganisationId>111554728</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610080552</code13>
+      <seat>Miège</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <swissZipCode>3972</swissZipCode>
+        <town>Miège</town>
+      </address>
+    </company>
+    <purpose>Commerce de vins</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Gérald Clavien, vins de la cave Les deux Crêtes</name>
+      <uid>CHE111554728</uid>
+      <uidOrganisationId>111554728</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610080552</code13>
+      <seat>Miège</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <swissZipCode>3972</swissZipCode>
+        <town>Miège</town>
+      </address>
+    </company>
+    <purpose>Commerce de vins</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>1988-07-12</lastFoscDate>
+    <lastFoscNumber>159</lastFoscNumber>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

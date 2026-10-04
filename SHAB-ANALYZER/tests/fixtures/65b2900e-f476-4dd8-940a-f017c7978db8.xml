@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>65912213-c448-4a99-9f64-49557cf079b2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004547820</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Toscano AG, Andeer</de>
+    <en>Change Toscano AG, Andeer</en>
+    <it>Cambiamenti Toscano AG, Andeer</it>
+    <fr>Mutation Toscano AG, Andeer</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>346</journalNumber>
+  <journalDate>2019-01-17</journalDate>
+  <publicationText>Toscano AG, in Andeer, CHE-105.763.790, Aktiengesellschaft (SHAB Nr. 208 vom 26.10.2016, Publ. 3128463). [Sitzänderung der Zweigniederlassung von Amtes wegen infolge Gemeindefusion.]. Zweigniederlassung neu: Rheinwald (CHE-490.517.259) [bisher: Hinterrhein (CHE-490.517.259)].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Toscano AG</name>
+      <uid>CHE105763790</uid>
+      <uidOrganisationId>105763790</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030047112</code13>
+      <seat>Andeer</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Parsagna</street>
+        <swissZipCode>7440</swissZipCode>
+        <town>Andeer</town>
+      </address>
+    </company>
+    <purpose>Gewinnung, Verarbeitung und Vertrieb von Natursteinen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Toscano AG</name>
+      <uid>CHE105763790</uid>
+      <uidOrganisationId>105763790</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030047112</code13>
+      <seat>Andeer</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Parsagna</street>
+        <swissZipCode>7440</swissZipCode>
+        <town>Andeer</town>
+      </address>
+    </company>
+    <purpose>Gewinnung, Verarbeitung und Vertrieb von Natursteinen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-10-26</lastFoscDate>
+    <lastFoscNumber>208</lastFoscNumber>
+    <lastFoscSequence>3128463</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

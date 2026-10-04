@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8c48e50f-9748-4d93-9571-1ba45e217b85</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004476812</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Ghirardelli Daniele, Losone</de>
+    <en>Change Ghirardelli Daniele, Losone</en>
+    <it>Cambiamenti Ghirardelli Daniele, Losone</it>
+    <fr>Mutation Ghirardelli Daniele, Losone</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13796</journalNumber>
+  <journalDate>2018-10-10</journalDate>
+  <publicationText>Ghirardelli Daniele, in Losone, CHE-110.194.461, ditta individuale (Nr. FUSC 190 del 02.10.2018, Pubbl. 1004467342). Con decisione del 09.10.2018 la Camera di esecuzione e fallimenti del Tribunale d'appello del Cantone Ticino ha accordato effetto sospensivo al reclamo inoltrato contro la decisione di fallimento aperto nei confronti del titolare il 26.09.2018. L'iscrizione nel registro di commercio relativa al fallimento del titolare viene pertanto cancellata. [finora: Il titolare è stato dichiarato in fallimento con decreto della Pretura del Distretto di Locarno-Campagna del 26.09.2018 a far tempo dal 27.09.2018 alle ore 10:00.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Ghirardelli Daniele</name>
+      <uid>CHE110194461</uid>
+      <uidOrganisationId>110194461</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50910078537</code13>
+      <seat>Losone</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Ubrio</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>6616</swissZipCode>
+        <town>Losone</town>
+      </address>
+    </company>
+    <purpose>Esecuzione opere da piastrellista, posa e fonitura.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Ghirardelli Daniele</name>
+      <uid>CHE110194461</uid>
+      <uidOrganisationId>110194461</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50910078537</code13>
+      <seat>Losone</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Ubrio</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>6616</swissZipCode>
+        <town>Losone</town>
+      </address>
+    </company>
+    <purpose>Esecuzione opere da piastrellista, posa e fonitura.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-02</lastFoscDate>
+    <lastFoscNumber>190</lastFoscNumber>
+    <lastFoscSequence>1004467342</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

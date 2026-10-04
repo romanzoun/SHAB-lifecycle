@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.23/HR02-export.xsd">
+<meta>
+  <id>1dcbb1bd-c695-4dc7-9683-1535b26d61ae</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006255792</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2025-02-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <secondaryTenants>
+    <tenantCode>kabzg</tenantCode>
+    <publicationDate>2025-02-13</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation Da Vinci Management GmbH, Zug, neu Da Vinci Management GmbH in Liquidation</de>
+    <en>Change Da Vinci Management GmbH, Zug, new Da Vinci Management GmbH in Liquidation</en>
+    <it>Cambiamenti Da Vinci Management GmbH, Zug, nuovo Da Vinci Management GmbH in Liquidation</it>
+    <fr>Mutation Da Vinci Management GmbH, Zug, nouveau Da Vinci Management GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2210</journalNumber>
+  <journalDate>2025-02-10</journalDate>
+  <publicationText>Da Vinci Management GmbH, in Zug, CHE-115.945.341, Gesellschaft mit beschränkter Haftung (SHAB Nr. 46 vom 06.03.2024, Publ. 1005978713). Firma neu: Da Vinci Management GmbH in Liquidation. Mit Entscheid des Einzelrichters des Kantonsgerichts Zug vom 16.01.2025, 14:00 Uhr, wurde die Gesellschaft aufgelöst und ihre Liquidation nach den Vorschriften über den Konkurs angeordnet.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Da Vinci Management GmbH in Liquidation</name>
+      <uid>CHE-115.945.341</uid>
+      <uidOrganisationId>115945341</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040099514</code13>
+      <seat>Zug</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Baarerstrasse</street>
+        <houseNumber>75</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Management Consulting Dienstleistungen sowie Handel mit Waren aller Art; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Da Vinci Management GmbH</name>
+      <uid>CHE-115.945.341</uid>
+      <uidOrganisationId>115945341</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040099514</code13>
+      <seat>Zug</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Baarerstrasse</street>
+        <houseNumber>75</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Management Consulting Dienstleistungen sowie Handel mit Waren aller Art; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2024-03-06</lastFoscDate>
+    <lastFoscNumber>46</lastFoscNumber>
+    <lastFoscSequence>1005978713</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

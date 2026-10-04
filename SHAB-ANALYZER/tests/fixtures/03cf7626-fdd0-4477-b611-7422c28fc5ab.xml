@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>03c5e06b-c775-4883-b001-13ba7c652da3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004715743</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Mindforce AG, Murten, neu Mindforce AG in Liquidation</de>
+    <en>Change Mindforce AG, Murten, new Mindforce AG in Liquidation</en>
+    <it>Cambiamenti Mindforce AG, Murten, nuovo Mindforce AG in Liquidation</it>
+    <fr>Mutation Mindforce AG, Murten, nouveau Mindforce AG in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5023</journalNumber>
+  <journalDate>2019-09-10</journalDate>
+  <publicationText>Mindforce AG, in Murten, CHE-101.772.979 (FOSC du 16.08.2019, p. 0/1004697299). Die Gesellschaft ist laut Beschluss der Generalversammlung vom 23.08.2019 aufgelöst. Die Liquidation wird unter der Firma: Mindforce AG in Liquidation durchgeführt. Neu eingetragene Person: Koller Rolf, von Berikon, in Zürich, Liquidator, Einzelunterschrift. Liquidationsadresse: Hauptgasse 58, c/o Daniel Bitterli, 3280 Murten.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mindforce AG in Liquidation</name>
+      <uid>CHE-101.772.979</uid>
+      <uidOrganisationId>101772979</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705308273</code13>
+      <seat>Murten</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Daniel Bitterli</addressLine1>
+        <street>Hauptgasse</street>
+        <houseNumber>58</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Daniel Bitterli</addressLine1>
+        <street>Hauptgasse</street>
+        <houseNumber>58</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </liqAddress>
+    </company>
+    <purpose>Betrieb einer Agentur für Verlagscoaching, Produktion, Kreation, Medienberatung und -planung und Handel von Immobilien und Kunst (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mindforce AG</name>
+      <uid>CHE-101.772.979</uid>
+      <uidOrganisationId>101772979</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705308273</code13>
+      <seat>Murten</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Daniel Bitterli</addressLine1>
+        <street>Hauptgasse</street>
+        <houseNumber>58</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Agentur für Verlagscoaching, Produktion, Kreation, Medienberatung und -planung und Handel von Immobilien und Kunst (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-16</lastFoscDate>
+    <lastFoscNumber>157</lastFoscNumber>
+    <lastFoscSequence>1004697299</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

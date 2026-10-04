@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>7615f088-fb08-485f-8823-7d1e94436c35</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-0004448839</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Calypso Investments SA en liquidation, Corcelles-Cormondrèche</de>
+    <en>Change Calypso Investments SA en liquidation, Corcelles-Cormondrèche</en>
+    <it>Cambiamenti Calypso Investments SA en liquidation, Corcelles-Cormondrèche</it>
+    <fr>Mutation Calypso Investments SA en liquidation, Corcelles-Cormondrèche</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3466</journalNumber>
+  <journalDate>2018-08-30</journalDate>
+  <publicationText>Calypso Investments SA en liquidation, à Corcelles-Cormondrèche, CHE-464.285.534 (FOSC du 14.08.2017, p. 0/3695363). Selon ordonnance du 28.08.2018, le Tribunal régional du Littoral et du Val-de-Travers a ordonné la réinscription de la société au registre du commerce.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Calypso Investments SA en liquidation</name>
+      <uid>CHE464285534</uid>
+      <uidOrganisationId>464285534</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541127849</code13>
+      <seat>Corcelles-Cormondrèche</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <town>ohne Domizil-sans domicile-senza indiriz</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Loreto1 Trading SA</addressLine1>
+        <street>avenue de la Gare</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </liqAddress>
+    </company>
+    <purpose>acquérir, vendre, gérer, administrer des biens immobiliers, en Suisse ou à l'étranger (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Calypso Investments SA en liquidation</name>
+      <uid>CHE464285534</uid>
+      <uidOrganisationId>464285534</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541127849</code13>
+      <seat>Corcelles-Cormondrèche</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <town>ohne Domizil-sans domicile-senza indiriz</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Loreto1 Trading SA</addressLine1>
+        <street>avenue de la Gare</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </liqAddress>
+    </company>
+    <purpose>acquérir, vendre, gérer, administrer des biens immobiliers, en Suisse ou à l'étranger (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-08-14</lastFoscDate>
+    <lastFoscSequence>3695363</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

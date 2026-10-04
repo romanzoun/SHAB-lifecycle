@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>63a8330a-9fbe-41ff-bbed-7268f44d368f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004591939</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation Der Leader Personalservice AG, Sissach</de>
+    <en>Change Der Leader Personalservice AG, Sissach</en>
+    <it>Cambiamenti Der Leader Personalservice AG, Sissach</it>
+    <fr>Mutation Der Leader Personalservice AG, Sissach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1396</journalNumber>
+  <journalDate>2019-03-15</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 50 vom 13.03.2019 publizierten TR-Eintrags Nr. 1'288 vom 08.03.2019. Der Leader Personalservice AG, in Sissach, CHE-113.013.892, Aktiengesellschaft (SHAB Nr. 50 vom 13.03.2019, Publ. 1004586654). [nicht: Aktiven und Passiven (Fremdkapital) gehen infolge Fusion auf die "Der Leader Personalservice AG" (CHE-113.013.892), in Sissach, über. Die Gesellschaft wird gelöscht.]. Aktiven und Passiven (Fremdkapital) gehen infolge Fusion auf die "Der Leader Personalservice AG" (CHE-102.128.628), in Basel, über. Die Gesellschaft wird gelöscht.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Der Leader Personalservice AG</name>
+      <uid>CHE113013892</uid>
+      <uidOrganisationId>113013892</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030098475</code13>
+      <seat>Sissach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Kirchgasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>4450</swissZipCode>
+        <town>Sissach</town>
+      </address>
+    </company>
+    <purpose>Vermittlung und Verleih von Personal. Die Gesellschaft kann sich an anderen Unternehmen beteiligen oder solche übernehmen sowie Liegenschaften und Grundstücke erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Der Leader Personalservice AG</name>
+      <uid>CHE113013892</uid>
+      <uidOrganisationId>113013892</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030098475</code13>
+      <seat>Sissach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Kirchgasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>4450</swissZipCode>
+        <town>Sissach</town>
+      </address>
+    </company>
+    <purpose>Vermittlung und Verleih von Personal. Die Gesellschaft kann sich an anderen Unternehmen beteiligen oder solche übernehmen sowie Liegenschaften und Grundstücke erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-13</lastFoscDate>
+    <lastFoscNumber>50</lastFoscNumber>
+    <lastFoscSequence>1004586654</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

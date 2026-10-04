@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>7f4ebc09-2ade-4538-9643-7cc06fd5129a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004799010</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation pour l'histoire des Suisses dans le monde, Pregny-Chambésy</de>
+    <en>Change Fondation pour l'histoire des Suisses dans le monde, Pregny-Chambésy</en>
+    <it>Cambiamenti Fondation pour l'histoire des Suisses dans le monde, Pregny-Chambésy</it>
+    <fr>Mutation Fondation pour l'histoire des Suisses dans le monde, Pregny-Chambésy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>189</journalNumber>
+  <journalDate>2020-01-03</journalDate>
+  <publicationText>Fondation pour l'histoire des Suisses dans le monde, à Pregny-Chambésy, CHE-105.753.426 (FOSC du 05.09.2018, p. 0/4449806). Balladur Henri, de et à Genève, est membre du conseil avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation pour l'histoire des Suisses dans le monde</name>
+      <uid>CHE-105.753.426</uid>
+      <uidOrganisationId>105753426</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002909807</code13>
+      <seat>Pregny-Chambésy</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pregny, chemin de l'Impératrice</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1292</swissZipCode>
+        <town>Pregny-Chambésy</town>
+      </address>
+    </company>
+    <purpose>étudier et faire connaître l'histoire des Suisses qui, dans le monde, ont exercé ou exercent une influence significative sur la civilisation de leur époque.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation pour l'histoire des Suisses dans le monde</name>
+      <uid>CHE-105.753.426</uid>
+      <uidOrganisationId>105753426</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002909807</code13>
+      <seat>Pregny-Chambésy</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pregny, chemin de l'Impératrice</street>
+        <houseNumber>18</houseNumber>
+        <town>Pregny-Chambésy</town>
+      </address>
+    </company>
+    <purpose>étudier et faire connaître l'histoire des Suisses qui, dans le monde, ont exercé ou exercent une influence significative sur la civilisation de leur époque.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-05</lastFoscDate>
+    <lastFoscNumber>171</lastFoscNumber>
+    <lastFoscSequence>4449806</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

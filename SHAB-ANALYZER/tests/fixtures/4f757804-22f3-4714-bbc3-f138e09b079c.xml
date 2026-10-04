@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>4eb6d4e0-1f08-479b-ad19-d6f1129d52ea</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004695092</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Clinique Les Alpes SA, Montreux</de>
+    <en>Change Clinique Les Alpes SA, Montreux</en>
+    <it>Cambiamenti Clinique Les Alpes SA, Montreux</it>
+    <fr>Mutation Clinique Les Alpes SA, Montreux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14362</journalNumber>
+  <journalDate>2019-08-08</journalDate>
+  <publicationText>Clinique Les Alpes SA, à Montreux, CHE-115.476.369 (FOSC du 07.11.2018, p. 0/1004492722). Conde Santiago Inês, dont la procuration est éteinte, est nommée directrice et engage désormais la société par sa signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Clinique Les Alpes SA</name>
+      <uid>CHE115476369</uid>
+      <uidOrganisationId>115476369</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010659938</code13>
+      <seat>Montreux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Hôtel de Sonloup S.A.</addressLine1>
+        <street>Sonloup sur les Avants</street>
+        <swissZipCode>1833</swissZipCode>
+        <town>Les Avants</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une clinique, dans les locaux de l'Hôtel de Sonloup S.A., ainsi que toutes activités médicales (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Clinique Les Alpes SA</name>
+      <uid>CHE115476369</uid>
+      <uidOrganisationId>115476369</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010659938</code13>
+      <seat>Montreux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Hôtel de Sonloup S.A.</addressLine1>
+        <street>Sonloup sur les Avants</street>
+        <swissZipCode>1833</swissZipCode>
+        <town>Les Avants</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une clinique, dans les locaux de l'Hôtel de Sonloup S.A., ainsi que toutes activités médicales (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-07</lastFoscDate>
+    <lastFoscSequence>1004492722</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>83ca4ec0-9ec6-465a-b82e-bbc065d21734</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004653066</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation HELVEMED SA, en liquidation, Collonge-Bellerive</de>
+    <en>Change HELVEMED SA, en liquidation, Collonge-Bellerive</en>
+    <it>Cambiamenti HELVEMED SA, en liquidation, Collonge-Bellerive</it>
+    <fr>Mutation HELVEMED SA, en liquidation, Collonge-Bellerive</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11142</journalNumber>
+  <journalDate>2019-06-12</journalDate>
+  <publicationText>HELVEMED SA, en liquidation, à Collonge-Bellerive, CHE-112.841.478 (FOSC du 07.06.2019, p. 0/1004647438). Par décision du 07.06.2019, la Cour de justice a accordé la suspension de l'effet exécutoire attaché au jugement de faillite du 27.05.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>HELVEMED SA, en liquidation</name>
+      <uid>CHE112841478</uid>
+      <uidOrganisationId>112841478</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007390068</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Thonon</street>
+        <houseNumber>63</houseNumber>
+        <swissZipCode>1222</swissZipCode>
+        <town>Vésenaz</town>
+      </address>
+    </company>
+    <purpose>commerce, distribution, fabrication et développement de tous produits, matériels, appareils et articles manufacturés dans le domaine médical.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>HELVEMED SA, en liquidation</name>
+      <uid>CHE112841478</uid>
+      <uidOrganisationId>112841478</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007390068</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Thonon</street>
+        <houseNumber>63</houseNumber>
+        <swissZipCode>1222</swissZipCode>
+        <town>Vésenaz</town>
+      </address>
+    </company>
+    <purpose>commerce, distribution, fabrication et développement de tous produits, matériels, appareils et articles manufacturés dans le domaine médical.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-07</lastFoscDate>
+    <lastFoscSequence>1004647438</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

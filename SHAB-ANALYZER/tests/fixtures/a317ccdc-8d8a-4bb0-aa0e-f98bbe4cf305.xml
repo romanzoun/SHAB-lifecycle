@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>a2c403dd-6743-47af-99fd-61df6add3223</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005064230</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Mediport AG in Liquidation, Gossau (SG)</de>
+    <en>Change Mediport AG in Liquidation, Gossau (SG)</en>
+    <it>Cambiamenti Mediport AG in Liquidation, Gossau (SG)</it>
+    <fr>Mutation Mediport AG in Liquidation, Gossau (SG)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13030</journalNumber>
+  <journalDate>2020-12-30</journalDate>
+  <publicationText>Mediport AG in Liquidation, in Gossau (SG), CHE-100.442.864, Aktiengesellschaft (SHAB Nr. 236 vom 05.12.2019, Publ. 1004775857). Mit Verfügung des Handelsgerichtspräsidenten des Kantons St. Gallen vom 23.09.2019 war das Amt für Handelsregister und Notariate des Kantons St.Gallen angewiesen worden, Orlando Frigoli als Liquidator einzutragen. Gemäss Entscheid des Handelsgerichtspräsidenten vom 18.12.2020 dauert die Massnahme, bis die Liquidation der Gesellschaft abgeschlossen ist, längstens jedoch bis Ende 2021. [bisher: Mit Verfügung des Handelsgerichtspräsidenten des Kantons St. Gallen vom 23.09.2019 ist das Amt für Handelsregister und Notariate des Kantons St.Gallen angewiesen worden, Orlando Frigoli als Liquidator einzutragen. Die Massnahme dauert, bis die Liquidation der Gesellschaft abgeschlossen ist, längstens jedoch für ein Jahr.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mediport AG in Liquidation</name>
+      <uid>CHE-100.442.864</uid>
+      <uidOrganisationId>100442864</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30030138685</code13>
+      <seat>Gossau (SG)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Entwicklung, Produktion und Vertrieb von medizinischen Spezialprodukten für die Analysemesstechnik (Blutserumanalysen), Erarbeitung von Gesamtkonzeptlösungen für die Entwicklung, Produktion und Endkundenverpackung von medizinischen Spezialprodukten für den Diagnostikbereich. Die Gesellschaft kann sich an anderen Unternehmungen beteiligen oder sich mit diesen zusammenschliessen sowie Liegenschaften und Wertschriften erwerben, verwalten und verkaufen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mediport AG in Liquidation</name>
+      <uid>CHE-100.442.864</uid>
+      <uidOrganisationId>100442864</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30030138685</code13>
+      <seat>Gossau (SG)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Entwicklung, Produktion und Vertrieb von medizinischen Spezialprodukten für die Analysemesstechnik (Blutserumanalysen), Erarbeitung von Gesamtkonzeptlösungen für die Entwicklung, Produktion und Endkundenverpackung von medizinischen Spezialprodukten für den Diagnostikbereich. Die Gesellschaft kann sich an anderen Unternehmungen beteiligen oder sich mit diesen zusammenschliessen sowie Liegenschaften und Wertschriften erwerben, verwalten und verkaufen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-05</lastFoscDate>
+    <lastFoscNumber>236</lastFoscNumber>
+    <lastFoscSequence>1004775857</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

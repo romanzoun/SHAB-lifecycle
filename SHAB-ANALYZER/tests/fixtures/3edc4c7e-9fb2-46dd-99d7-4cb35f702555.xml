@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.16/HR02-export.xsd">
+<meta>
+  <id>3e2659f3-be55-4c24-9d53-74e54d897855</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005604810</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-11-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <secondaryTenants>
+    <tenantCode>kabti</tenantCode>
+    <publicationDate>2022-11-15</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation Pavisud SA, Bioggio</de>
+    <en>Change Pavisud SA, Bioggio</en>
+    <it>Cambiamenti Pavisud SA, Bioggio</it>
+    <fr>Mutation Pavisud SA, Bioggio</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13992</journalNumber>
+  <journalDate>2022-11-10</journalDate>
+  <publicationText>Pavisud SA, in Bioggio, CHE-281.695.429, succursale svizzera (Nr. FUSC 16 del 24.01.2012, p.0, Pubbl. 6517892), Sede principale a: Cadenazzo. Nuovo numero di identificazione della sede principale: CHE-105.909.680 [finora: Numero dell'identificazione della sede principale: CH-500.3.000.999-1].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pavisud SA</name>
+      <uid>CHE-281.695.429</uid>
+      <uidOrganisationId>281695429</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51490132517</code13>
+      <seat>Bioggio</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Industria</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>6934</swissZipCode>
+        <town>Bioggio</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Pavisud SA</name>
+      <country>CH</country>
+      <uid>CHE-105.909.680</uid>
+      <uidOrganisationId>105909680</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pavisud SA</name>
+      <uid>CHE-281.695.429</uid>
+      <uidOrganisationId>281695429</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51490132517</code13>
+      <seat>Bioggio</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Industria</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>6934</swissZipCode>
+        <town>Bioggio</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Pavisud SA</name>
+      <country>CH</country>
+      <uid>CHE-105.909.680</uid>
+      <uidOrganisationId>105909680</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2012-01-24</lastFoscDate>
+    <lastFoscNumber>16</lastFoscNumber>
+    <lastFoscSequence>6517892</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

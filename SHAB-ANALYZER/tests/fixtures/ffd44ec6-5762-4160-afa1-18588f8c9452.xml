@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>ff8502ab-c4c8-4e60-8c69-6a4f23834915</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004768515</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Aiuto, Nyon, neu Fondation Aiuto en liquidation</de>
+    <en>Change Fondation Aiuto, Nyon, new Fondation Aiuto en liquidation</en>
+    <it>Cambiamenti Fondation Aiuto, Nyon, nuovo Fondation Aiuto en liquidation</it>
+    <fr>Mutation Fondation Aiuto, Nyon, nouveau Fondation Aiuto en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21019</journalNumber>
+  <journalDate>2019-11-21</journalDate>
+  <publicationText>Fondation Aiuto, à Nyon, CHE-114.083.300 (FOSC du 30.01.2019, p. 0/1004554705). L'Autorité de surveillance LPP et des fondations de Suisse occidentale a constaté la dissolution de la fondation par décision du 24 septembre 2019. La liquidation est opérée sous le nom: Fondation Aiuto en liquidation. Crot James, Crot Pierre, et Gonet Nicolas sont nommés liquidateurs avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Aiuto en liquidation</name>
+      <uid>CHE-114.083.300</uid>
+      <uidOrganisationId>114083300</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010533826</code13>
+      <seat>Nyon</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o James Crot</addressLine1>
+        <street>Chemin de la Piscine</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>accorder des subsides à des oeuvres philanthropiques ou d'utilité publique à caractère scientifique, social ou de santé publique.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Aiuto</name>
+      <uid>CHE-114.083.300</uid>
+      <uidOrganisationId>114083300</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010533826</code13>
+      <seat>Nyon</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o James Crot</addressLine1>
+        <street>Chemin de la Piscine</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>accorder des subsides à des oeuvres philanthropiques ou d'utilité publique à caractère scientifique, social ou de santé publique.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-30</lastFoscDate>
+    <lastFoscNumber>20</lastFoscNumber>
+    <lastFoscSequence>1004554705</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

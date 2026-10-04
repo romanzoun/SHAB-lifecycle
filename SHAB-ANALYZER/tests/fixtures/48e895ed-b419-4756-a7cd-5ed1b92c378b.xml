@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>48d831bc-a0f8-46be-b715-539f5f40e115</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004810548</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Cubot-Suisse Sàrl, Bussigny, neu Cubot-Suisse Sàrl en liquidation</de>
+    <en>Change Cubot-Suisse Sàrl, Bussigny, new Cubot-Suisse Sàrl en liquidation</en>
+    <it>Cambiamenti Cubot-Suisse Sàrl, Bussigny, nuovo Cubot-Suisse Sàrl en liquidation</it>
+    <fr>Mutation Cubot-Suisse Sàrl, Bussigny, nouveau Cubot-Suisse Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1123</journalNumber>
+  <journalDate>2020-01-16</journalDate>
+  <publicationText>Cubot-Suisse Sàrl, à Bussigny, CHE-454.432.785 (FOSC du 02.05.2016, p. 0/2811443). Selon décision de son assemblée des associés du 13 janvier 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Cubot-Suisse Sàrl en liquidation. Trevisan Mikaël est nommé liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cubot-Suisse Sàrl en liquidation</name>
+      <uid>CHE-454.432.785</uid>
+      <uidOrganisationId>454432785</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011669847</code13>
+      <seat>Bussigny</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Mikaël Trevisan</addressLine1>
+        <street>Chemin de la Cigogne</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1030</swissZipCode>
+        <town>Bussigny</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le commerce de téléphone portable notamment de la marque Cubot et tout accessoires y relatif (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cubot-Suisse Sàrl</name>
+      <uid>CHE-454.432.785</uid>
+      <uidOrganisationId>454432785</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011669847</code13>
+      <seat>Bussigny</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Mikaël Trevisan</addressLine1>
+        <street>Chemin de la Cigogne</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1030</swissZipCode>
+        <town>Bussigny</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le commerce de téléphone portable notamment de la marque Cubot et tout accessoires y relatif (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-05-02</lastFoscDate>
+    <lastFoscNumber>84</lastFoscNumber>
+    <lastFoscSequence>2811443</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

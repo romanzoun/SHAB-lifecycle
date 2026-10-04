@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>07c85333-6021-448d-8316-5e664aadec86</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004779396</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation A. Zucco S.A., Le Mouret</de>
+    <en>Change A. Zucco S.A., Le Mouret</en>
+    <it>Cambiamenti A. Zucco S.A., Le Mouret</it>
+    <fr>Mutation A. Zucco S.A., Le Mouret</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6845</journalNumber>
+  <journalDate>2019-12-05</journalDate>
+  <publicationText>A. Zucco S.A., à Le Mouret, CHE-107.916.082 (SHAB vom 19.12.2013, s. 0/7225826). Personnes inscrites modifiées: fidusar sa (CH-217-0150199-3), organe de révision, maintenant à Granges-Paccot et avec le numéro IDE (CHE-107.768.746).</publicationText>
+  <commonsNew>
+    <company>
+      <name>A. Zucco S.A.</name>
+      <uid>CHE-107.916.082</uid>
+      <uidOrganisationId>107916082</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701334491</code13>
+      <seat>Le Mouret</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Impasse de la Bise</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1724</swissZipCode>
+        <town>Essert FR</town>
+      </address>
+    </company>
+    <purpose>exploiter une entreprise de maçonnerie, construire des immeubles ou autres ouvrages, acheter, vendre, gérer, louer, prêter des biens meubles ou immeubles. Prendre des participations, exploiter tous brevets ou licences.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>fidusar sa</name>
+        <country>CH</country>
+        <uid>CHE107768746</uid>
+        <uidOrganisationId>107768746</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>A. Zucco S.A.</name>
+      <uid>CHE-107.916.082</uid>
+      <uidOrganisationId>107916082</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701334491</code13>
+      <seat>Le Mouret</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Impasse de la Bise</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1724</swissZipCode>
+        <town>Essert FR</town>
+      </address>
+    </company>
+    <purpose>exploiter une entreprise de maçonnerie, construire des immeubles ou autres ouvrages, acheter, vendre, gérer, louer, prêter des biens meubles ou immeubles. Prendre des participations, exploiter tous brevets ou licences.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>fidusar sa</name>
+        <country>CH</country>
+        <uid>CHE107768746</uid>
+        <uidOrganisationId>107768746</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225826</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

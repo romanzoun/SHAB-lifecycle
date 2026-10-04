@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>301f519b-fc65-46b0-9654-f253904506e0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004711334</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Coelho Dos Reis et Meyer, Nyon</de>
+    <en>Change Coelho Dos Reis et Meyer, Nyon</en>
+    <it>Cambiamenti Coelho Dos Reis et Meyer, Nyon</it>
+    <fr>Mutation Coelho Dos Reis et Meyer, Nyon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15900</journalNumber>
+  <journalDate>2019-09-03</journalDate>
+  <publicationText>Coelho Dos Reis et Meyer, à Nyon, CHE-114.003.732, société en nom collectif (FOSC du 09.11.2015, p. 0/2470421). La société est dissoute. La liquidation étant terminée, la raison de commerce est radiée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Coelho Dos Reis et Meyer</name>
+      <uid>CHE-114.003.732</uid>
+      <uidOrganisationId>114003732</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030890070</code13>
+      <seat>Nyon</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Saint-Cergue</street>
+        <houseNumber>36 C</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>vente, pose, agencement de grande surface, kiosque, gondoles, peinture.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Coelho Dos Reis et Meyer</name>
+      <uid>CHE-114.003.732</uid>
+      <uidOrganisationId>114003732</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030890070</code13>
+      <seat>Nyon</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Saint-Cergue</street>
+        <houseNumber>36 C</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>vente, pose, agencement de grande surface, kiosque, gondoles, peinture.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-11-09</lastFoscDate>
+    <lastFoscNumber>217</lastFoscNumber>
+    <lastFoscSequence>2470421</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

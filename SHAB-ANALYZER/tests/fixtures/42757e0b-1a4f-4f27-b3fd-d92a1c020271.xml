@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>42608246-4cff-4757-9e91-57a7ed17808b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004756796</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation LYRIQUE Sàrl, Nyon</de>
+    <en>Change LYRIQUE Sàrl, Nyon</en>
+    <it>Cambiamenti LYRIQUE Sàrl, Nyon</it>
+    <fr>Mutation LYRIQUE Sàrl, Nyon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20001</journalNumber>
+  <journalDate>2019-11-06</journalDate>
+  <publicationText>LYRIQUE Sàrl, à Nyon, CHE-113.632.753 (FOSC du 29.10.2019, p. 0/1004747559). Rectificatif: l'inscription n°19169 du 24.10.2019 (FOSC du 29.10.2019, p. 0/1004747559) est rectifiée en ce sens que la contre-prestation du transfert de patrimoine s'élève à CHF 265'591.25 (et non à CHF 256'591.25 comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>LYRIQUE Sàrl</name>
+      <uid>CHE-113.632.753</uid>
+      <uidOrganisationId>113632753</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010505269</code13>
+      <seat>Nyon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Collège</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>conseil et assistance en matière financière et d'investissement; recherche, analyse et étude de marchés financiers ainsi que prestations de service dans le domaine économique et financier.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LYRIQUE Sàrl</name>
+      <uid>CHE-113.632.753</uid>
+      <uidOrganisationId>113632753</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010505269</code13>
+      <seat>Nyon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Collège</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>conseil et assistance en matière financière et d'investissement; recherche, analyse et étude de marchés financiers ainsi que prestations de service dans le domaine économique et financier.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-29</lastFoscDate>
+    <lastFoscNumber>209</lastFoscNumber>
+    <lastFoscSequence>1004747559</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

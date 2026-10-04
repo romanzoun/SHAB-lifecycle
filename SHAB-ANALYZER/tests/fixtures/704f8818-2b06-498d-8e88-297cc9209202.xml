@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.19/HR02-export.xsd">
+<meta>
+  <id>7043a7be-7e4b-4be9-ae66-7a381848a20b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005842031</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-09-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation GCS génie civil services SA, Crissier, neu GCS génie civil services SA en liquidation</de>
+    <en>Change GCS génie civil services SA, Crissier, new GCS génie civil services SA en liquidation</en>
+    <it>Cambiamenti GCS génie civil services SA, Crissier, nuovo GCS génie civil services SA en liquidation</it>
+    <fr>Mutation GCS génie civil services SA, Crissier, nouveau GCS génie civil services SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15197</journalNumber>
+  <journalDate>2023-09-15</journalDate>
+  <publicationText>GCS génie civil services SA, à Crissier, CHE-102.821.468 (FOSC du 17.08.2023, p. 0/1005818792). Par décision du 12.09.2023, le président du Tribunal d'arrondissement de Lausanne a refusé d'entrer en matière sur la requête de restitution de délai, révoqué l'effet suspensif et dit que le prononcé de faillite du 14.07.2023 prend effet le 12.09.2023, à 11h00. La raison de commerce devient GCS génie civil services SA en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>GCS génie civil services SA en liquidation</name>
+      <uid>CHE-102.821.468</uid>
+      <uidOrganisationId>102821468</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001505030</code13>
+      <seat>Crissier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Mongevon</street>
+        <houseNumber>28 a</houseNumber>
+        <swissZipCode>1023</swissZipCode>
+        <town>Crissier</town>
+      </address>
+    </company>
+    <purpose>entreprise de génie civil, maçonnerie et travaux d'entretien du bâtiment.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GCS génie civil services SA</name>
+      <uid>CHE-102.821.468</uid>
+      <uidOrganisationId>102821468</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001505030</code13>
+      <seat>Crissier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Mongevon</street>
+        <houseNumber>28 a</houseNumber>
+        <swissZipCode>1023</swissZipCode>
+        <town>Crissier</town>
+      </address>
+    </company>
+    <purpose>entreprise de génie civil, maçonnerie et travaux d'entretien du bâtiment.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2023-08-17</lastFoscDate>
+    <lastFoscNumber>158</lastFoscNumber>
+    <lastFoscSequence>1005818792</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

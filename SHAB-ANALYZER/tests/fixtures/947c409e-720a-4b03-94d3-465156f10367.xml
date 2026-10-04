@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>93eb67f7-a371-4377-b465-39dc993c2a43</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004608980</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation GenerFluide SNC, Plan-les-Ouates</de>
+    <en>Change GenerFluide SNC, Plan-les-Ouates</en>
+    <it>Cambiamenti GenerFluide SNC, Plan-les-Ouates</it>
+    <fr>Mutation GenerFluide SNC, Plan-les-Ouates</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6971</journalNumber>
+  <journalDate>2019-04-08</journalDate>
+  <publicationText>GenerFluide SNC, à Plan-les-Ouates, CHE-349.870.541 (FOSC du 28.06.2018, p. 0/4322679). Nouvel associé: François Yann, de France, à Virieu le Grand, F, avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>GenerFluide SNC</name>
+      <uid>CHE349870541</uid>
+      <uidOrganisationId>349870541</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66019730184</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>0</addressLine2>
+        <street>chemin du Pont-du-Centenaire</street>
+        <houseNumber>118</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>installations de chauffages, ventilateurs et climatisations.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GenerFluide SNC</name>
+      <uid>CHE349870541</uid>
+      <uidOrganisationId>349870541</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66019730184</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Pont-du-Centenaire</street>
+        <houseNumber>118</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>installations de chauffages, ventilateurs et climatisations.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-28</lastFoscDate>
+    <lastFoscSequence>4322679</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

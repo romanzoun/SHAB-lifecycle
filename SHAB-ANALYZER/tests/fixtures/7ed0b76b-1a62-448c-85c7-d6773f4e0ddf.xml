@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>7e8df64e-41df-45f0-a26b-9b8f95d62afa</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004674834</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Le 7 ième Sàrl, Cheseaux-sur-Lausanne</de>
+    <en>Change Le 7 ième Sàrl, Cheseaux-sur-Lausanne</en>
+    <it>Cambiamenti Le 7 ième Sàrl, Cheseaux-sur-Lausanne</it>
+    <fr>Mutation Le 7 ième Sàrl, Cheseaux-sur-Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12321</journalNumber>
+  <journalDate>2019-07-09</journalDate>
+  <publicationText>Le 7 ième Sàrl, à Cheseaux-sur-Lausanne, CHE-165.708.843 (FOSC du 26.04.2019, p. 0/1004618236). Statuts modifiés le 24 juin 2019. Le capital social de CHF 20'000 est désormais divisé en 100 parts sociales de CHF 200. Bekteshi Hajredin, qui se nomme désormais Bekteshi Dino, et Bekteshi Shaban sont maintenant titulaires de 50 parts de CHF 200 chacun et signent désormais individuellement. Bekteshi Dino cède 49 de ses 50 parts de CHF 200 à Bekteshi Shaban, désormais titulaire de 99 parts de CHF 200. Bekteshi Dino a désormais 1 part de CHF 200.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Le 7 ième Sàrl</name>
+      <uid>CHE165708843</uid>
+      <uidOrganisationId>165708843</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011845572</code13>
+      <seat>Cheseaux-sur-Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lausanne</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1033</swissZipCode>
+        <town>Cheseaux-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: exploitation d'établissements publics (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Le 7 ième Sàrl</name>
+      <uid>CHE165708843</uid>
+      <uidOrganisationId>165708843</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011845572</code13>
+      <seat>Cheseaux-sur-Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lausanne</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1033</swissZipCode>
+        <town>Cheseaux-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: exploitation d'établissements publics (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-26</lastFoscDate>
+    <lastFoscSequence>1004618236</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

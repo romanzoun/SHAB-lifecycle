@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8be73460-907a-474d-80eb-e2cea29c4f59</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004581905</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Bas-Prix Sàrl en liquidation, Monthey</de>
+    <en>Change Bas-Prix Sàrl en liquidation, Monthey</en>
+    <it>Cambiamenti Bas-Prix Sàrl en liquidation, Monthey</it>
+    <fr>Mutation Bas-Prix Sàrl en liquidation, Monthey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>612</journalNumber>
+  <journalDate>2019-03-01</journalDate>
+  <publicationText>Bas-Prix Sàrl en liquidation, à Monthey, CHE-416.860.594, société à responsabilité limitée (No. FOSC 43 du 04.03.2019, Publ. 1004579717). Par décision rectifiée du 22.02.2019 prononcée par le Tribunal de Monthey, cette société a été déclarée en faillite avec effet le 22.02.2019 à 9h30 et dissoute d'office [précédemment: Par décision du 22.02.2019 prononcée par le Tribunal de Monthey, cette société a été déclarée en faillite avec effet le 22.01.2019 à 9h30 et dissoute d'office].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bas-Prix Sàrl en liquidation</name>
+      <uid>CHE416860594</uid>
+      <uidOrganisationId>416860594</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011506697</code13>
+      <seat>Monthey</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Pont</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1870</swissZipCode>
+        <town>Monthey</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'achat, la vente et le commerce de tous produits et services (pour but complet cf. statuts)</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bas-Prix Sàrl en liquidation</name>
+      <uid>CHE416860594</uid>
+      <uidOrganisationId>416860594</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011506697</code13>
+      <seat>Monthey</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Pont</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1870</swissZipCode>
+        <town>Monthey</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'achat, la vente et le commerce de tous produits et services (pour but complet cf. statuts)</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-04</lastFoscDate>
+    <lastFoscNumber>43</lastFoscNumber>
+    <lastFoscSequence>1004579717</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

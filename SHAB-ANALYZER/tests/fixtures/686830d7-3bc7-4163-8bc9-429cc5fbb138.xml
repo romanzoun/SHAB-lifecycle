@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>685dedd2-f03c-4386-9265-c596e6e9a02c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004531525</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Pascal Varone, Sion</de>
+    <en>Change Pascal Varone, Sion</en>
+    <it>Cambiamenti Pascal Varone, Sion</it>
+    <fr>Mutation Pascal Varone, Sion</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3284</journalNumber>
+  <journalDate>2018-12-20</journalDate>
+  <publicationText>Pascal Varone, à Sion, CHE-106.190.566, entreprise individuelle (No. FOSC 244 du 17.12.2018, Publ. 1004523022). Transfert de patrimoine: selon contrat de transfert de patrimoine du 17.12.2018, le titulaire a transféré certains actifs pour CHF 900'398.65 et certains passifs envers les tiers pour CHF 176'983.80 à la société anonyme Varone Villé Architectes SA, à Sion (CHE-334.488.960). Contre-prestation: 100 actions nominatives de CHF 1'000.00, liées selon statuts, entièrement libérées et une créance de CHF 623'414.85 .</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pascal Varone</name>
+      <uid>CHE106190566</uid>
+      <uidOrganisationId>106190566</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610191924</code13>
+      <seat>Sion</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Industrie</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>Effectuer des opérations de détention et gestion d'un patrimoine immobilier, courtage, achat, vente, promotion, estimation et expertise, conseil, ainsi que toutes opérations se rapportant directement ou indirectement au domaine de l'immobilier</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pascal Varone</name>
+      <uid>CHE106190566</uid>
+      <uidOrganisationId>106190566</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610191924</code13>
+      <seat>Sion</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Industrie</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>Effectuer des opérations de détention et gestion d'un patrimoine immobilier, courtage, achat, vente, promotion, estimation et expertise, conseil, ainsi que toutes opérations se rapportant directement ou indirectement au domaine de l'immobilier</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-17</lastFoscDate>
+    <lastFoscNumber>244</lastFoscNumber>
+    <lastFoscSequence>1004523022</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

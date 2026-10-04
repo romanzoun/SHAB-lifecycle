@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>998ba56f-c680-41d6-96d8-c0a5df82acd5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004658615</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation NDC-CONSEIL SA, Carouge (GE)</de>
+    <en>Change NDC-CONSEIL SA, Carouge (GE)</en>
+    <it>Cambiamenti NDC-CONSEIL SA, Carouge (GE)</it>
+    <fr>Mutation NDC-CONSEIL SA, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11659</journalNumber>
+  <journalDate>2019-06-19</journalDate>
+  <publicationText>NDC-CONSEIL SA, à Carouge (GE), CHE-105.703.931 (FOSC du 11.06.2019, p. 0/1004648544). Transfert de patrimoine: Selon contrat du 14.06.2019, la société a transféré des actifs pour CHF 127'732.23 et aucun passif envers les tiers, à NDC-Conseil Associés SA à Carouge (GE) (CHE-400.465.803). Contre-prestation: CHF 127'732.23.</publicationText>
+  <commonsNew>
+    <company>
+      <name>NDC-CONSEIL SA</name>
+      <uid>CHE105703931</uid>
+      <uidOrganisationId>105703931</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000260015</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Saint-Julien</street>
+        <houseNumber>5b</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>conseils et prestations dans le domaine de la gestion d'entreprise comprenant notamment la comptabilité, la fiscalité, la gestion informatisée et autres activités s'y rapportant.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>NDC-CONSEIL SA</name>
+      <uid>CHE105703931</uid>
+      <uidOrganisationId>105703931</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000260015</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Saint-Julien</street>
+        <houseNumber>5b</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>conseils et prestations dans le domaine de la gestion d'entreprise comprenant notamment la comptabilité, la fiscalité, la gestion informatisée et autres activités s'y rapportant.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-11</lastFoscDate>
+    <lastFoscSequence>1004648544</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

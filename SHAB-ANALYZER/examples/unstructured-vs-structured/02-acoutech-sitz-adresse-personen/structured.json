@@ -1,0 +1,105 @@
+{
+  "publication_id": "fff92f73-ab6f-4772-ab5a-bd08831dddc5",
+  "published_at": "2026-09-28",
+  "language": "de",
+  "sub_rubric": "HR02",
+  "org_uid": "CHE-110.028.408",
+  "canton": "ZG",
+  "plz": "6340",
+  "status": "FULLY_PARSED",
+  "leftover_text": "Acoutech GmbH, bisher in Lachen, CHE-110.028.408, Gesellschaft mit beschränkter Haftung (SHAB Nr. 25 vom 06.02.2017, Publ. 3328271). . Uebersetzungen der Firma neu: (Acoutech Sarl) (Acoutech Ltd liab. Co). Qualifizierte Tatbestände neu: [gestrichen: Beabsichtigte Sachübernahme: Die Gesellschaft beabsichtigt, nach der Gründung von Hermann Amrein, in Lachen, Büromobiliar, Büromaterial sowie diverse Büromaschinen (PC, Fax, Drucker, Kopierer, Scanner) zum Höchstpreis von CHF 15'000.-- zu übernehmen.]. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. Mitteilungen neu: Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder per E-Mail. [Ferner Änderung nicht publikationspflichtiger Tatsachen]",
+  "events": [
+    {
+      "event_type": "seat_changed",
+      "rule_id": "xml.hr02.seat.v1",
+      "org_uid": "CHE-110.028.408",
+      "person_key": null,
+      "plz": "6340",
+      "canton": "ZG",
+      "role": null,
+      "signing": null,
+      "payload": {
+        "from": "Lachen",
+        "to": "Baar"
+      }
+    },
+    {
+      "event_type": "address_changed",
+      "rule_id": "xml.hr02.address.v1",
+      "org_uid": "CHE-110.028.408",
+      "person_key": null,
+      "plz": "6340",
+      "canton": "ZG",
+      "role": null,
+      "signing": null,
+      "payload": {
+        "from": "a:sonnenhofstrasse|14|8853|lachen sz",
+        "to": "a:c/o sajinth & partner gmbh|oberneuhofstrasse|6|6340|baar",
+        "from_plz": "8853",
+        "to_plz": "6340"
+      }
+    },
+    {
+      "event_type": "officer_changed",
+      "rule_id": "de.persons.org.v1",
+      "org_uid": "CHE-110.028.408",
+      "person_key": "uid:CHE-343.667.148",
+      "plz": "6340",
+      "canton": "ZG",
+      "role": "Gesellschafterin",
+      "signing": null,
+      "payload": {
+        "name": "Ravis SA",
+        "place": "Baar",
+        "shares_count": 20,
+        "shares_nominal": "1'000.00",
+        "previous": "mit einem Stammanteil von CHF 18'000.00 und mit 2 Stammanteilen zu je CHF 1'000.00"
+      }
+    },
+    {
+      "event_type": "officer_changed",
+      "rule_id": "de.persons.natural.v1",
+      "org_uid": "CHE-110.028.408",
+      "person_key": "p:heck, ralph karl-heinz|muri bei bern",
+      "plz": "6340",
+      "canton": "ZG",
+      "role": "Geschäftsführer",
+      "signing": "Einzelunterschrift",
+      "payload": {
+        "name": "Heck, Ralph Karl-Heinz",
+        "place": "Muri bei Bern",
+        "heimat": "Muri bei Bern",
+        "nationality": null,
+        "previous": "deutscher Staatsangehöriger, in Neuchâtel"
+      }
+    },
+    {
+      "event_type": "signing_authority_changed",
+      "rule_id": "de.persons.signing.v1",
+      "org_uid": "CHE-110.028.408",
+      "person_key": "p:heck, ralph karl-heinz|muri bei bern",
+      "plz": "6340",
+      "canton": "ZG",
+      "role": "Geschäftsführer",
+      "signing": "Einzelunterschrift",
+      "payload": {
+        "name": "Heck, Ralph Karl-Heinz",
+        "place": "Muri bei Bern"
+      }
+    },
+    {
+      "event_type": "statutes_changed",
+      "rule_id": "de.text.statutes.v1",
+      "org_uid": "CHE-110.028.408",
+      "person_key": null,
+      "plz": "6340",
+      "canton": "ZG",
+      "role": null,
+      "signing": null,
+      "payload": {
+        "date": "2026-08-28",
+        "raw": "Statutenänderung: 28.08.2026"
+      }
+    }
+  ]
+}

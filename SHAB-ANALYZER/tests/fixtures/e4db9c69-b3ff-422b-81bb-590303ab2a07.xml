@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>e4c37e80-24c5-481a-8b6f-464c265970d4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004662297</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation AUGUR Invest AG, Freienbach</de>
+    <en>Change AUGUR Invest AG, Freienbach</en>
+    <it>Cambiamenti AUGUR Invest AG, Freienbach</it>
+    <fr>Mutation AUGUR Invest AG, Freienbach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3465</journalNumber>
+  <journalDate>2019-06-25</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 94 vom 17.05.2018, S. , publizierten TR-Eintrags Nr. 2'479 vom 14.05.2018 AUGUR Invest AG, in Freienbach, CHE-114.417.312, Aktiengesellschaft (SHAB Nr. 121 vom 26.06.2019, Publ. 1004659843). Vinkulierung neu: [Die Beschränkung der Übertragbarkeit der Namenaktien ist aufgehoben.] [nicht: Die Übertragbarkeit der Namenaktien ist nach Massgabe der Statuten beschränkt.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>AUGUR Invest AG</name>
+      <uid>CHE114417312</uid>
+      <uidOrganisationId>114417312</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030324141</code13>
+      <seat>Freienbach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Eichenstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8808</swissZipCode>
+        <town>Pfäffikon SZ</town>
+      </address>
+    </company>
+    <purpose>Erwerben, Halten, Verwalten und Veräussern von Beteiligungen an Gesellschaften jeglicher Art im In- und Ausland, insbesondere an Unternehmen, die im Bereich der Baubranche, der Innenarchitektur, des Beschaffungswesens, der Bauplanung oder des Baumanagements tätig sind; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>936109.00</nominal>
+      <paid>936109.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AUGUR Invest AG</name>
+      <uid>CHE114417312</uid>
+      <uidOrganisationId>114417312</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030324141</code13>
+      <seat>Freienbach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Eichenstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8808</swissZipCode>
+        <town>Pfäffikon SZ</town>
+      </address>
+    </company>
+    <purpose>Erwerben, Halten, Verwalten und Veräussern von Beteiligungen an Gesellschaften jeglicher Art im In- und Ausland, insbesondere an Unternehmen, die im Bereich der Baubranche, der Innenarchitektur, des Beschaffungswesens, der Bauplanung oder des Baumanagements tätig sind; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>936109.00</nominal>
+      <paid>936109.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-26</lastFoscDate>
+    <lastFoscNumber>121</lastFoscNumber>
+    <lastFoscSequence>1004659843</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

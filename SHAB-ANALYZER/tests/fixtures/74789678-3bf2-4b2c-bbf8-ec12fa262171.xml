@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>739d1dd9-b449-4baf-a48c-868aa1f162c0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004628787</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Eastern Metal SA en liquidation, Burtigny</de>
+    <en>Change Eastern Metal SA en liquidation, Burtigny</en>
+    <it>Cambiamenti Eastern Metal SA en liquidation, Burtigny</it>
+    <fr>Mutation Eastern Metal SA en liquidation, Burtigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8421</journalNumber>
+  <journalDate>2019-05-08</journalDate>
+  <publicationText>Eastern Metal SA en liquidation, à Burtigny, CHE-395.156.694 (FOSC du 19.12.2018, p. 0/1004525348). La société est réinscrite au registre du commerce conformément à la décision du président du Tribunal de l'arrondissement de La Côte du 1er mai 2019 prononçant la réouverture de la faillite le 1er mai 2019, à 09h00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Eastern Metal SA en liquidation</name>
+      <uid>CHE395156694</uid>
+      <uidOrganisationId>395156694</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011068987</code13>
+      <seat>Burtigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Les Ravières</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1268</swissZipCode>
+        <town>Burtigny</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une entreprise de constuction métallique ainsi que la réalisation de toutes transactions immobilières, à l'exclusion des opérations prohibées par la LFAIE (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Eastern Metal SA en liquidation</name>
+      <uid>CHE395156694</uid>
+      <uidOrganisationId>395156694</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011068987</code13>
+      <seat>Burtigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Les Ravières</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1268</swissZipCode>
+        <town>Burtigny</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une entreprise de constuction métallique ainsi que la réalisation de toutes transactions immobilières, à l'exclusion des opérations prohibées par la LFAIE (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-19</lastFoscDate>
+    <lastFoscSequence>1004525348</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

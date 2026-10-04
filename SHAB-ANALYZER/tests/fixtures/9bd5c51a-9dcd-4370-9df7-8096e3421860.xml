@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.22/HR02-export.xsd">
+<meta>
+  <id>9b623dfe-c5c0-4ba9-9f81-a92facda2cfa</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006177726</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-11-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Novic SA, Belmont-sur-Lausanne</de>
+    <en>Change Novic SA, Belmont-sur-Lausanne</en>
+    <it>Cambiamenti Novic SA, Belmont-sur-Lausanne</it>
+    <fr>Mutation Novic SA, Belmont-sur-Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21978</journalNumber>
+  <journalDate>2024-11-08</journalDate>
+  <publicationText>Novic SA, à Belmont-sur-Lausanne, CHE-102.036.156 (FOSC du 27.05.2021, p. 0/1005194625). Par décision de l'assemblée générale du 31.10.2024, les statuts de la société ont été adaptés à la conversion de par la loi des actions au porteur en actions nominatives du 1er mai 2021. Statuts modifiés le 31.10.2024. Les 50 actions nominatives de CHF 1'000 sont désormais restreintes quant à la transmissibilité selon statuts. Nouvelles communications aux actionnaires: par courrier écrit, téléfax ou courrier électronique.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Novic SA</name>
+      <uid>CHE-102.036.156</uid>
+      <uidOrganisationId>102036156</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000830165</code13>
+      <seat>Belmont-sur-Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Jean-Michel Weber</addressLine1>
+        <street>Coin d'En Haut</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1092</swissZipCode>
+        <town>Belmont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>commerce de produits de diverse nature, notamment synthétiques.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Novic SA</name>
+      <uid>CHE-102.036.156</uid>
+      <uidOrganisationId>102036156</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000830165</code13>
+      <seat>Belmont-sur-Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Jean-Michel Weber</addressLine1>
+        <street>Coin d'En Haut</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1092</swissZipCode>
+        <town>Belmont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>commerce de produits de diverse nature, notamment synthétiques.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-05-27</lastFoscDate>
+    <lastFoscNumber>100</lastFoscNumber>
+    <lastFoscSequence>1005194625</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

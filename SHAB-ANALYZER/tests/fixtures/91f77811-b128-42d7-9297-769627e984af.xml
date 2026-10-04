@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>91d55a52-6494-4c6f-a32a-9f9043987053</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004660600</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Chambre de commerce, d'industrie et des services de Genève, Genève</de>
+    <en>Change Chambre de commerce, d'industrie et des services de Genève, Genève</en>
+    <it>Cambiamenti Chambre de commerce, d'industrie et des services de Genève, Genève</it>
+    <fr>Mutation Chambre de commerce, d'industrie et des services de Genève, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11830</journalNumber>
+  <journalDate>2019-06-21</journalDate>
+  <publicationText>Chambre de commerce, d'industrie et des services de Genève, à Genève, CHE-107.748.028 (FOSC du 21.11.2018, p. 0/1004502985). Ressources modifiées: cotisations, émoluments, dons et legs, produit de l'activité. Radiation de la rubrique relative à l'organisation, plus soumise à inscription. Selon le changement de terminologie, les membres du bureau sont actuellement membres du comité. Nouveaux statuts du 29.04.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Chambre de commerce, d'industrie et des services de Genève</name>
+      <uid>CHE107748028</uid>
+      <uidOrganisationId>107748028</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000099068</code13>
+      <seat>Genève</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard du Théâtre</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>coordonner, représenter et défendre les intérêts du commerce, de l'industrie et de la finance du canton, dans le cadre de l'intérêt général de l'économie suisse.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Chambre de commerce, d'industrie et des services de Genève</name>
+      <uid>CHE107748028</uid>
+      <uidOrganisationId>107748028</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000099068</code13>
+      <seat>Genève</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard du Théâtre</street>
+        <houseNumber>4</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>coordonner, représenter et défendre les intérêts du commerce, de l'industrie et de la finance du canton, dans le cadre de l'intérêt général de l'économie suisse.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-21</lastFoscDate>
+    <lastFoscSequence>1004502985</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

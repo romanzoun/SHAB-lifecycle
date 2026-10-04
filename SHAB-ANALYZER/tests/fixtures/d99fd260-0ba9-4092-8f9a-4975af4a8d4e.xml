@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>d98b2e55-2519-4cf6-a1a1-0ca74106acd7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004521784</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation EUROCIRCUITS GmbH, Sion</de>
+    <en>Change EUROCIRCUITS GmbH, Sion</en>
+    <it>Cambiamenti EUROCIRCUITS GmbH, Sion</it>
+    <fr>Mutation EUROCIRCUITS GmbH, Sion</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3151</journalNumber>
+  <journalDate>2018-12-11</journalDate>
+  <publicationText>EUROCIRCUITS GmbH, à Sion, CHE-112.455.744, société à responsabilité limitée (No. FOSC 96 du 22.05.2018, Publ. 4241101). Fusion: reprise des actifs de CHF 2'541'722.99 et des passifs envers les tiers de CHF 36'796.54 de la société à responsabilité limitée PCB-WORLD GmbH" à Sion (CHE-112.201.422), selon contrat de fusion du 19.11.2018 et bilan au 30.06.2018. La totalité du capital social des deux sociétés étant détenue par les mêmes associées, la fusion ne donne pas lieu à une augmentation du capital, ni à une attribution de parts sociales.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EUROCIRCUITS GmbH</name>
+      <translations>[de] EUROCIRCUITS Sàrl</translations>
+      <uid>CHE112455744</uid>
+      <uidOrganisationId>112455744</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62640098897</code13>
+      <seat>Sion</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Chippis</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>Commercialisation de circuits imprimés</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EUROCIRCUITS GmbH</name>
+      <translations>[de] EUROCIRCUITS Sàrl</translations>
+      <uid>CHE112455744</uid>
+      <uidOrganisationId>112455744</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62640098897</code13>
+      <seat>Sion</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Chippis</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>Commercialisation de circuits imprimés</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-22</lastFoscDate>
+    <lastFoscNumber>96</lastFoscNumber>
+    <lastFoscSequence>4241101</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

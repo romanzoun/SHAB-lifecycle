@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>350b0e48-d077-4b5a-9fe5-ed319ef26b62</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004661715</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation vaudoise de cardiologie interventionnelle, Lausanne</de>
+    <en>Change Fondation vaudoise de cardiologie interventionnelle, Lausanne</en>
+    <it>Cambiamenti Fondation vaudoise de cardiologie interventionnelle, Lausanne</it>
+    <fr>Mutation Fondation vaudoise de cardiologie interventionnelle, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11245</journalNumber>
+  <journalDate>2019-06-24</journalDate>
+  <publicationText>Fondation vaudoise de cardiologie interventionnelle, à Lausanne, CHE-174.530.722 (FOSC du 18.09.2017, p. 0/3757735). Nouveaux membres du conseil de fondation avec signature collective à deux avec le président, le secrétaire ou le trésorier: Monney Pierre, de Corpataux-Magnedens, à Fribourg, et Pruvot Etienne, de Lutry, à Assens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation vaudoise de cardiologie interventionnelle</name>
+      <uid>CHE174530722</uid>
+      <uidOrganisationId>174530722</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011059673</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Centre Hospitalier Universitaire Vaudois (CHUV)</addressLine1>
+        <street>Rue du Bugnon</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>1011</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la fondation a comme objectifs d'encourager la recherche, la clinique, la formation, voire les mesures d'enseignement dans le domaine de la cardiologie interventionnelle (pour but complet cf. acte de fondation)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation vaudoise de cardiologie interventionnelle</name>
+      <uid>CHE174530722</uid>
+      <uidOrganisationId>174530722</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011059673</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Centre Hospitalier Universitaire Vaudois (CHUV)</addressLine1>
+        <street>Rue du Bugnon</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>1011</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la fondation a comme objectifs d'encourager la recherche, la clinique, la formation, voire les mesures d'enseignement dans le domaine de la cardiologie interventionnelle (pour but complet cf. acte de fondation)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-09-18</lastFoscDate>
+    <lastFoscSequence>3757735</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

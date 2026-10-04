@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>655b9e3e-0984-41fd-b2a0-4cb0a6a1edd4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004725000</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Modulancy SA, Lancy</de>
+    <en>Change Modulancy SA, Lancy</en>
+    <it>Cambiamenti Modulancy SA, Lancy</it>
+    <fr>Mutation Modulancy SA, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17693</journalNumber>
+  <journalDate>2019-09-23</journalDate>
+  <publicationText>Modulancy SA, à Lancy, CHE-100.838.995 (FOSC du 22.11.2017, p. 0/3885817). Les 100 actions de CHF 100, à droit de vote privilégié, et 40 actions ordinaires de CHF 1'000, toutes nominatives, sont liées selon status. Capital-actions: CHF 50'000, entièrement libéré, divisé en 100 actions de CHF 100, à droit de vote privilégié et 40 actions ordinaires de CHF 1'000, toutes nominatives, liées selon status. Communication aux actionnaires: par écrit (courrier simple ou fax) ou par courriel. Nouveaux statuts du 19.09.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Modulancy SA</name>
+      <uid>CHE-100.838.995</uid>
+      <uidOrganisationId>100838995</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002539703</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Pont-Butin</street>
+        <houseNumber>70</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>entreprise générale du bâtiment, gypserie, peinture et papiers peints. Aménagement de parcs, jardins, places de jeux, vergers et sols.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Modulancy SA</name>
+      <uid>CHE-100.838.995</uid>
+      <uidOrganisationId>100838995</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002539703</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Pont-Butin</street>
+        <houseNumber>70</houseNumber>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>entreprise générale du bâtiment, gypserie, peinture et papiers peints. Aménagement de parcs, jardins, places de jeux, vergers et sols.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-22</lastFoscDate>
+    <lastFoscNumber>227</lastFoscNumber>
+    <lastFoscSequence>3885817</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

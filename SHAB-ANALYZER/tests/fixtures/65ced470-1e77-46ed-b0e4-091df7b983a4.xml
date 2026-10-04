@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>6580c438-4e35-4ae0-aeb4-8596bff71b96</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004654460</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation BIORESONANCE E. SCHWAAR, Orvin</de>
+    <en>Change BIORESONANCE E. SCHWAAR, Orvin</en>
+    <it>Cambiamenti BIORESONANCE E. SCHWAAR, Orvin</it>
+    <fr>Mutation BIORESONANCE E. SCHWAAR, Orvin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9144</journalNumber>
+  <journalDate>2019-06-14</journalDate>
+  <publicationText>BIORESONANCE E. SCHWAAR, à Orvin, CHE-261.151.942, entreprise individuelle (No. FOSC 100 du 24.05.2019, Publ. 1004637490). La titulaire a interjeté appel contre le jugement de faillite du 20.05.2019. Par ordonnance du 13.06.2019, la Chambre civile compétente de la Cour suprême du canton de Berne a accordé l'effet suspensif à l'appel. [précédemment: Par décision du 20.05.2019, le juge unique compétent a prononcé la faillite de la titulaire de l'entreprise individuelle avec effet au 20.05.2019, à 11.30 heures.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>BIORESONANCE E. SCHWAAR</name>
+      <uid>CHE261151942</uid>
+      <uidOrganisationId>261151942</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610739751</code13>
+      <seat>Orvin</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Crêt de la Platte</street>
+        <houseNumber>189E</houseNumber>
+        <swissZipCode>2534</swissZipCode>
+        <town>Les Prés-d'Orvin</town>
+      </address>
+    </company>
+    <purpose>Vente, importation, formation, développement, marketing, d'appareils de Biorésonance et Quantum Responce Technologie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BIORESONANCE E. SCHWAAR</name>
+      <uid>CHE261151942</uid>
+      <uidOrganisationId>261151942</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610739751</code13>
+      <seat>Orvin</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Crêt de la Platte</street>
+        <houseNumber>189E</houseNumber>
+        <swissZipCode>2534</swissZipCode>
+        <town>Les Prés-d'Orvin</town>
+      </address>
+    </company>
+    <purpose>Vente, importation, formation, développement, marketing, d'appareils de Biorésonance et Quantum Responce Technologie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-24</lastFoscDate>
+    <lastFoscNumber>100</lastFoscNumber>
+    <lastFoscSequence>1004637490</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

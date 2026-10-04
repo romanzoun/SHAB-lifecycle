@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>2db85613-ffa9-4be9-b6b9-4dc6769970a4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004687401</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation von Bergen Holding SA, La Chaux-de-Fonds</de>
+    <en>Change von Bergen Holding SA, La Chaux-de-Fonds</en>
+    <it>Cambiamenti von Bergen Holding SA, La Chaux-de-Fonds</it>
+    <fr>Mutation von Bergen Holding SA, La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2442</journalNumber>
+  <journalDate>2019-07-25</journalDate>
+  <publicationText>von Bergen Holding SA, à La Chaux-de-Fonds, CHE-114.378.451 (FOSC du 17.04.2014, p. 0/1460625). L'organe de révision "BDO SA" (CHE-320.207.362) a maintenant son siège à Villars-sur-Glâne.</publicationText>
+  <commonsNew>
+    <company>
+      <name>von Bergen Holding SA</name>
+      <uid>CHE114378451</uid>
+      <uidOrganisationId>114378451</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541028569</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Le Crêt-du-Locle</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>2322</swissZipCode>
+        <town>Le Crêt-du-Locle</town>
+      </address>
+    </company>
+    <purpose>prendre, gérer et aliéner des participations dans des entreprises et sociétés industrielles ou commerciales, en Suisse et à l'étranger; exercer tous mandats de gestion et d'administration liés aux participations et fournir tous services qui s'y rapportent, notamment une assistance administrative, logistique, commerciale et financière.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>BDO SA</name>
+        <country>CH</country>
+        <uid>CHE320207362</uid>
+        <uidOrganisationId>320207362</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>von Bergen Holding SA</name>
+      <uid>CHE114378451</uid>
+      <uidOrganisationId>114378451</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541028569</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Le Crêt-du-Locle</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>2322</swissZipCode>
+        <town>Le Crêt-du-Locle</town>
+      </address>
+    </company>
+    <purpose>prendre, gérer et aliéner des participations dans des entreprises et sociétés industrielles ou commerciales, en Suisse et à l'étranger; exercer tous mandats de gestion et d'administration liés aux participations et fournir tous services qui s'y rapportent, notamment une assistance administrative, logistique, commerciale et financière.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-04-17</lastFoscDate>
+    <lastFoscSequence>1460625</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

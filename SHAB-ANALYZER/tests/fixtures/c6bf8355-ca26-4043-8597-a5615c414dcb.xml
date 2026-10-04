@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>c6a70feb-617f-41e6-a3e9-252f66114dfa</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004767797</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Paul Büchel AG in Liq., Wald (ZH)</de>
+    <en>Change Paul Büchel AG in Liq., Wald (ZH)</en>
+    <it>Cambiamenti Paul Büchel AG in Liq., Wald (ZH)</it>
+    <fr>Mutation Paul Büchel AG in Liq., Wald (ZH)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>45373</journalNumber>
+  <journalDate>2019-11-21</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 224 vom 19.11.2019 publizierten TR-Eintrags Nr. 44'319 vom 14.11.2019 Paul Büchel AG in Liq., in Wald (ZH), CHE-228.650.281, Aktiengesellschaft (SHAB Nr. 224 vom 19.11.2019, Publ. 1004762191). Unter TR-Nr. 44'319 vom 14.11.2019 im SHAB Nr. 224 vom 19.11.2019 wurde fälschlicherweise die Administrations-Nr. ADM-228.650.281 anstelle der korrekten UID-Nr. CHE-228.650.281 publiziert.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Paul Büchel AG in Liq.</name>
+      <uid>CHE-228.650.281</uid>
+      <uidOrganisationId>228650281</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039043257</code13>
+      <seat>Wald (ZH)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o Wyrsch &amp; Co</addressLine1>
+        <street>Zürcherstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>8730</swissZipCode>
+        <town>Uznach</town>
+      </liqAddress>
+    </company>
+    <purpose>Erstellen, Unterhalt und Erneuerung von Fassaden-Verputz.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Paul Büchel AG in Liq.</name>
+      <uid>CHE-228.650.281</uid>
+      <uidOrganisationId>228650281</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039043257</code13>
+      <seat>Wald (ZH)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>Liquidationadresse: c/o Wyrsch &amp; Co</addressLine1>
+        <street>Zürcherstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>8730</swissZipCode>
+        <town>Uznach</town>
+      </address>
+    </company>
+    <purpose>Erstellen, Unterhalt und Erneuerung von Fassaden-Verputz.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-19</lastFoscDate>
+    <lastFoscNumber>224</lastFoscNumber>
+    <lastFoscSequence>1004762191</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

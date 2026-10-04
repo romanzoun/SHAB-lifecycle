@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3cdf3976-72d0-4a45-9b27-2eaa53f372a4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004541557</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation gravoractual SA en liquidation, Brügg</de>
+    <en>Change gravoractual SA en liquidation, Brügg</en>
+    <it>Cambiamenti gravoractual SA en liquidation, Brügg</it>
+    <fr>Mutation gravoractual SA en liquidation, Brügg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>496</journalNumber>
+  <journalDate>2019-01-10</journalDate>
+  <publicationText>gravoractual SA en liquidation, à Brügg, CHE-101.422.522, société anonyme (No. FOSC 137 du 18.07.2017, Publ. 3650929). Une opposition motivée à la radiation de l'entité juridique, au sens de l'article 159 al. 5 let. a ORC, a été présentée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>gravoractual SA en liquidation</name>
+      <translations>[de] gravoractual AG in Liquidation</translations>
+      <uid>CHE101422522</uid>
+      <uidOrganisationId>101422522</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07330009807</code13>
+      <seat>Brügg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Römerstrasse</street>
+        <swissZipCode>2555</swissZipCode>
+        <town>Brügg BE</town>
+      </address>
+    </company>
+    <purpose>La société a pour but l'exploitation d'un atelier de photogravure. La société peut créer des succursales en Suisse et à l'étranger; elle peut assumer des participations à toutes entreprises en Suisse et à l'étranger, acquérir ou créer des entreprises semblables ou similaires, et se charger de toutes les opérations et de toutes les fonctions qui sont de nature à développer le but de la société ou qui ont un rapport direct ou indirect avec son objet.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>gravoractual SA en liquidation</name>
+      <translations>[de] gravoractual AG in Liquidation</translations>
+      <uid>CHE101422522</uid>
+      <uidOrganisationId>101422522</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07330009807</code13>
+      <seat>Brügg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Römerstrasse</street>
+        <swissZipCode>2555</swissZipCode>
+        <town>Brügg BE</town>
+      </address>
+    </company>
+    <purpose>La société a pour but l'exploitation d'un atelier de photogravure. La société peut créer des succursales en Suisse et à l'étranger; elle peut assumer des participations à toutes entreprises en Suisse et à l'étranger, acquérir ou créer des entreprises semblables ou similaires, et se charger de toutes les opérations et de toutes les fonctions qui sont de nature à développer le but de la société ou qui ont un rapport direct ou indirect avec son objet.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-07-18</lastFoscDate>
+    <lastFoscNumber>137</lastFoscNumber>
+    <lastFoscSequence>3650929</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

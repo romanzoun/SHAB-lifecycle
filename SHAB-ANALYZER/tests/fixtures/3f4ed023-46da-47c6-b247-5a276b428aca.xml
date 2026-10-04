@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3ea34234-85cf-4ac3-860b-fdaadd330935</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004580286</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Fondation pour la restauration et la conservation de la chapelle de Posat, Gibloux</de>
+    <en>Change Fondation pour la restauration et la conservation de la chapelle de Posat, Gibloux</en>
+    <it>Cambiamenti Fondation pour la restauration et la conservation de la chapelle de Posat, Gibloux</it>
+    <fr>Mutation Fondation pour la restauration et la conservation de la chapelle de Posat, Gibloux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1259</journalNumber>
+  <journalDate>2019-02-28</journalDate>
+  <publicationText>Fondation pour la restauration et la conservation de la chapelle de Posat, à Gibloux, CHE-109.997.358 (FOSC du 20.01.2016, p. 0/2607871). Organe de révision inscrit modifié: Déco Fiduciaire &amp; Gérance SA (CHE-108.733.791) se nomme désormais FIDUVISION SA (CHE-108.733.791), désormais domicilié à Gibloux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation pour la restauration et la conservation de la chapelle de Posat</name>
+      <uid>CHE109997358</uid>
+      <uidOrganisationId>109997358</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710016843</code13>
+      <seat>Gibloux</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route St-Jacques 87, p.a. M. Bernard Eltschinger</street>
+        <swissZipCode>1726</swissZipCode>
+        <town>Posat</town>
+      </address>
+    </company>
+    <purpose>restauration et conservation de la chapelle de Posat/FR.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>FIDUVISION SA</name>
+        <country>CH</country>
+        <uid>CHE108733791</uid>
+        <uidOrganisationId>108733791</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation pour la restauration et la conservation de la chapelle de Posat</name>
+      <uid>CHE109997358</uid>
+      <uidOrganisationId>109997358</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710016843</code13>
+      <seat>Gibloux</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route St-Jacques 87, p.a. M. Bernard Eltschinger</street>
+        <swissZipCode>1726</swissZipCode>
+        <town>Posat</town>
+      </address>
+    </company>
+    <purpose>restauration et conservation de la chapelle de Posat/FR.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-01-20</lastFoscDate>
+    <lastFoscSequence>2607871</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

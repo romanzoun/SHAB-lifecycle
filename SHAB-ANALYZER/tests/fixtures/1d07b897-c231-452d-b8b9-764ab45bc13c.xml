@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>1c658d54-fc2e-4edf-a821-2cd20d9d1555</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004532680</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Educabay SA, Ecublens (VD)</de>
+    <en>Change Educabay SA, Ecublens (VD)</en>
+    <it>Cambiamenti Educabay SA, Ecublens (VD)</it>
+    <fr>Mutation Educabay SA, Ecublens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23038</journalNumber>
+  <journalDate>2018-12-21</journalDate>
+  <publicationText>Educabay SA, à Ecublens (VD), CHE-467.432.116 (FOSC du 29.06.2018, p. 0/4326089). Nouveaux administrateurs sans signature: Ambresin Baptiste, de et à Ollon, et Giossi Lucas, de Genève, à Villars-sur-Glâne.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Educabay SA</name>
+      <uid>CHE467432116</uid>
+      <uidOrganisationId>467432116</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011736941</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>EPFL Swiss Edtech Collider</addressLine2>
+        <street>Chemin de la Dent d'Oche</street>
+        <houseNumber>1 B</houseNumber>
+        <swissZipCode>1024</swissZipCode>
+        <town>Ecublens (VD)</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le développement et la commercialisation de produits et de services dans le domaine de l'informatique (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>60000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Educabay SA</name>
+      <uid>CHE467432116</uid>
+      <uidOrganisationId>467432116</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011736941</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>EPFL Swiss Edtech Collider</addressLine2>
+        <street>Chemin de la Dent d'Oche</street>
+        <houseNumber>1 B</houseNumber>
+        <swissZipCode>1024</swissZipCode>
+        <town>Ecublens (VD)</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le développement et la commercialisation de produits et de services dans le domaine de l'informatique (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>60000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-29</lastFoscDate>
+    <lastFoscSequence>4326089</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

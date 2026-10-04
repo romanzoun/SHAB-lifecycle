@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>6ffb4e77-881c-4337-9a0d-4e204ee34bd0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004758727</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Pharmacie de Thierrens SA, Montanaire</de>
+    <en>Change Pharmacie de Thierrens SA, Montanaire</en>
+    <it>Cambiamenti Pharmacie de Thierrens SA, Montanaire</it>
+    <fr>Mutation Pharmacie de Thierrens SA, Montanaire</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20196</journalNumber>
+  <journalDate>2019-11-08</journalDate>
+  <publicationText>Pharmacie de Thierrens SA, à Montanaire, CHE-208.911.372 (FOSC du 21.06.2018, p. 0/4306005). Signature collective à deux est conférée à Laurent Alexis, Laurent Elénie et Laurent Nicolas, les trois de Fey, à Bercher.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pharmacie de Thierrens SA</name>
+      <uid>CHE-208.911.372</uid>
+      <uidOrganisationId>208911372</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011801144</code13>
+      <seat>Montanaire</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Collège</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1410</swissZipCode>
+        <town>Thierrens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation de une ou plusieurs pharmacie(s), la préparation, la fabrication et la commercialisation de tous produits pharmaceutiques et médicaux, d'articles pour enfants, de droguerie et de pharmacie ainsi que de tous produits de soins d'hygiène et d'alimentation (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pharmacie de Thierrens SA</name>
+      <uid>CHE-208.911.372</uid>
+      <uidOrganisationId>208911372</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011801144</code13>
+      <seat>Montanaire</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Collège</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1410</swissZipCode>
+        <town>Thierrens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation de une ou plusieurs pharmacie(s), la préparation, la fabrication et la commercialisation de tous produits pharmaceutiques et médicaux, d'articles pour enfants, de droguerie et de pharmacie ainsi que de tous produits de soins d'hygiène et d'alimentation (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-21</lastFoscDate>
+    <lastFoscNumber>118</lastFoscNumber>
+    <lastFoscSequence>4306005</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

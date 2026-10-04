@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.19/HR02-export.xsd">
+<meta>
+  <id>11cc7dc0-1479-4f3c-877d-828352c51310</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005858500</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-10-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Coronado SA, Chêne-Bougeries</de>
+    <en>Change Coronado SA, Chêne-Bougeries</en>
+    <it>Cambiamenti Coronado SA, Chêne-Bougeries</it>
+    <fr>Mutation Coronado SA, Chêne-Bougeries</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18584</journalNumber>
+  <journalDate>2023-10-06</journalDate>
+  <publicationText>Coronado SA, à Chêne-Bougeries, CHE-115.286.596 (FOSC du 13.12.2019, p. 0/1004783409). La clause statutaire relative à l'apport en nature effectuée à la constitution est abrogée conformément à l'art. 634 al. 4 CO. Nouveaux statuts du 25.09.2023.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Coronado SA</name>
+      <uid>CHE-115.286.596</uid>
+      <uidOrganisationId>115286596</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66029240098</code13>
+      <seat>Chêne-Bougeries</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de Conches</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1231</swissZipCode>
+        <town>Conches</town>
+      </address>
+    </company>
+    <purpose>gestion d'immeubles et de copropriétés, courtage immobilier, prise de participation dans le domaine de promotions immobilières et opérations s'y rapportant.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Coronado SA</name>
+      <uid>CHE-115.286.596</uid>
+      <uidOrganisationId>115286596</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66029240098</code13>
+      <seat>Chêne-Bougeries</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de Conches</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1231</swissZipCode>
+        <town>Conches</town>
+      </address>
+    </company>
+    <purpose>gestion d'immeubles et de copropriétés, courtage immobilier, prise de participation dans le domaine de promotions immobilières et opérations s'y rapportant.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-13</lastFoscDate>
+    <lastFoscNumber>242</lastFoscNumber>
+    <lastFoscSequence>1004783409</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

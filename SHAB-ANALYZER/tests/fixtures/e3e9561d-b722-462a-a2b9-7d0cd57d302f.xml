@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>e3889681-424b-4414-b221-9389382ec2ce</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004600296</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Deriaz électricité, Sainte-Croix</de>
+    <en>Change Deriaz électricité, Sainte-Croix</en>
+    <it>Cambiamenti Deriaz électricité, Sainte-Croix</it>
+    <fr>Mutation Deriaz électricité, Sainte-Croix</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5885</journalNumber>
+  <journalDate>2019-03-27</journalDate>
+  <publicationText>Deriaz électricité, à Sainte-Croix, CHE-253.853.338 (FOSC du 14.03.2019, p. 0/1004588020). Par suite d'une erreur de personne, l'inscription de la faillite de la succession répudiée du titulaire de l'entreprise est nulle et non avenue parce que concernant un homonyme; l'inscription est rétablie comme ci-devant (FOSC 19.12.2013, p. 0/7225834).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Deriaz électricité</name>
+      <uid>CHE253853338</uid>
+      <uidOrganisationId>253853338</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010913514</code13>
+      <seat>Sainte-Croix</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Sagne</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1450</swissZipCode>
+        <town>Ste-Croix</town>
+      </address>
+    </company>
+    <purpose>toutes prestations dans le domaine de l'électrotechnique (courant fort et faible).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Deriaz électricité</name>
+      <uid>CHE253853338</uid>
+      <uidOrganisationId>253853338</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010913514</code13>
+      <seat>Sainte-Croix</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Sagne</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1450</swissZipCode>
+        <town>Ste-Croix</town>
+      </address>
+    </company>
+    <purpose>toutes prestations dans le domaine de l'électrotechnique (courant fort et faible).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-14</lastFoscDate>
+    <lastFoscSequence>1004588020</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>88ee09f8-694b-45c7-97c0-1a40135edf88</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004680343</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Boissons Riviera SA, Montreux</de>
+    <en>Change Boissons Riviera SA, Montreux</en>
+    <it>Cambiamenti Boissons Riviera SA, Montreux</it>
+    <fr>Mutation Boissons Riviera SA, Montreux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12866</journalNumber>
+  <journalDate>2019-07-16</journalDate>
+  <publicationText>Boissons Riviera SA, à Montreux, CHE-106.869.540 (FOSC du 04.02.2019, p. 0/1004557978). Par décision du 4 juillet 2019, le président du Tribunal de l'arrondissement de l'Est vaudois a accordé à Boissons Riviera SA un sursis concordataire définitif jusqu'au 13 mars 2020. Jacques Lauber, de Marbach (SG), à Renens, est désigné en qualité de commissaire au sursis.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Boissons Riviera SA</name>
+      <uid>CHE106869540</uid>
+      <uidOrganisationId>106869540</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001186649</code13>
+      <seat>Montreux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Clarens, avenue Mayor-Vautier</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1815</swissZipCode>
+        <town>Clarens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'importation, l'exportation, la représentation et le commerce d'eaux minérales et gazeuses, cidres, jus de fruits et d'une manière générale toutes boissons avec ou sans alcool, de même manière que toute marchandise (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Boissons Riviera SA</name>
+      <uid>CHE106869540</uid>
+      <uidOrganisationId>106869540</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001186649</code13>
+      <seat>Montreux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Clarens, avenue Mayor-Vautier</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1815</swissZipCode>
+        <town>Clarens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'importation, l'exportation, la représentation et le commerce d'eaux minérales et gazeuses, cidres, jus de fruits et d'une manière générale toutes boissons avec ou sans alcool, de même manière que toute marchandise (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-04</lastFoscDate>
+    <lastFoscSequence>1004557978</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,28 @@
+{
+  "publication_id": "7b1f14e6-2d76-4124-9991-5ea52e82104e",
+  "published_at": "2026-09-03",
+  "language": "it",
+  "sub_rubric": "HR03",
+  "org_uid": "CHE-372.428.083",
+  "canton": "TI",
+  "plz": "6900",
+  "status": "FULLY_PARSED",
+  "leftover_text": "EASTERN UNION METALS SA in liquidazione, in Paradiso, CHE-372.428.083, società anonima (Nr. FUSC 23 del 04.02.2026, Pubbl. 1006559834)",
+  "events": [
+    {
+      "event_type": "company_deleted",
+      "rule_id": "xml.hr03.deletion.v1",
+      "org_uid": "CHE-372.428.083",
+      "person_key": null,
+      "plz": "6900",
+      "canton": "TI",
+      "role": null,
+      "signing": null,
+      "payload": {
+        "deletion_date": "2026-08-31",
+        "name": "EASTERN UNION METALS SA in liquidazione",
+        "note": "La società è cancellata, avendo le autorità fiscali federali e cantonali dato il loro consenso"
+      }
+    }
+  ]
+}

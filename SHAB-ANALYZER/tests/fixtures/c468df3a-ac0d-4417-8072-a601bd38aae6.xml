@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>c45f56b2-0f37-4854-8daf-29ebfcbd2535</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004657887</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation SONDOR. BOLD KOSMETIKSTUDIO, Bern</de>
+    <en>Change SONDOR. BOLD KOSMETIKSTUDIO, Bern</en>
+    <it>Cambiamenti SONDOR. BOLD KOSMETIKSTUDIO, Bern</it>
+    <fr>Mutation SONDOR. BOLD KOSMETIKSTUDIO, Bern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9480</journalNumber>
+  <journalDate>2019-06-19</journalDate>
+  <publicationText>SONDOR. BOLD KOSMETIKSTUDIO, in Bern, CHE-169.088.985, Einzelunternehmen (SHAB Nr. 110 vom 11.06.2019, Publ. 1004647767). Mit Verfügung vom 18.06.2019 hat die zuständige Zivilkammer des Obergerichts des Kantons Bern der Beschwerde des Inhabers gegen das erstinstanzliche Konkurserkenntnis die aufschiebende Wirkung erteilt. [gestrichen: Mit Entscheid des zuständigen Einzelgerichts vom 04.06.2019 wurde über die Inhaberin dieses Einzelunternehmens mit Wirkung ab dem 04.06.2019, 14:00 Uhr, der Konkurs eröffnet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>SONDOR. BOLD KOSMETIKSTUDIO</name>
+      <uid>CHE169088985</uid>
+      <uidOrganisationId>169088985</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610738369</code13>
+      <seat>Bern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Marktgasse</street>
+        <houseNumber>51</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Maniküre, Pediküre. Wimpernverlängerung. Permanent Make-Up. Nailart.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SONDOR. BOLD KOSMETIKSTUDIO</name>
+      <uid>CHE169088985</uid>
+      <uidOrganisationId>169088985</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610738369</code13>
+      <seat>Bern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Marktgasse</street>
+        <houseNumber>51</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Maniküre, Pediküre. Wimpernverlängerung. Permanent Make-Up. Nailart.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-11</lastFoscDate>
+    <lastFoscNumber>110</lastFoscNumber>
+    <lastFoscSequence>1004647767</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

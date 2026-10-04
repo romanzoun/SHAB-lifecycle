@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>f495639b-95f7-4a8d-8a77-c7be5b53ed47</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004573238</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation 3G Unique Assets Management Sàrl, Aubonne</de>
+    <en>Change 3G Unique Assets Management Sàrl, Aubonne</en>
+    <it>Cambiamenti 3G Unique Assets Management Sàrl, Aubonne</it>
+    <fr>Mutation 3G Unique Assets Management Sàrl, Aubonne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3435</journalNumber>
+  <journalDate>2019-02-19</journalDate>
+  <publicationText>3G Unique Assets Management Sàrl, à Aubonne, CHE-116.138.076 (FOSC du 19.12.2013, p. 0/7225834). Grande Bruno, associé-gérant président, cède 100 de ses 200 parts de CHF 100 à la gérante Servageon Grande Valérie, nouvelle associée avec 100 parts de CHF 100. Grande Bruno reste titulaire de 100 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>3G Unique Assets Management Sàrl</name>
+      <uid>CHE116138076</uid>
+      <uidOrganisationId>116138076</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010772921</code13>
+      <seat>Aubonne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ruelle du Soleil-Levant</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1170</swissZipCode>
+        <town>Aubonne</town>
+      </address>
+    </company>
+    <purpose>toutes activités de prise de participation, de conseils et d'assistance dans le domaine des fusions, acquisitions, transmissions, gestion, stratégie et restructurations d'entreprise (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>3G Unique Assets Management Sàrl</name>
+      <uid>CHE116138076</uid>
+      <uidOrganisationId>116138076</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010772921</code13>
+      <seat>Aubonne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ruelle du Soleil-Levant</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1170</swissZipCode>
+        <town>Aubonne</town>
+      </address>
+    </company>
+    <purpose>toutes activités de prise de participation, de conseils et d'assistance dans le domaine des fusions, acquisitions, transmissions, gestion, stratégie et restructurations d'entreprise (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>dce17342-b43e-4c48-bd15-c4c07bbac7f4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004483987</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Schwaar AG, Muntelier</de>
+    <en>Change Schwaar AG, Muntelier</en>
+    <it>Cambiamenti Schwaar AG, Muntelier</it>
+    <fr>Mutation Schwaar AG, Muntelier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5542</journalNumber>
+  <journalDate>2018-10-22</journalDate>
+  <publicationText>Schwaar AG, in Muntelier, CHE-106.051.373 (SHAB vom 12.06.2015, s. 0/2203843). Cotting Revisions AG (CHE-230.955.198) ist nicht mehr Revisionsstelle. Gemäss Erklärung des Verwaltungsrates vom 03.10.2018 untersteht die Gesellschaft keiner ordentlichen Revision und verzichtet auf eine eingeschränkte Revision.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Schwaar AG</name>
+      <translations>[fr] Schwaar SA</translations>
+      <uid>CHE106051373</uid>
+      <uidOrganisationId>106051373</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705304251</code13>
+      <seat>Muntelier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>145</houseNumber>
+        <swissZipCode>3286</swissZipCode>
+        <town>Muntelier</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Unternehmung für Bedachungen aller Art, Isolationen und Fassaden, Spenglerei und sanitäre Installationen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Schwaar AG</name>
+      <translations>[fr] Schwaar SA</translations>
+      <uid>CHE106051373</uid>
+      <uidOrganisationId>106051373</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705304251</code13>
+      <seat>Muntelier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>145</houseNumber>
+        <swissZipCode>3286</swissZipCode>
+        <town>Muntelier</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Unternehmung für Bedachungen aller Art, Isolationen und Fassaden, Spenglerei und sanitäre Installationen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-06-12</lastFoscDate>
+    <lastFoscSequence>2203843</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

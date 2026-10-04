@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3c05c6ca-02f3-4657-bc24-e3959f29b45a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004463148</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Seydoux Papeterie-Bureau S.A., Bulle</de>
+    <en>Change Seydoux Papeterie-Bureau S.A., Bulle</en>
+    <it>Cambiamenti Seydoux Papeterie-Bureau S.A., Bulle</it>
+    <fr>Mutation Seydoux Papeterie-Bureau S.A., Bulle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5043</journalNumber>
+  <journalDate>2018-09-21</journalDate>
+  <publicationText>Seydoux Papeterie-Bureau S.A., à Bulle, CHE-107.920.592 (FOSC du 11.12.2017, p. 0/3922453). Rectification: l'inscription n° 131 du 23.03.1998 (FOSC du 01.04.1998, page 2233) est rectifiée comme suit: Capital-actions nouveau: CHF 100'000 (jusqu'ici: CHF 50'000), libéré à concurrence de CHF 50'000 (jusqu'ici: CHF 50'000), divisé en 50 actions de CHF 2'000 (jusqu'ici: 50 actions de CHF 1'000), nominatives et avec restriction de transmissibilité des actions selon statuts (et non pas CHF 100'000, libéré à concurrence de CHF 50'000, divisé en 50 actions de CHF 1'000, nominatives).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Seydoux Papeterie-Bureau S.A.</name>
+      <uid>CHE107920592</uid>
+      <uidOrganisationId>107920592</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21704309328</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Ecoles</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1635</swissZipCode>
+        <town>La Tour-de-Trême</town>
+      </address>
+    </company>
+    <purpose>exploiter une papeterie, un commerce de matériel de bureau et une librairie.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Fiduciaire de La Tour SA</name>
+        <country>CH</country>
+        <uid>CHE106528748</uid>
+        <uidOrganisationId>106528748</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Seydoux Papeterie-Bureau S.A.</name>
+      <uid>CHE107920592</uid>
+      <uidOrganisationId>107920592</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21704309328</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Ecoles</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1635</swissZipCode>
+        <town>La Tour-de-Trême</town>
+      </address>
+    </company>
+    <purpose>exploiter une papeterie, un commerce de matériel de bureau et une librairie.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Fiduciaire de La Tour SA</name>
+        <country>CH</country>
+        <uid>CHE106528748</uid>
+        <uidOrganisationId>106528748</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-12-11</lastFoscDate>
+    <lastFoscSequence>3922453</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>61b84fba-3b33-4b89-a557-4661ee9149a1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004623807</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation HeiLin Sàrl, Servion</de>
+    <en>Change HeiLin Sàrl, Servion</en>
+    <it>Cambiamenti HeiLin Sàrl, Servion</it>
+    <fr>Mutation HeiLin Sàrl, Servion</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7987</journalNumber>
+  <journalDate>2019-05-01</journalDate>
+  <publicationText>HeiLin Sàrl, à Servion, CHE-234.759.905 (FOSC du 25.04.2019, p. 0/1004617372). L'associé-gérant Heinonen Jouni cède 100 de ses 200 parts de CHF 100 à la gérante Lintilä Pirkko-Liisa, nouvelle associée avec 100 parts de CHF 100. Heinonen Jouni reste titulaire de 100 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>HeiLin Sàrl</name>
+      <uid>CHE234759905</uid>
+      <uidOrganisationId>234759905</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011848105</code13>
+      <seat>Servion</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Praz Lombert</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1080</swissZipCode>
+        <town>Les Cullayes</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: toutes activités de conseils (consulting) ainsi que la prestation de tous services aux entreprises, notamment dans les domaines du management, des ventes, du service après-vente, de la comptabilité, etc.; importation, exportation et négoce de tous biens (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>HeiLin Sàrl</name>
+      <uid>CHE234759905</uid>
+      <uidOrganisationId>234759905</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011848105</code13>
+      <seat>Servion</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Praz Lombert</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1080</swissZipCode>
+        <town>Les Cullayes</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: toutes activités de conseils (consulting) ainsi que la prestation de tous services aux entreprises, notamment dans les domaines du management, des ventes, du service après-vente, de la comptabilité, etc.; importation, exportation et négoce de tous biens (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-25</lastFoscDate>
+    <lastFoscSequence>1004617372</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

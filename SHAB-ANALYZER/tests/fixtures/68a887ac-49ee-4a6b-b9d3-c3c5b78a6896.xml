@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>6895dafc-288e-4314-b8a8-a7223673c8cc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005183802</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>JU</cantons>
+  <title>
+    <de>Mutation Maxton Holding S.A., Delémont</de>
+    <en>Change Maxton Holding S.A., Delémont</en>
+    <it>Cambiamenti Maxton Holding S.A., Delémont</it>
+    <fr>Mutation Maxton Holding S.A., Delémont</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>777</journalNumber>
+  <journalDate>2021-05-11</journalDate>
+  <publicationText>Maxton Holding S.A., à Delémont, CHE-102.043.274, société anonyme (No. FOSC 88 du 07.05.2021, Publ. 1005174390). Modification des statuts: 29.04.2021. Nouvelle restriction à la transmissibilité: Restriction à la transmissibilité des actions nominatives: selon statuts. La conversion d'office a eu lieu à tort, la société ayant converti ses actions au porteur en actions nominatives par décision de l'assemblée générale du 29.04.2021. [biffé: Le 1er mai 2021, les actions au porteur ont été converties de par la loi en actions nominatives. Les statuts de la société n'ont pas encore été adaptés à la conversion, mais devront l'être lors de la prochaine modification.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Maxton Holding S.A.</name>
+      <uid>CHE-102.043.274</uid>
+      <uidOrganisationId>102043274</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030009809</code13>
+      <seat>Delémont</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Borruat Sàrl</addressLine1>
+        <street>Rue St-Randoald</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>2800</swissZipCode>
+        <town>Delémont</town>
+      </address>
+    </company>
+    <purpose>Acquisition et administration de participations et toutes opérations immobilières (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Maxton Holding S.A.</name>
+      <uid>CHE-102.043.274</uid>
+      <uidOrganisationId>102043274</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030009809</code13>
+      <seat>Delémont</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Borruat Sàrl</addressLine1>
+        <street>Rue St-Randoald</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>2800</swissZipCode>
+        <town>Delémont</town>
+      </address>
+    </company>
+    <purpose>Acquisition et administration de participations et toutes opérations immobilières (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-05-07</lastFoscDate>
+    <lastFoscNumber>88</lastFoscNumber>
+    <lastFoscSequence>1005174390</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton du Jura</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

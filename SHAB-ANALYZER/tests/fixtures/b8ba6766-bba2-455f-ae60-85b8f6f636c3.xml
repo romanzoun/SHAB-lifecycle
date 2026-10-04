@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b8a87878-6b79-4741-af10-a40966695c46</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004453493</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation PWP S.A., Payerne</de>
+    <en>Change PWP S.A., Payerne</en>
+    <it>Cambiamenti PWP S.A., Payerne</it>
+    <fr>Mutation PWP S.A., Payerne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15945</journalNumber>
+  <journalDate>2018-09-06</journalDate>
+  <publicationText>PWP S.A., à Payerne, CHE-107.316.999 (FOSC du 27.05.2016, p. 0/2856325). Suter Marcel maintenant domicilié à Jegenstorf.</publicationText>
+  <commonsNew>
+    <company>
+      <name>PWP S.A.</name>
+      <uid>CHE107316999</uid>
+      <uidOrganisationId>107316999</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001668470</code13>
+      <seat>Payerne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Neuchâtel</street>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>développement, production, exploitation et distribution de systèmes, pièces et accessoires pour la construction et la fabrication de véhicules utilitaires, en particulier la commercialisation de produits sur le marché des véhicules utilitaires.</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PWP S.A.</name>
+      <uid>CHE107316999</uid>
+      <uidOrganisationId>107316999</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001668470</code13>
+      <seat>Payerne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Neuchâtel</street>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>développement, production, exploitation et distribution de systèmes, pièces et accessoires pour la construction et la fabrication de véhicules utilitaires, en particulier la commercialisation de produits sur le marché des véhicules utilitaires.</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-05-27</lastFoscDate>
+    <lastFoscSequence>2856325</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b1ea43b9-8a5f-4ec9-919a-46714b87a89d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004527812</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Service Nettoyage Bekim Marly SàRL, Marly</de>
+    <en>Change Service Nettoyage Bekim Marly SàRL, Marly</en>
+    <it>Cambiamenti Service Nettoyage Bekim Marly SàRL, Marly</it>
+    <fr>Mutation Service Nettoyage Bekim Marly SàRL, Marly</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6750</journalNumber>
+  <journalDate>2018-12-18</journalDate>
+  <publicationText>Service Nettoyage Bekim Marly SàRL, à Marly, CHE-101.573.049 (FOSC du 19.06.2017, p. 0/3587311). La procédure de faillite étant clôturée par décision du 07.12.2018 du Président du Tribunal civil de la Sarine, à Fribourg, cette entité juridique est radiée d'office conformément aux dispositions de l'art. 159, al. 5, lit. b, ORC.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Service Nettoyage Bekim Marly SàRL</name>
+      <uid>CHE101573049</uid>
+      <uidOrganisationId>101573049</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710009743</code13>
+      <seat>Marly</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Bekin Kozhani</addressLine1>
+        <street>Route des Préalpes</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1723</swissZipCode>
+        <town>Marly</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de nettoyages.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Service Nettoyage Bekim Marly SàRL</name>
+      <uid>CHE101573049</uid>
+      <uidOrganisationId>101573049</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710009743</code13>
+      <seat>Marly</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Bekin Kozhani</addressLine1>
+        <street>Route des Préalpes</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1723</swissZipCode>
+        <town>Marly</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de nettoyages.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-06-19</lastFoscDate>
+    <lastFoscSequence>3587311</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

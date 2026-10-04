@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>02e65a79-2e36-455f-a404-bdfa6ca2147b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004465423</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation CHAUFFAGE CONCEPT Sàrl, Perly-Certoux</de>
+    <en>Change CHAUFFAGE CONCEPT Sàrl, Perly-Certoux</en>
+    <it>Cambiamenti CHAUFFAGE CONCEPT Sàrl, Perly-Certoux</it>
+    <fr>Mutation CHAUFFAGE CONCEPT Sàrl, Perly-Certoux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17304</journalNumber>
+  <journalDate>2018-09-25</journalDate>
+  <publicationText>CHAUFFAGE CONCEPT Sàrl, à Perly-Certoux, CHE-424.506.858 (FOSC du 07.01.2015, p. 0/1914051). L'associé Büchi Thomas a cédé une part de CHF 15'000 au gérant Eretzian Jean-Philippe, nouvel associé pour une part de 15'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CHAUFFAGE CONCEPT Sàrl</name>
+      <uid>CHE424506858</uid>
+      <uidOrganisationId>424506858</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007920123</code13>
+      <seat>Perly-Certoux</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o CHARPENTE CONCEPT SA</addressLine1>
+        <street>route de Saint-Julien 288bis</street>
+        <swissZipCode>1258</swissZipCode>
+        <town>Perly</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un bureau technique conseil dans le domaine des énergies (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CHAUFFAGE CONCEPT Sàrl</name>
+      <uid>CHE424506858</uid>
+      <uidOrganisationId>424506858</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007920123</code13>
+      <seat>Perly-Certoux</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o CHARPENTE CONCEPT SA</addressLine1>
+        <street>route de Saint-Julien 288bis</street>
+        <swissZipCode>1258</swissZipCode>
+        <town>Perly</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un bureau technique conseil dans le domaine des énergies (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-01-07</lastFoscDate>
+    <lastFoscSequence>1914051</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

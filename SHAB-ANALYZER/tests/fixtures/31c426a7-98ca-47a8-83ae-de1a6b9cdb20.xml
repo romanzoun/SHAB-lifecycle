@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>30f5ba7b-036c-414b-a7c4-7f65141296eb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004484648</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Ghazi AG, Bern</de>
+    <en>Change Ghazi AG, Bern</en>
+    <it>Cambiamenti Ghazi AG, Bern</it>
+    <fr>Mutation Ghazi AG, Bern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15023</journalNumber>
+  <journalDate>2018-10-23</journalDate>
+  <publicationText>Ghazi AG, in Bern, CHE-100.314.108, Aktiengesellschaft (SHAB Nr. 102 vom 30.05.2016, Publ. 2857777). Abspaltung: Ein Teil der Aktiven und Passiven geht gemäss Spaltungsplan vom 18.10.2018 auf die neu gegründete Douag AG, in Bern (CHE-324.081.775) und die neu gegründete rimara ag, in Bern (CHE-350.458.733) über.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Ghazi AG</name>
+      <translations>[fr] Ghazi SA [it] Ghazi Ltd.</translations>
+      <uid>CHE100314108</uid>
+      <uidOrganisationId>100314108</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03530110491</code13>
+      <seat>Bern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Effingerstrasse</street>
+        <houseNumber>77</houseNumber>
+        <swissZipCode>3008</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Beteiligung an Unternehmen irgendwelcher Art usw.</purpose>
+    <capital>
+      <nominal>326800.00</nominal>
+      <paid>326800.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Ghazi AG</name>
+      <translations>[fr] Ghazi SA [it] Ghazi Ltd.</translations>
+      <uid>CHE100314108</uid>
+      <uidOrganisationId>100314108</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03530110491</code13>
+      <seat>Bern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Effingerstrasse</street>
+        <houseNumber>77</houseNumber>
+        <swissZipCode>3008</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Beteiligung an Unternehmen irgendwelcher Art usw.</purpose>
+    <capital>
+      <nominal>326800.00</nominal>
+      <paid>326800.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-05-30</lastFoscDate>
+    <lastFoscNumber>102</lastFoscNumber>
+    <lastFoscSequence>2857777</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

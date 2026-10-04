@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>6fa9a761-8195-4687-b906-0e240efda3eb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004570034</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>TG</cantons>
+  <title>
+    <de>Mutation Hüppi AG Zweigniederlassung Weinfelden, Weinfelden</de>
+    <en>Change Hüppi AG Zweigniederlassung Weinfelden, Weinfelden</en>
+    <it>Cambiamenti Hüppi AG Zweigniederlassung Weinfelden, Weinfelden</it>
+    <fr>Mutation Hüppi AG Zweigniederlassung Weinfelden, Weinfelden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>811</journalNumber>
+  <journalDate>2019-02-14</journalDate>
+  <publicationText>Hüppi AG Zweigniederlassung Weinfelden, in Weinfelden, CHE-339.147.928, schweizerische Zweigniederlassung (SHAB Nr. 153 vom 10.08.2010, S.15, Publ. 5763698), Hauptsitz in: Wallisellen. Neue Identifikationsnummer Hauptsitz: CHE-112.423.922 [bisher: Identifikationsnummer Hauptsitz: CH-290.3.015.149-2]. Hauptsitz neu: Winterthur [bisher: Wallisellen].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hüppi AG Zweigniederlassung Weinfelden</name>
+      <uid>CHE339147928</uid>
+      <uidOrganisationId>339147928</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44090243038</code13>
+      <seat>Weinfelden</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Paul-Reinhart-Strasse</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>8570</swissZipCode>
+        <town>Weinfelden</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Hüppi AG</name>
+      <country>CH</country>
+      <uid>CHE112423922</uid>
+      <uidOrganisationId>112423922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hüppi AG Zweigniederlassung Weinfelden</name>
+      <uid>CHE339147928</uid>
+      <uidOrganisationId>339147928</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44090243038</code13>
+      <seat>Weinfelden</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Paul-Reinhart-Strasse</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>8570</swissZipCode>
+        <town>Weinfelden</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Hüppi AG</name>
+      <country>CH</country>
+      <uid>CHE112423922</uid>
+      <uidOrganisationId>112423922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2010-08-10</lastFoscDate>
+    <lastFoscNumber>153</lastFoscNumber>
+    <lastFoscSequence>5763698</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Thurgau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

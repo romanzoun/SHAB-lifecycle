@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.21/HR02-export.xsd">
+<meta>
+  <id>1d4aa9c7-0c56-4cdc-9a15-4c986cd1483e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006062711</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-06-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>TG</cantons>
+  <title>
+    <de>Mutation D-Tec, Inhaber Dirk Jänich, Müllheim</de>
+    <en>Change D-Tec, Inhaber Dirk Jänich, Müllheim</en>
+    <it>Cambiamenti D-Tec, Inhaber Dirk Jänich, Müllheim</it>
+    <fr>Mutation D-Tec, Inhaber Dirk Jänich, Müllheim</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3209</journalNumber>
+  <journalDate>2024-06-17</journalDate>
+  <publicationText>D-Tec, Inhaber Dirk Jänich, in Müllheim, CHE-197.997.195, Einzelunternehmen (SHAB Nr. 102 vom 29.05.2024, Publ. 1006042808). Der Geschäftsbetrieb wird weitergeführt. Der Eintrag des Einzelunternehmens bleibt bestehen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>D-Tec, Inhaber Dirk Jänich</name>
+      <uid>CHE-197.997.195</uid>
+      <uidOrganisationId>197997195</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44010374075</code13>
+      <seat>Müllheim</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonnental</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8555</swissZipCode>
+        <town>Müllheim Dorf</town>
+      </address>
+    </company>
+    <purpose>Dienstleistungen im Netzwerk- und Automationsbereich. Support und Schulungen für industrielle und private Kommunikationstechnologien, als auch Software-Entwicklungen für industrielle Anwendungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>D-Tec, Inhaber Dirk Jänich</name>
+      <uid>CHE-197.997.195</uid>
+      <uidOrganisationId>197997195</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44010374075</code13>
+      <seat>Müllheim</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonnental</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8555</swissZipCode>
+        <town>Müllheim Dorf</town>
+      </address>
+    </company>
+    <purpose>Dienstleistungen im Netzwerk- und Automationsbereich. Support und Schulungen für industrielle und private Kommunikationstechnologien, als auch Software-Entwicklungen für industrielle Anwendungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2024-05-29</lastFoscDate>
+    <lastFoscNumber>102</lastFoscNumber>
+    <lastFoscSequence>1006042808</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Thurgau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

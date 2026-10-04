@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>9c00ac6f-29dc-481b-ad6e-10587d6103b4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004652704</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation VI2VI GmbH, Davos</de>
+    <en>Change VI2VI GmbH, Davos</en>
+    <it>Cambiamenti VI2VI GmbH, Davos</it>
+    <fr>Mutation VI2VI GmbH, Davos</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2950</journalNumber>
+  <journalDate>2019-06-12</journalDate>
+  <publicationText>VI2VI GmbH, in Davos, CHE-116.091.641, Gesellschaft mit beschränkter Haftung (SHAB Nr. 39 vom 26.02.2019, Publ. 1004575165). Abspaltung: Ein Teil der Aktiven und Passiven geht gemäss Spaltungsplan vom 26.03.2019 auf die neu gegründete VI3VI GmbH (CHE-393.796.380), in Davos, über.</publicationText>
+  <commonsNew>
+    <company>
+      <name>VI2VI GmbH</name>
+      <uid>CHE116091641</uid>
+      <uidOrganisationId>116091641</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040100287</code13>
+      <seat>Davos</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Scalettastrasse</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>7270</swissZipCode>
+        <town>Davos Platz</town>
+      </address>
+    </company>
+    <purpose>Erwerb, dauerndes Halten und Verwalten sowie Veräusserung von Beteiligungen an in- und ausländischen Unternehmen aller Art sowie deren Management, insbesondere im Bereich der Gastronomie und Hotellerie; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>VI2VI GmbH</name>
+      <uid>CHE116091641</uid>
+      <uidOrganisationId>116091641</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040100287</code13>
+      <seat>Davos</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Scalettastrasse</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>7270</swissZipCode>
+        <town>Davos Platz</town>
+      </address>
+    </company>
+    <purpose>Erwerb, dauerndes Halten und Verwalten sowie Veräusserung von Beteiligungen an in- und ausländischen Unternehmen aller Art sowie deren Management, insbesondere im Bereich der Gastronomie und Hotellerie; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-26</lastFoscDate>
+    <lastFoscNumber>39</lastFoscNumber>
+    <lastFoscSequence>1004575165</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

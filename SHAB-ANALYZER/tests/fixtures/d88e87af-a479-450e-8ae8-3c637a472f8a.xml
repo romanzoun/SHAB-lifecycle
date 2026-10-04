@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>d82c02f9-948c-4313-81da-f3700615adae</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004482626</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Histoire d'Eau, Béguin Jean-Pierre, Val-de-Ruz</de>
+    <en>Change Histoire d'Eau, Béguin Jean-Pierre, Val-de-Ruz</en>
+    <it>Cambiamenti Histoire d'Eau, Béguin Jean-Pierre, Val-de-Ruz</it>
+    <fr>Mutation Histoire d'Eau, Béguin Jean-Pierre, Val-de-Ruz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3994</journalNumber>
+  <journalDate>2018-10-18</journalDate>
+  <publicationText>Histoire d'Eau, Béguin Jean-Pierre, à Val-de-Ruz, CHE-112.999.553 (FOSC du 11.10.2018, p. 0/1004475016). Par ordonnance du 16.10.2018, le Tribunal cantonal a suspendu l'exécution du jugement de faillite rendu le 04.10.2018.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Histoire d'Eau, Béguin Jean-Pierre</name>
+      <uid>CHE112999553</uid>
+      <uidOrganisationId>112999553</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541000146</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Les Geneveys-sur-Coffrane, chemin des Grandes-Planches</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>2206</swissZipCode>
+        <town>Geneveys-Coffrane</town>
+      </address>
+    </company>
+    <purpose>rénovations et transformations de chauffage-sanitaire.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Histoire d'Eau, Béguin Jean-Pierre</name>
+      <uid>CHE112999553</uid>
+      <uidOrganisationId>112999553</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541000146</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Les Geneveys-sur-Coffrane, chemin des Grandes-Planches</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>2206</swissZipCode>
+        <town>Geneveys-Coffrane</town>
+      </address>
+    </company>
+    <purpose>rénovations et transformations de chauffage-sanitaire.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-11</lastFoscDate>
+    <lastFoscSequence>1004475016</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

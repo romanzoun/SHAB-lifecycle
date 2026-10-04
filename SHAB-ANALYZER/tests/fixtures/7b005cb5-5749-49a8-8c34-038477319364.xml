@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>7a890b6f-115d-4000-aa9d-85707ae79a1c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004634146</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Banque Pictet &amp; Cie SA, Carouge (GE)</de>
+    <en>Change Banque Pictet &amp; Cie SA, Carouge (GE)</en>
+    <it>Cambiamenti Banque Pictet &amp; Cie SA, Carouge (GE)</it>
+    <fr>Mutation Banque Pictet &amp; Cie SA, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9297</journalNumber>
+  <journalDate>2019-05-15</journalDate>
+  <publicationText>Banque Pictet &amp; Cie SA, à Carouge (GE), CHE-101.358.083 (FOSC du 01.05.2019, p. 0/1004621209). L'inscription No 8689 du 01.06.2015 (FOSC du 04.06.2015, p.0/2188217) est rectifiée en ce sens que Poliak Nabel Andrée porte en réalité le nom de Poliak Narbel Andrée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Banque Pictet &amp; Cie SA</name>
+      <uid>CHE101358083</uid>
+      <uidOrganisationId>101358083</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000219091</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route des Acacias</street>
+        <houseNumber>60</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque ainsi qu'exercice d'une activité de négociant en valeurs mobilières en Suisse et à l'étranger, gestion de fortune et prestation de services de banque dépositaire (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>90000000.00</nominal>
+      <paid>90000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Banque Pictet &amp; Cie SA</name>
+      <uid>CHE101358083</uid>
+      <uidOrganisationId>101358083</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000219091</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route des Acacias</street>
+        <houseNumber>60</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque ainsi qu'exercice d'une activité de négociant en valeurs mobilières en Suisse et à l'étranger, gestion de fortune et prestation de services de banque dépositaire (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>90000000.00</nominal>
+      <paid>90000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-01</lastFoscDate>
+    <lastFoscSequence>1004621209</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

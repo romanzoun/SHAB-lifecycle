@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>0e72601e-9610-41f9-ba40-50780cb72d9b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005196160</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation LKF Software Company GmbH, Fribourg, neu LKF Software Company GmbH in Liquidation</de>
+    <en>Change LKF Software Company GmbH, Fribourg, new LKF Software Company GmbH in Liquidation</en>
+    <it>Cambiamenti LKF Software Company GmbH, Fribourg, nuovo LKF Software Company GmbH in Liquidation</it>
+    <fr>Mutation LKF Software Company GmbH, Fribourg, nouveau LKF Software Company GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4680</journalNumber>
+  <journalDate>2021-05-25</journalDate>
+  <publicationText>LKF Software Company GmbH, in Fribourg, CHE-253.448.570 (SHAB vom 30.04.2021, s. 0/1005165178). Neue Geschäftsfirma: LKF Software Company GmbH in Liquidation. Neue Firma des Hauptsitzes: LKF Software Company GmbH in Liquidation (CHE-257.037.763).</publicationText>
+  <commonsNew>
+    <company>
+      <name>LKF Software Company GmbH in Liquidation</name>
+      <uid>CHE-253.448.570</uid>
+      <uidOrganisationId>253448570</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735651725</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de la Gare</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>LKF Software Company GmbH in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE-257.037.763</uid>
+      <uidOrganisationId>257037763</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LKF Software Company GmbH</name>
+      <uid>CHE-253.448.570</uid>
+      <uidOrganisationId>253448570</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735651725</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de la Gare</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>LKF Software Company GmbH in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE-257.037.763</uid>
+      <uidOrganisationId>257037763</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-04-30</lastFoscDate>
+    <lastFoscNumber>83</lastFoscNumber>
+    <lastFoscSequence>1005165178</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

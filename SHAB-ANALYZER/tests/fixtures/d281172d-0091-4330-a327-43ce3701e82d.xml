@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>d248ce97-2f83-4186-8f67-75ee1376a989</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005031342</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Cooper Communication AG, Mont-Vully, neu Cooper Communication AG in Liquidation</de>
+    <en>Change Cooper Communication AG, Mont-Vully, new Cooper Communication AG in Liquidation</en>
+    <it>Cambiamenti Cooper Communication AG, Mont-Vully, nuovo Cooper Communication AG in Liquidation</it>
+    <fr>Mutation Cooper Communication AG, Mont-Vully, nouveau Cooper Communication AG in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6525</journalNumber>
+  <journalDate>2020-11-20</journalDate>
+  <publicationText>Cooper Communication AG, in Mont-Vully, CHE-109.858.828 (SHAB vom 12.01.2016, s. 0/2589545). Die Gesellschaft ist laut Beschluss der Generalversammlung vom 18.11.2020 aufgelöst. Neue Firma: Cooper Communication AG in Liquidation. Eingetragene Person geändert: Kummer Christof, korrekterweise Kummer Christof Ulrich, Verwaltungsratsmitglied, Einzelunterschrift, neu Verwaltungsratsmitglied, Liquidator, Einzelunterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cooper Communication AG in Liquidation</name>
+      <uid>CHE-109.858.828</uid>
+      <uidOrganisationId>109858828</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030264952</code13>
+      <seat>Mont-Vully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route Principale</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1786</swissZipCode>
+        <town>Sugiez</town>
+      </address>
+    </company>
+    <purpose>Konzeption und Realisation von Kommunikationsaufgaben, insbesondere Werbung, Direct Marketing, Public relations, Event Marketing, elektronische Medien, Sponsoring, Promotions und dergleichen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cooper Communication AG</name>
+      <uid>CHE-109.858.828</uid>
+      <uidOrganisationId>109858828</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030264952</code13>
+      <seat>Mont-Vully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route Principale</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1786</swissZipCode>
+        <town>Sugiez</town>
+      </address>
+    </company>
+    <purpose>Konzeption und Realisation von Kommunikationsaufgaben, insbesondere Werbung, Direct Marketing, Public relations, Event Marketing, elektronische Medien, Sponsoring, Promotions und dergleichen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-01-12</lastFoscDate>
+    <lastFoscNumber>7</lastFoscNumber>
+    <lastFoscSequence>2589545</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

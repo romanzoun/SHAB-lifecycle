@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>ca3bb913-1d3b-4fbf-9821-7732aa52dc7a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004907553</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation OXAL.net Sàrl, Le Mont-sur-Lausanne</de>
+    <en>Change OXAL.net Sàrl, Le Mont-sur-Lausanne</en>
+    <it>Cambiamenti OXAL.net Sàrl, Le Mont-sur-Lausanne</it>
+    <fr>Mutation OXAL.net Sàrl, Le Mont-sur-Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9051</journalNumber>
+  <journalDate>2020-06-05</journalDate>
+  <publicationText>OXAL.net Sàrl, à Le Mont-sur-Lausanne, CHE-112.286.677 (FOSC du 19.12.2013, p. 0/7225834). Statuts modifiés le 26 mai 2020. Obligation de fournir des prestations accessoires, droits de préférence, de préemption ou d'emption: pour les détails, voir les statuts. Le capital social de CHF 20'000 se compose désormais de 20 parts sociales de CHF 1'000. Communications aux associés: par avis écrit. L'associé-gérant Giammarino Ivan détient maintenant 19 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>OXAL.net Sàrl</name>
+      <uid>CHE-112.286.677</uid>
+      <uidOrganisationId>112286677</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010435226</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>En Budron H</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation de sites Internet.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>OXAL.net Sàrl</name>
+      <uid>CHE-112.286.677</uid>
+      <uidOrganisationId>112286677</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010435226</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>En Budron H</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation de sites Internet.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

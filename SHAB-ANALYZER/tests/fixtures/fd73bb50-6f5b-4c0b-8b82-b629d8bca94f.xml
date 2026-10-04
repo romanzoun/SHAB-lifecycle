@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>fd43445b-1ec8-464d-a9d9-887adbc2e1e3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005118582</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Mister Brauner, Adliswil</de>
+    <en>Change Mister Brauner, Adliswil</en>
+    <it>Cambiamenti Mister Brauner, Adliswil</it>
+    <fr>Mutation Mister Brauner, Adliswil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9762</journalNumber>
+  <journalDate>2021-03-04</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 42 vom 02.03.2021 publizierten TR-Eintrag Nr. 8817 vom 25.02.2021 Mister Brauner, in Adliswil, CHE-163.433.701, Einzelunternehmen (SHAB Nr. 42 vom 02.03.2021, Publ. 1005112988). Das Einzelunternehmen ist infolge Geschäftsaufgabe erloschen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mister Brauner</name>
+      <uid>CHE-163.433.701</uid>
+      <uidOrganisationId>163433701</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010758154</code13>
+      <seat>Adliswil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Restaurant Krone</addressLine1>
+        <street>Zürichstrasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>8134</swissZipCode>
+        <town>Adliswil</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Restaurants.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mister Brauner</name>
+      <uid>CHE-163.433.701</uid>
+      <uidOrganisationId>163433701</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010758154</code13>
+      <seat>Adliswil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Restaurant Krone</addressLine1>
+        <street>Zürichstrasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>8134</swissZipCode>
+        <town>Adliswil</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Restaurants.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-03-02</lastFoscDate>
+    <lastFoscNumber>42</lastFoscNumber>
+    <lastFoscSequence>1005112988</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

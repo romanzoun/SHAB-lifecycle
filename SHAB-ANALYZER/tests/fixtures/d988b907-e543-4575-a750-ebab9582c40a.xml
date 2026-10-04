@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>d93c5a08-e06f-468a-a1b2-acf43909c840</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004744672</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation AUGURIX SA, Monthey</de>
+    <en>Change AUGURIX SA, Monthey</en>
+    <it>Cambiamenti AUGURIX SA, Monthey</it>
+    <fr>Mutation AUGURIX SA, Monthey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2754</journalNumber>
+  <journalDate>2019-10-21</journalDate>
+  <publicationText>AUGURIX SA, à Monthey, CHE-113.374.775, société anonyme (No. FOSC 230 du 27.11.2018, Publ. 1004507183). Modification des statuts: 18.10.2019. L'assemblée générale a introduit une clause statutaire relative à une augmentation autorisée du capital par décision du 18.10.2019: pour les détails, voir les statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>AUGURIX SA</name>
+      <uid>CHE-113.374.775</uid>
+      <uidOrganisationId>113374775</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000880071</code13>
+      <seat>Monthey</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de l'Ile-au-Bois</street>
+        <houseNumber>1a</houseNumber>
+        <swissZipCode>1870</swissZipCode>
+        <town>Monthey</town>
+      </address>
+    </company>
+    <purpose>conception, fabrication et commercialisation de systèmes de diagnostics médicaux et plus particulièrement pour la maladie de céliaque ainsi que des activités de licences et de brevets</purpose>
+    <capital>
+      <nominal>1036012.00</nominal>
+      <paid>1036012.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AUGURIX SA</name>
+      <uid>CHE-113.374.775</uid>
+      <uidOrganisationId>113374775</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000880071</code13>
+      <seat>Monthey</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de l'Ile-au-Bois</street>
+        <houseNumber>1a</houseNumber>
+        <swissZipCode>1870</swissZipCode>
+        <town>Monthey</town>
+      </address>
+    </company>
+    <purpose>conception, fabrication et commercialisation de systèmes de diagnostics médicaux et plus particulièrement pour la maladie de céliaque ainsi que des activités de licences et de brevets</purpose>
+    <capital>
+      <nominal>1036012.00</nominal>
+      <paid>1036012.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-27</lastFoscDate>
+    <lastFoscNumber>230</lastFoscNumber>
+    <lastFoscSequence>1004507183</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

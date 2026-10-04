@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>306cb939-1c58-4109-a415-354e0330973f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004504698</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation JeansZone Mylnikov Sergey, St. Gallen</de>
+    <en>Change JeansZone Mylnikov Sergey, St. Gallen</en>
+    <it>Cambiamenti JeansZone Mylnikov Sergey, St. Gallen</it>
+    <fr>Mutation JeansZone Mylnikov Sergey, St. Gallen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10496</journalNumber>
+  <journalDate>2018-11-20</journalDate>
+  <publicationText>JeansZone Mylnikov Sergey, in St. Gallen, CHE-316.252.299, Einzelunternehmen (SHAB Nr. 216 vom 07.11.2018, Publ. 1004492550). [gestrichen: Das Einzelunternehmen ist infolge Geschäftsaufgabe erloschen.]. [Berichtigung:] Das irrtümlich unter TR Nr. 9953 vom 02.11.2018, SHAB Nr. 216 vom 07.11.2018 gelöschte Einzelunternehmen wird wieder in das Handelsregister eingetragen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>JeansZone Mylnikov Sergey</name>
+      <uid>CHE316252299</uid>
+      <uidOrganisationId>316252299</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010789816</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hinterlauben</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>9000</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Detailhandel sowie Handel mit Textilien.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>JeansZone Mylnikov Sergey</name>
+      <uid>CHE316252299</uid>
+      <uidOrganisationId>316252299</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010789816</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hinterlauben</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>9000</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Detailhandel sowie Handel mit Textilien.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-07</lastFoscDate>
+    <lastFoscNumber>216</lastFoscNumber>
+    <lastFoscSequence>1004492550</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

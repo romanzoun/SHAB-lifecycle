@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>b293efaf-6905-4635-b3f5-ae4e909d90fe</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004692620</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Transports publics genevois (TPG), Lancy</de>
+    <en>Change Transports publics genevois (TPG), Lancy</en>
+    <it>Cambiamenti Transports publics genevois (TPG), Lancy</it>
+    <fr>Mutation Transports publics genevois (TPG), Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14838</journalNumber>
+  <journalDate>2019-08-05</journalDate>
+  <publicationText>Transports publics genevois (TPG), à Lancy, CHE-108.954.323 (FOSC du 24.04.2019, p. 0/1004616529). L'inscription 3951 du 25.02.2019 (FOSC du 28.02.2019) est rectifiée en ce sens que Schrenzel Guy n'est pas membre du conseil d'administration.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Transports publics genevois (TPG)</name>
+      <uid>CHE108954323</uid>
+      <uidOrganisationId>108954323</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66027770097</code13>
+      <seat>Lancy</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de la Chapelle</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy 1</town>
+      </address>
+    </company>
+    <purpose>dans le cadre d'un contrat de prestations conclu avec l'Etat, mettre à la disposition de la population du canton de Genève un réseau de communications, exploitées régulièrement, pour le transport des voyageurs et pratiquer une politique tarifaire incitative.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Transports publics genevois (TPG)</name>
+      <uid>CHE108954323</uid>
+      <uidOrganisationId>108954323</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66027770097</code13>
+      <seat>Lancy</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de la Chapelle</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy 1</town>
+      </address>
+    </company>
+    <purpose>dans le cadre d'un contrat de prestations conclu avec l'Etat, mettre à la disposition de la population du canton de Genève un réseau de communications, exploitées régulièrement, pour le transport des voyageurs et pratiquer une politique tarifaire incitative.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-24</lastFoscDate>
+    <lastFoscSequence>1004616529</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

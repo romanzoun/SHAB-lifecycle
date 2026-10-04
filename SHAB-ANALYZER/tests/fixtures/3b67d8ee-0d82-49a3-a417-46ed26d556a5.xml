@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>3b54f8e3-4ee9-4239-98b7-9aac2908b810</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004733254</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Mini Car Center, Claude Bürki, Chêne-Bourg</de>
+    <en>Change Mini Car Center, Claude Bürki, Chêne-Bourg</en>
+    <it>Cambiamenti Mini Car Center, Claude Bürki, Chêne-Bourg</it>
+    <fr>Mutation Mini Car Center, Claude Bürki, Chêne-Bourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18482</journalNumber>
+  <journalDate>2019-10-03</journalDate>
+  <publicationText>Mini Car Center, Claude Bürki, à Chêne-Bourg, CHE-104.109.429 (FOSC du 01.02.2016, p. 0/2631515). Autre adresse actuelle: Route de Mon-Idée 22, 1241 Puplinge.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mini Car Center, Claude Bürki</name>
+      <uid>CHE-104.109.429</uid>
+      <uidOrganisationId>104109429</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66021809975</code13>
+      <seat>Chêne-Bourg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue Antoine-Marie Mirany</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1225</swissZipCode>
+        <town>Chêne-Bourg</town>
+      </address>
+    </company>
+    <purpose>études, création, réalisation, représentation, commerce, importation et exportation et réparation de prototypes et de maquettes de véhicules automobiles, ainsi que dans le domaine industriel; réparations de tous véhicules automobiles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mini Car Center, Claude Bürki</name>
+      <uid>CHE-104.109.429</uid>
+      <uidOrganisationId>104109429</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66021809975</code13>
+      <seat>Chêne-Bourg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue Antoine-Marie Mirany</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1225</swissZipCode>
+        <town>Chêne-Bourg</town>
+      </address>
+    </company>
+    <purpose>études, création, réalisation, représentation, commerce, importation et exportation et réparation de prototypes et de maquettes de véhicules automobiles, ainsi que dans le domaine industriel; réparations de tous véhicules automobiles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-02-01</lastFoscDate>
+    <lastFoscNumber>21</lastFoscNumber>
+    <lastFoscSequence>2631515</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

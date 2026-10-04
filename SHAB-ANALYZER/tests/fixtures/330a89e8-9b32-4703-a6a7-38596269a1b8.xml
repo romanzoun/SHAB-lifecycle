@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>3147db2f-9042-4333-8718-89d76c09b379</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004866876</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>TG</cantons>
+  <title>
+    <de>Mutation Hulbee AG, Egnach</de>
+    <en>Change Hulbee AG, Egnach</en>
+    <it>Cambiamenti Hulbee AG, Egnach</it>
+    <fr>Mutation Hulbee AG, Egnach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1718</journalNumber>
+  <journalDate>2020-04-01</journalDate>
+  <publicationText>Hulbee AG, in Egnach, CHE-114.400.168, Aktiengesellschaft (SHAB Nr. 229 vom 26.11.2019, Publ. 1004768407). Die Gesellschaft hat mit Erklärung vom 31.01.2020 auf die eingeschränkte Revision verzichtet.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hulbee AG</name>
+      <uid>CHE-114.400.168</uid>
+      <uidOrganisationId>114400168</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44030213757</code13>
+      <seat>Egnach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bucherstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>9322</swissZipCode>
+        <town>Egnach</town>
+      </address>
+    </company>
+    <purpose>Hard- und Software-Entwicklung, damit verbundene Wartung, Unterstützung sowie Organisations- und Unternehmensberatung. Die Gesellschaft handelt auch mit Gütern aller Art. Sie kann Grundstücke, Lizenzen, Patente und Rechte erwerben, verwalten, belasten und veräussern, sich an anderen Unternehmungen beteiligen, gleichartige oder verwandte Unternehmungen erwerben oder errichten und Zweigniederlassungen im In- und Ausland errichten.</purpose>
+    <capital>
+      <nominal>2780849.44</nominal>
+      <paid>2780849.44</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hulbee AG</name>
+      <uid>CHE-114.400.168</uid>
+      <uidOrganisationId>114400168</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44030213757</code13>
+      <seat>Egnach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bucherstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>9322</swissZipCode>
+        <town>Egnach</town>
+      </address>
+    </company>
+    <purpose>Hard- und Software-Entwicklung, damit verbundene Wartung, Unterstützung sowie Organisations- und Unternehmensberatung. Die Gesellschaft handelt auch mit Gütern aller Art. Sie kann Grundstücke, Lizenzen, Patente und Rechte erwerben, verwalten, belasten und veräussern, sich an anderen Unternehmungen beteiligen, gleichartige oder verwandte Unternehmungen erwerben oder errichten und Zweigniederlassungen im In- und Ausland errichten.</purpose>
+    <capital>
+      <nominal>2780849.44</nominal>
+      <paid>2780849.44</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-26</lastFoscDate>
+    <lastFoscNumber>229</lastFoscNumber>
+    <lastFoscSequence>1004768407</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Thurgau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

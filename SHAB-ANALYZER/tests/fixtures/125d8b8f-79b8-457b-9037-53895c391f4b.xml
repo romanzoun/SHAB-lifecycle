@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>122bd2aa-6d3c-44ac-8809-517e906fd50a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004598400</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Guillaume de Rham &amp; Cie, Pregny-Chambésy</de>
+    <en>Change Guillaume de Rham &amp; Cie, Pregny-Chambésy</en>
+    <it>Cambiamenti Guillaume de Rham &amp; Cie, Pregny-Chambésy</it>
+    <fr>Mutation Guillaume de Rham &amp; Cie, Pregny-Chambésy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6003</journalNumber>
+  <journalDate>2019-03-25</journalDate>
+  <publicationText>Guillaume de Rham &amp; Cie, à Pregny-Chambésy, CHE-106.509.627 (FOSC du 19.12.2013, p. 0/7225832). Les procurations de Bramaz Morin Doris Monique, Courtot Régine et Uyttenhove Olivier J.M.D. sont radiées.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Guillaume de Rham &amp; Cie</name>
+      <uid>CHE106509627</uid>
+      <uidOrganisationId>106509627</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008859897</code13>
+      <seat>Pregny-Chambésy</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chambésy; route de Lausanne</street>
+        <houseNumber>254</houseNumber>
+        <town>Pregny-Chambésy</town>
+      </address>
+    </company>
+    <purpose>constitution, administration et conseils relatifs à toute personne morale ainsi que conseil à toute personne physique.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Guillaume de Rham &amp; Cie</name>
+      <uid>CHE106509627</uid>
+      <uidOrganisationId>106509627</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008859897</code13>
+      <seat>Pregny-Chambésy</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chambésy; route de Lausanne</street>
+        <houseNumber>254</houseNumber>
+        <town>Pregny-Chambésy</town>
+      </address>
+    </company>
+    <purpose>constitution, administration et conseils relatifs à toute personne morale ainsi que conseil à toute personne physique.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225832</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

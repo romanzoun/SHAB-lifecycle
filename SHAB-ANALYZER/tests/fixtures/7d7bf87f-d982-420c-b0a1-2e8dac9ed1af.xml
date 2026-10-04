@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>7d63a859-4d6d-419b-bf86-59a883309d62</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004744604</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation GenerativeHumanae Sàrl, Echallens</de>
+    <en>Change GenerativeHumanae Sàrl, Echallens</en>
+    <it>Cambiamenti GenerativeHumanae Sàrl, Echallens</it>
+    <fr>Mutation GenerativeHumanae Sàrl, Echallens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18917</journalNumber>
+  <journalDate>2019-10-21</journalDate>
+  <publicationText>GenerativeHumanae Sàrl, à Echallens, CHE-421.525.687 (FOSC du 19.12.2018, p. 0/1004525424). L'associée-gérante Henry D'Aulnois Charlotte, qui est nommée présidente, cède 110 de ses 220 parts de CHF 100 à de Fourmestraux Gaël, de France, à Echallens, nouvel associé avec 110 parts de CHF 100, gérant avec signature individuelle. Henry D'Aulnois Charlotte reste titulaire de 110 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>GenerativeHumanae Sàrl</name>
+      <uid>CHE-421.525.687</uid>
+      <uidOrganisationId>421525687</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011772804</code13>
+      <seat>Echallens</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Praz-Palud</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1040</swissZipCode>
+        <town>Echallens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités de services dans le domaine des sociétés en particulier les restructurations organisationnelles des personnes morales (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>22000.00</nominal>
+      <paid>22000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GenerativeHumanae Sàrl</name>
+      <uid>CHE-421.525.687</uid>
+      <uidOrganisationId>421525687</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011772804</code13>
+      <seat>Echallens</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Praz-Palud</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1040</swissZipCode>
+        <town>Echallens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités de services dans le domaine des sociétés en particulier les restructurations organisationnelles des personnes morales (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>22000.00</nominal>
+      <paid>22000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>1004525424</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

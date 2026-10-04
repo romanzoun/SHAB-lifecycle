@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.15/HR02-export.xsd">
+<meta>
+  <id>1e3386be-fe90-45f0-8b80-9456cb8323c0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005498253</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-06-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Stiftung Ochsengut, Murten</de>
+    <en>Change Stiftung Ochsengut, Murten</en>
+    <it>Cambiamenti Stiftung Ochsengut, Murten</it>
+    <fr>Mutation Stiftung Ochsengut, Murten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3741</journalNumber>
+  <journalDate>2022-06-14</journalDate>
+  <publicationText>Stiftung Ochsengut, in Murten, CHE-110.367.632 (SHAB vom 27.06.2019, s. 0/1004661288). Eingetragene Person geändert: KSM Revisions AG (CH-217-0530506-6), Revisionsstelle, firmiert neu Revision Schwab AG (CHE-101.816.944).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stiftung Ochsengut</name>
+      <uid>CHE-110.367.632</uid>
+      <uidOrganisationId>110367632</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735308357</code13>
+      <seat>Murten</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Treuhand Schwab AG</addressLine1>
+        <street>Freiburgstrasse</street>
+        <houseNumber>65</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Erwachsene Behinderte im Seebezirk zu fördern, zu beschäftigen und zu betreuen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Revision Schwab AG</name>
+        <country>CH</country>
+        <uid>CHE101816944</uid>
+        <uidOrganisationId>101816944</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stiftung Ochsengut</name>
+      <uid>CHE-110.367.632</uid>
+      <uidOrganisationId>110367632</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735308357</code13>
+      <seat>Murten</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Treuhand Schwab AG</addressLine1>
+        <street>Freiburgstrasse</street>
+        <houseNumber>65</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Erwachsene Behinderte im Seebezirk zu fördern, zu beschäftigen und zu betreuen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Revision Schwab AG</name>
+        <country>CH</country>
+        <uid>CHE101816944</uid>
+        <uidOrganisationId>101816944</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-27</lastFoscDate>
+    <lastFoscNumber>122</lastFoscNumber>
+    <lastFoscSequence>1004661288</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

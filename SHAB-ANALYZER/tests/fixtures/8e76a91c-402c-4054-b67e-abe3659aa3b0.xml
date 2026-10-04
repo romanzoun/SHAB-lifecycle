@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8e462d4e-14ba-4f83-9dc7-be32b00b73d3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004484268</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation FONDATION JEAN MONNET POUR L'EUROPE, Lausanne</de>
+    <en>Change FONDATION JEAN MONNET POUR L'EUROPE, Lausanne</en>
+    <it>Cambiamenti FONDATION JEAN MONNET POUR L'EUROPE, Lausanne</it>
+    <fr>Mutation FONDATION JEAN MONNET POUR L'EUROPE, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18830</journalNumber>
+  <journalDate>2018-10-22</journalDate>
+  <publicationText>FONDATION JEAN MONNET POUR L'EUROPE, à Lausanne, CHE-107.014.038 (FOSC du 11.07.2018, p. 0/4351991). Nouveaux membres du conseil de fondation sans signature: Girgis-Musy Gisela, d'Ecublens (VD), à Leutwil, et Tombinski Jan Tadeusz, de Pologne, à Cracovie (Pologne).</publicationText>
+  <commonsNew>
+    <company>
+      <name>FONDATION JEAN MONNET POUR L'EUROPE</name>
+      <uid>CHE107014038</uid>
+      <uidOrganisationId>107014038</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001731319</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ferme de Dorigny</street>
+        <swissZipCode>1015</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>apporter une contribution aux efforts consacrés à la construction de l'Europe en s'inspirant de la pensée, de la méthode et de l'action de Monsieur Jean Monnet.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FONDATION JEAN MONNET POUR L'EUROPE</name>
+      <uid>CHE107014038</uid>
+      <uidOrganisationId>107014038</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001731319</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ferme de Dorigny</street>
+        <swissZipCode>1015</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>apporter une contribution aux efforts consacrés à la construction de l'Europe en s'inspirant de la pensée, de la méthode et de l'action de Monsieur Jean Monnet.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-11</lastFoscDate>
+    <lastFoscSequence>4351991</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

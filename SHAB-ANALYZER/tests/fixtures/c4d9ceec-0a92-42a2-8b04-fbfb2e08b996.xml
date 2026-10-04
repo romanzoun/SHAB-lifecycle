@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>c4c458f1-6a67-47fe-9967-39cd6237cc71</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004729818</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Carrelages SM SA, Cornaux</de>
+    <en>Change Carrelages SM SA, Cornaux</en>
+    <it>Cambiamenti Carrelages SM SA, Cornaux</it>
+    <fr>Mutation Carrelages SM SA, Cornaux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3121</journalNumber>
+  <journalDate>2019-09-30</journalDate>
+  <publicationText>Carrelages SM SA, à Cornaux, CHE-112.022.078 (FOSC du 06.07.2017, p. 0/3628639). Nouvelle raison sociale de l'organe de révision Sorefisa Berney SA Société Fiduciaire (CHE-103.197.046): Berney Associés Fribourg SA.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Carrelages SM SA</name>
+      <uid>CHE-112.022.078</uid>
+      <uidOrganisationId>112022078</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64540974556</code13>
+      <seat>Cornaux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Nageux</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>2087</swissZipCode>
+        <town>Cornaux NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de carrelage et revêtements de sols.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Berney Associés Fribourg SA</name>
+        <country>CH</country>
+        <uid>CHE103197046</uid>
+        <uidOrganisationId>103197046</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Carrelages SM SA</name>
+      <uid>CHE-112.022.078</uid>
+      <uidOrganisationId>112022078</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64540974556</code13>
+      <seat>Cornaux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Nageux</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>2087</swissZipCode>
+        <town>Cornaux NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de carrelage et revêtements de sols.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-07-06</lastFoscDate>
+    <lastFoscNumber>129</lastFoscNumber>
+    <lastFoscSequence>3628639</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

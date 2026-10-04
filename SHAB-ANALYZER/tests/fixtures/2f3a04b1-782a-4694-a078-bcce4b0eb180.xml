@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>2f1c0da2-8363-4168-b742-72157f4f47cb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004764699</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Fera AG in Liquidation, Luzern</de>
+    <en>Change Fera AG in Liquidation, Luzern</en>
+    <it>Cambiamenti Fera AG in Liquidation, Luzern</it>
+    <fr>Mutation Fera AG in Liquidation, Luzern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9366</journalNumber>
+  <journalDate>2019-11-18</journalDate>
+  <publicationText>Fera AG in Liquidation, in Luzern, CHE-101.978.707, Aktiengesellschaft (SHAB Nr. 96 vom 20.05.2010, S.3, Publ. 5640510). Der Einzelrichter des Bezirksgerichts Luzern, Abteilung 3, hat mit Entscheid vom 23.10.2019 die Finspecta AG als ausseramtliche Konkursverwaltung abgesetzt. Als neue ausseramtliche Konkursverwalterin wird die Transliq AG (CHE-133.138.812), Bahnhofstrasse 52, 8001 Zürich, eingesetzt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fera AG in Liquidation</name>
+      <uid>CHE-101.978.707</uid>
+      <uidOrganisationId>101978707</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10030168885</code13>
+      <seat>Luzern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rothenring</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>6015</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Vermittlung von Waren, Maschinen und Anlagen aller Art; Erwerb und Verwaltung von Beteiligungen und Immobilien.</purpose>
+    <capital>
+      <nominal>6000000.00</nominal>
+      <paid>6000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fera AG in Liquidation</name>
+      <uid>CHE-101.978.707</uid>
+      <uidOrganisationId>101978707</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10030168885</code13>
+      <seat>Luzern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rothenring</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>6015</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Vermittlung von Waren, Maschinen und Anlagen aller Art; Erwerb und Verwaltung von Beteiligungen und Immobilien.</purpose>
+    <capital>
+      <nominal>6000000.00</nominal>
+      <paid>6000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2010-05-20</lastFoscDate>
+    <lastFoscNumber>96</lastFoscNumber>
+    <lastFoscSequence>5640510</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

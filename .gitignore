@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+.claude/
+.env.git
+**/.env
+!**/.env.example
+**/watch.env
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/*.egg-info/
+**/.venv/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm

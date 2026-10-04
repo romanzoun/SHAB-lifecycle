@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>29a455d6-b3fc-4005-aea7-8fbdf59b4169</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004667425</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Rämi-Treuhand AG, Meggen</de>
+    <en>Change Rämi-Treuhand AG, Meggen</en>
+    <it>Cambiamenti Rämi-Treuhand AG, Meggen</it>
+    <fr>Mutation Rämi-Treuhand AG, Meggen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5308</journalNumber>
+  <journalDate>2019-07-01</journalDate>
+  <publicationText>Rämi-Treuhand AG, in Meggen, CHE-102.432.730, Aktiengesellschaft (SHAB Nr. 25 vom 05.02.2016, S.0, Publ. 2649975). Aufspaltung: Die Gesellschaft und die Swiss Immovalor AG, in Zollikon (CHE-103.962.373) übernehmen von der Finanz und Treuhand AG Alpnach OW, in Alpnach (CHE-109.035.689) je einen Teil des Vermögens. Die Gesellschaft übernimmt dabei gemäss Spaltungsvertrag vom 19.06.2019 Aktiven von CHF 155'387'585.38 und Passiven (Fremdkapital) von CHF 152'121'402.96. Da dieselben Aktionäre sämtliche Aktien der an der Aufspaltung beteiligten Gesellschaften halten, findet weder eine Kapitalerhöhung noch eine Aktienzuteilung statt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Rämi-Treuhand AG</name>
+      <uid>CHE102432730</uid>
+      <uidOrganisationId>102432730</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH15030017733</code13>
+      <seat>Meggen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schönblickstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>6045</swissZipCode>
+        <town>Meggen</town>
+      </address>
+    </company>
+    <purpose>Immobilienunternehmen, Vermittlung von Immobilien, Generalunternehmung, Treuhand, Vermögensverwaltung, Beteiligungen.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Rämi-Treuhand AG</name>
+      <uid>CHE102432730</uid>
+      <uidOrganisationId>102432730</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH15030017733</code13>
+      <seat>Meggen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schönblickstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>6045</swissZipCode>
+        <town>Meggen</town>
+      </address>
+    </company>
+    <purpose>Immobilienunternehmen, Vermittlung von Immobilien, Generalunternehmung, Treuhand, Vermögensverwaltung, Beteiligungen.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-02-05</lastFoscDate>
+    <lastFoscNumber>25</lastFoscNumber>
+    <lastFoscSequence>2649975</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>37495a45-ee7f-45ec-b591-3984bafdef2f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005199211</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Freemont SA, Lutry</de>
+    <en>Change Freemont SA, Lutry</en>
+    <it>Cambiamenti Freemont SA, Lutry</it>
+    <fr>Mutation Freemont SA, Lutry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11916</journalNumber>
+  <journalDate>2021-05-26</journalDate>
+  <publicationText>Freemont SA, à Lutry, CHE-219.741.358 (FOSC du 05.02.2021, p. 0/1005093716). Christiansen Niels Bjoern, du Danemark, à Vedbaek (Danemark), sans signature, et Sohi Mohsen, des USA, à Frankfurt am Main (Allemagne), sans signature, sont membres du conseil d'administration.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Freemont SA</name>
+      <uid>CHE-219.741.358</uid>
+      <uidOrganisationId>219741358</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011843633</code13>
+      <seat>Lutry</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Remparts</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1095</swissZipCode>
+        <town>Lutry</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'acquisition et la gestion, directes ou indirectes, de participations à d'autres sociétés, suisses ou étrangères, ainsi que les activités de surveillance et de conseil stratégiques d'investissements, à l'exception de toutes opérations prohibées par la LFAIE (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Freemont SA</name>
+      <uid>CHE-219.741.358</uid>
+      <uidOrganisationId>219741358</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011843633</code13>
+      <seat>Lutry</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Remparts</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1095</swissZipCode>
+        <town>Lutry</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'acquisition et la gestion, directes ou indirectes, de participations à d'autres sociétés, suisses ou étrangères, ainsi que les activités de surveillance et de conseil stratégiques d'investissements, à l'exception de toutes opérations prohibées par la LFAIE (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-02-05</lastFoscDate>
+    <lastFoscNumber>25</lastFoscNumber>
+    <lastFoscSequence>1005093716</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

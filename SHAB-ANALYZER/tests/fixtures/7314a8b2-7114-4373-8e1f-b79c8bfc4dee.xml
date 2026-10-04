@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>72c4f7e8-09e4-4e9e-9018-0ebe3ca12a07</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004769467</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Navitas Consilium SA, Martigny</de>
+    <en>Change Navitas Consilium SA, Martigny</en>
+    <it>Cambiamenti Navitas Consilium SA, Martigny</it>
+    <fr>Mutation Navitas Consilium SA, Martigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3073</journalNumber>
+  <journalDate>2019-11-22</journalDate>
+  <publicationText>Rectification de l'inscription au registre journalier No 2'038 du 07.07.2017, publiée dans la FOSC No 133 du 12.07.2017, p. 3'640'819. Navitas Consilium SA, à Martigny, CHE-303.023.163, société anonyme (No. FOSC 126 du 03.07.2019, Publ. 1004666958). Nouvelles actions: 2'000 actions nominatives de CHF 100.00 avec restriction de transmissibilité selon statuts [non: 200 actions nominatives de CHF 1'000.00 avec restriction de transmissibilité selon statuts].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Navitas Consilium SA</name>
+      <uid>CHE-303.023.163</uid>
+      <uidOrganisationId>303023163</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130085570</code13>
+      <seat>Martigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Marconi</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>conseil, soutien et accompagnement des collectivités publiques et du secteur privé vers une utilisation rationnelle de l'énergie et son approvisionnement (cf statuts pour but complet)</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Navitas Consilium SA</name>
+      <uid>CHE-303.023.163</uid>
+      <uidOrganisationId>303023163</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130085570</code13>
+      <seat>Martigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Marconi</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>conseil, soutien et accompagnement des collectivités publiques et du secteur privé vers une utilisation rationnelle de l'énergie et son approvisionnement (cf statuts pour but complet)</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-03</lastFoscDate>
+    <lastFoscNumber>126</lastFoscNumber>
+    <lastFoscSequence>1004666958</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>d1393e67-0ff3-45bc-b3ed-f829368f561c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004744236</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation Fontavis AG, Baar</de>
+    <en>Change Fontavis AG, Baar</en>
+    <it>Cambiamenti Fontavis AG, Baar</it>
+    <fr>Mutation Fontavis AG, Baar</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14942</journalNumber>
+  <journalDate>2019-10-21</journalDate>
+  <publicationText>Fontavis AG, in Baar, CHE-432.352.267, Aktiengesellschaft (SHAB Nr. 149 vom 06.08.2019, Publ. 1004690360). Statutenänderung: 17.10.2019. Genussscheine neu: 1'000 Genussscheine, mit Rechten auf Anteil am Bilanzgewinn und am Liquidationserlös gemäss Statuten.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fontavis AG</name>
+      <uid>CHE-432.352.267</uid>
+      <uidOrganisationId>432352267</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030362889</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grabenstrasse</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Vermögensverwaltung und Beratung von kollektiven Kapitalanlagen sowie qualifizierten Anlegern einschliesslich damit zusammenhängende Dienstleistungen in und von der Schweiz aus; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>210000.00</nominal>
+      <paid>210000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fontavis AG</name>
+      <uid>CHE-432.352.267</uid>
+      <uidOrganisationId>432352267</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030362889</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grabenstrasse</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Vermögensverwaltung und Beratung von kollektiven Kapitalanlagen sowie qualifizierten Anlegern einschliesslich damit zusammenhängende Dienstleistungen in und von der Schweiz aus; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>210000.00</nominal>
+      <paid>210000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-06</lastFoscDate>
+    <lastFoscNumber>149</lastFoscNumber>
+    <lastFoscSequence>1004690360</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

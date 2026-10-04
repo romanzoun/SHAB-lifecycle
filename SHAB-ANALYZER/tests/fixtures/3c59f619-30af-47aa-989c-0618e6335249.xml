@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3c0ef30a-0770-42e7-99ad-b70693ed2682</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004485298</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation LES FOURNEAUX DU MANEGE SA, Onex</de>
+    <en>Change LES FOURNEAUX DU MANEGE SA, Onex</en>
+    <it>Cambiamenti LES FOURNEAUX DU MANEGE SA, Onex</it>
+    <fr>Mutation LES FOURNEAUX DU MANEGE SA, Onex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19621</journalNumber>
+  <journalDate>2018-10-23</journalDate>
+  <publicationText>LES FOURNEAUX DU MANEGE SA, à Onex, CHE-112.369.547 (FOSC du 10.10.2018, p. 0/1004474187). L'inscription no 18245 du 05.10.2018 est rectifiée en ce sens que les administrateurs Extermann Gautier et Wuarin Marc signent individuellement (et non pas collectivement à deux).</publicationText>
+  <commonsNew>
+    <company>
+      <name>LES FOURNEAUX DU MANEGE SA</name>
+      <uid>CHE112369547</uid>
+      <uidOrganisationId>112369547</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010840057</code13>
+      <seat>Onex</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Gustave-Rochette</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Onex</town>
+      </address>
+    </company>
+    <purpose>exploitation, direction et gestion d'établissements dans le domaine de la restauration; service traiteur, commerce de vins, de produits alimentaires et de boissons.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LES FOURNEAUX DU MANEGE SA</name>
+      <uid>CHE112369547</uid>
+      <uidOrganisationId>112369547</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010840057</code13>
+      <seat>Onex</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Gustave-Rochette</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Onex</town>
+      </address>
+    </company>
+    <purpose>exploitation, direction et gestion d'établissements dans le domaine de la restauration; service traiteur, commerce de vins, de produits alimentaires et de boissons.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-10</lastFoscDate>
+    <lastFoscSequence>1004474187</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

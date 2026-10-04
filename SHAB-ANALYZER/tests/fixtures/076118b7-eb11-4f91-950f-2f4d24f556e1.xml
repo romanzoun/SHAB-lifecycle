@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>071ce48c-48fd-4eac-b4c3-229b648bd71b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005211784</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-06-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Driva SA, Genève</de>
+    <en>Change Driva SA, Genève</en>
+    <it>Cambiamenti Driva SA, Genève</it>
+    <fr>Mutation Driva SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12572</journalNumber>
+  <journalDate>2021-06-04</journalDate>
+  <publicationText>Driva SA, à Genève, CHE-102.318.732 (FOSC du 07.11.2018, p. 0/1004492867). Le 01.05.2021, les 100 actions au porteur ont été converties de par la loi en actions nominatives. Les statuts de la société n'ont pas encore été adaptés à la conversion, mais devront l'être lors de la prochaine modification. Capital-actions: CHF 110'000, libéré à concurrence de CHF 110'000, divisé en 100 actions A de CHF 1'000, nominatives, et 100 actions B de CHF 100, nominatives, à droit de vote privilégié.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Driva SA</name>
+      <uid>CHE-102.318.732</uid>
+      <uidOrganisationId>102318732</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000319394</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Imbert-Galloix</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>importation, exportation, achat, vente et représentation de toutes marchandises, produits et articles, notamment dans le domaine de l'horlogerie et de la bijouterie.</purpose>
+    <capital>
+      <nominal>110000.00</nominal>
+      <paid>110000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Driva SA</name>
+      <uid>CHE-102.318.732</uid>
+      <uidOrganisationId>102318732</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000319394</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Imbert-Galloix</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>importation, exportation, achat, vente et représentation de toutes marchandises, produits et articles, notamment dans le domaine de l'horlogerie et de la bijouterie.</purpose>
+    <capital>
+      <nominal>110000.00</nominal>
+      <paid>110000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-07</lastFoscDate>
+    <lastFoscNumber>216</lastFoscNumber>
+    <lastFoscSequence>1004492867</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

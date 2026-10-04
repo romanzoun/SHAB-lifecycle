@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.23/HR02-export.xsd">
+<meta>
+  <id>8ce55d17-c80b-4e25-a9ad-1dc098d0a845</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006240667</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2025-01-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <secondaryTenants>
+    <tenantCode>kabvs</tenantCode>
+    <publicationDate>2025-01-28</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation CEVM Compagnie Energétique du Vallon de Morgins SA, Troistorrents</de>
+    <en>Change CEVM Compagnie Energétique du Vallon de Morgins SA, Troistorrents</en>
+    <it>Cambiamenti CEVM Compagnie Energétique du Vallon de Morgins SA, Troistorrents</it>
+    <fr>Mutation CEVM Compagnie Energétique du Vallon de Morgins SA, Troistorrents</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>245</journalNumber>
+  <journalDate>2025-01-23</journalDate>
+  <publicationText>CEVM Compagnie Energétique du Vallon de Morgins SA, à Troistorrents, CHE-114.482.597, société anonyme (No. FOSC 52 du 15.03.2023, Publ. 1005701391). Modification des statuts: 26.11.2024. Nouvelles communications aux actionnaires: par écrit ou par courrier électronique. Statuts modifiés également sur des points non soumis à publication.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CEVM Compagnie Energétique du Vallon de Morgins SA</name>
+      <uid>CHE-114.482.597</uid>
+      <uidOrganisationId>114482597</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130072463</code13>
+      <seat>Troistorrents</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Chésery</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1875</swissZipCode>
+        <town>Morgins</town>
+      </address>
+    </company>
+    <purpose>production, distribution et vente d'énergie produite à partir de déchets de bois (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>1500000.00</nominal>
+      <paid>1500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CEVM Compagnie Energétique du Vallon de Morgins SA</name>
+      <uid>CHE-114.482.597</uid>
+      <uidOrganisationId>114482597</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130072463</code13>
+      <seat>Troistorrents</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Chésery</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1875</swissZipCode>
+        <town>Morgins</town>
+      </address>
+    </company>
+    <purpose>production, distribution et vente d'énergie produite à partir de déchets de bois (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>1500000.00</nominal>
+      <paid>1500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2023-03-15</lastFoscDate>
+    <lastFoscNumber>52</lastFoscNumber>
+    <lastFoscSequence>1005701391</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

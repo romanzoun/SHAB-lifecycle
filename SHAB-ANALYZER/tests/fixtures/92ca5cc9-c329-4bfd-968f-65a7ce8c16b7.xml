@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>92888895-f2ec-4969-9a12-6c35f5929563</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004513217</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Domaine du Parc Holding SA, Ollon</de>
+    <en>Change Domaine du Parc Holding SA, Ollon</en>
+    <it>Cambiamenti Domaine du Parc Holding SA, Ollon</it>
+    <fr>Mutation Domaine du Parc Holding SA, Ollon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21355</journalNumber>
+  <journalDate>2018-11-30</journalDate>
+  <publicationText>Domaine du Parc Holding SA, à Ollon, CHE-113.480.911 (FOSC du 26.02.2018, p. 0/4077617). Statuts modifiés le 29 mai 2018. La disposition statutaire relative à la reprise de biens est abrogée conformément à l'article 628 al. 4 CO. Suppression des 108 bons de jouissance donnant droit à une part du bénéfice net et du produit de liquidation, les détenteurs ayant été désintéressés.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Domaine du Parc Holding SA</name>
+      <uid>CHE113480911</uid>
+      <uidOrganisationId>113480911</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010498109</code13>
+      <seat>Ollon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Villars-sur-Ollon, route du Col de la Croix, chalet Stana</street>
+        <swissZipCode>1884</swissZipCode>
+        <town>Villars-sur-Ollon</town>
+      </address>
+    </company>
+    <purpose>acquisition, administration et gestion de participations à l'exclusion de toute opération soumise à la LFAIE.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Domaine du Parc Holding SA</name>
+      <uid>CHE113480911</uid>
+      <uidOrganisationId>113480911</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010498109</code13>
+      <seat>Ollon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Villars-sur-Ollon, route du Col de la Croix, chalet Stana</street>
+        <swissZipCode>1884</swissZipCode>
+        <town>Villars-sur-Ollon</town>
+      </address>
+    </company>
+    <purpose>acquisition, administration et gestion de participations à l'exclusion de toute opération soumise à la LFAIE.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-02-26</lastFoscDate>
+    <lastFoscSequence>4077617</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

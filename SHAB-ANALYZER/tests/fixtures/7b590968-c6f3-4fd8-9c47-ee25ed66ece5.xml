@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>7b522453-d9e4-46fb-a850-1f7a04fd35b9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004781115</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation ONYS SA, Satigny</de>
+    <en>Change ONYS SA, Satigny</en>
+    <it>Cambiamenti ONYS SA, Satigny</it>
+    <fr>Mutation ONYS SA, Satigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22991</journalNumber>
+  <journalDate>2019-12-06</journalDate>
+  <publicationText>ONYS SA, à Satigny, CHE-113.573.530 (FOSC du 04.12.2019, p. 0/1004775116). L'inscription n° 22434 du 29.11.2019 est complétée en ce que sens la clause statutaire relative à l'augmentation autorisée du capital participation, fondée sur la décision d'autorisation du 29.07.2010, est supprimée par l'assemblée générale du 26.11.2019, le délai étant écoulé.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ONYS SA</name>
+      <uid>CHE-113.573.530</uid>
+      <uidOrganisationId>113573530</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008550078</code13>
+      <seat>Satigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Satigny</street>
+        <houseNumber>58</houseNumber>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>formation, accompagnement, coaching, consulting, développement des ressources humaines; ainsi que gestion administrative de biens immobiliers; également dans les domaines de la création, la fabrication et vente de produits en céramique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>431000.00</nominal>
+      <paid>431000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ONYS SA</name>
+      <uid>CHE-113.573.530</uid>
+      <uidOrganisationId>113573530</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008550078</code13>
+      <seat>Satigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Satigny</street>
+        <houseNumber>58</houseNumber>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>formation, accompagnement, coaching, consulting, développement des ressources humaines; ainsi que gestion administrative de biens immobiliers; également dans les domaines de la création, la fabrication et vente de produits en céramique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>431000.00</nominal>
+      <paid>431000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-04</lastFoscDate>
+    <lastFoscNumber>235</lastFoscNumber>
+    <lastFoscSequence>1004775116</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

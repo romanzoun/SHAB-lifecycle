@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>24332f3f-5bcc-4e80-8c38-a57d5fcff7c8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004508103</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation AREUSE IMMOBILIER Sàrl, Val-de-Travers</de>
+    <en>Change AREUSE IMMOBILIER Sàrl, Val-de-Travers</en>
+    <it>Cambiamenti AREUSE IMMOBILIER Sàrl, Val-de-Travers</it>
+    <fr>Mutation AREUSE IMMOBILIER Sàrl, Val-de-Travers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4426</journalNumber>
+  <journalDate>2018-11-23</journalDate>
+  <publicationText>AREUSE IMMOBILIER Sàrl, à Val-de-Travers, CHE-392.411.708 (FOSC du 29.05.2018, p. 0/4255437). Nouvelle raison sociale de l'associée LEONIX Holding SA (CHE-227.174.042): BVEL Holding SA.</publicationText>
+  <commonsNew>
+    <company>
+      <name>AREUSE IMMOBILIER Sàrl</name>
+      <uid>CHE392411708</uid>
+      <uidOrganisationId>392411708</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541178004</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>St-Sulpice, rue de la Doux</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>2123</swissZipCode>
+        <town>St-Sulpice NE</town>
+      </address>
+    </company>
+    <purpose>fourniture de services en relation avec l'acquisition, l'administration, la location, l'intermédiation, l'exploitation, l'entretien et la maintenance de biens immobiliers, exceptés les opérations prohibées par la LFAIE (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AREUSE IMMOBILIER Sàrl</name>
+      <uid>CHE392411708</uid>
+      <uidOrganisationId>392411708</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541178004</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>St-Sulpice, rue de la Doux</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>2123</swissZipCode>
+        <town>St-Sulpice NE</town>
+      </address>
+    </company>
+    <purpose>fourniture de services en relation avec l'acquisition, l'administration, la location, l'intermédiation, l'exploitation, l'entretien et la maintenance de biens immobiliers, exceptés les opérations prohibées par la LFAIE (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-29</lastFoscDate>
+    <lastFoscSequence>4255437</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b48e8ae6-75f7-4f7d-b594-4028c4c9a7e3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004453300</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Käsereigenossenschaft Bürg u. Umgebung in Liquidation, Eschenbach (SG)</de>
+    <en>Change Käsereigenossenschaft Bürg u. Umgebung in Liquidation, Eschenbach (SG)</en>
+    <it>Cambiamenti Käsereigenossenschaft Bürg u. Umgebung in Liquidation, Eschenbach (SG)</it>
+    <fr>Mutation Käsereigenossenschaft Bürg u. Umgebung in Liquidation, Eschenbach (SG)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8113</journalNumber>
+  <journalDate>2018-09-06</journalDate>
+  <publicationText>Käsereigenossenschaft Bürg u. Umgebung in Liquidation, in Eschenbach SG, CHE-100.706.342, Genossenschaft (SHAB Nr. 140 vom 21.07.2017, Publ. 3659531). Liquidation beendet. Die Genossenschaft kann mangels Zustimmung des Kantonalen Steueramtes noch nicht gelöscht werden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Käsereigenossenschaft Bürg u. Umgebung in Liquidation</name>
+      <uid>CHE100706342</uid>
+      <uidOrganisationId>100706342</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32050056438</code13>
+      <seat>Eschenbach (SG)</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Josef Arnold</addressLine1>
+        <street>Delggstrasse</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>8733</swissZipCode>
+        <town>Eschenbach</town>
+      </address>
+    </company>
+    <purpose>Bestmögliche Verwertung der verfügbaren Milch sowie die allgemeine Förderung der milchwirtschaftlichen Interessen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Käsereigenossenschaft Bürg u. Umgebung in Liquidation</name>
+      <uid>CHE100706342</uid>
+      <uidOrganisationId>100706342</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32050056438</code13>
+      <seat>Eschenbach (SG)</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Josef Arnold</addressLine1>
+        <street>Delggstrasse</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>8733</swissZipCode>
+        <town>Eschenbach</town>
+      </address>
+    </company>
+    <purpose>Bestmögliche Verwertung der verfügbaren Milch sowie die allgemeine Förderung der milchwirtschaftlichen Interessen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-07-21</lastFoscDate>
+    <lastFoscNumber>140</lastFoscNumber>
+    <lastFoscSequence>3659531</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

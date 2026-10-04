@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>089da292-deb2-4f0c-a1ea-2f968c41d804</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004736848</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Pizza Factory Sàrl, Vuadens</de>
+    <en>Change Pizza Factory Sàrl, Vuadens</en>
+    <it>Cambiamenti Pizza Factory Sàrl, Vuadens</it>
+    <fr>Mutation Pizza Factory Sàrl, Vuadens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5699</journalNumber>
+  <journalDate>2019-10-09</journalDate>
+  <publicationText>Pizza Factory Sàrl, à Vuadens, CHE-290.686.317 (FOSC du 16.09.2019, p. 0/1004716665). Rectificatif: l'inscription n° 5626 du 04.10.2019 (FOSC du 09.10.2019, Id 1004733746) est rectifiée dans ce sens que par arrêt du 01.10.2019, le Tribunal cantonal de Fribourg a admis le recours du 05.09.2019 et annulé la décision de faillite du 21.08.2019 (et non du 21.09.2019) de la Présidente du Tribunal civil de la Gruyère.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pizza Factory Sàrl</name>
+      <uid>CHE-290.686.317</uid>
+      <uidOrganisationId>290686317</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735632681</code13>
+      <seat>Vuadens</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route Principale</street>
+        <houseNumber>191</houseNumber>
+        <swissZipCode>1628</swissZipCode>
+        <town>Vuadens</town>
+      </address>
+    </company>
+    <purpose>Exploitation de pizzeria (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pizza Factory Sàrl</name>
+      <uid>CHE-290.686.317</uid>
+      <uidOrganisationId>290686317</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735632681</code13>
+      <seat>Vuadens</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route Principale</street>
+        <houseNumber>191</houseNumber>
+        <swissZipCode>1628</swissZipCode>
+        <town>Vuadens</town>
+      </address>
+    </company>
+    <purpose>Exploitation de pizzeria (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-16</lastFoscDate>
+    <lastFoscNumber>178</lastFoscNumber>
+    <lastFoscSequence>1004716665</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

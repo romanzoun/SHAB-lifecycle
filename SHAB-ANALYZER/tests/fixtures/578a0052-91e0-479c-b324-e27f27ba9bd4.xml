@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>5769bfb5-9e11-4d55-bdbb-8c0ca07c582a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004710275</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation GFI Securities Nyon Sàrl, Nyon, neu GFI Securities Nyon Sàrl en liquidation</de>
+    <en>Change GFI Securities Nyon Sàrl, Nyon, new GFI Securities Nyon Sàrl en liquidation</en>
+    <it>Cambiamenti GFI Securities Nyon Sàrl, Nyon, nuovo GFI Securities Nyon Sàrl en liquidation</it>
+    <fr>Mutation GFI Securities Nyon Sàrl, Nyon, nouveau GFI Securities Nyon Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15799</journalNumber>
+  <journalDate>2019-09-02</journalDate>
+  <publicationText>GFI Securities Nyon Sàrl, à Nyon, CHE-135.021.730 (FOSC du 01.02.2017, p. 0/3320891). Selon décision de son assemblée des associés du 22 août 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: GFI Securities Nyon Sàrl en liquidation (GFI Securities Nyon LLC in liquidation), par XANDY MANAGEMENT SA (CHE-101.211.847), à Martigny, liquidatrice. Adresse de liquidation: Rue des Près-de-la-Scie 7, c/o XANDY MANAGEMENT SA, 1920 Martigny.</publicationText>
+  <commonsNew>
+    <company>
+      <name>GFI Securities Nyon Sàrl en liquidation</name>
+      <translations>(GFI Securities Nyon LLC in liquidation)</translations>
+      <uid>CHE-135.021.730</uid>
+      <uidOrganisationId>135021730</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011023418</code13>
+      <seat>Nyon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Alfred-Cortot</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o XANDY MANAGEMENT SA</addressLine1>
+        <street>Rue des Près-de-la-Scie</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </liqAddress>
+    </company>
+    <purpose>mettre en contact des contreparties directes ou indirectes dans le cadre de transactions commerciales portant sur des valeurs mobilières, d'autres instruments financiers, d'autres produits et/ou valeurs (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>17900000.00</nominal>
+      <paid>17900000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GFI Securities Nyon Sàrl</name>
+      <translations>(GFI Securities Nyon LLC)</translations>
+      <uid>CHE-135.021.730</uid>
+      <uidOrganisationId>135021730</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011023418</code13>
+      <seat>Nyon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Alfred-Cortot</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>mettre en contact des contreparties directes ou indirectes dans le cadre de transactions commerciales portant sur des valeurs mobilières, d'autres instruments financiers, d'autres produits et/ou valeurs (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>17900000.00</nominal>
+      <paid>17900000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-02-01</lastFoscDate>
+    <lastFoscNumber>22</lastFoscNumber>
+    <lastFoscSequence>3320891</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

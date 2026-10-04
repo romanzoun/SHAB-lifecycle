@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>47d4595b-6131-495f-a5c8-15b8d6fc5da4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004565521</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Pegasus Computer GmbH in Liquidation, Schaffhausen</de>
+    <en>Change Pegasus Computer GmbH in Liquidation, Schaffhausen</en>
+    <it>Cambiamenti Pegasus Computer GmbH in Liquidation, Schaffhausen</it>
+    <fr>Mutation Pegasus Computer GmbH in Liquidation, Schaffhausen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>291</journalNumber>
+  <journalDate>2019-02-08</journalDate>
+  <publicationText>Pegasus Computer GmbH in Liquidation, in Schaffhausen, CHE-112.160.929, Gesellschaft mit beschränkter Haftung (SHAB Nr. 164 vom 25.08.2016, Publ. 3020913). Eingetragene Personen neu oder mutierend: Waldvogel, Daniel, von Hemishofen, unbekannten Aufenthaltes, Geschäftsführer, Liquidator, mit Unterschrift zu zweien [bisher: in Appenzell].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pegasus Computer GmbH in Liquidation</name>
+      <uid>CHE112160929</uid>
+      <uidOrganisationId>112160929</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29040149650</code13>
+      <seat>Schaffhausen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <town>kein Domizil/sans domicile</town>
+      </address>
+    </company>
+    <purpose>Handel mit Computern und dergleichen mit den dazugehörenden Komponenten aller Art (Hardware und Software).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pegasus Computer GmbH in Liquidation</name>
+      <uid>CHE112160929</uid>
+      <uidOrganisationId>112160929</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29040149650</code13>
+      <seat>Schaffhausen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <town>kein Domizil/sans domicile</town>
+      </address>
+    </company>
+    <purpose>Handel mit Computern und dergleichen mit den dazugehörenden Komponenten aller Art (Hardware und Software).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-08-25</lastFoscDate>
+    <lastFoscNumber>164</lastFoscNumber>
+    <lastFoscSequence>3020913</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>94013300-fd44-451d-b90a-f0aaee016a3e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004614702</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>NW</cantons>
+  <title>
+    <de>Mutation JB BURRI, Hergiswil (NW)</de>
+    <en>Change JB BURRI, Hergiswil (NW)</en>
+    <it>Cambiamenti JB BURRI, Hergiswil (NW)</it>
+    <fr>Mutation JB BURRI, Hergiswil (NW)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>560</journalNumber>
+  <journalDate>2019-04-16</journalDate>
+  <publicationText>JB BURRI, in Hergiswil (NW), CHE-112.381.399, Einzelunternehmen (SHAB Nr. 56 vom 21.03.2019, Publ. 1004592805). Da der Inhaber den Geschäftsbetrieb weiterführt, bleibt der Eintrag des Einzelunternehmens bestehen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>JB BURRI</name>
+      <uid>CHE112381399</uid>
+      <uidOrganisationId>112381399</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH05310173521</code13>
+      <seat>Hergiswil (NW)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seestrasse</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>6052</swissZipCode>
+        <town>Hergiswil NW</town>
+      </address>
+    </company>
+    <purpose>Dienstleistungen in den Bereichen Wirtschaft und Sport.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>JB BURRI</name>
+      <uid>CHE112381399</uid>
+      <uidOrganisationId>112381399</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH05310173521</code13>
+      <seat>Hergiswil (NW)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seestrasse</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>6052</swissZipCode>
+        <town>Hergiswil NW</town>
+      </address>
+    </company>
+    <purpose>Dienstleistungen in den Bereichen Wirtschaft und Sport.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-21</lastFoscDate>
+    <lastFoscNumber>56</lastFoscNumber>
+    <lastFoscSequence>1004592805</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Nidwalden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>0c3f14de-dcb6-4ba0-bdc5-7c69149e2134</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004962857</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Artisia SA, La Chaux-de-Fonds</de>
+    <en>Change Artisia SA, La Chaux-de-Fonds</en>
+    <it>Cambiamenti Artisia SA, La Chaux-de-Fonds</it>
+    <fr>Mutation Artisia SA, La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2493</journalNumber>
+  <journalDate>2020-08-18</journalDate>
+  <publicationText>Artisia SA, à La Chaux-de-Fonds, CHE-112.839.464 (FOSC du 30.06.2017, p. 0/3615241). Nouvelle raison sociale du réviseur "Fiduciaire Juravenir SA" (CHE-105.190.411) : "FIDAG Jura SA".</publicationText>
+  <commonsNew>
+    <company>
+      <name>Artisia SA</name>
+      <uid>CHE-112.839.464</uid>
+      <uidOrganisationId>112839464</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64540996410</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Collège</street>
+        <houseNumber>85</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>développer, concevoir, fabriquer, assembler, acheter, vendre et distribuer des mouvements, ou parties de mouvements, montres et instruments de qualité de mesure du temps; exploiter des marques en relation avec l'horlogerie et ses produits dérivés, s'inspirer de leur création en y faisant référence dans la production et promotion de ces marques; accorder des prêts ou des garanties à des actionnaires ou à des tiers, si cela favorise des intérêts.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>FIDAG Jura SA</name>
+        <country>CH</country>
+        <uid>CHE105190411</uid>
+        <uidOrganisationId>105190411</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Artisia SA</name>
+      <uid>CHE-112.839.464</uid>
+      <uidOrganisationId>112839464</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64540996410</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Collège</street>
+        <houseNumber>85</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>développer, concevoir, fabriquer, assembler, acheter, vendre et distribuer des mouvements, ou parties de mouvements, montres et instruments de qualité de mesure du temps; exploiter des marques en relation avec l'horlogerie et ses produits dérivés, s'inspirer de leur création en y faisant référence dans la production et promotion de ces marques; accorder des prêts ou des garanties à des actionnaires ou à des tiers, si cela favorise des intérêts.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-06-30</lastFoscDate>
+    <lastFoscNumber>125</lastFoscNumber>
+    <lastFoscSequence>3615241</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

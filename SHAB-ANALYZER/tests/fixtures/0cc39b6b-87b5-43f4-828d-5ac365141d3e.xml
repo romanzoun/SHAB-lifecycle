@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>0caf4033-91ca-40ea-b4b4-d92f93852ee5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004650212</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Greiner Bug a Thai, Basel</de>
+    <en>Change Greiner Bug a Thai, Basel</en>
+    <it>Cambiamenti Greiner Bug a Thai, Basel</it>
+    <fr>Mutation Greiner Bug a Thai, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3238</journalNumber>
+  <journalDate>2019-06-07</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 64 vom 02.04.2019 publizierten TR-Eintrag Nr. 1'809 vom 28.03.2019 Greiner Bug a Thai, in Basel, CHE-488.205.164, Einzelunternehmen (SHAB Nr. 64 vom 02.04.2019, Publ. 1004601019). Die Gesellschaft hat sich infolge Ausscheidens des Gesellschafters Tam Sittichai Lanz aufgelöst. Die Firma ist erloschen. Der Gesellschafter Roger Philippe Greiner führt das Geschäft gemäss Art. 579 OR als Einzelunternehmen fort.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Greiner Bug a Thai</name>
+      <uid>CHE488205164</uid>
+      <uidOrganisationId>488205164</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27020029992</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rheinfelderstr.</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>4058</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Führen von Gastrobetrieben.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Greiner Bug a Thai</name>
+      <uid>CHE488205164</uid>
+      <uidOrganisationId>488205164</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27020029992</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rheinfelderstr.</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>4058</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Führen von Gastrobetrieben.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-02</lastFoscDate>
+    <lastFoscNumber>64</lastFoscNumber>
+    <lastFoscSequence>1004601019</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

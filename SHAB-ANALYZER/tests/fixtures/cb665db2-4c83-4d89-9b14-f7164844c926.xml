@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>cb3abcb0-9bfd-469c-b460-6bad3f333a32</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004673728</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Benotto Renzo, Corseaux</de>
+    <en>Change Benotto Renzo, Corseaux</en>
+    <it>Cambiamenti Benotto Renzo, Corseaux</it>
+    <fr>Mutation Benotto Renzo, Corseaux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12182</journalNumber>
+  <journalDate>2019-07-08</journalDate>
+  <publicationText>Benotto Renzo, à Corseaux, CHE-104.884.043 (FOSC du 05.07.2019, p. 0/1004669344). Le président du Tribunal de l'arrondissement de l'Est vaudois a prononcé l'effet suspensif de la procédure de faillite le 1er juillet 2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Benotto Renzo</name>
+      <uid>CHE104884043</uid>
+      <uidOrganisationId>104884043</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011317484</code13>
+      <seat>Corseaux</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de la Maraîche</street>
+        <houseNumber>28</houseNumber>
+        <swissZipCode>1802</swissZipCode>
+        <town>Corseaux</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise d'installations électriques et téléphoniques sous la dénomination Benotto électricité; création de sites web et applications mobiles sous la dénomination Alternatis.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Benotto Renzo</name>
+      <uid>CHE104884043</uid>
+      <uidOrganisationId>104884043</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011317484</code13>
+      <seat>Corseaux</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de la Maraîche</street>
+        <houseNumber>28</houseNumber>
+        <swissZipCode>1802</swissZipCode>
+        <town>Corseaux</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise d'installations électriques et téléphoniques sous la dénomination Benotto électricité; création de sites web et applications mobiles sous la dénomination Alternatis.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-05</lastFoscDate>
+    <lastFoscSequence>1004669344</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

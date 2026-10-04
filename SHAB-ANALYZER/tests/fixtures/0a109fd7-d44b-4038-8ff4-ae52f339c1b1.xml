@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>09fdd2b7-5ea3-4ab0-b48b-4014077b2cfb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004487849</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Abarno SA, Bedano</de>
+    <en>Change Abarno SA, Bedano</en>
+    <it>Cambiamenti Abarno SA, Bedano</it>
+    <fr>Mutation Abarno SA, Bedano</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14607</journalNumber>
+  <journalDate>2018-10-26</journalDate>
+  <publicationText>Abarno SA, in Bedano, CHE-106.777.062, società anonima (Nr. FUSC 143 del 28.07.2014, Pubbl. 1637041). Trasferimento di patrimonio: secondo contratto del 16.10.2018 la società ha trasferito alla C.P.A. Costruzioni Pavimentazioni Asfalti SA, in Lugano (CHE-112.273.752), attivi per CHF 150'000.00 e passivi verso terzi per CHF 0.00. Contro prestazione: 161'550.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Abarno SA</name>
+      <uid>CHE106777062</uid>
+      <uidOrganisationId>106777062</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430059170</code13>
+      <seat>Bedano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Cantonale</street>
+        <swissZipCode>6930</swissZipCode>
+        <town>Bedano</town>
+      </address>
+    </company>
+    <purpose>L'esecuzione di trasporti e spedizioni; l'acquisto, la vendita, l'importazione, l'esportazione e il commercio di merce e beni; l'acquisto e la vendita, la registrazione e lo sfruttamento di beni immateriali come licenze, patenti, marchi, come pure l'acquisto e la concessione di suddetti diritti.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Abarno SA</name>
+      <uid>CHE106777062</uid>
+      <uidOrganisationId>106777062</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430059170</code13>
+      <seat>Bedano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Cantonale</street>
+        <swissZipCode>6930</swissZipCode>
+        <town>Bedano</town>
+      </address>
+    </company>
+    <purpose>L'esecuzione di trasporti e spedizioni; l'acquisto, la vendita, l'importazione, l'esportazione e il commercio di merce e beni; l'acquisto e la vendita, la registrazione e lo sfruttamento di beni immateriali come licenze, patenti, marchi, come pure l'acquisto e la concessione di suddetti diritti.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-07-28</lastFoscDate>
+    <lastFoscNumber>143</lastFoscNumber>
+    <lastFoscSequence>1637041</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

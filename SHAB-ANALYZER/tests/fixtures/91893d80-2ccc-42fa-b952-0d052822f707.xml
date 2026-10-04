@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>910f1530-9bda-4b2b-b7f9-6f46d45f0d2c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004739306</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation LITASCO SA, Genève</de>
+    <en>Change LITASCO SA, Genève</en>
+    <it>Cambiamenti LITASCO SA, Genève</it>
+    <fr>Mutation LITASCO SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19148</journalNumber>
+  <journalDate>2019-10-11</journalDate>
+  <publicationText>LITASCO SA, à Genève, CHE-100.738.922 (FOSC du 19.07.2019, p. 0/1004680517). Matzke Richard Herman, des USA, en Californie, USA, est membre du conseil d'administration, il n'exerce pas la signature.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LITASCO SA</name>
+      <uid>CHE-100.738.922</uid>
+      <uidOrganisationId>100738922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008070002</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Conseil-Général</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>commerce, négoce, échange, transformation, distribution et stockage de matières premières, notamment de pétrole brut, produits pétroliers, gaz et produits dérivés, électricité, énergie et émissions, ainsi que transport par bateaux, rails, routes et réseaux électriques, gazoducs et oléoducs ainsi que raffinage de pétrole brut (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>5000000.00</nominal>
+      <paid>5000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LITASCO SA</name>
+      <uid>CHE-100.738.922</uid>
+      <uidOrganisationId>100738922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008070002</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Conseil-Général</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>commerce, négoce, échange, transformation, distribution et stockage de matières premières, notamment de pétrole brut, produits pétroliers, gaz et produits dérivés, électricité, énergie et émissions, ainsi que transport par bateaux, rails, routes et réseaux électriques, gazoducs et oléoducs ainsi que raffinage de pétrole brut (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>5000000.00</nominal>
+      <paid>5000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-19</lastFoscDate>
+    <lastFoscNumber>138</lastFoscNumber>
+    <lastFoscSequence>1004680517</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

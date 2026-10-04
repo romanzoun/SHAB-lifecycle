@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>69b67694-d23a-486b-935d-b0550bb78c34</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004542221</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fonds de Prévoyance de la Fabrique Reuge S.A., Sainte-Croix</de>
+    <en>Change Fonds de Prévoyance de la Fabrique Reuge S.A., Sainte-Croix</en>
+    <it>Cambiamenti Fonds de Prévoyance de la Fabrique Reuge S.A., Sainte-Croix</it>
+    <fr>Mutation Fonds de Prévoyance de la Fabrique Reuge S.A., Sainte-Croix</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>602</journalNumber>
+  <journalDate>2019-01-10</journalDate>
+  <publicationText>Fonds de Prévoyance de la Fabrique Reuge S.A., à Sainte-Croix, CHE-109.781.806 (FOSC du 29.08.2018, p. 0/4441681). Nouveaux membres du conseil de fondation avec signature collective à deux: Bédouret Sébastien, de France, aux Fourgs (France), et Meister Stéphane, de Trüllikon, à Bullet.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fonds de Prévoyance de la Fabrique Reuge S.A.</name>
+      <uid>CHE109781806</uid>
+      <uidOrganisationId>109781806</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001745563</code13>
+      <seat>Sainte-Croix</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fabrique Reuge S.A.</street>
+        <swissZipCode>1450</swissZipCode>
+        <town>Ste-Croix</town>
+      </address>
+    </company>
+    <purpose>instituer, dans le cadre de la LPP et de ses dispositions d'exécution, une prévoyance professionnelle en faveur du personnel de l'entreprise, de leur famille et de leurs survivants, pour faire face aux conséquences économiques de la vieillesse, du décès ou de l'incapacité de travail.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fonds de Prévoyance de la Fabrique Reuge S.A.</name>
+      <uid>CHE109781806</uid>
+      <uidOrganisationId>109781806</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001745563</code13>
+      <seat>Sainte-Croix</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fabrique Reuge S.A.</street>
+        <swissZipCode>1450</swissZipCode>
+        <town>Ste-Croix</town>
+      </address>
+    </company>
+    <purpose>instituer, dans le cadre de la LPP et de ses dispositions d'exécution, une prévoyance professionnelle en faveur du personnel de l'entreprise, de leur famille et de leurs survivants, pour faire face aux conséquences économiques de la vieillesse, du décès ou de l'incapacité de travail.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-29</lastFoscDate>
+    <lastFoscSequence>4441681</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

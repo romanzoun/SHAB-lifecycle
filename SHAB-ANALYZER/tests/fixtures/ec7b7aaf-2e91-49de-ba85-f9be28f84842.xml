@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ec4fda24-47e0-41b1-a57e-61eb31606277</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004500086</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation FAMILLE HOMINAL HOLDING Sàrl, Bernex</de>
+    <en>Change FAMILLE HOMINAL HOLDING Sàrl, Bernex</en>
+    <it>Cambiamenti FAMILLE HOMINAL HOLDING Sàrl, Bernex</it>
+    <fr>Mutation FAMILLE HOMINAL HOLDING Sàrl, Bernex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21018</journalNumber>
+  <journalDate>2018-11-13</journalDate>
+  <publicationText>FAMILLE HOMINAL HOLDING Sàrl, à Bernex, CHE-115.059.304 (FOSC du 26.10.2017, p. 0/3834047). Les associés Hofer Bérangère, maintenant domiciliée à Vulbens, F, Hominal Jessica et Hominal Tanguy sont nommés gérants avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>FAMILLE HOMINAL HOLDING Sàrl</name>
+      <uid>CHE115059304</uid>
+      <uidOrganisationId>115059304</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62640124720</code13>
+      <seat>Bernex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Abarois</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1233</swissZipCode>
+        <town>Bernex</town>
+      </address>
+    </company>
+    <purpose>Prise de participations et financement, pour son propre compte et/ou pour le compte de tiers, dans toute société et entreprise commerciale, industrielle et financière, en Suisse et à l'étranger (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>22500.00</nominal>
+      <paid>22500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FAMILLE HOMINAL HOLDING Sàrl</name>
+      <uid>CHE115059304</uid>
+      <uidOrganisationId>115059304</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62640124720</code13>
+      <seat>Bernex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Abarois</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1233</swissZipCode>
+        <town>Bernex</town>
+      </address>
+    </company>
+    <purpose>Prise de participations et financement, pour son propre compte et/ou pour le compte de tiers, dans toute société et entreprise commerciale, industrielle et financière, en Suisse et à l'étranger (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>22500.00</nominal>
+      <paid>22500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-10-26</lastFoscDate>
+    <lastFoscSequence>3834047</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

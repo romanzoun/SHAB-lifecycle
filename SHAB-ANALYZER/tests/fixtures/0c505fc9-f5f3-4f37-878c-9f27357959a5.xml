@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>0bba9ec3-09c1-41df-b0fb-9da5e3a64b08</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004632500</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation McPIO GmbH, Baar</de>
+    <en>Change McPIO GmbH, Baar</en>
+    <it>Cambiamenti McPIO GmbH, Baar</it>
+    <fr>Mutation McPIO GmbH, Baar</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6752</journalNumber>
+  <journalDate>2019-05-14</journalDate>
+  <publicationText>Berichtigung des im SHAB vom 31.01.2019, Meldungs Nr. 1'004'555'349, publizierten Tagesregistereintrages Nr. 1'272 vom 28.01.2019 McPIO GmbH, in Baar, CHE-113.328.485, Gesellschaft mit beschränkter Haftung (SHAB Nr. 21 vom 31.01.2019, Publ. 1004555349). Statutenänderung: 25.01.2019. [Das Statutendatum vom 14.12.2018 wurde irrtümlich eingetragen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>McPIO GmbH</name>
+      <uid>CHE113328485</uid>
+      <uidOrganisationId>113328485</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040068128</code13>
+      <seat>Baar</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Eggried</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>6319</swissZipCode>
+        <town>Allenwinden</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen und Beratungen im Bereich der Betriebswirtschaft; kann Grundstücke erwerben und veräussern sowie sich an anderen Unternehmungen beteiligen</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>McPIO GmbH</name>
+      <uid>CHE113328485</uid>
+      <uidOrganisationId>113328485</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040068128</code13>
+      <seat>Baar</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Eggried</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>6319</swissZipCode>
+        <town>Allenwinden</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen und Beratungen im Bereich der Betriebswirtschaft; kann Grundstücke erwerben und veräussern sowie sich an anderen Unternehmungen beteiligen</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-31</lastFoscDate>
+    <lastFoscNumber>21</lastFoscNumber>
+    <lastFoscSequence>1004555349</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

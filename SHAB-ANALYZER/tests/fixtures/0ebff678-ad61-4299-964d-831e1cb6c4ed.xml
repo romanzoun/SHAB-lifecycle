@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>0eb74e4b-4adf-43c7-9ec6-d60505c60f0c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004744430</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Mercadi AG in Liquidation, Chur</de>
+    <en>Change Mercadi AG in Liquidation, Chur</en>
+    <it>Cambiamenti Mercadi AG in Liquidation, Chur</it>
+    <fr>Mutation Mercadi AG in Liquidation, Chur</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5228</journalNumber>
+  <journalDate>2019-10-21</journalDate>
+  <publicationText>Mercadi AG in Liquidation, in Chur, CHE-101.388.032, Aktiengesellschaft (SHAB Nr. 212 vom 01.11.2016, Publ. 3138071). Die Liquidation ist beendet. Löschung aufgeschoben mangels Zustimmungen der eidg. und kant. Steuerverwaltung.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mercadi AG in Liquidation</name>
+      <uid>CHE-101.388.032</uid>
+      <uidOrganisationId>101388032</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030037123</code13>
+      <seat>Chur</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Masanserstrasse</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>7000</swissZipCode>
+        <town>Chur</town>
+      </address>
+    </company>
+    <purpose>Beratung in Baufragen, Ausfertigung von Expertisen, Handel mit Baumaterialien, Erbringung oder Vermittlung von Ingenieur- und Architekturleistungen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mercadi AG in Liquidation</name>
+      <uid>CHE-101.388.032</uid>
+      <uidOrganisationId>101388032</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030037123</code13>
+      <seat>Chur</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Masanserstrasse</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>7000</swissZipCode>
+        <town>Chur</town>
+      </address>
+    </company>
+    <purpose>Beratung in Baufragen, Ausfertigung von Expertisen, Handel mit Baumaterialien, Erbringung oder Vermittlung von Ingenieur- und Architekturleistungen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-11-01</lastFoscDate>
+    <lastFoscNumber>212</lastFoscNumber>
+    <lastFoscSequence>3138071</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>c7b0dbf4-aa8a-4ca4-83d1-5f76cdacd9c1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004467540</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Le Market Monthey SNC en liquidation, Monthey</de>
+    <en>Change Le Market Monthey SNC en liquidation, Monthey</en>
+    <it>Cambiamenti Le Market Monthey SNC en liquidation, Monthey</it>
+    <fr>Mutation Le Market Monthey SNC en liquidation, Monthey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2432</journalNumber>
+  <journalDate>2018-09-27</journalDate>
+  <publicationText>Le Market Monthey SNC en liquidation, à Monthey, CHE-273.966.365, société en nom collectif (No. FOSC 129 du 06.07.2018, Publ. 4342851). Par décision judiciaire du 10.09.2018 prononcée par le Tribunal de Monthey, il a été ordonné la réinscription de cette société radiée comme société en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Le Market Monthey SNC en liquidation</name>
+      <uid>CHE273966365</uid>
+      <uidOrganisationId>273966365</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62120083509</code13>
+      <seat>Monthey</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de la Gare</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1870</swissZipCode>
+        <town>Monthey</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un café-restaurant</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Le Market Monthey SNC en liquidation</name>
+      <uid>CHE273966365</uid>
+      <uidOrganisationId>273966365</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62120083509</code13>
+      <seat>Monthey</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de la Gare</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1870</swissZipCode>
+        <town>Monthey</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un café-restaurant</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-06</lastFoscDate>
+    <lastFoscNumber>129</lastFoscNumber>
+    <lastFoscSequence>4342851</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

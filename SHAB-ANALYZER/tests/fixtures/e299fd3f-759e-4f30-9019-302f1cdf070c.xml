@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>e2830a95-c32f-47a3-b4a9-9d5bc5b3f6d9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004529588</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Pensionskasse der JURA-Holding, Aarau</de>
+    <en>Change Pensionskasse der JURA-Holding, Aarau</en>
+    <it>Cambiamenti Pensionskasse der JURA-Holding, Aarau</it>
+    <fr>Mutation Pensionskasse der JURA-Holding, Aarau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13184</journalNumber>
+  <journalDate>2018-12-19</journalDate>
+  <publicationText>Pensionskasse der JURA-Holding, in Aarau, CHE-109.535.578, Stiftung (SHAB Nr. 247 vom 20.12.2018, Publ. 1004526552). Vermögensübertragung: Die Pensionskasse der JURA-Holding überträgt gemäss Vertrag vom 26.11.2018 Aktiven von CHF 64'178'000.00 auf die Avadis Anlagestiftung, in Zürich (CHE-109.649.433). Gegenleistung: 450.3195 Ansprüche zu CHF 142'516.59 der Anlagegruppe Immobilien Schweiz Wohnen des übernehmenden Rechtsträgers.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pensionskasse der JURA-Holding</name>
+      <uid>CHE109535578</uid>
+      <uidOrganisationId>109535578</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40079261396</code13>
+      <seat>Aarau</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>41</houseNumber>
+        <swissZipCode>5000</swissZipCode>
+        <town>Aarau</town>
+      </address>
+    </company>
+    <purpose>Vorsorge für die ständigen Mitarbeiter der Jura-Holding, mit Sitz in Aarau, und deren Tochtergesellschaften sowie deren Angehörige und Hinterbliebene gegen die wirtschaftlichen Folgen der Invalidität, des Alters und des Todes nach Massgabe des vom Stiftungsrat erlassenen Reglements.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pensionskasse der JURA-Holding</name>
+      <uid>CHE109535578</uid>
+      <uidOrganisationId>109535578</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40079261396</code13>
+      <seat>Aarau</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>41</houseNumber>
+        <swissZipCode>5000</swissZipCode>
+        <town>Aarau</town>
+      </address>
+    </company>
+    <purpose>Vorsorge für die ständigen Mitarbeiter der Jura-Holding, mit Sitz in Aarau, und deren Tochtergesellschaften sowie deren Angehörige und Hinterbliebene gegen die wirtschaftlichen Folgen der Invalidität, des Alters und des Todes nach Massgabe des vom Stiftungsrat erlassenen Reglements.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-20</lastFoscDate>
+    <lastFoscNumber>247</lastFoscNumber>
+    <lastFoscSequence>1004526552</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>bf3d3b00-0a61-4e37-b2a0-12a6b19f3211</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005278461</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-08-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Alissa Gourmet SNC, Montreux, neu Alissa Gourmet SNC en liquidation</de>
+    <en>Change Alissa Gourmet SNC, Montreux, new Alissa Gourmet SNC en liquidation</en>
+    <it>Cambiamenti Alissa Gourmet SNC, Montreux, nuovo Alissa Gourmet SNC en liquidation</it>
+    <fr>Mutation Alissa Gourmet SNC, Montreux, nouveau Alissa Gourmet SNC en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17987</journalNumber>
+  <journalDate>2021-08-23</journalDate>
+  <publicationText>Alissa Gourmet SNC, à Montreux, CHE-295.932.682, Société en nom collectif (FOSC du 13.09.2018, p. 0/1004455070). Par décision du président du Tribunal de l'arrondissement de l'Est vaudois du 14.07.2021, la société a été déclarée dissoute conformément à l'article 939 CO; sa liquidation a été ordonnée selon les dispositions applicables à la faillite. La raison de commerce devient: Alissa Gourmet SNC en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Alissa Gourmet SNC en liquidation</name>
+      <uid>CHE-295.932.682</uid>
+      <uidOrganisationId>295932682</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011812571</code13>
+      <seat>Montreux</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Alpes</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>1820</swissZipCode>
+        <town>Montreux</town>
+      </address>
+    </company>
+    <purpose>cuisine orientale et livraison à domicile.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Alissa Gourmet SNC</name>
+      <uid>CHE-295.932.682</uid>
+      <uidOrganisationId>295932682</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011812571</code13>
+      <seat>Montreux</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Alpes</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>1820</swissZipCode>
+        <town>Montreux</town>
+      </address>
+    </company>
+    <purpose>cuisine orientale et livraison à domicile.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-13</lastFoscDate>
+    <lastFoscNumber>177</lastFoscNumber>
+    <lastFoscSequence>1004455070</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

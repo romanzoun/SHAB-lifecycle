@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b3d3f488-9b92-4d1f-b252-ee0b76ffe02c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004620052</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Swisser AG in liquidazione, Grono</de>
+    <en>Change Swisser AG in liquidazione, Grono</en>
+    <it>Cambiamenti Swisser AG in liquidazione, Grono</it>
+    <fr>Mutation Swisser AG in liquidazione, Grono</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2166</journalNumber>
+  <journalDate>2019-04-25</journalDate>
+  <publicationText>Complemento dell'iscrizione del registro giornaliero no. 2'112 del 23.04.2019, pubblicato sul FUSC no. 80 del 26.04.2019. Swisser AG in liquidazione, in Grono, CHE-110.196.879, società anonima (Nr. FUSC 80 del 26.04.2019, Pubbl. 1004618127). Nuove traduzioni della ditta: (Swisser SA in liquidazione) (Swisser Ltd in liquidation).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Swisser AG in liquidazione</name>
+      <translations>[fr] Swisser SA in liquidazione [en] Swisser Ltd in liquidation</translations>
+      <uid>CHE110196879</uid>
+      <uidOrganisationId>110196879</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030265424</code13>
+      <seat>Grono</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Cantonale</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>6537</swissZipCode>
+        <town>Grono</town>
+      </address>
+    </company>
+    <purpose>La consulenza in materia di gestione di impresa e di pianificazione fiscale, oltre all'attività di fiduciaria; scopo completo a norma di statuto.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Swisser AG in liquidazione</name>
+      <translations>[de] Swisser SA [fr] Swisser Ltd</translations>
+      <uid>CHE110196879</uid>
+      <uidOrganisationId>110196879</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030265424</code13>
+      <seat>Grono</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Cantonale</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>6537</swissZipCode>
+        <town>Grono</town>
+      </address>
+    </company>
+    <purpose>La consulenza in materia di gestione di impresa e di pianificazione fiscale, oltre all'attività di fiduciaria; scopo completo a norma di statuto.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-26</lastFoscDate>
+    <lastFoscNumber>80</lastFoscNumber>
+    <lastFoscSequence>1004618127</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

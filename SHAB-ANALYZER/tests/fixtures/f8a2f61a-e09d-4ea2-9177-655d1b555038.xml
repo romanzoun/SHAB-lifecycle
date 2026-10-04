@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>f87bb439-110e-4024-882a-eff25fb441cc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004521550</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>TG</cantons>
+  <title>
+    <de>Mutation Ernst Gschwend, Egnach</de>
+    <en>Change Ernst Gschwend, Egnach</en>
+    <it>Cambiamenti Ernst Gschwend, Egnach</it>
+    <fr>Mutation Ernst Gschwend, Egnach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5547</journalNumber>
+  <journalDate>2018-12-11</journalDate>
+  <publicationText>Ernst Gschwend, in Egnach, CHE-110.427.346, Einzelunternehmen (SHAB Nr. 227 vom 22.11.2018, Publ. 1004503757). Die Löschung des Einzelunternehmens (SHAB Nr. 227 vom 22.11.2018) ist zu Unrecht erfolgt und wird hiermit berichtigt. [bisher: Die Firma wird infolge Geschäftsaufgabe im Sinne von Art. 152 HRegV von Amtes wegen gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Ernst Gschwend</name>
+      <uid>CHE110427346</uid>
+      <uidOrganisationId>110427346</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44010059211</code13>
+      <seat>Egnach</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Romanshornerstrasse</street>
+        <houseNumber>130</houseNumber>
+        <swissZipCode>9322</swissZipCode>
+        <town>Egnach</town>
+      </address>
+    </company>
+    <purpose>Autohandel, Autospritzwerk, Autospenglerei.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Ernst Gschwend</name>
+      <uid>CHE110427346</uid>
+      <uidOrganisationId>110427346</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44010059211</code13>
+      <seat>Egnach</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Romanshornerstrasse</street>
+        <houseNumber>130</houseNumber>
+        <swissZipCode>9322</swissZipCode>
+        <town>Egnach</town>
+      </address>
+    </company>
+    <purpose>Autohandel, Autospritzwerk, Autospenglerei.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-22</lastFoscDate>
+    <lastFoscNumber>227</lastFoscNumber>
+    <lastFoscSequence>1004503757</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Thurgau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

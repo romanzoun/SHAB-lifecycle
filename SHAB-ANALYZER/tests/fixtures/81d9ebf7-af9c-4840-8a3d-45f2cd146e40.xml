@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>819621d7-c314-491f-a970-374cc41d0b37</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004481802</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation Igor Carl Fabergé, Genève</de>
+    <en>Change Fondation Igor Carl Fabergé, Genève</en>
+    <it>Cambiamenti Fondation Igor Carl Fabergé, Genève</it>
+    <fr>Mutation Fondation Igor Carl Fabergé, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19202</journalNumber>
+  <journalDate>2018-10-17</journalDate>
+  <publicationText>Fondation Igor Carl Fabergé, à Genève, CHE-101.243.787 (FOSC du 05.07.2018, p. 0/4340345). De Maria Emiliano, d'Italie, à Malmö, SWE, et Panych Tamara, d'Ukraine, à Rome, I, sont membres du conseil avec signature collective à deux, avec le président ou le vice-président.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Igor Carl Fabergé</name>
+      <uid>CHE101243787</uid>
+      <uidOrganisationId>101243787</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002499825</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Guillaume-Tell</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>faire connaître l'oeuvre et la personnalité de Carl Fabergé, en son temps joaillier de la Cour Impériale à Saint-Pétersbourg, et rassembler, dans la mesure du possible, tout ce qui se rapporte à ses activités professionnelles. Le même but sera poursuivi en ce qui concerne son petit-fils Igor Carl Fabergé, pour ses activités artistiques personnelles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Igor Carl Fabergé</name>
+      <uid>CHE101243787</uid>
+      <uidOrganisationId>101243787</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002499825</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Guillaume-Tell</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>faire connaître l'oeuvre et la personnalité de Carl Fabergé, en son temps joaillier de la Cour Impériale à Saint-Pétersbourg, et rassembler, dans la mesure du possible, tout ce qui se rapporte à ses activités professionnelles. Le même but sera poursuivi en ce qui concerne son petit-fils Igor Carl Fabergé, pour ses activités artistiques personnelles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-05</lastFoscDate>
+    <lastFoscSequence>4340345</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

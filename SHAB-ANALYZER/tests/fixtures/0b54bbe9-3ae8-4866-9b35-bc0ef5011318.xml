@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>0aee80f9-299d-4f53-b375-0e1ee3f5b4c6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004902102</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Manpower SA, succursale d'Yverdon, Yverdon-les-Bains</de>
+    <en>Change Manpower SA, succursale d'Yverdon, Yverdon-les-Bains</en>
+    <it>Cambiamenti Manpower SA, succursale d'Yverdon, Yverdon-les-Bains</it>
+    <fr>Mutation Manpower SA, succursale d'Yverdon, Yverdon-les-Bains</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8609</journalNumber>
+  <journalDate>2020-05-28</journalDate>
+  <publicationText>Manpower SA, succursale d'Yverdon, à Yverdon-les-Bains, CHE-288.889.911 (FOSC du 20.08.2019, p. 0/1004699146). Siège principal: Zoug. Nouvelle raison sociale du siège principal: Manpower SA (Manpower AG) (Manpower Ltd) (CHE-105.999.625). Nouveau siège principal: Morges.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Manpower SA, succursale d'Yverdon</name>
+      <uid>CHE-288.889.911</uid>
+      <uidOrganisationId>288889911</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010315783</code13>
+      <seat>Yverdon-les-Bains</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Collège</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1400</swissZipCode>
+        <town>Yverdon-les-Bains</town>
+      </address>
+    </company>
+    <purpose>recherche, sélection, conseils, formation de personnel, mise à disposition de personnel pour le placement fixe, temporaire et à temps partiel; prise en charge et management de personnel sur demande; gestion de salaires et travaux qui sont en relation avec des contrats d'outsourcing.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Manpower SA</name>
+      <country>CH</country>
+      <uid>CHE-105.999.625</uid>
+      <uidOrganisationId>105999625</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Manpower SA, succursale d'Yverdon</name>
+      <uid>CHE-288.889.911</uid>
+      <uidOrganisationId>288889911</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010315783</code13>
+      <seat>Yverdon-les-Bains</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Collège</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1400</swissZipCode>
+        <town>Yverdon-les-Bains</town>
+      </address>
+    </company>
+    <purpose>recherche, sélection, conseils, formation de personnel, mise à disposition de personnel pour le placement fixe, temporaire et à temps partiel; prise en charge et management de personnel sur demande; gestion de salaires et travaux qui sont en relation avec des contrats d'outsourcing.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Manpower SA</name>
+      <country>CH</country>
+      <uid>CHE-105.999.625</uid>
+      <uidOrganisationId>105999625</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-20</lastFoscDate>
+    <lastFoscNumber>159</lastFoscNumber>
+    <lastFoscSequence>1004699146</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

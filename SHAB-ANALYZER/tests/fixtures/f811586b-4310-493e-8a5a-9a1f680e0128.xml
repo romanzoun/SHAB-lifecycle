@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>f7b84c2e-c04c-4a4a-97f0-7b7af6ef9676</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004503667</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation La Piazza Chur GmbH in Liquidation, Chur</de>
+    <en>Change La Piazza Chur GmbH in Liquidation, Chur</en>
+    <it>Cambiamenti La Piazza Chur GmbH in Liquidation, Chur</it>
+    <fr>Mutation La Piazza Chur GmbH in Liquidation, Chur</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5234</journalNumber>
+  <journalDate>2018-11-19</journalDate>
+  <publicationText>La Piazza Chur GmbH in Liquidation, in Chur, CHE-320.317.542, Gesellschaft mit beschränkter Haftung (SHAB Nr. 131 vom 10.07.2018, Publ. 4348427). Mit Entscheid des Kantonsgerichts von Graubünden vom 15.11.2018 wurde eine gegen die Konkurseröffnung erhobene Beschwerde abgewiesen und über die Gesellschaft mit Wirkung ab 15.11.2018, 11.55 Uhr, der Konkurs eröffnet. [bisher: Mit Entscheid vom 04.07.2018 hat der Konkursrichter des Regionalgerichts Plessur über die Gesellschaft mit Wirkung ab dem 04.07.2018, 09.15 Uhr, den Konkurs eröffnet; demnach ist die Gesellschaft aufgelöst.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>La Piazza Chur GmbH in Liquidation</name>
+      <uid>CHE320317542</uid>
+      <uidOrganisationId>320317542</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35040045763</code13>
+      <seat>Chur</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pargherastrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>7000</swissZipCode>
+        <town>Chur</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt den Betrieb von Hotels und Gaststätten, die Beteiligung an solchen Betrieben, die Beratung solcher Betriebe sowie den Einkauf und den Verkauf von Waren für solche Betriebe: vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>La Piazza Chur GmbH in Liquidation</name>
+      <uid>CHE320317542</uid>
+      <uidOrganisationId>320317542</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35040045763</code13>
+      <seat>Chur</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pargherastrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>7000</swissZipCode>
+        <town>Chur</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt den Betrieb von Hotels und Gaststätten, die Beteiligung an solchen Betrieben, die Beratung solcher Betriebe sowie den Einkauf und den Verkauf von Waren für solche Betriebe: vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-10</lastFoscDate>
+    <lastFoscNumber>131</lastFoscNumber>
+    <lastFoscSequence>4348427</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

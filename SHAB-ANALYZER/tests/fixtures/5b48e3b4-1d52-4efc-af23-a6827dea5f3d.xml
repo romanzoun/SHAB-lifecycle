@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>5b14db90-17a0-4c57-9133-94e0e83ac0ec</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004513123</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation ASTER LLC, New York, succursale di Chiasso, Chiasso</de>
+    <en>Change ASTER LLC, New York, succursale di Chiasso, Chiasso</en>
+    <it>Cambiamenti ASTER LLC, New York, succursale di Chiasso, Chiasso</it>
+    <fr>Mutation ASTER LLC, New York, succursale di Chiasso, Chiasso</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16387</journalNumber>
+  <journalDate>2018-11-30</journalDate>
+  <publicationText>ASTER LLC, New York, succursale di Chiasso, in Chiasso, CHE-110.111.877, succursale straniera (Nr. FUSC 5 del 08.01.2010, Pubbl. 5430990), Sede principale a: Sede principale: New York (USA). Nuove disposizioni per la succursale: La succursale deve essere cancellata a seguito della procedura di cui all'art. 155 ORC. La cancellazione non può tuttavia essere effettuata mancando il consenso delle autorità fiscali federali e cantonali.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ASTER LLC, New York, succursale di Chiasso</name>
+      <uid>CHE110111877</uid>
+      <uidOrganisationId>110111877</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH52490097677</code13>
+      <seat>Chiasso</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Bossi</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>6830</swissZipCode>
+        <town>Chiasso</town>
+      </address>
+    </company>
+    <purpose>attività di importatore, esportatore, distributore, grossista e dettagliante, di qualunque tipo di merce e prodotto, nonché consulenza e fornitura di tecnologia e know-how in relazione a prodotti chimici industriali.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ASTER LLC, New York, succursale di Chiasso</name>
+      <uid>CHE110111877</uid>
+      <uidOrganisationId>110111877</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH52490097677</code13>
+      <seat>Chiasso</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Bossi</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>6830</swissZipCode>
+        <town>Chiasso</town>
+      </address>
+    </company>
+    <purpose>attività di importatore, esportatore, distributore, grossista e dettagliante, di qualunque tipo di merce e prodotto, nonché consulenza e fornitura di tecnologia e know-how in relazione a prodotti chimici industriali.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2010-01-08</lastFoscDate>
+    <lastFoscNumber>5</lastFoscNumber>
+    <lastFoscSequence>5430990</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>4055b444-d6d0-4f5b-90c7-a978bc4650e9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004600015</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Rahm-Stiftung, Hallau</de>
+    <en>Change Rahm-Stiftung, Hallau</en>
+    <it>Cambiamenti Rahm-Stiftung, Hallau</it>
+    <fr>Mutation Rahm-Stiftung, Hallau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>601</journalNumber>
+  <journalDate>2019-03-27</journalDate>
+  <publicationText>Rahm-Stiftung, in Hallau, CHE-114.526.160, Stiftung (SHAB Nr. 179 vom 17.09.2018, Publ. 1004456690). Mit Verfügung vom 25.03.2019 der Einzelrichterin des Kantonsgerichtes Schaffhausen wurde die Nachlassstundung aufgehoben.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Rahm-Stiftung</name>
+      <uid>CHE114526160</uid>
+      <uidOrganisationId>114526160</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29070162664</code13>
+      <seat>Hallau</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>bei Rimuss- und Weinkellerei Rahm AG</addressLine1>
+        <street>Dickistrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>8215</swissZipCode>
+        <town>Hallau</town>
+      </address>
+    </company>
+    <purpose>Unterstützung von christlichen und anderen gemeinnützigen Werken und Tätigkeiten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Rahm-Stiftung</name>
+      <uid>CHE114526160</uid>
+      <uidOrganisationId>114526160</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29070162664</code13>
+      <seat>Hallau</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>bei Rimuss- und Weinkellerei Rahm AG</addressLine1>
+        <street>Dickistrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>8215</swissZipCode>
+        <town>Hallau</town>
+      </address>
+    </company>
+    <purpose>Unterstützung von christlichen und anderen gemeinnützigen Werken und Tätigkeiten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-17</lastFoscDate>
+    <lastFoscNumber>179</lastFoscNumber>
+    <lastFoscSequence>1004456690</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

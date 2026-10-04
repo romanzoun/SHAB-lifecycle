@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>91f65194-ee46-494d-b849-f924f1be2f93</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004587429</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Freudiger EDV-Beratung, Bern</de>
+    <en>Change Freudiger EDV-Beratung, Bern</en>
+    <it>Cambiamenti Freudiger EDV-Beratung, Bern</it>
+    <fr>Mutation Freudiger EDV-Beratung, Bern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4187</journalNumber>
+  <journalDate>2019-03-11</journalDate>
+  <publicationText>Freudiger EDV-Beratung, in Bern, CHE-108.396.825, Einzelunternehmen (SHAB Nr. 42 vom 01.03.2019, Publ. 1004577869). Mit Verfügung vom 08.03.2019 hat die zuständige Zivilkammer des Obergerichts des Kantons Bern der Beschwerde des Inhabers gegen das erstinstanzliche Konkurserkenntnis die aufschiebende Wirkung erteilt. [bisher: Mit Entscheid des zuständigen Einzelgerichts vom 25.02.2019 wurde über den Inhaber dieses Einzelunternehmens mit Wirkung ab dem 25.02.2019, 15:00 Uhr, der Konkurs eröffnet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Freudiger EDV-Beratung</name>
+      <uid>CHE108396825</uid>
+      <uidOrganisationId>108396825</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03510357170</code13>
+      <seat>Bern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zeughausgasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>3001</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Beratung und Entwicklung von EDV-Systemen sowie Dienstleistungen im Gesundheitswesen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Freudiger EDV-Beratung</name>
+      <uid>CHE108396825</uid>
+      <uidOrganisationId>108396825</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03510357170</code13>
+      <seat>Bern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zeughausgasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>3001</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Beratung und Entwicklung von EDV-Systemen sowie Dienstleistungen im Gesundheitswesen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-01</lastFoscDate>
+    <lastFoscNumber>42</lastFoscNumber>
+    <lastFoscSequence>1004577869</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

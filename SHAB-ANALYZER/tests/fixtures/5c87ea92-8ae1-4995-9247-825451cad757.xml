@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>5c44d35f-c14f-4607-9e33-7a010a3656a7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005205926</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-06-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation S.I. Doronette SA, Lausanne</de>
+    <en>Change S.I. Doronette SA, Lausanne</en>
+    <it>Cambiamenti S.I. Doronette SA, Lausanne</it>
+    <fr>Mutation S.I. Doronette SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12693</journalNumber>
+  <journalDate>2021-05-31</journalDate>
+  <publicationText>S.I. Doronette SA, à Lausanne, CHE-103.170.656 (FOSC du 25.05.2021, p. 0/1005191323). Par décision de l'assemblée générale du 25.05.2021, les statuts de la société ont été adaptés à la conversion de par la loi des actions au porteur en actions nominatives du 1er mai 2021. Statuts modifiés le 25.05.2021. Nouveau capital-actions: CHF 50'000, libéré à concurrence de CHF 50'000, divisé en 50 actions nominatives de CHF 1'000, avec restrictions quant à la transmissibilité selon statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>S.I. Doronette SA</name>
+      <uid>CHE-103.170.656</uid>
+      <uidOrganisationId>103170656</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000730568</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Régie Chamot &amp; Cie S.A.</addressLine1>
+        <street>Boulevard de Grancy</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1006</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>opérations immobilières.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>S.I. Doronette SA</name>
+      <uid>CHE-103.170.656</uid>
+      <uidOrganisationId>103170656</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000730568</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Régie Chamot &amp; Cie S.A.</addressLine1>
+        <street>Boulevard de Grancy</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1006</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>opérations immobilières.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-05-25</lastFoscDate>
+    <lastFoscNumber>98</lastFoscNumber>
+    <lastFoscSequence>1005191323</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

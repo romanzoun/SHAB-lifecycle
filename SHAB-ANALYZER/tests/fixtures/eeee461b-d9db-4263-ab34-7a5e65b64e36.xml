@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>ee712c7f-4153-49cb-93cc-038d4f666168</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004788748</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Caisse de retraite du personnel de Méroz ressorts SA, Chêne-Bourg, neu Caisse de retraite du personnel de Méroz ressorts SA, en liquidation</de>
+    <en>Change Caisse de retraite du personnel de Méroz ressorts SA, Chêne-Bourg, new Caisse de retraite du personnel de Méroz ressorts SA, en liquidation</en>
+    <it>Cambiamenti Caisse de retraite du personnel de Méroz ressorts SA, Chêne-Bourg, nuovo Caisse de retraite du personnel de Méroz ressorts SA, en liquidation</it>
+    <fr>Mutation Caisse de retraite du personnel de Méroz ressorts SA, Chêne-Bourg, nouveau Caisse de retraite du personnel de Méroz ressorts SA, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23634</journalNumber>
+  <journalDate>2019-12-16</journalDate>
+  <publicationText>Caisse de retraite du personnel de Méroz ressorts SA, à Chêne-Bourg, CHE-109.777.963 (FOSC du 17.04.2015, p. 0/2103453). Selon décision de l'Autorité cantonale de surveillance des fondations et des institutions de prévoyance du 11.11.2019, la fondation est dissoute. Sa liquidation est opérée sous la raison sociale: Caisse de retraite du personnel de Méroz ressorts SA, en liquidation. Liquidateurs: les membres du conseil Gretz Gabriel, Masson Christine, Arnoux Sébastien et Rosay Alexandre, lesquels continuent à signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Caisse de retraite du personnel de Méroz ressorts SA, en liquidation</name>
+      <uid>CHE-109.777.963</uid>
+      <uidOrganisationId>109777963</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000409838</code13>
+      <seat>Chêne-Bourg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Mousse</street>
+        <houseNumber>50</houseNumber>
+        <swissZipCode>1225</swissZipCode>
+        <town>Chêne-Bourg</town>
+      </address>
+    </company>
+    <purpose>prévoyance professionnelle, dans le cadre de la LPP et des ses dispositions d'application, en prémunissant les collaborateurs de l'entreprise et des éventuelles sociétés affiliées ainsi que leurs survivants contre les conséquences économiques résultant de la vieillesse, de l'invalidité et du décès, par l'octroi de prestations fixées par voie réglementaire.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Caisse de retraite du personnel de Méroz ressorts SA</name>
+      <uid>CHE-109.777.963</uid>
+      <uidOrganisationId>109777963</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000409838</code13>
+      <seat>Chêne-Bourg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Mousse</street>
+        <houseNumber>50</houseNumber>
+        <swissZipCode>1225</swissZipCode>
+        <town>Chêne-Bourg</town>
+      </address>
+    </company>
+    <purpose>prévoyance professionnelle, dans le cadre de la LPP et des ses dispositions d'application, en prémunissant les collaborateurs de l'entreprise et des éventuelles sociétés affiliées ainsi que leurs survivants contre les conséquences économiques résultant de la vieillesse, de l'invalidité et du décès, par l'octroi de prestations fixées par voie réglementaire.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-04-17</lastFoscDate>
+    <lastFoscNumber>73</lastFoscNumber>
+    <lastFoscSequence>2103453</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

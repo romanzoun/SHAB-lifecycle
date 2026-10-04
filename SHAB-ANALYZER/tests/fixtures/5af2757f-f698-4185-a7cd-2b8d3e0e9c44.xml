@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>5ad4d4f8-7904-4a87-a74b-af57645fcf92</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004743861</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Kinyama Sàrl, Genève, neu Kinyama Sàrl, en liquidation</de>
+    <en>Change Kinyama Sàrl, Genève, new Kinyama Sàrl, en liquidation</en>
+    <it>Cambiamenti Kinyama Sàrl, Genève, nuovo Kinyama Sàrl, en liquidation</it>
+    <fr>Mutation Kinyama Sàrl, Genève, nouveau Kinyama Sàrl, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19612</journalNumber>
+  <journalDate>2019-10-18</journalDate>
+  <publicationText>Kinyama Sàrl, à Genève, CHE-114.347.031 (FOSC du 19.12.2013, p. 0/7225832). La société est dissoute par décision de l'assemblée des associés du 14.10.2019. Sa liquidation est opérée sous la raison sociale: Kinyama Sàrl, en liquidation. Liquidateurs: les associés gérants Breynaert Stanislas et Duboux Nicolas, maintenant domicilié à Meyrin, lesquels continuent à signer individuellement. Adresse de liquidation: Avenue Sainte-Cécile 11, c/o Nicolas Duboux, 1217 Meyrin.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kinyama Sàrl, en liquidation</name>
+      <uid>CHE-114.347.031</uid>
+      <uidOrganisationId>114347031</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66063000081</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Gourgas</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Nicolas Duboux</addressLine1>
+        <street>Avenue Sainte-Cécile</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </liqAddress>
+    </company>
+    <purpose>activités et prestations de services dans les domaines de la musique, notamment le management d'artistes, la production et l'édition musicale ainsi que la promotion artistique et commerciale (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kinyama Sàrl</name>
+      <uid>CHE-114.347.031</uid>
+      <uidOrganisationId>114347031</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66063000081</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Gourgas</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>activités et prestations de services dans les domaines de la musique, notamment le management d'artistes, la production et l'édition musicale ainsi que la promotion artistique et commerciale (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225832</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

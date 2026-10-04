@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>49212788-34c8-4cdb-8639-b986680de6e2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004458886</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Cabinet dentaire de Veyrier Sàrl, Veyrier</de>
+    <en>Change Cabinet dentaire de Veyrier Sàrl, Veyrier</en>
+    <it>Cambiamenti Cabinet dentaire de Veyrier Sàrl, Veyrier</it>
+    <fr>Mutation Cabinet dentaire de Veyrier Sàrl, Veyrier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16626</journalNumber>
+  <journalDate>2018-09-14</journalDate>
+  <publicationText>Cabinet dentaire de Veyrier Sàrl, à Veyrier, CHE-249.592.979 (FOSC du 10.09.2015, p. 0/2366161). Baumgartner Christian a cédé 20 parts de CHF 1'000 à CCB Holding Sàrl (CHE-464.791.027), à Veyrier, nouvelle associée pour 20 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cabinet dentaire de Veyrier Sàrl</name>
+      <uid>CHE249592979</uid>
+      <uidOrganisationId>249592979</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66057920159</code13>
+      <seat>Veyrier</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Jules-Edouard-Gottret</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1255</swissZipCode>
+        <town>Veyrier</town>
+      </address>
+    </company>
+    <purpose>exercer toute activité en rapport avec la création, l'administration et la gestion de centres ou cabinets de médecine dentaire ainsi que la production de services dans le domaine de la santé (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cabinet dentaire de Veyrier Sàrl</name>
+      <uid>CHE249592979</uid>
+      <uidOrganisationId>249592979</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66057920159</code13>
+      <seat>Veyrier</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Jules-Edouard-Gottret</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1255</swissZipCode>
+        <town>Veyrier</town>
+      </address>
+    </company>
+    <purpose>exercer toute activité en rapport avec la création, l'administration et la gestion de centres ou cabinets de médecine dentaire ainsi que la production de services dans le domaine de la santé (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-09-10</lastFoscDate>
+    <lastFoscSequence>2366161</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

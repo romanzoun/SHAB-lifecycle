@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>5c0b1d63-d6ec-4ede-a46e-6b112e0ab031</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004790205</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Société Immobilière de la Praisle SA, Carouge (GE)</de>
+    <en>Change Société Immobilière de la Praisle SA, Carouge (GE)</en>
+    <it>Cambiamenti Société Immobilière de la Praisle SA, Carouge (GE)</it>
+    <fr>Mutation Société Immobilière de la Praisle SA, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23793</journalNumber>
+  <journalDate>2019-12-17</journalDate>
+  <publicationText>Société Immobilière de la Praisle SA, à Carouge (GE), CHE-100.853.569 (FOSC du 16.12.2019, p. 0/1004784664). L'inscription no. 23351 du 11.12.2019 (publication FOSC du 16.12.2019 page 0/100478664) est complété comme suit: nouvel administrateur: de Loës Adrien, de Genève, à Zurich, avec signature individuelle. L'administratrice Brolliet Laure est désormais présidente des gérants et continue de signer individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Société Immobilière de la Praisle SA</name>
+      <uid>CHE-100.853.569</uid>
+      <uidOrganisationId>100853569</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002899693</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Brolliet SA</addressLine1>
+        <street>avenue Cardinal-Mermillod</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>achat, vente, construction et gérance de tous immeubles.</purpose>
+    <capital>
+      <nominal>60000.00</nominal>
+      <paid>60000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Société Immobilière de la Praisle SA</name>
+      <uid>CHE-100.853.569</uid>
+      <uidOrganisationId>100853569</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002899693</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Brolliet SA</addressLine1>
+        <street>avenue Cardinal-Mermillod</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>achat, vente, construction et gérance de tous immeubles.</purpose>
+    <capital>
+      <nominal>60000.00</nominal>
+      <paid>60000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-16</lastFoscDate>
+    <lastFoscNumber>243</lastFoscNumber>
+    <lastFoscSequence>1004784664</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

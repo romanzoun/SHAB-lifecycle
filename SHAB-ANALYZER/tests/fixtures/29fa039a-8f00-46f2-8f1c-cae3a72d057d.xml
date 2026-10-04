@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>29f699a0-7220-494d-9ad8-2b5f5e97c45b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004583462</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Stiftung Sunneschyn Kessibrunnholz, Ueberstorf</de>
+    <en>Change Stiftung Sunneschyn Kessibrunnholz, Ueberstorf</en>
+    <it>Cambiamenti Stiftung Sunneschyn Kessibrunnholz, Ueberstorf</it>
+    <fr>Mutation Stiftung Sunneschyn Kessibrunnholz, Ueberstorf</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1368</journalNumber>
+  <journalDate>2019-03-05</journalDate>
+  <publicationText>Stiftung Sunneschyn Kessibrunnholz, in Ueberstorf, CHE-112.292.241 (SHAB vom 26.04.2018, s. 0/4195769). Gelöschte Person: Mühlemann Erich, Stiftungsratsmitglied, ohne Unterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stiftung Sunneschyn Kessibrunnholz</name>
+      <uid>CHE112292241</uid>
+      <uidOrganisationId>112292241</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735329423</code13>
+      <seat>Ueberstorf</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chessibrunnholz</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>3182</swissZipCode>
+        <town>Ueberstorf</town>
+      </address>
+    </company>
+    <purpose>Nachhaltige Erhaltung der Liegenschaft Kessibrunnholz (Grundstück Nr. 102 der Gemeinde Ueberstorf). Die Stiftung stellt die bestehenden Schulanlagen für Bildungs- und kulturelle Zwecke sowie für Familienanlässe und Feiern zur Verfügung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stiftung Sunneschyn Kessibrunnholz</name>
+      <uid>CHE112292241</uid>
+      <uidOrganisationId>112292241</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735329423</code13>
+      <seat>Ueberstorf</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chessibrunnholz</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>3182</swissZipCode>
+        <town>Ueberstorf</town>
+      </address>
+    </company>
+    <purpose>Nachhaltige Erhaltung der Liegenschaft Kessibrunnholz (Grundstück Nr. 102 der Gemeinde Ueberstorf). Die Stiftung stellt die bestehenden Schulanlagen für Bildungs- und kulturelle Zwecke sowie für Familienanlässe und Feiern zur Verfügung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-26</lastFoscDate>
+    <lastFoscSequence>4195769</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>55263f56-30a9-4373-bc9f-c9e5a224cb48</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004519802</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation Marchi Mobile Holding AG, Freienbach</de>
+    <en>Change Marchi Mobile Holding AG, Freienbach</en>
+    <it>Cambiamenti Marchi Mobile Holding AG, Freienbach</it>
+    <fr>Mutation Marchi Mobile Holding AG, Freienbach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6586</journalNumber>
+  <journalDate>2018-12-10</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 132 vom 11.07.2018, S. 0, publizierten TR-Eintrag Nr. 3'615 vom 06.07.2018 Marchi Mobile Holding AG, in Freienbach, CHE-227.087.035, Aktiengesellschaft (SHAB Nr. 132 vom 11.07.2018, Publ. 4351179). [nicht: Die Gesellschaft hat mit Beschluss vom 14.06.2017 eine bedingte Kapitalerhöhung gemäss näherer Umschreibung in den Statuten beschlossen.]. Aufhebung der Statutenbestimmung über die mit Gewährungsbeschluss vom 14.06.2017 eingeführte bedingte Kapitalerhöhung infolge Erlöschens der Wandelrechte.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Marchi Mobile Holding AG</name>
+      <uid>CHE227087035</uid>
+      <uidOrganisationId>227087035</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030375487</code13>
+      <seat>Freienbach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seedammstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>8808</swissZipCode>
+        <town>Pfäffikon SZ</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Verwaltung und Veräusserung von Beteiligungen an Unternehmungen im In- und Ausland; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>627755.40</nominal>
+      <paid>627755.40</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Marchi Mobile Holding AG</name>
+      <uid>CHE227087035</uid>
+      <uidOrganisationId>227087035</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030375487</code13>
+      <seat>Freienbach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seedammstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>8808</swissZipCode>
+        <town>Pfäffikon SZ</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Verwaltung und Veräusserung von Beteiligungen an Unternehmungen im In- und Ausland; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>627755.40</nominal>
+      <paid>627755.40</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-11</lastFoscDate>
+    <lastFoscNumber>132</lastFoscNumber>
+    <lastFoscSequence>4351179</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

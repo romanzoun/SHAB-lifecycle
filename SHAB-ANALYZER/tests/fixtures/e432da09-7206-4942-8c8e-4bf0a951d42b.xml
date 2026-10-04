@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>e3e6bcdc-54e6-4e00-a292-a2a088021c03</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004495964</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Hans Leutenegger SA, Neuchâtel</de>
+    <en>Change Hans Leutenegger SA, Neuchâtel</en>
+    <it>Cambiamenti Hans Leutenegger SA, Neuchâtel</it>
+    <fr>Mutation Hans Leutenegger SA, Neuchâtel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4238</journalNumber>
+  <journalDate>2018-11-07</journalDate>
+  <publicationText>Hans Leutenegger SA, succursale à Neuchâtel, CHE-379.312.091 (FOSC du 03.05.2018, p. 0/4210827). Entreprise ayant son siège à Genève. Procuration collective à deux pour les affaires de la succursale a été conférée à Fuzeiro Rodrigues Mariline, de La Grande Béroche, à Boudry.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hans Leutenegger SA</name>
+      <uid>CHE379312091</uid>
+      <uidOrganisationId>379312091</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510015530</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue du Premier-Mars</street>
+        <houseNumber>20</houseNumber>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>gestion d'une entreprise pour la réalisation de travaux en régie, placement de personnel et location de services dans le domaine de l'industrie et de la construction. Peut acquérir, construire et vendre des terrains et des immeubles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Hans Leutenegger SA</name>
+      <country>CH</country>
+      <uid>CHE105761584</uid>
+      <uidOrganisationId>105761584</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hans Leutenegger SA</name>
+      <uid>CHE379312091</uid>
+      <uidOrganisationId>379312091</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510015530</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue du Premier-Mars</street>
+        <houseNumber>20</houseNumber>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>gestion d'une entreprise pour la réalisation de travaux en régie, placement de personnel et location de services dans le domaine de l'industrie et de la construction. Peut acquérir, construire et vendre des terrains et des immeubles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-03</lastFoscDate>
+    <lastFoscSequence>4210827</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

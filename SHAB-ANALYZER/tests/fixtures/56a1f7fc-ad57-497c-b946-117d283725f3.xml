@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>56861f2a-d250-406a-bf5b-5000a9078825</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004635775</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Tom Bau GmbH in Liq., bisher Tom Bau GmbH, Bösingen</de>
+    <en>Change Tom Bau GmbH in Liq., to date Tom Bau GmbH, Bösingen</en>
+    <it>Cambiamenti Tom Bau GmbH in Liq., prima Tom Bau GmbH, Bösingen</it>
+    <fr>Mutation Tom Bau GmbH in Liq., Bösingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2831</journalNumber>
+  <journalDate>2019-05-17</journalDate>
+  <publicationText>Tom Bau GmbH, in Bösingen, CHE-113.785.026 (FOSC du 19.12.2013, p. 0/7225828). Die Gesellschaft wird gemäss Beschluss der Gesellschafterversammlung vom 16.05.2019 aufgelöst. Die Liquidation wird unter der Firma: Tom Bau GmbH in Liq. durchgeführt. Eingetragene Person geändert: Hofstetter Thomas, Gesellschafter, 1 Stammanteil zu CHF 19'000, Geschäftsführer, Einzelunterschrift, neu Gesellschafter, 1 Stammanteil zu CHF 19'000, Geschäftsführer, Liquidator, Einzelunterschrift. Liquidationsadresse: Lerchenweg 1, c/o Thomas Hofstetter, 3178 Bösingen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Tom Bau GmbH in Liq.</name>
+      <uid>CHE113785026</uid>
+      <uidOrganisationId>113785026</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03540376171</code13>
+      <seat>Bösingen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lerchenweg</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3178</swissZipCode>
+        <town>Bösingen</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Thomas Hofstetter</addressLine1>
+        <street>Lerchenweg</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3178</swissZipCode>
+        <town>Bösingen</town>
+      </liqAddress>
+    </company>
+    <purpose>Verkauf und Verlegen von Bodenbelägen jeglicher Art; Um- und Ausbau sowie Renovationen im Baubereich. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Tom Bau GmbH</name>
+      <uid>CHE113785026</uid>
+      <uidOrganisationId>113785026</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03540376171</code13>
+      <seat>Bösingen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lerchenweg</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3178</swissZipCode>
+        <town>Bösingen</town>
+      </address>
+    </company>
+    <purpose>Verkauf und Verlegen von Bodenbelägen jeglicher Art; Um- und Ausbau sowie Renovationen im Baubereich. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

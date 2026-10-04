@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>e500447a-a874-4a32-a16d-d1b4d490ab3f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005176404</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>JU</cantons>
+  <title>
+    <de>Mutation SpacePharma SA, Courgenay</de>
+    <en>Change SpacePharma SA, Courgenay</en>
+    <it>Cambiamenti SpacePharma SA, Courgenay</it>
+    <fr>Mutation SpacePharma SA, Courgenay</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>746</journalNumber>
+  <journalDate>2021-05-05</journalDate>
+  <publicationText>SpacePharma SA, à Courgenay, CHE-173.241.132, société anonyme (No. FOSC 164 du 27.08.2018, Publ. 4437067). Modification des statuts: 30.04.2021. Nouveaux faits qualifiés: L'assemblée générale a modifié une clause statutaire relative à une augmentation conditionnelle du capital (selon décision du 15.08.2014) par décision du 30.04.2021. Pour les détails, voir les statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SpacePharma SA</name>
+      <uid>CHE-173.241.132</uid>
+      <uidOrganisationId>173241132</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67040058873</code13>
+      <seat>Courgenay</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue l'Armeratte</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>2950</swissZipCode>
+        <town>Courgenay</town>
+      </address>
+    </company>
+    <purpose>Développement, production et commercialisation d'appareils et d'appareillages dans les domaines médical et pharmaceutique, ainsi que la recherche et les conseils dans ces domaines (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>243873.00</nominal>
+      <paid>243873.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SpacePharma SA</name>
+      <uid>CHE-173.241.132</uid>
+      <uidOrganisationId>173241132</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67040058873</code13>
+      <seat>Courgenay</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue l'Armeratte</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>2950</swissZipCode>
+        <town>Courgenay</town>
+      </address>
+    </company>
+    <purpose>Développement, production et commercialisation d'appareils et d'appareillages dans les domaines médical et pharmaceutique, ainsi que la recherche et les conseils dans ces domaines (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>243873.00</nominal>
+      <paid>243873.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-27</lastFoscDate>
+    <lastFoscNumber>164</lastFoscNumber>
+    <lastFoscSequence>4437067</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton du Jura</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

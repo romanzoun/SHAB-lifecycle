@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>d78aecc5-c89e-4147-915c-931659a6b164</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004453250</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Verein Regionaler Naturpark Schaffhausen, Wilchingen</de>
+    <en>Change Verein Regionaler Naturpark Schaffhausen, Wilchingen</en>
+    <it>Cambiamenti Verein Regionaler Naturpark Schaffhausen, Wilchingen</it>
+    <fr>Mutation Verein Regionaler Naturpark Schaffhausen, Wilchingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1547</journalNumber>
+  <journalDate>2018-09-06</journalDate>
+  <publicationText>Verein Regionaler Naturpark Schaffhausen, in Wilchingen, CHE-280.517.529, Verein (SHAB Nr. 114 vom 15.06.2018, Publ. 4293325). Statutenänderung: 19.10.2013. 01.11.2014. 14.04.2018.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Verein Regionaler Naturpark Schaffhausen</name>
+      <uid>CHE280517529</uid>
+      <uidOrganisationId>280517529</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29060178873</code13>
+      <seat>Wilchingen</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>50</houseNumber>
+        <swissZipCode>8217</swissZipCode>
+        <town>Wilchingen</town>
+      </address>
+    </company>
+    <purpose>Zweck des "Verein Regionaler Naturpark Schaffhausen" ist der Aufbau und Betrieb eines Regionalen Naturparks im Sinne des eidgenössischen Natur- und Heimatschutzgesetzes.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Verein Regionaler Naturpark Schaffhausen</name>
+      <uid>CHE280517529</uid>
+      <uidOrganisationId>280517529</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29060178873</code13>
+      <seat>Wilchingen</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>50</houseNumber>
+        <swissZipCode>8217</swissZipCode>
+        <town>Wilchingen</town>
+      </address>
+    </company>
+    <purpose>Zweck des "Verein Regionaler Naturpark Schaffhausen" ist der Aufbau und Betrieb eines Regionalen Naturparks im Sinne des eidgenössischen Natur- und Heimatschutzgesetzes.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-15</lastFoscDate>
+    <lastFoscNumber>114</lastFoscNumber>
+    <lastFoscSequence>4293325</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

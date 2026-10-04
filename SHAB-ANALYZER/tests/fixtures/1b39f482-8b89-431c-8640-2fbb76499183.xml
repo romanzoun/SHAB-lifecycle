@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>1af791fd-2d16-4b5f-a224-629a766722e9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004531063</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Ulrich Hartmann AG Ebnat-Kappel, Ebnat-Kappel</de>
+    <en>Change Ulrich Hartmann AG Ebnat-Kappel, Ebnat-Kappel</en>
+    <it>Cambiamenti Ulrich Hartmann AG Ebnat-Kappel, Ebnat-Kappel</it>
+    <fr>Mutation Ulrich Hartmann AG Ebnat-Kappel, Ebnat-Kappel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11667</journalNumber>
+  <journalDate>2018-12-20</journalDate>
+  <publicationText>Ulrich Hartmann AG Ebnat-Kappel, in Ebnat-Kappel, CHE-107.266.195, Aktiengesellschaft (SHAB Nr. 102 vom 01.06.2015, Publ. 2179097). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 10.12.2018 Aktiven von CHF 180'401.00 auf die Oberhänsli Bau AG (CHE-219.747.823), in Mosnang. Gegenleistung: keine.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Ulrich Hartmann AG Ebnat-Kappel</name>
+      <uid>CHE107266195</uid>
+      <uidOrganisationId>107266195</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030155471</code13>
+      <seat>Ebnat-Kappel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Stegrütistrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>9642</swissZipCode>
+        <town>Ebnat-Kappel</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Baugeschäftes für Hoch- und Tiefbau. Sie kann im Zusammenhang damit Grundstücke erwerben, veräussern und belasten.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Ulrich Hartmann AG Ebnat-Kappel</name>
+      <uid>CHE107266195</uid>
+      <uidOrganisationId>107266195</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030155471</code13>
+      <seat>Ebnat-Kappel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Stegrütistrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>9642</swissZipCode>
+        <town>Ebnat-Kappel</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Baugeschäftes für Hoch- und Tiefbau. Sie kann im Zusammenhang damit Grundstücke erwerben, veräussern und belasten.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-06-01</lastFoscDate>
+    <lastFoscNumber>102</lastFoscNumber>
+    <lastFoscSequence>2179097</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8d3fc1cb-3c08-4ea2-a58c-8a5e4f01b615</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004518043</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Menuiserie Wuillemin, Cudrefin</de>
+    <en>Change Menuiserie Wuillemin, Cudrefin</en>
+    <it>Cambiamenti Menuiserie Wuillemin, Cudrefin</it>
+    <fr>Mutation Menuiserie Wuillemin, Cudrefin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21825</journalNumber>
+  <journalDate>2018-12-06</journalDate>
+  <publicationText>Menuiserie Wuillemin, à Cudrefin, CHE-426.881.161 (FOSC du 19.12.2013, p. 0/7225834). Transfert de patrimoine: Selon contrat du 19 novembre 2018, le titulaire a transféré des machines et de l'outillage, pour CHF 30'250, à Menuiserie Wuillemin &amp; Fils Sàrl à Cudrefin (CHE-434.901.067). Contre-prestation: 20 parts sociales de CHF 1'000 et une créance de CHF 10'250.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Menuiserie Wuillemin</name>
+      <uid>CHE426881161</uid>
+      <uidOrganisationId>426881161</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011362457</code13>
+      <seat>Cudrefin</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1588</swissZipCode>
+        <town>Cudrefin</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une menuiserie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Menuiserie Wuillemin</name>
+      <uid>CHE426881161</uid>
+      <uidOrganisationId>426881161</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011362457</code13>
+      <seat>Cudrefin</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1588</swissZipCode>
+        <town>Cudrefin</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une menuiserie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

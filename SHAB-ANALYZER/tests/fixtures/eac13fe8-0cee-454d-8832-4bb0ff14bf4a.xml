@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.16/HR02-export.xsd">
+<meta>
+  <id>eabcd95b-38e3-4709-8b1b-4967b79a5f12</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005559272</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-09-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>UR</cantons>
+  <title>
+    <de>Mutation Obermeier &amp; Co., Vermittlungen/Beratungen, Seelisberg</de>
+    <en>Change Obermeier &amp; Co., Vermittlungen/Beratungen, Seelisberg</en>
+    <it>Cambiamenti Obermeier &amp; Co., Vermittlungen/Beratungen, Seelisberg</it>
+    <fr>Mutation Obermeier &amp; Co., Vermittlungen/Beratungen, Seelisberg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>580</journalNumber>
+  <journalDate>2022-09-07</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 150 vom 05.08.2022, Id. 1'005'535'593, publizierten TR-Eintrags Nr. 508 vom 02.08.2022 Obermeier &amp; Co., Vermittlungen/Beratungen, in Seelisberg, CHE-219.263.577, Kollektivgesellschaft (SHAB Nr. 150 vom 05.08.2022, Publ. 1005535593). [Die Bemerkung zur Auflösung ist nicht zutreffend, es besteht ledliglich ein Domizilverlust] [nicht: Die Gesellschaft wird in Anwendung von Artikel 153 HRegV von Amtes wegen als aufgelöst erklärt, weil die ihr zur Wiederherstellung des gesetzmässigen Zustandes in Bezug auf das Domizil angesetzte Frist fruchtlos abgelaufen ist. ].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Obermeier &amp; Co., Vermittlungen/Beratungen</name>
+      <uid>CHE-219.263.577</uid>
+      <uidOrganisationId>219263577</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH12020000062</code13>
+      <seat>Seelisberg</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Bereich von Reisen im In- und Ausland; Handel mit Waren aller Art im In- und Ausland; kann Finanzierungsmandate übernehmen oder vergeben, Beteiligungen erwerben, veräussern und halten und sämtliche im Zusammenhang mit Immobilien stehenden Tätigkeiten wie Vermittlung, Verwaltung, Erwerb und Veräusserung ausführen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Obermeier &amp; Co., Vermittlungen/Beratungen</name>
+      <uid>CHE-219.263.577</uid>
+      <uidOrganisationId>219263577</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH12020000062</code13>
+      <seat>Seelisberg</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Bereich von Reisen im In- und Ausland; Handel mit Waren aller Art im In- und Ausland; kann Finanzierungsmandate übernehmen oder vergeben, Beteiligungen erwerben, veräussern und halten und sämtliche im Zusammenhang mit Immobilien stehenden Tätigkeiten wie Vermittlung, Verwaltung, Erwerb und Veräusserung ausführen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2022-08-05</lastFoscDate>
+    <lastFoscNumber>150</lastFoscNumber>
+    <lastFoscSequence>1005535593</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Uri</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>d72e6a66-94b4-440e-8c9b-9bc085ff7449</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004536454</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Restaurant Aux Ailes Sàrl, Boudry</de>
+    <en>Change Restaurant Aux Ailes Sàrl, Boudry</en>
+    <it>Cambiamenti Restaurant Aux Ailes Sàrl, Boudry</it>
+    <fr>Mutation Restaurant Aux Ailes Sàrl, Boudry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>25</journalNumber>
+  <journalDate>2019-01-03</journalDate>
+  <publicationText>Restaurant Aux Ailes Sàrl, à Boudry, CHE-469.292.518 (FOSC du 25.01.2016, p. 0/2616599). Henriques Fino Diogo, associé, a cédé 60 de ses 200 parts sociales de CHF 100, soit 30 à Guerreiro Henriques Cristina Isabel, à Cortaillod, et 30 à Antunes Fino Augusto José, à Neuchâtel, tous deux du Portugal, nouveaux associés. Henriques Fino Diogo reste ainsi titulaire de 140 parts sociales de CHF 100. Gérants: Henriques Fino Diogo, nommé président, Guerreiro Henriques Cristina Isabel et Antunes Fino Augusto José, lesquels signent individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Restaurant Aux Ailes Sàrl</name>
+      <uid>CHE469292518</uid>
+      <uidOrganisationId>469292518</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541140506</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Plaine</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2013</swissZipCode>
+        <town>Colombier NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un établissement public (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Restaurant Aux Ailes Sàrl</name>
+      <uid>CHE469292518</uid>
+      <uidOrganisationId>469292518</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541140506</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Plaine</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2013</swissZipCode>
+        <town>Colombier NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un établissement public (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-01-25</lastFoscDate>
+    <lastFoscSequence>2616599</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

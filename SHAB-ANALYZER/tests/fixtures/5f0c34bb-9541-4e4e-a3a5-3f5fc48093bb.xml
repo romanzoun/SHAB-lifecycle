@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>5ef73ed5-4771-47e9-a5b0-982253e3e2b6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004745965</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation A4 Weine Bürgi, Arth</de>
+    <en>Change A4 Weine Bürgi, Arth</en>
+    <it>Cambiamenti A4 Weine Bürgi, Arth</it>
+    <fr>Mutation A4 Weine Bürgi, Arth</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5826</journalNumber>
+  <journalDate>2019-10-23</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 162 vom 23.08.2019, S. , publizierten TR-Eintrags Nr. 4'553 vom 20.08.2019 A4 Weine Bürgi, in Arth, CHE-332.183.343, Einzelunternehmen (SHAB Nr. 162 vom 23.08.2019, Publ. 1004701348). Die Gesellschaft hat sich infolge Ausscheidens des Gesellschafters Roberto Dell'Acqua aufgelöst. Die Firma ist erloschen. Der Gesellschafter Roman Bürgi führt im Sinne von Art. 579 OR das Geschäft als Einzelkaufmann fort.</publicationText>
+  <commonsNew>
+    <company>
+      <name>A4 Weine Bürgi</name>
+      <uid>CHE-332.183.343</uid>
+      <uidOrganisationId>332183343</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13020267900</code13>
+      <seat>Arth</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gotthardstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>6410</swissZipCode>
+        <town>Goldau</town>
+      </address>
+    </company>
+    <purpose>Handel mit Wein, Getränken und Lebensmittel. Import und Export sowie Handel mit Waren aller Art. Durchführung von Events.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>A4 Weine Bürgi</name>
+      <uid>CHE-332.183.343</uid>
+      <uidOrganisationId>332183343</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13020267900</code13>
+      <seat>Arth</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gotthardstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>6410</swissZipCode>
+        <town>Goldau</town>
+      </address>
+    </company>
+    <purpose>Handel mit Wein, Getränken und Lebensmittel. Import und Export sowie Handel mit Waren aller Art. Durchführung von Events.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-23</lastFoscDate>
+    <lastFoscNumber>162</lastFoscNumber>
+    <lastFoscSequence>1004701348</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

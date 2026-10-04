@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>5edd0ee7-1766-4057-b118-aa3de2b5433d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005263095</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-08-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Bisou Bijou Sàrl, Lancy</de>
+    <en>Change Bisou Bijou Sàrl, Lancy</en>
+    <it>Cambiamenti Bisou Bijou Sàrl, Lancy</it>
+    <fr>Mutation Bisou Bijou Sàrl, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18573</journalNumber>
+  <journalDate>2021-07-28</journalDate>
+  <publicationText>Bisou Bijou Sàrl, à Lancy, CHE-288.097.100 (FOSC du 02.08.2018, p. 0/4393839). L'associé Dumarty Serge, jusqu'ici gérant, n'exerce plus la signature sociale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bisou Bijou Sàrl</name>
+      <uid>CHE-288.097.100</uid>
+      <uidOrganisationId>288097100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005080174</code13>
+      <seat>Lancy</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Chancy</street>
+        <houseNumber>71</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Petit-Lancy</town>
+      </address>
+    </company>
+    <purpose>vente de bijoux, de produits textiles et d'accessoires de mode (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bisou Bijou Sàrl</name>
+      <uid>CHE-288.097.100</uid>
+      <uidOrganisationId>288097100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005080174</code13>
+      <seat>Lancy</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Chancy</street>
+        <houseNumber>71</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Petit-Lancy</town>
+      </address>
+    </company>
+    <purpose>vente de bijoux, de produits textiles et d'accessoires de mode (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-02</lastFoscDate>
+    <lastFoscNumber>147</lastFoscNumber>
+    <lastFoscSequence>4393839</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

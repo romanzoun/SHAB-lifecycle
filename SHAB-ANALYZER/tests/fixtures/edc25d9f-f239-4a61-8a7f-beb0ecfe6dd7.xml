@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ed908857-cd00-4252-b4fd-bb44c4c5947c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004487700</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Car4sale Faton Rragami, Neuhausen am Rheinfall</de>
+    <en>Change Car4sale Faton Rragami, Neuhausen am Rheinfall</en>
+    <it>Cambiamenti Car4sale Faton Rragami, Neuhausen am Rheinfall</it>
+    <fr>Mutation Car4sale Faton Rragami, Neuhausen am Rheinfall</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1847</journalNumber>
+  <journalDate>2018-10-26</journalDate>
+  <publicationText>Car4sale Faton Rragami, in Neuhausen am Rheinfall, CHE-349.528.226, Einzelunternehmen (SHAB Nr. 203 vom 19.10.2018, Publ. 1004480487). Weitere Adresse: Mühlentalstrasse 250b, 8200 Schaffhausen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Car4sale Faton Rragami</name>
+      <uid>CHE349528226</uid>
+      <uidOrganisationId>349528226</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29010195834</code13>
+      <seat>Neuhausen am Rheinfall</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Faton Rragami</addressLine1>
+        <street>Pestalozzistrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>8212</swissZipCode>
+        <town>Neuhausen am Rheinfall</town>
+      </address>
+    </company>
+    <purpose>Autohandel, Autoexport, Autoreparaturen, Autoinstandhaltung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Car4sale Faton Rragami</name>
+      <uid>CHE349528226</uid>
+      <uidOrganisationId>349528226</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29010195834</code13>
+      <seat>Neuhausen am Rheinfall</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Faton Rragami</addressLine1>
+        <street>Pestalozzistrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>8212</swissZipCode>
+        <town>Neuhausen am Rheinfall</town>
+      </address>
+    </company>
+    <purpose>Autohandel, Autoexport, Autoreparaturen, Autoinstandhaltung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-19</lastFoscDate>
+    <lastFoscNumber>203</lastFoscNumber>
+    <lastFoscSequence>1004480487</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

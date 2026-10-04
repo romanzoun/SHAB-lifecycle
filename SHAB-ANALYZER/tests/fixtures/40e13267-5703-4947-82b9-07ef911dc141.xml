@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>40de8432-03fd-4408-b60a-4e83e96c8898</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005040078</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation FONDATION SWISS GREEN ALPS, Crans-Montana</de>
+    <en>Change FONDATION SWISS GREEN ALPS, Crans-Montana</en>
+    <it>Cambiamenti FONDATION SWISS GREEN ALPS, Crans-Montana</it>
+    <fr>Mutation FONDATION SWISS GREEN ALPS, Crans-Montana</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4682</journalNumber>
+  <journalDate>2020-12-01</journalDate>
+  <publicationText>FONDATION SWISS GREEN ALPS, à Crans-Montana, CHE-178.418.567, fondation (No. FOSC 182 du 18.09.2020, Publ. 1004981830). Nouvelle organisation: Département fédéral de l'intérieur (DFI).</publicationText>
+  <commonsNew>
+    <company>
+      <name>FONDATION SWISS GREEN ALPS</name>
+      <uid>CHE-178.418.567</uid>
+      <uidOrganisationId>178418567</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62670206228</code13>
+      <seat>Crans-Montana</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Barzettes</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3963</swissZipCode>
+        <town>Crans-Montana</town>
+      </address>
+    </company>
+    <purpose>La Fondation d'intérêt public a pour but non lucratif de soutenir et d'encourager les initiatives environnementales et développement durable qui s'inscrivent dans la politique de protection de l'environnement des sociétés du Groupe CMA, telle que définie par le Conseil de Fondation en accord avec les entités du Groupe CMA</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FONDATION SWISS GREEN ALPS</name>
+      <uid>CHE-178.418.567</uid>
+      <uidOrganisationId>178418567</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62670206228</code13>
+      <seat>Crans-Montana</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Barzettes</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3963</swissZipCode>
+        <town>Crans-Montana</town>
+      </address>
+    </company>
+    <purpose>La Fondation d'intérêt public a pour but non lucratif de soutenir et d'encourager les initiatives environnementales et développement durable qui s'inscrivent dans la politique de protection de l'environnement des sociétés du Groupe CMA, telle que définie par le Conseil de Fondation en accord avec les entités du Groupe CMA</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-09-18</lastFoscDate>
+    <lastFoscNumber>182</lastFoscNumber>
+    <lastFoscSequence>1004981830</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

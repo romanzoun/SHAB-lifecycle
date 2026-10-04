@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>89aea982-7d11-4f46-9b8a-0f7018a0171f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004635239</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Korean Desk Sàrl, Meyrin</de>
+    <en>Change Korean Desk Sàrl, Meyrin</en>
+    <it>Cambiamenti Korean Desk Sàrl, Meyrin</it>
+    <fr>Mutation Korean Desk Sàrl, Meyrin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9434</journalNumber>
+  <journalDate>2019-05-16</journalDate>
+  <publicationText>Korean Desk Sàrl, à Meyrin, CHE-279.945.723 (FOSC du 06.04.2017, p. 0/3454143). Nouveau gérant président: Lee Sang Kook, de et à Genève avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Korean Desk Sàrl</name>
+      <uid>CHE279945723</uid>
+      <uidOrganisationId>279945723</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66009450170</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Pré-Bois</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1215</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>favoriser l'échange économique entre la Suisse et la Corée ainsi que la prestation de services de conseil pour l'accompagnement des personnes physiques et morales coréennes dans leur installation en Suisse; import des produits coréens et export de produits suisses et commerce de tout produit (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Korean Desk Sàrl</name>
+      <uid>CHE279945723</uid>
+      <uidOrganisationId>279945723</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66009450170</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Pré-Bois</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1215</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>favoriser l'échange économique entre la Suisse et la Corée ainsi que la prestation de services de conseil pour l'accompagnement des personnes physiques et morales coréennes dans leur installation en Suisse; import des produits coréens et export de produits suisses et commerce de tout produit (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-04-06</lastFoscDate>
+    <lastFoscSequence>3454143</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

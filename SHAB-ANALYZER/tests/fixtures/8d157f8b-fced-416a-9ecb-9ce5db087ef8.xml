@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8d107842-6a47-4260-9098-5cd90eb92fc7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004564740</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Axians Schweiz SA, Le Mont-sur-Lausanne</de>
+    <en>Change Axians Schweiz SA, Le Mont-sur-Lausanne</en>
+    <it>Cambiamenti Axians Schweiz SA, Le Mont-sur-Lausanne</it>
+    <fr>Mutation Axians Schweiz SA, Le Mont-sur-Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2607</journalNumber>
+  <journalDate>2019-02-07</journalDate>
+  <publicationText>Axians Schweiz SA, succursale à Le Mont-sur-Lausanne, CHE-254.691.015 (FOSC du 19.12.2018, p. 0/1004525382). Siège principal: Ittigen. Nouvelle raison de commerce du siège principal: Axians Schweiz AG (Axians Suisse SA) (Axians Svizzera SA) (Axians Switzerland Ltd) (CHE-105.862.877). Nouvelle raison de commerce de la succursale: Axians Schweiz SA (Axians Schweiz AG) (Axians Svizzera SA) (Axians Switzerland Ltd).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Axians Schweiz SA</name>
+      <translations>[de] Axians Schweiz AG [it] Axians Svizzera SA [en] Axians Switzerland Ltd</translations>
+      <uid>CHE254691015</uid>
+      <uidOrganisationId>254691015</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010803059</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>En Budron H</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Axians Schweiz AG</name>
+      <country>CH</country>
+      <uid>CHE105862877</uid>
+      <uidOrganisationId>105862877</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Axians Schweiz SA</name>
+      <translations>[de] Axians Schweiz AG [en] Axians Schweiz Ltd</translations>
+      <uid>CHE254691015</uid>
+      <uidOrganisationId>254691015</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010803059</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>En Budron H</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Axians Schweiz AG</name>
+      <country>CH</country>
+      <uid>CHE105862877</uid>
+      <uidOrganisationId>105862877</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-19</lastFoscDate>
+    <lastFoscSequence>1004525382</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

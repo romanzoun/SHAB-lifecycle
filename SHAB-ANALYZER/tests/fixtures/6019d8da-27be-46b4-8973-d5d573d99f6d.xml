@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>5ff49120-581e-44fe-ab80-979327714770</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005145928</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Gabriel IT &amp; Consulting, Zürich</de>
+    <en>Change Gabriel IT &amp; Consulting, Zürich</en>
+    <it>Cambiamenti Gabriel IT &amp; Consulting, Zürich</it>
+    <fr>Mutation Gabriel IT &amp; Consulting, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14586</journalNumber>
+  <journalDate>2021-04-07</journalDate>
+  <publicationText>Gabriel IT &amp; Consulting, in Zürich, CHE-189.423.816, Einzelunternehmen (SHAB Nr. 48 vom 10.03.2021, Publ. 1005119909). Die Löschung dieses Einzelunternehmens erfolgte irrtümlich und wird in allen Teilen widerrufen. Das Einzelunternehmen besteht gemäss den früheren Einträgen weiter. [bisher: Das Einzelunternehmen wird infolge Geschäftsüberganges gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Gabriel IT &amp; Consulting</name>
+      <uid>CHE-189.423.816</uid>
+      <uidOrganisationId>189423816</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13010211001</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Arbenzstrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>8008</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Informatik-Dienstleistungen jeder Art, insbesondere Beratung, Schulung sowie Handel mit Software und Hardware; kann sich bei anderen Unternehmen beteiligen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Gabriel IT &amp; Consulting</name>
+      <uid>CHE-189.423.816</uid>
+      <uidOrganisationId>189423816</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13010211001</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Arbenzstrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>8008</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Informatik-Dienstleistungen jeder Art, insbesondere Beratung, Schulung sowie Handel mit Software und Hardware; kann sich bei anderen Unternehmen beteiligen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-03-10</lastFoscDate>
+    <lastFoscNumber>48</lastFoscNumber>
+    <lastFoscSequence>1005119909</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

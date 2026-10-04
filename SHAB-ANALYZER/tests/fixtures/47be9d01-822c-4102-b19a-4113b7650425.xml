@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.16/HR02-export.xsd">
+<meta>
+  <id>47a75c61-961f-4612-b3f1-f8076e0bbdc3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005581976</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-10-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation LargImo SA, Genève</de>
+    <en>Change LargImo SA, Genève</en>
+    <it>Cambiamenti LargImo SA, Genève</it>
+    <fr>Mutation LargImo SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18234</journalNumber>
+  <journalDate>2022-10-07</journalDate>
+  <publicationText>LargImo SA, à Genève, CHE-390.682.159 (FOSC du 29.07.2022, p. 0/1005532560). Adresses radiées: rue de la Tour 2, 1205 Genève.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LargImo SA</name>
+      <uid>CHE-390.682.159</uid>
+      <uidOrganisationId>390682159</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66065550157</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Krieg</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>intervention en matière commerciale, financière et immobilière pour son compte ou pour tiers incluant achat, à l'exclusion de toutes opérations immobilières assujetties à la LFAIE, vente, courtage, gestion, administration, exploitation et mise en valeur de biens immobiliers, opérations fiduciaires et toute autre opération (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LargImo SA</name>
+      <uid>CHE-390.682.159</uid>
+      <uidOrganisationId>390682159</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66065550157</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Krieg</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>intervention en matière commerciale, financière et immobilière pour son compte ou pour tiers incluant achat, à l'exclusion de toutes opérations immobilières assujetties à la LFAIE, vente, courtage, gestion, administration, exploitation et mise en valeur de biens immobiliers, opérations fiduciaires et toute autre opération (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2022-07-29</lastFoscDate>
+    <lastFoscNumber>146</lastFoscNumber>
+    <lastFoscSequence>1005532560</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

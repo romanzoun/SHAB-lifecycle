@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>9d78fd69-59c8-4a1e-8380-a912f341880e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004550401</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation MIRABAUD &amp; CIE PARTICIPATIONS, Genève</de>
+    <en>Change MIRABAUD &amp; CIE PARTICIPATIONS, Genève</en>
+    <it>Cambiamenti MIRABAUD &amp; CIE PARTICIPATIONS, Genève</it>
+    <fr>Mutation MIRABAUD &amp; CIE PARTICIPATIONS, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1498</journalNumber>
+  <journalDate>2019-01-21</journalDate>
+  <publicationText>MIRABAUD &amp; CIE PARTICIPATIONS, à Genève, CHE-328.635.856, société en commandite (FOSC du 12.02.2018, p. 0/4051067). Mirabaud Nicolas et Palma Michael, jusqu'ici associés commanditaires, ont été nommés associés indéfiniment responsables avec signature collective à deux. Nouvel associé commanditaire: Frazao Thiago, de France, à Wollerau, avec une commandite de CHF 1'000'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MIRABAUD &amp; CIE PARTICIPATIONS</name>
+      <uid>CHE328635856</uid>
+      <uidOrganisationId>328635856</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001730129</code13>
+      <seat>Genève</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard Georges-Favon</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>réalisation d'opérations financières, notamment la prise de détention d'une participation en commandite comme associée commanditaire de Mirabaud Partners &amp; Cie, à Genève.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MIRABAUD &amp; CIE PARTICIPATIONS</name>
+      <uid>CHE328635856</uid>
+      <uidOrganisationId>328635856</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001730129</code13>
+      <seat>Genève</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard Georges-Favon</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>réalisation d'opérations financières, notamment la prise de détention d'une participation en commandite comme associée commanditaire de Mirabaud Partners &amp; Cie, à Genève.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-02-12</lastFoscDate>
+    <lastFoscSequence>4051067</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

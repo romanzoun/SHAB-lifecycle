@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>34465adc-0ff0-4a80-8154-e5bde358afc5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004503451</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation IS Industrial Supply AG in Liquidation, Zug</de>
+    <en>Change IS Industrial Supply AG in Liquidation, Zug</en>
+    <it>Cambiamenti IS Industrial Supply AG in Liquidation, Zug</it>
+    <fr>Mutation IS Industrial Supply AG in Liquidation, Zug</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16325</journalNumber>
+  <journalDate>2018-11-19</journalDate>
+  <publicationText>IS Industrial Supply AG in Liquidation, in Zug, CHE-103.595.547, Aktiengesellschaft (SHAB Nr. 241 vom 12.12.2014, Publ. 1877125). Die Gesellschaft wird gemäss Entscheid des Kantonsgerichts Zug vom 09.11.2018 wieder in das Handelsregister eingetragen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>IS Industrial Supply AG in Liquidation</name>
+      <uid>CHE103595547</uid>
+      <uidOrganisationId>103595547</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030177534</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Handel mit, Erwerb und Verkauf von Gütern und Rechten materieller und immaterieller Natur sowie Handel mit, Import und Export von Waren und Erzeugnissen jeder Art; kann sich an anderen Unternehmungen beteiligen, Patente, Lizenzen und Wertschriften erwerben, verwalten und veräussern sowie Grundeigentum erwerben, belasten, veräussern und verwalten.</purpose>
+    <capital>
+      <nominal>11200000.00</nominal>
+      <paid>11200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IS Industrial Supply AG in Liquidation</name>
+      <uid>CHE103595547</uid>
+      <uidOrganisationId>103595547</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030177534</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Handel mit, Erwerb und Verkauf von Gütern und Rechten materieller und immaterieller Natur sowie Handel mit, Import und Export von Waren und Erzeugnissen jeder Art; kann sich an anderen Unternehmungen beteiligen, Patente, Lizenzen und Wertschriften erwerben, verwalten und veräussern sowie Grundeigentum erwerben, belasten, veräussern und verwalten.</purpose>
+    <capital>
+      <nominal>11200000.00</nominal>
+      <paid>11200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-12-12</lastFoscDate>
+    <lastFoscNumber>241</lastFoscNumber>
+    <lastFoscSequence>1877125</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

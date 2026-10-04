@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>458c30a2-8b2f-4180-804c-23c2b400f501</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004603539</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation FONDATION PERCEVAL, Saint-Prex</de>
+    <en>Change FONDATION PERCEVAL, Saint-Prex</en>
+    <it>Cambiamenti FONDATION PERCEVAL, Saint-Prex</it>
+    <fr>Mutation FONDATION PERCEVAL, Saint-Prex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6163</journalNumber>
+  <journalDate>2019-04-01</journalDate>
+  <publicationText>FONDATION PERCEVAL, à Saint-Prex, CHE-105.758.694 (FOSC du 15.05.2018, p. 0/4229091). Nouveau membre du conseil de fondation avec signature collective à deux avec le/la président(e) ou le/la vice-président(e): Kamerzin Alexandre, d'Icogne, à Saint-Prex.</publicationText>
+  <commonsNew>
+    <company>
+      <name>FONDATION PERCEVAL</name>
+      <uid>CHE105758694</uid>
+      <uidOrganisationId>105758694</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000649769</code13>
+      <seat>Saint-Prex</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lussy</street>
+        <houseNumber>45</houseNumber>
+        <swissZipCode>1162</swissZipCode>
+        <town>St-Prex</town>
+      </address>
+    </company>
+    <purpose>contribuer au développement et à l'épanouissement personnel ainsi qu'à l'intégration sociale et économique de personnes mineures et majeures mentalement déficientes par tous moyens appropriés.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FONDATION PERCEVAL</name>
+      <uid>CHE105758694</uid>
+      <uidOrganisationId>105758694</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000649769</code13>
+      <seat>Saint-Prex</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lussy</street>
+        <houseNumber>45</houseNumber>
+        <swissZipCode>1162</swissZipCode>
+        <town>St-Prex</town>
+      </address>
+    </company>
+    <purpose>contribuer au développement et à l'épanouissement personnel ainsi qu'à l'intégration sociale et économique de personnes mineures et majeures mentalement déficientes par tous moyens appropriés.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-15</lastFoscDate>
+    <lastFoscSequence>4229091</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

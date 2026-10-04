@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>72e3b19a-6955-40d2-a08e-aebec262b5ba</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005060906</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>OW</cantons>
+  <title>
+    <de>Mutation Stiftung Missionsprokura Engelberg, Engelberg</de>
+    <en>Change Stiftung Missionsprokura Engelberg, Engelberg</en>
+    <it>Cambiamenti Stiftung Missionsprokura Engelberg, Engelberg</it>
+    <fr>Mutation Stiftung Missionsprokura Engelberg, Engelberg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1501</journalNumber>
+  <journalDate>2020-12-23</journalDate>
+  <publicationText>Stiftung Missionsprokura Engelberg, in Engelberg, CHE-110.384.317, Stiftung (SHAB Nr. 128 vom 07.07.2014, S.0, Publ. 1596219). Die Stiftung ist eine kirchliche Stiftung, die nicht der staatlichen Aufsicht unterstellt ist und aufgrund des kirchlichen Charakters keine Revisionsstelle bezeichnen muss. Die kirchliche Aufsicht wird wahrgenommen durch die Schweizerische Benediktinerkongregation mit Geschäftsstelle in Engelberg. [gestrichen: Stiftungsrat: mindestens 2 Mitglieder].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stiftung Missionsprokura Engelberg</name>
+      <uid>CHE-110.384.317</uid>
+      <uidOrganisationId>110384317</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH14070008737</code13>
+      <seat>Engelberg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Benediktinerkloster</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6390</swissZipCode>
+        <town>Engelberg</town>
+      </address>
+    </company>
+    <purpose>Förderung der missionarischen und kirchlichen Tätigkeiten und der humanitären Hilfe in den Missionsländern und den Ländern der Dritten Welt, besonders in Kamerun.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stiftung Missionsprokura Engelberg</name>
+      <uid>CHE-110.384.317</uid>
+      <uidOrganisationId>110384317</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH14070008737</code13>
+      <seat>Engelberg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Benediktinerkloster</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6390</swissZipCode>
+        <town>Engelberg</town>
+      </address>
+    </company>
+    <purpose>Förderung der missionarischen und kirchlichen Tätigkeiten und der humanitären Hilfe in den Missionsländern und den Ländern der Dritten Welt, besonders in Kamerun.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-07-07</lastFoscDate>
+    <lastFoscNumber>128</lastFoscNumber>
+    <lastFoscSequence>1596219</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Obwalden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

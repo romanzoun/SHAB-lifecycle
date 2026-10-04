@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>2cf6dd63-ff03-4b31-9a94-2d40aa009ca5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004522772</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>TG</cantons>
+  <title>
+    <de>Mutation altrimo ag bodensee, Arbon</de>
+    <en>Change altrimo ag bodensee, Arbon</en>
+    <it>Cambiamenti altrimo ag bodensee, Arbon</it>
+    <fr>Mutation altrimo ag bodensee, Arbon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5582</journalNumber>
+  <journalDate>2018-12-12</journalDate>
+  <publicationText>altrimo ag bodensee, in Arbon, CHE-366.915.759, schweizerische Zweigniederlassung (SHAB Nr. 174 vom 10.09.2018, Publ. 1004452436), Hauptsitz in: Bottighofen. Neue Identifikationsnummer Hauptsitz: CHE-108.033.788 [bisher: Identifikationsnummer Hauptsitz: CHE-234.834.234]. Angaben zur Zweigniederlassung neu: Übergang dieser Zweigniederlassung infolge Fusion gemäss Art. 112 HRegV.</publicationText>
+  <commonsNew>
+    <company>
+      <name>altrimo ag bodensee</name>
+      <uid>CHE366915759</uid>
+      <uidOrganisationId>366915759</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44090304332</code13>
+      <seat>Arbon</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Stickereistrasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>9320</swissZipCode>
+        <town>Arbon</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>altrimo ag bottighofen</name>
+      <country>CH</country>
+      <uid>CHE108033788</uid>
+      <uidOrganisationId>108033788</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>altrimo ag bodensee</name>
+      <uid>CHE366915759</uid>
+      <uidOrganisationId>366915759</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44090304332</code13>
+      <seat>Arbon</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Stickereistrasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>9320</swissZipCode>
+        <town>Arbon</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-10</lastFoscDate>
+    <lastFoscNumber>174</lastFoscNumber>
+    <lastFoscSequence>1004452436</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Thurgau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

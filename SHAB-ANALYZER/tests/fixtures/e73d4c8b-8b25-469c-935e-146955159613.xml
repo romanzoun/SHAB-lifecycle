@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>e71c3ec2-4d65-4cdf-80ac-a957a09e4b21</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004741897</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fonds de prévoyance de Bertholet + Mathis S.A., Lausanne, neu Fonds de prévoyance de Bertholet + Mathis S.A. en liquidation</de>
+    <en>Change Fonds de prévoyance de Bertholet + Mathis S.A., Lausanne, new Fonds de prévoyance de Bertholet + Mathis S.A. en liquidation</en>
+    <it>Cambiamenti Fonds de prévoyance de Bertholet + Mathis S.A., Lausanne, nuovo Fonds de prévoyance de Bertholet + Mathis S.A. en liquidation</it>
+    <fr>Mutation Fonds de prévoyance de Bertholet + Mathis S.A., Lausanne, nouveau Fonds de prévoyance de Bertholet + Mathis S.A. en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18642</journalNumber>
+  <journalDate>2019-10-16</journalDate>
+  <publicationText>Fonds de prévoyance de Bertholet + Mathis S.A., à Lausanne, CHE-109.764.819 (FOSC du 19.12.2013, p. 0/7225834). L'Autorité de surveillance LPP et des fondations de Suisse occidentale a constaté la dissolution de la fondation par décision du 24 juillet 2019. La liquidation est opérée sous le nom: Fonds de prévoyance de Bertholet + Mathis S.A. en liquidation. Ballif Christian et Aubert Jacques sont nommés liquidateurs avec signature collective à deux, toutefois pas entre eux. Herzog Fabien et Fioretta Damian sont nommés liquidateurs avec signature collective à deux, toutefois pas entre eux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fonds de prévoyance de Bertholet + Mathis S.A. en liquidation</name>
+      <uid>CHE-109.764.819</uid>
+      <uidOrganisationId>109764819</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001751690</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Bertholet</addressLine1>
+        <street>Avenue du Grey 84, Mathis S.A.</street>
+        <swissZipCode>1018</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>venir en aide aux membres du personnel de la fondatrice en cas de vieillesse, invalidité, maladie, accident, et, en cas de décès, aux membres de la famille de la personne décédée.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fonds de prévoyance de Bertholet + Mathis S.A.</name>
+      <uid>CHE-109.764.819</uid>
+      <uidOrganisationId>109764819</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001751690</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Bertholet</addressLine1>
+        <street>Avenue du Grey 84, Mathis S.A.</street>
+        <swissZipCode>1018</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>venir en aide aux membres du personnel de la fondatrice en cas de vieillesse, invalidité, maladie, accident, et, en cas de décès, aux membres de la famille de la personne décédée.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+<meta>
+  <id>8ab1bc45-3b99-42f1-86ec-9763226fbdc8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005418478</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-03-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation SI La Chahutière SA, Crans-Montana</de>
+    <en>Change SI La Chahutière SA, Crans-Montana</en>
+    <it>Cambiamenti SI La Chahutière SA, Crans-Montana</it>
+    <fr>Mutation SI La Chahutière SA, Crans-Montana</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>762</journalNumber>
+  <journalDate>2022-02-25</journalDate>
+  <publicationText>SI La Chahutière SA, à Crans-Montana, CHE-103.023.825, société anonyme (No. FOSC 188 du 28.09.2021, Publ. 1005300591). Modification des statuts: 24.01.2022. [biffé: Le 01.05.2021, les actions au porteur ont été converties de par la loi en actions nominatives. Les statuts de la société n'ont pas encore été adaptés à la conversion, mais devront l'être lors de la prochaine modification]. Le 1er mai 2021, les actions au porteur ont été converties de par la loi en actions nominatives. Par décision de l'assemblée générale du 24.01.2022 les statuts de la société ont été adaptés à la conversion.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SI La Chahutière SA</name>
+      <uid>CHE-103.023.825</uid>
+      <uidOrganisationId>103023825</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630014860</code13>
+      <seat>Crans-Montana</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Vermala</street>
+        <houseNumber>69</houseNumber>
+        <swissZipCode>3963</swissZipCode>
+        <town>Crans-Montana</town>
+      </address>
+    </company>
+    <purpose>Achat, construction, exploitation d'immeubles et administration de biens-fonds</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SI La Chahutière SA</name>
+      <uid>CHE-103.023.825</uid>
+      <uidOrganisationId>103023825</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630014860</code13>
+      <seat>Crans-Montana</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Vermala</street>
+        <houseNumber>69</houseNumber>
+        <swissZipCode>3963</swissZipCode>
+        <town>Crans-Montana</town>
+      </address>
+    </company>
+    <purpose>Achat, construction, exploitation d'immeubles et administration de biens-fonds</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-09-28</lastFoscDate>
+    <lastFoscNumber>188</lastFoscNumber>
+    <lastFoscSequence>1005300591</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

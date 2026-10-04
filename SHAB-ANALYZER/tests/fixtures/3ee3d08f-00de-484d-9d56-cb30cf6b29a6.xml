@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>3ece454e-802c-452d-90c4-0bbec9726649</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004711586</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Diräkt vom Buur GmbH in Liquidation, Erlenbach (ZH)</de>
+    <en>Change Diräkt vom Buur GmbH in Liquidation, Erlenbach (ZH)</en>
+    <it>Cambiamenti Diräkt vom Buur GmbH in Liquidation, Erlenbach (ZH)</it>
+    <fr>Mutation Diräkt vom Buur GmbH in Liquidation, Erlenbach (ZH)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>34323</journalNumber>
+  <journalDate>2019-09-04</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 171 vom 05.09.2019 publizierten TR-Eintrag Nr. 34005 vom 02.09.2019 Diräkt vom Buur GmbH in Liquidation, in Erlenbach (ZH), CHE-102.710.521, Gesellschaft mit beschränkter Haftung (SHAB Nr. 171 vom 05.09.2019, Publ. 1004709519). Mit dem im SHAB Nr. 171 vom 05.09.2019 publizierten TR-Nr. 34005 vom 02.09.2019 wurde der Löschunggrund irrtümlich nicht aufgeführt. Die Liquidation ist beendet. Die Gesellschaft wird gelöscht.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Diräkt vom Buur GmbH in Liquidation</name>
+      <uid>CHE-102.710.521</uid>
+      <uidOrganisationId>102710521</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02040009784</code13>
+      <seat>Erlenbach (ZH)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Heini Wydler</addressLine1>
+        <street>Berghof</street>
+        <swissZipCode>8703</swissZipCode>
+        <town>Erlenbach ZH</town>
+      </address>
+    </company>
+    <purpose>Hauslieferung und Standplatzverkauf von landwirtschaftlichen Produkten; kann Handel mit Waren aller Art betreiben und sich an ähnlichen Unternehmen beteiligen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Diräkt vom Buur GmbH in Liquidation</name>
+      <uid>CHE-102.710.521</uid>
+      <uidOrganisationId>102710521</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02040009784</code13>
+      <seat>Erlenbach (ZH)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Heini Wydler</addressLine1>
+        <street>Berghof</street>
+        <swissZipCode>8703</swissZipCode>
+        <town>Erlenbach ZH</town>
+      </address>
+    </company>
+    <purpose>Hauslieferung und Standplatzverkauf von landwirtschaftlichen Produkten; kann Handel mit Waren aller Art betreiben und sich an ähnlichen Unternehmen beteiligen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-05</lastFoscDate>
+    <lastFoscNumber>171</lastFoscNumber>
+    <lastFoscSequence>1004709519</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

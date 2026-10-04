@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>0ace4531-a34c-40cb-9461-0027a267b6c7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004657542</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation IPG SECURITIES ASSET MANAGEMENT SA, Genève</de>
+    <en>Change IPG SECURITIES ASSET MANAGEMENT SA, Genève</en>
+    <it>Cambiamenti IPG SECURITIES ASSET MANAGEMENT SA, Genève</it>
+    <fr>Mutation IPG SECURITIES ASSET MANAGEMENT SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11534</journalNumber>
+  <journalDate>2019-06-18</journalDate>
+  <publicationText>IPG SECURITIES ASSET MANAGEMENT SA, à Genève, CHE-264.714.066 (FOSC du 25.09.2017, p. 0/3770939). L'administrateur Carreras Jorge A. signe désormais collectivement à deux. Molina Gil Carlos Javier, du Mexique, à New York, USA, président, Fernandez Kevin, des USA, à Nassau, BHS, avec signature collective à deux et Rossi Omar, de Brusino Arsizio, à Lugano, avec signature individuelle sont membres du conseil d'administration.</publicationText>
+  <commonsNew>
+    <company>
+      <name>IPG SECURITIES ASSET MANAGEMENT SA</name>
+      <uid>CHE264714066</uid>
+      <uidOrganisationId>264714066</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66031490143</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Coutance</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>la gestion de fortune et tous conseils à des particuliers ou des sociétés (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>960000.00</nominal>
+      <paid>960000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IPG SECURITIES ASSET MANAGEMENT SA</name>
+      <uid>CHE264714066</uid>
+      <uidOrganisationId>264714066</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66031490143</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Coutance</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>la gestion de fortune et tous conseils à des particuliers ou des sociétés (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>960000.00</nominal>
+      <paid>960000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-09-25</lastFoscDate>
+    <lastFoscSequence>3770939</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

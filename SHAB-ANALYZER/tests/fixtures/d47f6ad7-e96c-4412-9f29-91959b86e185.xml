@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>d4594f70-0d3b-4f80-9514-5dee704325c6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004756450</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation Zimmerei Birchler Bau &amp; Handel, Oberägeri</de>
+    <en>Change Zimmerei Birchler Bau &amp; Handel, Oberägeri</en>
+    <it>Cambiamenti Zimmerei Birchler Bau &amp; Handel, Oberägeri</it>
+    <fr>Mutation Zimmerei Birchler Bau &amp; Handel, Oberägeri</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16051</journalNumber>
+  <journalDate>2019-11-06</journalDate>
+  <publicationText>Zimmerei Birchler Bau &amp; Handel, in Oberägeri, CHE-107.341.129, Einzelunternehmen (SHAB Nr. 213 vom 04.11.2019, Publ. 1004751538). [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Entscheid des Einzelrichters am Kantonsgericht vom 29.10.2019, 09.15 Uhr, der Konkurs eröffnet worden.]. Der Abteilungspräsident der II. Beschwerdeabteilung des Obergerichts des Kantons Zug hat mit Entscheid vom 05.11.2019 der gegen die Konkurseröffnung erhobenen Beschwerde aufschiebende Wirkung zuerkannt [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Entscheid des Einzelrichters am Kantonsgericht vom 29.10.2019, 09.15 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Zimmerei Birchler Bau &amp; Handel</name>
+      <uid>CHE-107.341.129</uid>
+      <uidOrganisationId>107341129</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17010024502</code13>
+      <seat>Oberägeri</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Alosenstrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>6315</swissZipCode>
+        <town>Oberägeri</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Zimmerei sowie Herstellung, Reparatur und Vertrieb von Bau- und Handelsgütern aller Art</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Zimmerei Birchler Bau &amp; Handel</name>
+      <uid>CHE-107.341.129</uid>
+      <uidOrganisationId>107341129</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17010024502</code13>
+      <seat>Oberägeri</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Alosenstrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>6315</swissZipCode>
+        <town>Oberägeri</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Zimmerei sowie Herstellung, Reparatur und Vertrieb von Bau- und Handelsgütern aller Art</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-04</lastFoscDate>
+    <lastFoscNumber>213</lastFoscNumber>
+    <lastFoscSequence>1004751538</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

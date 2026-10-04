@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>68ab8daa-1d09-4ef3-befc-72910de2d0f8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004730995</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation EKOD ADM GROUP SNC, Lancy, neu EKOD ADM GROUP SNC, en liquidation</de>
+    <en>Change EKOD ADM GROUP SNC, Lancy, new EKOD ADM GROUP SNC, en liquidation</en>
+    <it>Cambiamenti EKOD ADM GROUP SNC, Lancy, nuovo EKOD ADM GROUP SNC, en liquidation</it>
+    <fr>Mutation EKOD ADM GROUP SNC, Lancy, nouveau EKOD ADM GROUP SNC, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18283</journalNumber>
+  <journalDate>2019-10-01</journalDate>
+  <publicationText>EKOD ADM GROUP SNC, à Lancy, CHE-214.870.563 (FOSC du 16.05.2019, p. 0/1004631912). Selon décision des associés du 11.06.2019, la société est dissoute. La liquidation est opérée sous la raison de commerce: EKOD ADM GROUP SNC, en liquidation. Liquidateurs: les associés Alesini Oliver, Bianchi Camillo, Piquerez Jacques, Sanna Gianluca et Tardy Philippe, lesquels continuent à signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EKOD ADM GROUP SNC, en liquidation</name>
+      <uid>CHE-214.870.563</uid>
+      <uidOrganisationId>214870563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66014880196</code13>
+      <seat>Lancy</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Troènes</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>conseils et développement local, économique, écologique et social.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EKOD ADM GROUP SNC</name>
+      <uid>CHE-214.870.563</uid>
+      <uidOrganisationId>214870563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66014880196</code13>
+      <seat>Lancy</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Troènes</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>conseils et développement local, économique, écologique et social.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-16</lastFoscDate>
+    <lastFoscNumber>94</lastFoscNumber>
+    <lastFoscSequence>1004631912</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

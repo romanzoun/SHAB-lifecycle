@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>ca6c3452-e885-4fda-9276-28b195c95cd9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004640530</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Polydec SA, Biel/Bienne</de>
+    <en>Change Polydec SA, Biel/Bienne</en>
+    <it>Cambiamenti Polydec SA, Biel/Bienne</it>
+    <fr>Mutation Polydec SA, Biel/Bienne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8138</journalNumber>
+  <journalDate>2019-05-24</journalDate>
+  <publicationText>Polydec SA, à Biel/Bienne, CHE-102.134.793, société anonyme (No. FOSC 249 du 24.12.2018, Publ. 1004528989). Transfert de patrimoine: selon contrat du 29.04.2019, la société a transféré des actifs pour CHF 11'596'296.72 et des passifs envers les tiers pour CHF 6'118'662.96 à la société 2K99 SA, à Biel/Bienne (CHE-473.853.549). Contre-prestation: aucune.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Polydec SA</name>
+      <uid>CHE102134793</uid>
+      <uidOrganisationId>102134793</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07330013476</code13>
+      <seat>Biel/Bienne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Long-Champ</street>
+        <houseNumber>99</houseNumber>
+        <swissZipCode>2504</swissZipCode>
+        <town>Biel/Bienne</town>
+      </address>
+    </company>
+    <purpose>Exploitation d'un atelier de décolletages, de polissages et de trempe. La société peut prendre une participation dans des entreprises analogues et acquérir, aliéner ou grever des bien-fonds.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Polydec SA</name>
+      <uid>CHE102134793</uid>
+      <uidOrganisationId>102134793</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07330013476</code13>
+      <seat>Biel/Bienne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Long-Champ</street>
+        <houseNumber>99</houseNumber>
+        <swissZipCode>2504</swissZipCode>
+        <town>Biel/Bienne</town>
+      </address>
+    </company>
+    <purpose>Exploitation d'un atelier de décolletages, de polissages et de trempe. La société peut prendre une participation dans des entreprises analogues et acquérir, aliéner ou grever des bien-fonds.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-24</lastFoscDate>
+    <lastFoscNumber>249</lastFoscNumber>
+    <lastFoscSequence>1004528989</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

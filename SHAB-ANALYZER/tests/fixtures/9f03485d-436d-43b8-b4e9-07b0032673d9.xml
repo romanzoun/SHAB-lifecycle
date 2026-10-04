@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>9e900cab-1f7e-4306-8778-50eebe9e2b28</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004569872</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Hüppi AG Zweigniederlassung Hallau, Hallau</de>
+    <en>Change Hüppi AG Zweigniederlassung Hallau, Hallau</en>
+    <it>Cambiamenti Hüppi AG Zweigniederlassung Hallau, Hallau</it>
+    <fr>Mutation Hüppi AG Zweigniederlassung Hallau, Hallau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>329</journalNumber>
+  <journalDate>2019-02-14</journalDate>
+  <publicationText>Hüppi AG Zweigniederlassung Hallau, in Hallau, CHE-450.251.664, schweizerische Zweigniederlassung (SHAB Nr. 155 vom 12.08.2010, S.12, Publ. 5768126), Hauptsitz in: Wallisellen. Neue Identifikationsnummer Hauptsitz: CHE-112.423.922. Firma Hauptsitz neu: Hüppi AG [bisher: Firma Hauptsitz: Hüppi AG (CH-290.3.015.149-2)]. Hauptsitz neu: Winterthur [bisher: Wallisellen].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hüppi AG Zweigniederlassung Hallau</name>
+      <uid>CHE450251664</uid>
+      <uidOrganisationId>450251664</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29090169043</code13>
+      <seat>Hallau</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Selmattenstrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>8215</swissZipCode>
+        <town>Hallau</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Hüppi AG</name>
+      <country>CH</country>
+      <uid>CHE112423922</uid>
+      <uidOrganisationId>112423922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hüppi AG Zweigniederlassung Hallau</name>
+      <uid>CHE450251664</uid>
+      <uidOrganisationId>450251664</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29090169043</code13>
+      <seat>Hallau</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Selmattenstrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>8215</swissZipCode>
+        <town>Hallau</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Hüppi AG</name>
+      <country>CH</country>
+      <uid>CHE112423922</uid>
+      <uidOrganisationId>112423922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2010-08-12</lastFoscDate>
+    <lastFoscNumber>155</lastFoscNumber>
+    <lastFoscSequence>5768126</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

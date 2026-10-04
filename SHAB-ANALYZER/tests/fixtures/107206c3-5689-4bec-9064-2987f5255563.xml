@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>0fe1a08d-30fa-4e9d-a0e6-711420eb23b3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005101325</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Fondation G.R. Gabus, La Chaux-de-Fonds</de>
+    <en>Change Fondation G.R. Gabus, La Chaux-de-Fonds</en>
+    <it>Cambiamenti Fondation G.R. Gabus, La Chaux-de-Fonds</it>
+    <fr>Mutation Fondation G.R. Gabus, La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1162</journalNumber>
+  <journalDate>2021-02-10</journalDate>
+  <publicationText>Fondation G.R. Gabus, à La Chaux-de-Fonds, CHE-102.187.275 (FOSC du 10.01.2018, p. 0/3980327). Nouvelle raison sociale de l'organe de révision "Société Fiduciaire Vigilis S.A.": "Vigilis SA" (CHE-102.360.639).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation G.R. Gabus</name>
+      <uid>CHE-102.187.275</uid>
+      <uidOrganisationId>102187275</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64502010385</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue Léopold-Robert</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>favoriser et soutenir, dans la mesure où elles ne sont pas ou ne sont que partiellement subventionnées par l'assurance-invalidité, toutes les activités, notamment culturelles, récréatives, sportives, ainsi que les excursions et les camps, organisés en faveur des enfants traités par le Centre IMC, à La Chaux-de-Fonds.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation G.R. Gabus</name>
+      <uid>CHE-102.187.275</uid>
+      <uidOrganisationId>102187275</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64502010385</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue Léopold-Robert</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>favoriser et soutenir, dans la mesure où elles ne sont pas ou ne sont que partiellement subventionnées par l'assurance-invalidité, toutes les activités, notamment culturelles, récréatives, sportives, ainsi que les excursions et les camps, organisés en faveur des enfants traités par le Centre IMC, à La Chaux-de-Fonds.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-01-10</lastFoscDate>
+    <lastFoscNumber>6</lastFoscNumber>
+    <lastFoscSequence>3980327</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

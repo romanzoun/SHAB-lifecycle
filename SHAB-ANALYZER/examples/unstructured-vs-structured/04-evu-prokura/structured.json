@@ -1,0 +1,73 @@
+{
+  "publication_id": "a3da6315-d883-41f4-8527-27bb0432d17e",
+  "published_at": "2026-09-14",
+  "language": "de",
+  "sub_rubric": "HR02",
+  "org_uid": "CHE-115.858.110",
+  "canton": "AG",
+  "plz": "5000",
+  "status": "FULLY_PARSED",
+  "leftover_text": "EVU Partners AG, in Aarau, CHE-115.858.110, Aktiengesellschaft (SHAB Nr. 17 vom 27.01.2026, Publ. 1006551412)",
+  "events": [
+    {
+      "event_type": "officer_removed",
+      "rule_id": "de.persons.natural.v1",
+      "org_uid": "CHE-115.858.110",
+      "person_key": "p:ludwig, wilfried|kirchdorf ag",
+      "plz": "5000",
+      "canton": "AG",
+      "role": null,
+      "signing": "Kollektivprokura zu zweien",
+      "payload": {
+        "name": "Ludwig, Wilfried",
+        "place": "Kirchdorf AG",
+        "heimat": "Obersiggenthal",
+        "nationality": null
+      }
+    },
+    {
+      "event_type": "signing_authority_changed",
+      "rule_id": "de.persons.signing.v1",
+      "org_uid": "CHE-115.858.110",
+      "person_key": "p:ludwig, wilfried|kirchdorf ag",
+      "plz": "5000",
+      "canton": "AG",
+      "role": null,
+      "signing": "Kollektivprokura zu zweien",
+      "payload": {
+        "name": "Ludwig, Wilfried",
+        "place": "Kirchdorf AG"
+      }
+    },
+    {
+      "event_type": "officer_changed",
+      "rule_id": "de.persons.natural.v1",
+      "org_uid": "CHE-115.858.110",
+      "person_key": "p:wirz, jacqueline|kuttigen",
+      "plz": "5000",
+      "canton": "AG",
+      "role": null,
+      "signing": "Kollektivprokura zu zweien",
+      "payload": {
+        "name": "Wirz, Jacqueline",
+        "place": "Küttigen",
+        "heimat": "Dürrenäsch",
+        "nationality": null
+      }
+    },
+    {
+      "event_type": "signing_authority_changed",
+      "rule_id": "de.persons.signing.v1",
+      "org_uid": "CHE-115.858.110",
+      "person_key": "p:wirz, jacqueline|kuttigen",
+      "plz": "5000",
+      "canton": "AG",
+      "role": null,
+      "signing": "Kollektivprokura zu zweien",
+      "payload": {
+        "name": "Wirz, Jacqueline",
+        "place": "Küttigen"
+      }
+    }
+  ]
+}

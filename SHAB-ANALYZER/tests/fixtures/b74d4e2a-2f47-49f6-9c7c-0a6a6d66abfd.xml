@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b73254ab-b17d-4f6c-9998-c8e7bfe28062</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004498322</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation Arthex AG, Arth</de>
+    <en>Change Arthex AG, Arth</en>
+    <it>Cambiamenti Arthex AG, Arth</it>
+    <fr>Mutation Arthex AG, Arth</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5944</journalNumber>
+  <journalDate>2018-11-12</journalDate>
+  <publicationText>Arthex AG, in Arth, CHE-102.430.582, Aktiengesellschaft (SHAB Nr. 188 vom 28.09.2018, Publ. 1004464899). Vermögensübertragung: Die Arthex AG überträgt gemäss Vermögensübertragungsvertrag vom 09.11.2018 Aktiven von CHF 1'973'100.00 und Passiven (Fremdkapital) von CHF 1'026'982.40 auf die Avantex AG, in Trimbach (CHE-341.524.093). Gegenleistung: keine .</publicationText>
+  <commonsNew>
+    <company>
+      <name>Arthex AG</name>
+      <uid>CHE102430582</uid>
+      <uidOrganisationId>102430582</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH24930005556</code13>
+      <seat>Arth</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonneggstrasse</street>
+        <houseNumber>30b</houseNumber>
+        <swissZipCode>6410</swissZipCode>
+        <town>Goldau</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Beratung und Engineering im Bereich von Textilwerkstoffen und Leder sowie Handel mit Textil- und Lederprodukten. Die Gesellschaft kann Liegenschaften erwerben, belasten, verwalten und vermieten und veräussern.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Arthex AG</name>
+      <uid>CHE102430582</uid>
+      <uidOrganisationId>102430582</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH24930005556</code13>
+      <seat>Arth</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonneggstrasse</street>
+        <houseNumber>30b</houseNumber>
+        <swissZipCode>6410</swissZipCode>
+        <town>Goldau</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Beratung und Engineering im Bereich von Textilwerkstoffen und Leder sowie Handel mit Textil- und Lederprodukten. Die Gesellschaft kann Liegenschaften erwerben, belasten, verwalten und vermieten und veräussern.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-28</lastFoscDate>
+    <lastFoscNumber>188</lastFoscNumber>
+    <lastFoscSequence>1004464899</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

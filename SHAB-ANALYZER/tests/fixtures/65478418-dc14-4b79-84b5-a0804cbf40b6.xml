@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>64eb1d87-f632-43cd-8ec1-6cd48ce1a228</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004453561</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Emile Egger &amp; Cie S.A., Cressier (NE)</de>
+    <en>Change Emile Egger &amp; Cie S.A., Cressier (NE)</en>
+    <it>Cambiamenti Emile Egger &amp; Cie S.A., Cressier (NE)</it>
+    <fr>Mutation Emile Egger &amp; Cie S.A., Cressier (NE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3544</journalNumber>
+  <journalDate>2018-09-06</journalDate>
+  <publicationText>Emile Egger &amp; Cie S.A. , à Cressier (NE), CHE-101.524.594 (FOSC du 21.02.2018, p. 0/4070363). Les procurations de Gnädinger Raymond et de Mathez Luc André sont radiées.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Emile Egger &amp; Cie S.A.</name>
+      <translations>[de] Emile Egger &amp; Co. A.G.</translations>
+      <uid>CHE101524594</uid>
+      <uidOrganisationId>101524594</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510083757</code13>
+      <seat>Cressier (NE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Neuchâtel</street>
+        <houseNumber>36</houseNumber>
+        <town>Cressier (NE)</town>
+      </address>
+    </company>
+    <purpose>fabrication, achat et vente de pompes centrifuges et autres produits mécaniques et l'exploitation de brevets industriels.</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Emile Egger &amp; Cie S.A.</name>
+      <translations>[de] Emile Egger &amp; Co. A.G.</translations>
+      <uid>CHE101524594</uid>
+      <uidOrganisationId>101524594</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510083757</code13>
+      <seat>Cressier (NE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Neuchâtel</street>
+        <houseNumber>36</houseNumber>
+        <town>Cressier (NE)</town>
+      </address>
+    </company>
+    <purpose>fabrication, achat et vente de pompes centrifuges et autres produits mécaniques et l'exploitation de brevets industriels.</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-02-21</lastFoscDate>
+    <lastFoscSequence>4070363</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

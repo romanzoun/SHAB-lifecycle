@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8c117489-786c-433b-814c-d198417a71b7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004600306</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fromagerie-démonstration C. Repond S.A. en liquidation, bisher Fromagerie-démonstration C. Repond S.A., Leysin</de>
+    <en>Change Fromagerie-démonstration C. Repond S.A. en liquidation, to date Fromagerie-démonstration C. Repond S.A., Leysin</en>
+    <it>Cambiamenti Fromagerie-démonstration C. Repond S.A. en liquidation, prima Fromagerie-démonstration C. Repond S.A., Leysin</it>
+    <fr>Mutation Fromagerie-démonstration C. Repond S.A. en liquidation, Leysin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5894</journalNumber>
+  <journalDate>2019-03-27</journalDate>
+  <publicationText>Fromagerie-démonstration C. Repond S.A., à Leysin, CHE-107.374.850 (FOSC du 19.12.2013, p. 0/7225834). Selon décision de son assemblée générale du 15 mars 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Fromagerie-démonstration C. Repond S.A. en liquidation. L'administrateur Fidanza François, maintenant à Lancy, est élu liquidateur avec signature individuelle. Adresse de liquidation: Chemin des Poteaux 4, c/o François Fidanza, 1213 Petit-Lancy.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fromagerie-démonstration C. Repond S.A. en liquidation</name>
+      <uid>CHE107374850</uid>
+      <uidOrganisationId>107374850</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001693858</code13>
+      <seat>Leysin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Village</street>
+        <swissZipCode>1854</swissZipCode>
+        <town>Leysin</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o François Fidanza</addressLine1>
+        <street>Chemin des Poteaux</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Petit-Lancy</town>
+      </liqAddress>
+    </company>
+    <purpose>fabrication, commercialisation, achat, vente de tout produit laitier, ainsi que l'exploitation d'un restaurant, d'un musée et de tout autre établissement public.</purpose>
+    <capital>
+      <nominal>260000.00</nominal>
+      <paid>260000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fromagerie-démonstration C. Repond S.A.</name>
+      <uid>CHE107374850</uid>
+      <uidOrganisationId>107374850</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001693858</code13>
+      <seat>Leysin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Village</street>
+        <swissZipCode>1854</swissZipCode>
+        <town>Leysin</town>
+      </address>
+    </company>
+    <purpose>fabrication, commercialisation, achat, vente de tout produit laitier, ainsi que l'exploitation d'un restaurant, d'un musée et de tout autre établissement public.</purpose>
+    <capital>
+      <nominal>260000.00</nominal>
+      <paid>260000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.15/HR02-export.xsd">
+<meta>
+  <id>03bc35fa-e9cb-4002-a950-721981a99292</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005482417</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-05-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation 21st Luxury Group SA, Genève, neu 21st Luxury Group SA, en liquidation</de>
+    <en>Change 21st Luxury Group SA, Genève, new 21st Luxury Group SA, en liquidation</en>
+    <it>Cambiamenti 21st Luxury Group SA, Genève, nuovo 21st Luxury Group SA, en liquidation</it>
+    <fr>Mutation 21st Luxury Group SA, Genève, nouveau 21st Luxury Group SA, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9600</journalNumber>
+  <journalDate>2022-05-20</journalDate>
+  <publicationText>21st Luxury Group SA, à Genève, CHE-326.940.840 (FOSC du 18.03.2022, p. 0/1005430830). Par arrêt du 07.04.2022, la Cour de Justice a rejeté le recours contre le jugement du 17.12.2021, par conséquent, la faillite est prononcée avec effet à partir du 07.04.2022 à 12:00 et sa raison sociale devient: 21st Luxury Group SA, en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>21st Luxury Group SA, en liquidation</name>
+      <uid>CHE-326.940.840</uid>
+      <uidOrganisationId>326940840</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011054830</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Mont-Blanc</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>dans le sens d'une holding, et à l'exclusion de toutes participations et de tous financements dans des sociétés ayant un but d'acquisition d'immeubles en Suisse: prise, achat, vente, administration et gestion de participations dans toutes sociétés ou entreprises, directement ou indirectement, en Suisse et à l'étranger; toutes opérations d'achat, gestion et vente de biens immobiliers à l'étranger; financement de sociétés affiliées (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>105000.00</nominal>
+      <paid>105000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>21st Luxury Group SA</name>
+      <uid>CHE-326.940.840</uid>
+      <uidOrganisationId>326940840</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011054830</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Mont-Blanc</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>dans le sens d'une holding, et à l'exclusion de toutes participations et de tous financements dans des sociétés ayant un but d'acquisition d'immeubles en Suisse: prise, achat, vente, administration et gestion de participations dans toutes sociétés ou entreprises, directement ou indirectement, en Suisse et à l'étranger; toutes opérations d'achat, gestion et vente de biens immobiliers à l'étranger; financement de sociétés affiliées (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>105000.00</nominal>
+      <paid>105000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2022-03-18</lastFoscDate>
+    <lastFoscNumber>55</lastFoscNumber>
+    <lastFoscSequence>1005430830</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

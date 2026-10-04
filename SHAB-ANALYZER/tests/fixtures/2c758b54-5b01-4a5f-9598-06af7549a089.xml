@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>2bad57a0-c3d8-4ea3-aaaf-f56a1aa7c070</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004609496</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation Aquarion AG, Baar</de>
+    <en>Change Aquarion AG, Baar</en>
+    <it>Cambiamenti Aquarion AG, Baar</it>
+    <fr>Mutation Aquarion AG, Baar</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5032</journalNumber>
+  <journalDate>2019-04-09</journalDate>
+  <publicationText>Aquarion AG, in Baar, CHE-116.309.082, Aktiengesellschaft (SHAB Nr. 45 vom 06.03.2019, Publ. 1004581297). Bei der Kapitalherabsetzung vom 05.04.2019 werden 6'065'790 Namenaktien zu CHF 1.00 (Stammaktien) und 2'021'930 Namenaktien zu CHF 1.00 (Vorzugsaktien) zur teilweisen Beseitigung einer Unterbilanz vernichtet. Gleichzeitig wird bei der ordentlichen Kapitalerhöhung vom 05.04.2019 eine Forderung von EUR 8'100'000.00 verrechnet, wofür 6'065'790 voll liberierte Namenaktien zu CHF 1.00 (Stammaktien) und 2'021'930 Namenaktien zu CHF 1.00 (Vorzugsaktien) ausgegeben werden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Aquarion AG</name>
+      <translations>[fr] Aquarion SA [it] Aquarion Ltd</translations>
+      <uid>CHE116309082</uid>
+      <uidOrganisationId>116309082</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030351792</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zugerstrasse</street>
+        <houseNumber>76B</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Verwaltung und Veräusserung von Beteiligungen an Unternehmen, insbesondere im Bereich von Wasseraufbereitungsanlagen und -prozessen; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>8087720.00</nominal>
+      <paid>8087720.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Aquarion AG</name>
+      <translations>[fr] Aquarion SA [it] Aquarion Ltd</translations>
+      <uid>CHE116309082</uid>
+      <uidOrganisationId>116309082</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030351792</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zugerstrasse</street>
+        <houseNumber>76B</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Verwaltung und Veräusserung von Beteiligungen an Unternehmen, insbesondere im Bereich von Wasseraufbereitungsanlagen und -prozessen; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>8087720.00</nominal>
+      <paid>8087720.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-06</lastFoscDate>
+    <lastFoscNumber>45</lastFoscNumber>
+    <lastFoscSequence>1004581297</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>true</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

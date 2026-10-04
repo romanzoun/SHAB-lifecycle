@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>5a171c16-b709-42a6-a5b7-340d220e14c5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004485917</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation OBT AG, St. Gallen</de>
+    <en>Change OBT AG, St. Gallen</en>
+    <it>Cambiamenti OBT AG, St. Gallen</it>
+    <fr>Mutation OBT AG, St. Gallen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9651</journalNumber>
+  <journalDate>2018-10-24</journalDate>
+  <publicationText>OBT AG, in St. Gallen, CHE-109.029.855, Aktiengesellschaft (SHAB Nr. 112 vom 13.06.2018, Publ. 4287237). Zweigniederlassung neu: [Folgende Zweigniederlassung ist aufgehoben worden:] [bisher: Heerbrugg (Au SG)].</publicationText>
+  <commonsNew>
+    <company>
+      <name>OBT AG</name>
+      <uid>CHE109029855</uid>
+      <uidOrganisationId>109029855</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030131090</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rorschacherstrasse</street>
+        <houseNumber>63</houseNumber>
+        <swissZipCode>9004</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Ausführung von Treuhandaufgaben jeder Art, insbesondere die betriebswirtschaftliche Beratung von Unternehmungen und die Mitwirkung bei der Ausführung von Aufgaben in allen Bereichen der Unternehmensführung sowie Handel mit Informatik Hard- und Software. Die Gesellschaft kann sich im In- und Ausland an anderen Unternehmungen beteiligen sowie Grundstücke erwerben, verkaufen und belasten.</purpose>
+    <capital>
+      <nominal>2500000.00</nominal>
+      <paid>2500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>OBT AG</name>
+      <uid>CHE109029855</uid>
+      <uidOrganisationId>109029855</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030131090</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rorschacherstrasse</street>
+        <houseNumber>63</houseNumber>
+        <swissZipCode>9004</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Ausführung von Treuhandaufgaben jeder Art, insbesondere die betriebswirtschaftliche Beratung von Unternehmungen und die Mitwirkung bei der Ausführung von Aufgaben in allen Bereichen der Unternehmensführung sowie Handel mit Informatik Hard- und Software. Die Gesellschaft kann sich im In- und Ausland an anderen Unternehmungen beteiligen sowie Grundstücke erwerben, verkaufen und belasten.</purpose>
+    <capital>
+      <nominal>2500000.00</nominal>
+      <paid>2500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-13</lastFoscDate>
+    <lastFoscNumber>112</lastFoscNumber>
+    <lastFoscSequence>4287237</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

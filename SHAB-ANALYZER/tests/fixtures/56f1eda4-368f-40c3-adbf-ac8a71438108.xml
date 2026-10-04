@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>56d846f0-1916-48a5-b3ed-baed60b55f4f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005184453</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation DIVAVOYANCE SA en liquidation, Belfaux</de>
+    <en>Change DIVAVOYANCE SA en liquidation, Belfaux</en>
+    <it>Cambiamenti DIVAVOYANCE SA en liquidation, Belfaux</it>
+    <fr>Mutation DIVAVOYANCE SA en liquidation, Belfaux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3837</journalNumber>
+  <journalDate>2021-05-12</journalDate>
+  <publicationText>DIVAVOYANCE SA en liquidation, à Belfaux, CHE-112.580.504 (FOSC du 12.11.2018, p. 0/1004495483). Le 01.05.2021, les actions au porteur ont été converties de par la loi en actions nominatives. Les statuts de la société n'ont pas encore été adaptés à la conversion, mais devront l'être lors de la prochaine modification. Capital-actions nouveau: CHF CHF 100'000, entièrement libéré, divisé en 100 actions de CHF 1'000, nominatives (jusqu'ici: 100 actions de CHF 1'000, au porteur).</publicationText>
+  <commonsNew>
+    <company>
+      <name>DIVAVOYANCE SA en liquidation</name>
+      <uid>CHE-112.580.504</uid>
+      <uidOrganisationId>112580504</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022640054</code13>
+      <seat>Belfaux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lossy</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1782</swissZipCode>
+        <town>Belfaux</town>
+      </address>
+    </company>
+    <purpose>Activités en relation avec les arts divinatoires, telles que astrologie, cartomancie, numérologie, voyance, médiumnité, coaching, parapsychologie, etc.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>DIVAVOYANCE SA en liquidation</name>
+      <uid>CHE-112.580.504</uid>
+      <uidOrganisationId>112580504</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022640054</code13>
+      <seat>Belfaux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lossy</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1782</swissZipCode>
+        <town>Belfaux</town>
+      </address>
+    </company>
+    <purpose>Activités en relation avec les arts divinatoires, telles que astrologie, cartomancie, numérologie, voyance, médiumnité, coaching, parapsychologie, etc.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-12</lastFoscDate>
+    <lastFoscNumber>219</lastFoscNumber>
+    <lastFoscSequence>1004495483</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

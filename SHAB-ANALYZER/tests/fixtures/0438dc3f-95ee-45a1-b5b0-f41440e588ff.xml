@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>042bddb3-b743-4e02-8a76-89ff3d937ef6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004628088</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Kramer Gastronomie, Zürich</de>
+    <en>Change Kramer Gastronomie, Zürich</en>
+    <it>Cambiamenti Kramer Gastronomie, Zürich</it>
+    <fr>Mutation Kramer Gastronomie, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18010</journalNumber>
+  <journalDate>2019-05-08</journalDate>
+  <publicationText>Kramer Gastronomie, in Zürich, CHE-106.103.917, Einzelunternehmen (SHAB Nr. 92 vom 12.05.2017, S.0, Publ. 3520023). Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vertrag vom 30.04.2019 Aktiven von CHF 33'134'221.63 und Passiven (Fremdkapital) von CHF 30'865'270. 61 auf die Kramer Gastronomie AG, in Zürich (CHE-326.577.107). Gegenleistung: 200 Namenaktien zu CHF 1'000.00 und Forderungsgutschrift von CHF 2'068'951.02.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kramer Gastronomie</name>
+      <uid>CHE106103917</uid>
+      <uidOrganisationId>106103917</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010083089</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Herdernstrasse</street>
+        <houseNumber>56</houseNumber>
+        <swissZipCode>8004</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Führung von Restaurationsbetrieben.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kramer Gastronomie</name>
+      <uid>CHE106103917</uid>
+      <uidOrganisationId>106103917</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010083089</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Herdernstrasse</street>
+        <houseNumber>56</houseNumber>
+        <swissZipCode>8004</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Führung von Restaurationsbetrieben.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-05-12</lastFoscDate>
+    <lastFoscNumber>92</lastFoscNumber>
+    <lastFoscSequence>3520023</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

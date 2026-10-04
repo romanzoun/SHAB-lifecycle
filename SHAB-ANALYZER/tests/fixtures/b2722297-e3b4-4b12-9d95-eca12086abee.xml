@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b2471480-7090-4273-be22-46e80d244dfc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004603564</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation sesiba sàrl, Le Mont-sur-Lausanne</de>
+    <en>Change sesiba sàrl, Le Mont-sur-Lausanne</en>
+    <it>Cambiamenti sesiba sàrl, Le Mont-sur-Lausanne</it>
+    <fr>Mutation sesiba sàrl, Le Mont-sur-Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6186</journalNumber>
+  <journalDate>2019-04-01</journalDate>
+  <publicationText>sesiba sàrl, à Le Mont-sur-Lausanne, CHE-326.936.100 (FOSC du 08.12.2017, p. 0/3920587). Zengin Dennis cède 1 de ses 20 parts de CHF 1'000 à Güney Yilmaz, de Turquie, à Lausanne, nouvel associé sans signature, titulaire d'1 part de CHF 1'000. Zengin Dennis a maintenant 19 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>sesiba sàrl</name>
+      <uid>CHE326936100</uid>
+      <uidOrganisationId>326936100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011716907</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Cugy</street>
+        <houseNumber>62</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Le Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation et la gestion des bars et des salons de coiffure; le commerce et la distribution de marchandises en tout genre notamment des produits en ralation aux objets de la société (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>sesiba sàrl</name>
+      <uid>CHE326936100</uid>
+      <uidOrganisationId>326936100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011716907</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Cugy</street>
+        <houseNumber>62</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Le Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation et la gestion des bars et des salons de coiffure; le commerce et la distribution de marchandises en tout genre notamment des produits en ralation aux objets de la société (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-12-08</lastFoscDate>
+    <lastFoscSequence>3920587</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

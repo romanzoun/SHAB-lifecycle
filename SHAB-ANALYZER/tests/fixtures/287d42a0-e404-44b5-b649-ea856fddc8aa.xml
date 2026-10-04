@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>286f1659-a2ab-4beb-81de-db9d510bd0f1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004848082</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Milica Djuricic, Nendaz</de>
+    <en>Change Milica Djuricic, Nendaz</en>
+    <it>Cambiamenti Milica Djuricic, Nendaz</it>
+    <fr>Mutation Milica Djuricic, Nendaz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>977</journalNumber>
+  <journalDate>2020-03-04</journalDate>
+  <publicationText>Complément de l'inscription au registre journalier no 846 du 27.02.2020, publiée dans la FOSC no 43 du 03.03.2020 . Milica Djuricic, à Nendaz, CHE-110.263.240, entreprise individuelle (No. FOSC 43 du 03.03.2020, Publ. 1004843899). Entreprise individuelle inscrite d'office selon l'art. 152 ORC.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Milica Djuricic</name>
+      <uid>CHE-110.263.240</uid>
+      <uidOrganisationId>110263240</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610200549</code13>
+      <seat>Nendaz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Nendaz</street>
+        <houseNumber>877</houseNumber>
+        <swissZipCode>1997</swissZipCode>
+        <town>Haute-Nendaz</town>
+      </address>
+    </company>
+    <purpose>Conciergerie (nettoyage, blanchisserie et entretien extérieur), construction/rénovation</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Milica Djuricic</name>
+      <uid>CHE-110.263.240</uid>
+      <uidOrganisationId>110263240</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610200549</code13>
+      <seat>Nendaz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Nendaz</street>
+        <houseNumber>877</houseNumber>
+        <swissZipCode>1997</swissZipCode>
+        <town>Haute-Nendaz</town>
+      </address>
+    </company>
+    <purpose>Conciergerie (nettoyage, blanchisserie et entretien extérieur), construction/rénovation</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-03</lastFoscDate>
+    <lastFoscNumber>43</lastFoscNumber>
+    <lastFoscSequence>1004843899</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

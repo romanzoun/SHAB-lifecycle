@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.20/HR02-export.xsd">
+<meta>
+  <id>d1992a15-9143-40f2-a643-31a3323ddaae</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006015707</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-04-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Aargauer Sehhilfe in Liquidation, Aarau</de>
+    <en>Change Aargauer Sehhilfe in Liquidation, Aarau</en>
+    <it>Cambiamenti Aargauer Sehhilfe in Liquidation, Aarau</it>
+    <fr>Mutation Aargauer Sehhilfe in Liquidation, Aarau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5510</journalNumber>
+  <journalDate>2024-04-18</journalDate>
+  <publicationText>Aargauer Sehhilfe in Liquidation, in Aarau, CHE-107.082.637, Verein (SHAB Nr. 242 vom 13.12.2023, Publ. 1005908893). Vermögensübertragung: Der Verein überträgt gemäss Vertrag vom 22.03.2024 Aktiven von CHF 1'146'776.43 und Passiven (Fremdkapital) von CHF 692'674.45 auf die LANDENHOF Zentrum für Hören und Sehen, in Unterentfelden (CHE-107.070.433). Gegenleistung: keine.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Aargauer Sehhilfe in Liquidation</name>
+      <uid>CHE-107.082.637</uid>
+      <uidOrganisationId>107082637</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40064535789</code13>
+      <seat>Aarau</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Metzgergasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>5000</swissZipCode>
+        <town>Aarau</town>
+      </address>
+    </company>
+    <purpose>Die Aargauer Sehhilfe bezweckt die Beratung, Betreuung und Unterstützung von Blinden und Sehbehinderten im Kanton Aargau. Für die Erfüllung dieser Aufgaben führt sie eine Beratungsstelle.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Aargauer Sehhilfe in Liquidation</name>
+      <uid>CHE-107.082.637</uid>
+      <uidOrganisationId>107082637</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40064535789</code13>
+      <seat>Aarau</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Metzgergasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>5000</swissZipCode>
+        <town>Aarau</town>
+      </address>
+    </company>
+    <purpose>Die Aargauer Sehhilfe bezweckt die Beratung, Betreuung und Unterstützung von Blinden und Sehbehinderten im Kanton Aargau. Für die Erfüllung dieser Aufgaben führt sie eine Beratungsstelle.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2023-12-13</lastFoscDate>
+    <lastFoscNumber>242</lastFoscNumber>
+    <lastFoscSequence>1005908893</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.13/HR02-export.xsd">
+<meta>
+  <id>3b782e32-0213-4949-b8d2-a74e714c9e6e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005330956</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-11-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Taxi Ora, Inhaber Isni Idrizi, Wil (SG)</de>
+    <en>Change Taxi Ora, Inhaber Isni Idrizi, Wil (SG)</en>
+    <it>Cambiamenti Taxi Ora, Inhaber Isni Idrizi, Wil (SG)</it>
+    <fr>Mutation Taxi Ora, Inhaber Isni Idrizi, Wil (SG)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11946</journalNumber>
+  <journalDate>2021-11-05</journalDate>
+  <publicationText>Taxi Ora, Inhaber Isni Idrizi, in Wil (SG), CHE-428.314.619, Einzelunternehmen (SHAB Nr. 125 vom 01.07.2021, Publ. 1005235694). Der Geschäftsbetrieb wird fortgeführt; die Eintragung bleibt bestehen (159a Abs. 2 lit. b HRegV).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Taxi Ora, Inhaber Isni Idrizi</name>
+      <uid>CHE-428.314.619</uid>
+      <uidOrganisationId>428314619</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010813588</code13>
+      <seat>Wil (SG)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bildfeldstrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>9552</swissZipCode>
+        <town>Bronschhofen</town>
+      </address>
+    </company>
+    <purpose>Taxiunternehmung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Taxi Ora, Inhaber Isni Idrizi</name>
+      <uid>CHE-428.314.619</uid>
+      <uidOrganisationId>428314619</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010813588</code13>
+      <seat>Wil (SG)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bildfeldstrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>9552</swissZipCode>
+        <town>Bronschhofen</town>
+      </address>
+    </company>
+    <purpose>Taxiunternehmung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-07-01</lastFoscDate>
+    <lastFoscNumber>125</lastFoscNumber>
+    <lastFoscSequence>1005235694</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>09092f71-137b-4b0b-ba14-40458e44b40f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004662948</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation EC Immobilier SA, La Grande-Béroche</de>
+    <en>Change EC Immobilier SA, La Grande-Béroche</en>
+    <it>Cambiamenti EC Immobilier SA, La Grande-Béroche</it>
+    <fr>Mutation EC Immobilier SA, La Grande-Béroche</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2030</journalNumber>
+  <journalDate>2019-06-25</journalDate>
+  <publicationText>EC Immobilier SA, à La Grande Béroche, CHE-143.373.295 (FOSC du 20.06.2019, p. 0/1004656356). Transfert de patrimoine: selon contrat du 21.06.2019, la société a transféré des actifs pour CHF 561'372.09 et des passifs envers les tiers pour CHF 408'173.09, à EMS Chantevent SA (CHE-461.527.830), nouvelle société à La Grande Béroche. Contre-prestation: 100'000 actions de CHF 1 et une créance de CHF 53'199.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EC Immobilier SA</name>
+      <uid>CHE143373295</uid>
+      <uidOrganisationId>143373295</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541194245</code13>
+      <seat>La Grande-Béroche</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vaumarcus, route du Moulin</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>2028</swissZipCode>
+        <town>Vaumarcus</town>
+      </address>
+    </company>
+    <purpose>acquisition, vente, construction, exploitation et gestion d'immeubles, et acquisition, administration et gestion de participations directes ou indirectes dans tous types de sociétés en Suisse et à l'étranger (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EC Immobilier SA</name>
+      <uid>CHE143373295</uid>
+      <uidOrganisationId>143373295</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541194245</code13>
+      <seat>La Grande-Béroche</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vaumarcus, route du Moulin</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>2028</swissZipCode>
+        <town>Vaumarcus</town>
+      </address>
+    </company>
+    <purpose>acquisition, vente, construction, exploitation et gestion d'immeubles, et acquisition, administration et gestion de participations directes ou indirectes dans tous types de sociétés en Suisse et à l'étranger (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-20</lastFoscDate>
+    <lastFoscSequence>1004656356</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

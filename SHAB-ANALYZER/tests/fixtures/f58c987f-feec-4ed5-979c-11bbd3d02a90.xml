@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>f5498fcc-a53c-49c0-b164-e10233ea1741</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004868600</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Boucherie Roch Sàrl, Orbe</de>
+    <en>Change Boucherie Roch Sàrl, Orbe</en>
+    <it>Cambiamenti Boucherie Roch Sàrl, Orbe</it>
+    <fr>Mutation Boucherie Roch Sàrl, Orbe</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6021</journalNumber>
+  <journalDate>2020-04-03</journalDate>
+  <publicationText>Boucherie Roch Sàrl, à Orbe, CHE-110.468.121 (FOSC du 07.07.2015, p. 0/2254875). Statuts modifiés le 27 mars 2020. L'autre adresse à Montcherand, c/o Armand Roch, est radiée. Le capital social de CHF 250'000 est maintenant divisé en 250 parts sociales de CHF 1'000. Roch Armand est désormais titulaire de 249 parts de CHF 1'000 et Roch Marie Josée de 1 part de CHF 1'000. Nouvelles communications aux associés: par lettre ou par courriel. La clause statutaire relative à la reprise de biens envisagée à la constitution est abrogée conformément à l'art. 628 al. 4 CO.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Boucherie Roch Sàrl</name>
+      <uid>CHE-110.468.121</uid>
+      <uidOrganisationId>110468121</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010374446</code13>
+      <seat>Orbe</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Z.I. Les Ducats</street>
+        <swissZipCode>1350</swissZipCode>
+        <town>Orbe</town>
+      </address>
+    </company>
+    <purpose>commerce de viande, fabrication de charcuterie et conserves, exploitation de tout établissement de préparation et conditionnement de viande et de tout commerce de boucherie, charcuterie, comestibles et traiteur.</purpose>
+    <capital>
+      <nominal>250000.00</nominal>
+      <paid>250000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Boucherie Roch Sàrl</name>
+      <uid>CHE-110.468.121</uid>
+      <uidOrganisationId>110468121</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010374446</code13>
+      <seat>Orbe</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Z.I. Les Ducats</street>
+        <swissZipCode>1350</swissZipCode>
+        <town>Orbe</town>
+      </address>
+    </company>
+    <purpose>commerce de viande, fabrication de charcuterie et conserves, exploitation de tout établissement de préparation et conditionnement de viande et de tout commerce de boucherie, charcuterie, comestibles et traiteur.</purpose>
+    <capital>
+      <nominal>250000.00</nominal>
+      <paid>250000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-07-07</lastFoscDate>
+    <lastFoscNumber>128</lastFoscNumber>
+    <lastFoscSequence>2254875</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>8db63a40-bcad-4441-b8f7-4297fccff7e9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004724992</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation Martin Bodmer, Cologny</de>
+    <en>Change Fondation Martin Bodmer, Cologny</en>
+    <it>Cambiamenti Fondation Martin Bodmer, Cologny</it>
+    <fr>Mutation Fondation Martin Bodmer, Cologny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17686</journalNumber>
+  <journalDate>2019-09-23</journalDate>
+  <publicationText>Fondation Martin Bodmer, à Cologny, CHE-107.856.563 (FOSC du 14.06.2019, p. 0/1004651875). Statuts modifiés le 17.09.2019, sur un point non soumis à publication. Radiation de la mention relative à l'organisation, plus soumise à inscription.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Martin Bodmer</name>
+      <uid>CHE-107.856.563</uid>
+      <uidOrganisationId>107856563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000809711</code13>
+      <seat>Cologny</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route Martin-Bodmer</street>
+        <houseNumber>19-21</houseNumber>
+        <swissZipCode>1223</swissZipCode>
+        <town>Cologny</town>
+      </address>
+    </company>
+    <purpose>maintien, développement et rayonnement de la Biblioteca Bodmeriana, créée par Martin Bodmer.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Martin Bodmer</name>
+      <uid>CHE-107.856.563</uid>
+      <uidOrganisationId>107856563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000809711</code13>
+      <seat>Cologny</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route Martin-Bodmer</street>
+        <houseNumber>19-21</houseNumber>
+        <swissZipCode>1223</swissZipCode>
+        <town>Cologny</town>
+      </address>
+    </company>
+    <purpose>maintien, développement et rayonnement de la Biblioteca Bodmeriana, créée par Martin Bodmer.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-14</lastFoscDate>
+    <lastFoscNumber>113</lastFoscNumber>
+    <lastFoscSequence>1004651875</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

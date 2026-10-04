@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>462cfcbb-fdbc-4f81-8958-2c01739ca391</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004499884</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Essentiel Cabinet de soins d'esthétique SNC, Moudon</de>
+    <en>Change Essentiel Cabinet de soins d'esthétique SNC, Moudon</en>
+    <it>Cambiamenti Essentiel Cabinet de soins d'esthétique SNC, Moudon</it>
+    <fr>Mutation Essentiel Cabinet de soins d'esthétique SNC, Moudon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20229</journalNumber>
+  <journalDate>2018-11-13</journalDate>
+  <publicationText>Essentiel Cabinet de soins d'esthétique SNC, à Moudon, CHE-388.576.625, Société en nom collectif (FOSC du 27.09.2018, p. 0/1004464415). Rectificatif: l'inscription n° 16872 du 24.09.2018 (FOSC du 27.09.2018 p. 0/1004464415) est rectifiée en ce sens que la société en nom collectif a commencé le 24 septembre 2018 et non le 28 octobre 2017 comme publié.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Essentiel Cabinet de soins d'esthétique SNC</name>
+      <uid>CHE388576625</uid>
+      <uidOrganisationId>388576625</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011814416</code13>
+      <seat>Moudon</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Relais</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1510</swissZipCode>
+        <town>Moudon</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un cabinet de soins esthétique, notamment traitement du corps et du visage au laser diode, épilations à la cire, massage thérapeutique, traitement du corps avec machines (cryolipolyse et hifu); commerce de produits et de machines y relatifs.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Essentiel Cabinet de soins d'esthétique SNC</name>
+      <uid>CHE388576625</uid>
+      <uidOrganisationId>388576625</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011814416</code13>
+      <seat>Moudon</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Relais</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1510</swissZipCode>
+        <town>Moudon</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un cabinet de soins esthétique, notamment traitement du corps et du visage au laser diode, épilations à la cire, massage thérapeutique, traitement du corps avec machines (cryolipolyse et hifu); commerce de produits et de machines y relatifs.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-27</lastFoscDate>
+    <lastFoscSequence>1004464415</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

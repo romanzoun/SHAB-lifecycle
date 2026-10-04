@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>b38ec499-f9f0-4258-a809-8a9d496952c9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004741967</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Bruno Peinture, Dias Pinto, Crans-Montana</de>
+    <en>Change Bruno Peinture, Dias Pinto, Crans-Montana</en>
+    <it>Cambiamenti Bruno Peinture, Dias Pinto, Crans-Montana</it>
+    <fr>Mutation Bruno Peinture, Dias Pinto, Crans-Montana</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2661</journalNumber>
+  <journalDate>2019-10-16</journalDate>
+  <publicationText>Bruno Peinture, Dias Pinto, à Crans-Montana, CHE-342.094.971, entreprise individuelle (No. FOSC 193 du 07.10.2019, Publ. 1004731981). L'effet suspensif a été accordé au recours, à l'encontre du jugement de faillite du 30.09.2019, selon prononcé du tribunal cantonal du canton du Valais du 15.10.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bruno Peinture, Dias Pinto</name>
+      <uid>CHE-342.094.971</uid>
+      <uidOrganisationId>342094971</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610147281</code13>
+      <seat>Crans-Montana</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rte de l'Eglise</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>3971</swissZipCode>
+        <town>Chermignon</town>
+      </address>
+    </company>
+    <purpose>Peinture, plâtre, faux-plafonds, rénovations, isolation périphérique et toutes activités convergentes</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bruno Peinture, Dias Pinto</name>
+      <uid>CHE-342.094.971</uid>
+      <uidOrganisationId>342094971</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610147281</code13>
+      <seat>Crans-Montana</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rte de l'Eglise</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>3971</swissZipCode>
+        <town>Chermignon</town>
+      </address>
+    </company>
+    <purpose>Peinture, plâtre, faux-plafonds, rénovations, isolation périphérique et toutes activités convergentes</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-07</lastFoscDate>
+    <lastFoscNumber>193</lastFoscNumber>
+    <lastFoscSequence>1004731981</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

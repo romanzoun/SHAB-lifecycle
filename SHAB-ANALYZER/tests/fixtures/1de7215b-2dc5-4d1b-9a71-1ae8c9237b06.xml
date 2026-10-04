@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>1dc6b25e-a290-49f8-bae1-90d234bc5baf</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004551572</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation Clair Bois, Lancy</de>
+    <en>Change Fondation Clair Bois, Lancy</en>
+    <it>Cambiamenti Fondation Clair Bois, Lancy</it>
+    <fr>Mutation Fondation Clair Bois, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1595</journalNumber>
+  <journalDate>2019-01-22</journalDate>
+  <publicationText>Fondation Clair Bois, à Lancy, CHE-105.843.101 (FOSC du 17.01.2019, p. 0/1004544700). L'inscription No 935 du 14.01.2019 est rectifiée en ce sens que Moner Christine n'est pas membre du conseil sans signature; elle est en réalité nommée directrice, avec signature collective à deux, avec un membre du conseil ou le directeur général.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Clair Bois</name>
+      <uid>CHE105843101</uid>
+      <uidOrganisationId>105843101</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001519715</code13>
+      <seat>Lancy</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue du Petit-Lancy</street>
+        <houseNumber>7</houseNumber>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>accueil et éducation en externat ou internat, temporairement ou à long terme, d'enfants, d'adolescents et d'adultes infirmes moteurs-cérébraux ou de polyhandicapés ayant notamment besoin d'une scolarité spéciale et de mesures médico-thérapeutiques.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Clair Bois</name>
+      <uid>CHE105843101</uid>
+      <uidOrganisationId>105843101</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001519715</code13>
+      <seat>Lancy</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue du Petit-Lancy</street>
+        <houseNumber>7</houseNumber>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>accueil et éducation en externat ou internat, temporairement ou à long terme, d'enfants, d'adolescents et d'adultes infirmes moteurs-cérébraux ou de polyhandicapés ayant notamment besoin d'une scolarité spéciale et de mesures médico-thérapeutiques.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-17</lastFoscDate>
+    <lastFoscSequence>1004544700</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

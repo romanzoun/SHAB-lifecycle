@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b9d4b3ee-c02c-43c5-aec9-5a7b158fa0d2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004482584</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation 1782 Group SA, succursale de Gland, Gland</de>
+    <en>Change 1782 Group SA, succursale de Gland, Gland</en>
+    <it>Cambiamenti 1782 Group SA, succursale de Gland, Gland</it>
+    <fr>Mutation 1782 Group SA, succursale de Gland, Gland</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18725</journalNumber>
+  <journalDate>2018-10-18</journalDate>
+  <publicationText>1782 Group SA, succursale de Gland, à Gland, CHE-254.856.204 (FOSC du 18.10.2018, p. 0/1004479737). Rectificatif: l'inscription n° 18469 du 15.10.2018 (FOSC du 18.10.2018, p. 0/1004479737) est rectifiée en ce sens que par suite de restructuration au siège principal (fusion), la nouvelle raison de commerce du siège principal est 1782 Group SA (CHE-103.039.482) (et non (CHE-131.925.041) comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>1782 Group SA, succursale de Gland</name>
+      <uid>CHE254856204</uid>
+      <uidOrganisationId>254856204</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011606896</code13>
+      <seat>Gland</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Ocean Assets Management SA</addressLine1>
+        <street>Route des Avouillons</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>1782 Group SA</name>
+      <country>CH</country>
+      <uid>CHE103039482</uid>
+      <uidOrganisationId>103039482</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>1782 Group SA, succursale de Gland</name>
+      <uid>CHE254856204</uid>
+      <uidOrganisationId>254856204</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011606896</code13>
+      <seat>Gland</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Ocean Assets Management SA</addressLine1>
+        <street>Route des Avouillons</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-18</lastFoscDate>
+    <lastFoscSequence>1004479737</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

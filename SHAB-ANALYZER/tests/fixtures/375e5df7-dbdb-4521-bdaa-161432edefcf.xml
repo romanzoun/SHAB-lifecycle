@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>37395c45-9a80-49d9-a0d8-d25443878d6c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004778172</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation JoliCave Weingestelle, Franziska Schwarz, Binningen</de>
+    <en>Change JoliCave Weingestelle, Franziska Schwarz, Binningen</en>
+    <it>Cambiamenti JoliCave Weingestelle, Franziska Schwarz, Binningen</it>
+    <fr>Mutation JoliCave Weingestelle, Franziska Schwarz, Binningen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5893</journalNumber>
+  <journalDate>2019-12-04</journalDate>
+  <publicationText>JoliCave Weingestelle, Franziska Schwarz, in Binningen, CHE-114.549.600, Einzelunternehmen (SHAB Nr. 212 vom 01.11.2019, Publ. 1004750567). Die Löschung des Einzelunternehmens erfolgte versehentlich. Da der Geschäftsbetrieb nicht aufgehört hat, besteht der ursprüngliche Eintrag mit den eingetragenen Tatsachen, wie sie vor der Löschung registriert waren, unverändert weiter. [gestrichen: Das Einzelunternehmen ist infolge Geschäftsaufgabe erloschen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>JoliCave Weingestelle, Franziska Schwarz</name>
+      <uid>CHE-114.549.600</uid>
+      <uidOrganisationId>114549600</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010126492</code13>
+      <seat>Binningen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>115</houseNumber>
+        <swissZipCode>4102</swissZipCode>
+        <town>Binningen</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Vertrieb von Weingestellen und Zubehör.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>JoliCave Weingestelle, Franziska Schwarz</name>
+      <uid>CHE-114.549.600</uid>
+      <uidOrganisationId>114549600</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010126492</code13>
+      <seat>Binningen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>115</houseNumber>
+        <swissZipCode>4102</swissZipCode>
+        <town>Binningen</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Vertrieb von Weingestellen und Zubehör.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-01</lastFoscDate>
+    <lastFoscNumber>212</lastFoscNumber>
+    <lastFoscSequence>1004750567</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

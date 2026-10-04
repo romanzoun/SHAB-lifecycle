@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ddf234d2-e6ee-4d19-bcf7-04b21407fa94</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004516789</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation HBEY Sàrl, Ecublens (VD)</de>
+    <en>Change HBEY Sàrl, Ecublens (VD)</en>
+    <it>Cambiamenti HBEY Sàrl, Ecublens (VD)</it>
+    <fr>Mutation HBEY Sàrl, Ecublens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21702</journalNumber>
+  <journalDate>2018-12-05</journalDate>
+  <publicationText>HBEY Sàrl, à Ecublens VD, CHE-482.682.181 (FOSC du 15.12.2015, p. 0/2540795). Hüseyin Yakut, associé-gérant, cède 30 de ses 200 parts de CHF 100 à Garmi Saïd, de Villarzel, à Lausanne, nouvel associé avec 30 parts de CHF 100, gérant avec signature individuelle. Hüseyin Yakut reste titulaire de 170 parts de CHF 100; il est élu président. Rectificatif: l'inscription n° 18597 du 10.12.2015 (FOSC du 15.12.2015, p. 2540795) est rectifiée en ce sens que les nom et prénom d'un associé-gérant ont été inversés, et qu'il se nomme Yakut Hüseyin (et non Hüseyin Yakut, comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>HBEY Sàrl</name>
+      <uid>CHE482682181</uid>
+      <uidOrganisationId>482682181</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011643976</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Croset</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1024</swissZipCode>
+        <town>Ecublens VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'établissements publics et le commerce de toute marchandise (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>HBEY Sàrl</name>
+      <uid>CHE482682181</uid>
+      <uidOrganisationId>482682181</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011643976</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Croset</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1024</swissZipCode>
+        <town>Ecublens VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'établissements publics et le commerce de toute marchandise (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-12-15</lastFoscDate>
+    <lastFoscSequence>2540795</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

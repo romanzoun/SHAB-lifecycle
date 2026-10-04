@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>3566197b-6e71-48e2-be65-720dc4cd06a8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004745179</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation Hans Abicht AG, Zug</de>
+    <en>Change Hans Abicht AG, Zug</en>
+    <it>Cambiamenti Hans Abicht AG, Zug</it>
+    <fr>Mutation Hans Abicht AG, Zug</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15036</journalNumber>
+  <journalDate>2019-10-22</journalDate>
+  <publicationText>Hans Abicht AG, in Zug, CHE-105.918.650, Aktiengesellschaft (SHAB Nr. 226 vom 21.11.2017, Publ. 3882133). Zweigniederlassung neu: [gestrichen: Schwyz]. [gestrichen: Zürich].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hans Abicht AG</name>
+      <uid>CHE-105.918.650</uid>
+      <uidOrganisationId>105918650</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030109353</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>55</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Ingenieurunternehmung für die Planung von Anlagen der Gebäudetechnik in den Bereichen Energie, Heizung, Klima, Lüftung, Sanitär, Brandschutz und Gebäudeleittechnik sowie die damit zusammenhängende Fachkoordination, erbringt auf diesen Gebieten auch Dienstleistungen in Form von Beratungen und Expertisen; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hans Abicht AG</name>
+      <uid>CHE-105.918.650</uid>
+      <uidOrganisationId>105918650</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030109353</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>55</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Ingenieurunternehmung für die Planung von Anlagen der Gebäudetechnik in den Bereichen Energie, Heizung, Klima, Lüftung, Sanitär, Brandschutz und Gebäudeleittechnik sowie die damit zusammenhängende Fachkoordination, erbringt auf diesen Gebieten auch Dienstleistungen in Form von Beratungen und Expertisen; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-21</lastFoscDate>
+    <lastFoscNumber>226</lastFoscNumber>
+    <lastFoscSequence>3882133</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

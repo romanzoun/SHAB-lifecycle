@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>7e9e9662-96c0-4de9-90a3-9706be16e082</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004462217</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation Opacc Software AG, Münchenstein</de>
+    <en>Change Opacc Software AG, Münchenstein</en>
+    <it>Cambiamenti Opacc Software AG, Münchenstein</it>
+    <fr>Mutation Opacc Software AG, Münchenstein</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4736</journalNumber>
+  <journalDate>2018-09-20</journalDate>
+  <publicationText>Opacc Software AG, in Münchenstein, CHE-461.816.079, schweizerische Zweigniederlassung (SHAB Nr. 237 vom 05.12.2008, Publ. 4765958), Hauptsitz in: Sitz: Kriens (HR LU). Neue Identifikationsnummer Hauptsitz: CHE-106.244.133 [bisher: Identifikationsnummer: CH-100.3.008.697-5]. Hauptsitz neu: Rothenburg (HR LU) [bisher: Sitz: Kriens (HR LU)].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Opacc Software AG</name>
+      <uid>CHE461816079</uid>
+      <uidOrganisationId>461816079</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27090011217</code13>
+      <seat>Münchenstein</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Tramstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>4142</swissZipCode>
+        <town>Münchenstein</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Opacc Software AG</name>
+      <country>CH</country>
+      <uid>CHE106244133</uid>
+      <uidOrganisationId>106244133</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Opacc Software AG</name>
+      <uid>CHE461816079</uid>
+      <uidOrganisationId>461816079</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27090011217</code13>
+      <seat>Münchenstein</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Tramstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>4142</swissZipCode>
+        <town>Münchenstein</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2008-12-05</lastFoscDate>
+    <lastFoscNumber>237</lastFoscNumber>
+    <lastFoscSequence>4765958</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>3b85cb88-e1c1-49ff-bc07-76729343e034</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005005775</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Resort 4 SA, Pont-la-Ville</de>
+    <en>Change Resort 4 SA, Pont-la-Ville</en>
+    <it>Cambiamenti Resort 4 SA, Pont-la-Ville</it>
+    <fr>Mutation Resort 4 SA, Pont-la-Ville</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5856</journalNumber>
+  <journalDate>2020-10-19</journalDate>
+  <publicationText>Resort 4 SA, à Pont-la-Ville, CHE-211.167.680 (FOSC du 26.10.2017, p. 0/3833147). Par jugement du 15.10.2020 du Président du Tribunal civil de la Gruyère, un sursis COVID-19 pour une durée de 3 mois, soit jusqu'au 15.01.2021 a été octroyé.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Resort 4 SA</name>
+      <uid>CHE-211.167.680</uid>
+      <uidOrganisationId>211167680</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735613701</code13>
+      <seat>Pont-la-Ville</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Golf de la Gruyère</addressLine1>
+        <street>Route du Château</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1649</swissZipCode>
+        <town>Pont-la-Ville</town>
+      </address>
+    </company>
+    <purpose>exploitation du secteur "hôtel, spa et résidences hôtelières", sis sur l'immeuble art. 450 du registre foncier de la Commune de Pont-la-Ville (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>1050000.00</nominal>
+      <paid>1050000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Resort 4 SA</name>
+      <uid>CHE-211.167.680</uid>
+      <uidOrganisationId>211167680</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735613701</code13>
+      <seat>Pont-la-Ville</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Golf de la Gruyère</addressLine1>
+        <street>Route du Château</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1649</swissZipCode>
+        <town>Pont-la-Ville</town>
+      </address>
+    </company>
+    <purpose>exploitation du secteur "hôtel, spa et résidences hôtelières", sis sur l'immeuble art. 450 du registre foncier de la Commune de Pont-la-Ville (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>1050000.00</nominal>
+      <paid>1050000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-10-26</lastFoscDate>
+    <lastFoscNumber>208</lastFoscNumber>
+    <lastFoscSequence>3833147</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

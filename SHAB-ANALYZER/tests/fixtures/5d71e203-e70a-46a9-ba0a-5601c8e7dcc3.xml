@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>5d61b7c8-19d7-47ba-aeb9-7f0e78c921cd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004529830</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Squish Services Sàrl, Moiry</de>
+    <en>Change Squish Services Sàrl, Moiry</en>
+    <it>Cambiamenti Squish Services Sàrl, Moiry</it>
+    <fr>Mutation Squish Services Sàrl, Moiry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22847</journalNumber>
+  <journalDate>2018-12-19</journalDate>
+  <publicationText>Squish Services Sàrl, à Moiry, CHE-110.589.115 (FOSC du 22.01.2014, p. 0/1301121). La part de CHF 1'000 d'Evard Thierry, quin'est plus associé, est cédée à l'associé-gérant Tissot Gwénaël, désormais titulalire de 20 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Squish Services Sàrl</name>
+      <uid>CHE110589115</uid>
+      <uidOrganisationId>110589115</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010387973</code13>
+      <seat>Moiry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>La Ruelle</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1148</swissZipCode>
+        <town>Moiry VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'un atelier de mécanique, ainsi que l'exploitation d'une entreprise générale dans le domaine de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Squish Services Sàrl</name>
+      <uid>CHE110589115</uid>
+      <uidOrganisationId>110589115</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010387973</code13>
+      <seat>Moiry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>La Ruelle</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1148</swissZipCode>
+        <town>Moiry VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'un atelier de mécanique, ainsi que l'exploitation d'une entreprise générale dans le domaine de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-01-22</lastFoscDate>
+    <lastFoscSequence>1301121</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

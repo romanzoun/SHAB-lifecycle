@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>240c4b86-ff31-4afd-9d0e-593a4a233acc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004790545</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation MRP Metal Relief Print SA, Corgémont</de>
+    <en>Change MRP Metal Relief Print SA, Corgémont</en>
+    <it>Cambiamenti MRP Metal Relief Print SA, Corgémont</it>
+    <fr>Mutation MRP Metal Relief Print SA, Corgémont</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19578</journalNumber>
+  <journalDate>2019-12-18</journalDate>
+  <publicationText>MRP Metal Relief Print SA, à Corgémont, CHE-107.381.666, société anonyme (No. FOSC 220 du 13.11.2019, Publ. 1004758171). Transfert de patrimoine: selon contrat du 17.12.2019, la société a transféré des actifs pour CHF 980.00 et des passifs envers les tiers pour CHF 0.00 à la société "Plaque Suisse AG", à Nunningen (CHE-142.855.597). Contre-prestation: 1 action nominative de CHF 100.00 de la société "Plaque Suisse AG".</publicationText>
+  <commonsNew>
+    <company>
+      <name>MRP Metal Relief Print SA</name>
+      <uid>CHE-107.381.666</uid>
+      <uidOrganisationId>107381666</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07330094573</code13>
+      <seat>Corgémont</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>2606</swissZipCode>
+        <town>Corgémont</town>
+      </address>
+    </company>
+    <purpose>La société a pour but l'impression à chaud d'articles en métal et en plastique, la création, la fabrication et la vente en Suisse et à l'étranger d'articles en tout genre.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MRP Metal Relief Print SA</name>
+      <uid>CHE-107.381.666</uid>
+      <uidOrganisationId>107381666</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07330094573</code13>
+      <seat>Corgémont</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>2606</swissZipCode>
+        <town>Corgémont</town>
+      </address>
+    </company>
+    <purpose>La société a pour but l'impression à chaud d'articles en métal et en plastique, la création, la fabrication et la vente en Suisse et à l'étranger d'articles en tout genre.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-13</lastFoscDate>
+    <lastFoscNumber>220</lastFoscNumber>
+    <lastFoscSequence>1004758171</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

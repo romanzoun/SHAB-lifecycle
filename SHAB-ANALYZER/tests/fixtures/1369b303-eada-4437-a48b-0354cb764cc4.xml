@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>131e4949-0960-422c-8682-dc4930265d18</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004474728</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Toneatti AG Jona, Rapperswil-Jona</de>
+    <en>Change Toneatti AG Jona, Rapperswil-Jona</en>
+    <it>Cambiamenti Toneatti AG Jona, Rapperswil-Jona</it>
+    <fr>Mutation Toneatti AG Jona, Rapperswil-Jona</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9215</journalNumber>
+  <journalDate>2018-10-08</journalDate>
+  <publicationText>Toneatti AG Jona, in Rapperswil-Jona, CHE-105.343.695, Aktiengesellschaft (SHAB Nr. 222 vom 15.11.2017, Publ. 3870989). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 29.09.2018 Aktiven von CHF 1'091'000.00 und Passiven von CHF 0.00 auf die J Immobilien AG, in Bilten (Glarus Nord) (CHE-463.032.350). Gegenleistung: Eine Forderung über CHF 1'091'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Toneatti AG Jona</name>
+      <uid>CHE105343695</uid>
+      <uidOrganisationId>105343695</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030473244</code13>
+      <seat>Rapperswil-Jona</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Stampfstrasse</street>
+        <houseNumber>50</houseNumber>
+        <swissZipCode>8645</swissZipCode>
+        <town>Jona</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Bauunternehmung. Die Gesellschaft kann im In- und Ausland Zweigniederlassungen errichten, sich an andern Unternehmen im In- und Ausland beteiligen sowie Grundeigentum erwerben und veräussern.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Toneatti AG Jona</name>
+      <uid>CHE105343695</uid>
+      <uidOrganisationId>105343695</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030473244</code13>
+      <seat>Rapperswil-Jona</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Stampfstrasse</street>
+        <houseNumber>50</houseNumber>
+        <swissZipCode>8645</swissZipCode>
+        <town>Jona</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Bauunternehmung. Die Gesellschaft kann im In- und Ausland Zweigniederlassungen errichten, sich an andern Unternehmen im In- und Ausland beteiligen sowie Grundeigentum erwerben und veräussern.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-15</lastFoscDate>
+    <lastFoscNumber>222</lastFoscNumber>
+    <lastFoscSequence>3870989</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

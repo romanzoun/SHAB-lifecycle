@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>6f7da528-df29-41b2-865f-8d9af777a9e0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004777066</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Schlegel Hansruedi, Vilters-Wangs</de>
+    <en>Change Schlegel Hansruedi, Vilters-Wangs</en>
+    <it>Cambiamenti Schlegel Hansruedi, Vilters-Wangs</it>
+    <fr>Mutation Schlegel Hansruedi, Vilters-Wangs</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11448</journalNumber>
+  <journalDate>2019-12-03</journalDate>
+  <publicationText>Schlegel Hansruedi, in Vilters-Wangs, CHE-108.227.401, Einzelunternehmen (SHAB Nr. 73 vom 12.04.2000, S.2465). Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vertrag vom 26.08.2019 Aktiven von CHF 73'403.00 auf die Schlegel Böden AG, in Mels (CHE-253.187.007). Gegenleistung: keine.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Schlegel Hansruedi</name>
+      <uid>CHE-108.227.401</uid>
+      <uidOrganisationId>108227401</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010478662</code13>
+      <seat>Vilters-Wangs</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rietbrüelstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>7323</swissZipCode>
+        <town>Wangs</town>
+      </address>
+    </company>
+    <purpose>Bodenbeläge</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Schlegel Hansruedi</name>
+      <uid>CHE-108.227.401</uid>
+      <uidOrganisationId>108227401</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010478662</code13>
+      <seat>Vilters-Wangs</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rietbrüelstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>7323</swissZipCode>
+        <town>Wangs</town>
+      </address>
+    </company>
+    <purpose>Bodenbeläge</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2000-04-12</lastFoscDate>
+    <lastFoscNumber>73</lastFoscNumber>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

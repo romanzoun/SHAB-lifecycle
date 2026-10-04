@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>30119f23-dbda-4aee-95bb-bfd7070a66e5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004635062</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation AGM Properties Sàrl, Ollon</de>
+    <en>Change AGM Properties Sàrl, Ollon</en>
+    <it>Cambiamenti AGM Properties Sàrl, Ollon</it>
+    <fr>Mutation AGM Properties Sàrl, Ollon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8949</journalNumber>
+  <journalDate>2019-05-16</journalDate>
+  <publicationText>AGM Properties Sàrl, à Ollon, CHE-285.643.420 (FOSC du 06.05.2019, p. 0/1004623746). Rectificatif: l'inscription n° 7931 du 01.05.2019 (FOSC du 06.05.2019, p. 0/1004623746) est rectifiée en ce sens que l'associé Mathys Adrien est titulaire de 9 parts de CHF 100 (et non 18 parts de CHF 100 comme publié) et l'associé, Underwood Jonas de 18 parts de CHF 100 (et non 9 parts de CHF 100 comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>AGM Properties Sàrl</name>
+      <uid>CHE285643420</uid>
+      <uidOrganisationId>285643420</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011849877</code13>
+      <seat>Ollon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Vignes</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1867</swissZipCode>
+        <town>Ollon VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes opérations immobilières, dans le strict respect des règles relatives à la loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger (LFAIE) (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AGM Properties Sàrl</name>
+      <uid>CHE285643420</uid>
+      <uidOrganisationId>285643420</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011849877</code13>
+      <seat>Ollon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Vignes</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1867</swissZipCode>
+        <town>Ollon VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes opérations immobilières, dans le strict respect des règles relatives à la loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger (LFAIE) (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-06</lastFoscDate>
+    <lastFoscSequence>1004623746</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

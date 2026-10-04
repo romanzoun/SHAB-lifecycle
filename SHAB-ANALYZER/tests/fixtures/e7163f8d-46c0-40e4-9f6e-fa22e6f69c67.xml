@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>e6c1c0fb-548a-4195-a95f-16d5c8bc9801</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004663911</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Lenz Treuhand AG, Uzwil</de>
+    <en>Change Lenz Treuhand AG, Uzwil</en>
+    <it>Cambiamenti Lenz Treuhand AG, Uzwil</it>
+    <fr>Mutation Lenz Treuhand AG, Uzwil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6011</journalNumber>
+  <journalDate>2019-06-26</journalDate>
+  <publicationText>Lenz Treuhand AG, in Uzwil, CHE-113.916.280, Aktiengesellschaft (SHAB Nr. 36 vom 21.02.2018, S.0, Publ. 4069795). Vermögensübertragung: Die Lenz Treuhand AG überträgt gemäss Vertrag vom 06.03.2019/11.06.2019 Aktiven von CHF 128'970.00 und Passiven (Fremdkapital) von CHF 2'970.00 auf die Urania Treuhand AG, in Zuzwil (SG) (CHE-108.122.452). Gegenleistung: CHF 126'000.00 sowie ein zusätzlicher Betrag gemäss vertraglicher Preisanpassungsklausel.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Lenz Treuhand AG</name>
+      <uid>CHE113916280</uid>
+      <uidOrganisationId>113916280</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030621618</code13>
+      <seat>Uzwil</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>82</houseNumber>
+        <swissZipCode>9240</swissZipCode>
+        <town>Uzwil</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen aller Art auf dem Gebiete des Treuhandgeschäftes. Die Gesellschaft kann sich ferner an Unternehmen gleicher oder ähnlicher Art beteiligen oder solche erwerben, Zweigniederlassungen errichten sowie Grundstücke erwerben, belasten und verwalten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Lenz Treuhand AG</name>
+      <uid>CHE113916280</uid>
+      <uidOrganisationId>113916280</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32030621618</code13>
+      <seat>Uzwil</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>82</houseNumber>
+        <swissZipCode>9240</swissZipCode>
+        <town>Uzwil</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen aller Art auf dem Gebiete des Treuhandgeschäftes. Die Gesellschaft kann sich ferner an Unternehmen gleicher oder ähnlicher Art beteiligen oder solche erwerben, Zweigniederlassungen errichten sowie Grundstücke erwerben, belasten und verwalten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-02-21</lastFoscDate>
+    <lastFoscNumber>36</lastFoscNumber>
+    <lastFoscSequence>4069795</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

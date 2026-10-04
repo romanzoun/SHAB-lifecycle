@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>44c26d75-b4e1-4193-9675-8fe95fc7085d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004587996</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation N'Joy Institut de beauté Johanna Vergara Quiroz, Vevey</de>
+    <en>Change N'Joy Institut de beauté Johanna Vergara Quiroz, Vevey</en>
+    <it>Cambiamenti N'Joy Institut de beauté Johanna Vergara Quiroz, Vevey</it>
+    <fr>Mutation N'Joy Institut de beauté Johanna Vergara Quiroz, Vevey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4814</journalNumber>
+  <journalDate>2019-03-11</journalDate>
+  <publicationText>N'Joy Institut de beauté Johanna Vergara Quiroz, à Vevey, CHE-387.910.963 (FOSC du 04.03.2019, p. 0/1004579631). Rectificatif: l'inscription no 3956 du 27.02.2019 (FOSC du 04.03.2019, p. 0/1004579631) est rectifiée en ce sens que la titulaire se nomme Vergara Quiroz Johanna et non Veragara Quiroz Johanna, comme publié.</publicationText>
+  <commonsNew>
+    <company>
+      <name>N'Joy Institut de beauté Johanna Vergara Quiroz</name>
+      <uid>CHE387910963</uid>
+      <uidOrganisationId>387910963</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011839443</code13>
+      <seat>Vevey</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Moulins</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1800</swissZipCode>
+        <town>Vevey</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un institut de beauté.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>N'Joy Institut de beauté Johanna Vergara Quiroz</name>
+      <uid>CHE387910963</uid>
+      <uidOrganisationId>387910963</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011839443</code13>
+      <seat>Vevey</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Moulins</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1800</swissZipCode>
+        <town>Vevey</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un institut de beauté.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-04</lastFoscDate>
+    <lastFoscSequence>1004579631</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

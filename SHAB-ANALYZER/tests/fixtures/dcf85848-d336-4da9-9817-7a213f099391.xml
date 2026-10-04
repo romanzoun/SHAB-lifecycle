@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>dbf3d9e3-2fae-402c-aab5-ce8b69da612c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004699745</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation Baslerservices-Schmid, Liestal</de>
+    <en>Change Baslerservices-Schmid, Liestal</en>
+    <it>Cambiamenti Baslerservices-Schmid, Liestal</it>
+    <fr>Mutation Baslerservices-Schmid, Liestal</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3915</journalNumber>
+  <journalDate>2019-08-16</journalDate>
+  <publicationText>Baslerservices-Schmid, in Liestal, CHE-287.801.776, schweizerische Zweigniederlassung (SHAB Nr. 113 vom 14.06.2019, Publ. 1004651362), Hauptsitz in: Basel (HRA BS). Bemerkungen zum Hauptsitz neu: Das Zivilgericht Basel-Stadt hat das Konkursverfahren am 11.07.2019 mangels Aktiven eingestellt. Die Einstellung ist am 29.07.2019 definitiv geworden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Baslerservices-Schmid</name>
+      <uid>CHE287801776</uid>
+      <uidOrganisationId>287801776</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28090209004</code13>
+      <seat>Liestal</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rheinstrasse</street>
+        <houseNumber>65</houseNumber>
+        <swissZipCode>4410</swissZipCode>
+        <town>Liestal</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Baslerservices-Schmid</name>
+      <country>CH</country>
+      <uid>CHE446280929</uid>
+      <uidOrganisationId>446280929</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Baslerservices-Schmid</name>
+      <uid>CHE287801776</uid>
+      <uidOrganisationId>287801776</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28090209004</code13>
+      <seat>Liestal</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rheinstrasse</street>
+        <houseNumber>65</houseNumber>
+        <swissZipCode>4410</swissZipCode>
+        <town>Liestal</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Baslerservices-Schmid</name>
+      <country>CH</country>
+      <uid>CHE446280929</uid>
+      <uidOrganisationId>446280929</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-14</lastFoscDate>
+    <lastFoscNumber>113</lastFoscNumber>
+    <lastFoscSequence>1004651362</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

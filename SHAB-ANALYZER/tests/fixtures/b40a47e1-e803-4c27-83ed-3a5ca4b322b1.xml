@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b4018a4d-6b9c-415f-babb-47bccc1a21f7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004590060</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation TDP TERRASSES SA, en liquidation, bisher TDP TERRASSES SA, Pully</de>
+    <en>Change TDP TERRASSES SA, en liquidation, to date TDP TERRASSES SA, Pully</en>
+    <it>Cambiamenti TDP TERRASSES SA, en liquidation, prima TDP TERRASSES SA, Pully</it>
+    <fr>Mutation TDP TERRASSES SA, en liquidation, Pully</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5034</journalNumber>
+  <journalDate>2019-03-13</journalDate>
+  <publicationText>TDP TERRASSES SA, à Pully, CHE-113.739.888 (FOSC du 22.04.2015, p. 0/2111647). Selon décision de son assemblée générale du 6 mars 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: TDP TERRASSES SA, en liquidation, par Lerne Services SA (CHE-102.536.097), à Genève, liquidatrice.</publicationText>
+  <commonsNew>
+    <company>
+      <name>TDP TERRASSES SA, en liquidation</name>
+      <uid>CHE113739888</uid>
+      <uidOrganisationId>113739888</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66017650070</code13>
+      <seat>Pully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Pierraz-Portay</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>la société a pout but l'achat, la vente, l'exploitation, la location et la construction de tous immeubles en particulier les parcelles 24 et 68 de Puidoux, y compris la prestation de touts travaux, notamment en qualité d'entrepreneur général (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>CONSILIO SA</name>
+        <country>CH</country>
+        <uid>CHE102272254</uid>
+        <uidOrganisationId>102272254</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TDP TERRASSES SA</name>
+      <uid>CHE113739888</uid>
+      <uidOrganisationId>113739888</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66017650070</code13>
+      <seat>Pully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Pierraz-Portay</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>la société a pout but l'achat, la vente, l'exploitation, la location et la construction de tous immeubles en particulier les parcelles 24 et 68 de Puidoux, y compris la prestation de touts travaux, notamment en qualité d'entrepreneur général (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>CONSILIO SA</name>
+        <country>CH</country>
+        <uid>CHE102272254</uid>
+        <uidOrganisationId>102272254</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-04-22</lastFoscDate>
+    <lastFoscSequence>2111647</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

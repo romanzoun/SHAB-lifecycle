@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>f5b0d108-7dfc-4f23-931e-5872d68804a1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004694176</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>TG</cantons>
+  <title>
+    <de>Mutation Forol Generalunternehmung AG, Weinfelden</de>
+    <en>Change Forol Generalunternehmung AG, Weinfelden</en>
+    <it>Cambiamenti Forol Generalunternehmung AG, Weinfelden</it>
+    <fr>Mutation Forol Generalunternehmung AG, Weinfelden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3726</journalNumber>
+  <journalDate>2019-08-07</journalDate>
+  <publicationText>Forol Generalunternehmung AG, in Weinfelden, CHE-135.853.268, schweizerische Zweigniederlassung (SHAB Nr. 14 vom 20.01.2017, S.0, Publ. 3296383), Hauptsitz in: Herisau. Neue Identifikationsnummer Hauptsitz: CHE-111.985.324 [bisher: Identifikationsnummer Hauptsitz: CHE-220.813.042]. Bemerkungen zum Hauptsitz neu: Die bisherige Hauptniederlassung Forol Generalunternehmen AG geht infolge Fusion mit der Forol Projekte AG (Firma neu: Forol Generalunternehmung AG) unter. Die Zweigniederlassung der untergehenden Gesellschaft wird neu als Zweigniederlassung der übernehmenden Gesellschaft weitergeführt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Forol Generalunternehmung AG</name>
+      <uid>CHE135853268</uid>
+      <uidOrganisationId>135853268</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44090286459</code13>
+      <seat>Weinfelden</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o RB Immobilien Treuhand AG</addressLine1>
+        <street>Marktplatz</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>8570</swissZipCode>
+        <town>Weinfelden</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Forol Generalunternehmung AG</name>
+      <country>CH</country>
+      <uid>CHE111985324</uid>
+      <uidOrganisationId>111985324</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Forol Generalunternehmung AG</name>
+      <uid>CHE135853268</uid>
+      <uidOrganisationId>135853268</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44090286459</code13>
+      <seat>Weinfelden</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o RB Immobilien Treuhand AG</addressLine1>
+        <street>Marktplatz</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>8570</swissZipCode>
+        <town>Weinfelden</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-01-20</lastFoscDate>
+    <lastFoscNumber>14</lastFoscNumber>
+    <lastFoscSequence>3296383</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Thurgau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

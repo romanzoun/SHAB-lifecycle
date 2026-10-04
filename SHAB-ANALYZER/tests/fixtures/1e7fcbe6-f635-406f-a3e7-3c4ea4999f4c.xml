@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>1e7c924d-1a9d-4f75-ae39-0acc4e831ec0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004483053</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation SwissDream Chocolate SA, Baar</de>
+    <en>Change SwissDream Chocolate SA, Baar</en>
+    <it>Cambiamenti SwissDream Chocolate SA, Baar</it>
+    <fr>Mutation SwissDream Chocolate SA, Baar</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14881</journalNumber>
+  <journalDate>2018-10-19</journalDate>
+  <publicationText>Berichtigung des im SHAB vom 08.10.2018, Meldungs Nr. 1'004'471'391, publizierten Tagesregistereintrages Nr. 14'078 vom 03.10.2018 SwissDream Chocolate SA, in Baar, CHE-100.295.936, Aktiengesellschaft (SHAB Nr. 194 vom 08.10.2018, Publ. 1004471391). [Der bisherige Wohnsitz von Bihler Jean-Willy war Milvignes (nicht: Neuchâtel).]</publicationText>
+  <commonsNew>
+    <company>
+      <name>SwissDream Chocolate SA</name>
+      <uid>CHE100295936</uid>
+      <uidOrganisationId>100295936</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030172129</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>6341</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren aller Art, insbesondere mit Schokoladenspezialitäten; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SwissDream Chocolate SA</name>
+      <uid>CHE100295936</uid>
+      <uidOrganisationId>100295936</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030172129</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>6341</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren aller Art, insbesondere mit Schokoladenspezialitäten; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-08</lastFoscDate>
+    <lastFoscNumber>194</lastFoscNumber>
+    <lastFoscSequence>1004471391</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

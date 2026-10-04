@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>5e3dc5f7-9b99-44bd-8e1d-247d1666b3f2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004610959</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Caseificio sociale di Osco società cooperativa, Faido</de>
+    <en>Change Caseificio sociale di Osco società cooperativa, Faido</en>
+    <it>Cambiamenti Caseificio sociale di Osco società cooperativa, Faido</it>
+    <fr>Mutation Caseificio sociale di Osco società cooperativa, Faido</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5645</journalNumber>
+  <journalDate>2019-04-10</journalDate>
+  <publicationText>Rettifica dell'iscrizione del registro giornaliero no. 5'473 del 08.04.2019, pubblicata nel FUSC no. 71 del 11.04.2019. Caseificio sociale di Osco società cooperativa, in Faido, CHE-101.486.717, società cooperativa (Nr. FUSC 71 del 11.04.2019, Pubbl. 1004608761). La società deve essere cancellata a seguito della procedura di cui all'art. 155 ORC. La cancellazione non può tuttavia essere effettuata mancando il consenso delle autorità fiscali federali e cantonali. [no: La società/la succursale deve essere cancellata a seguito della procedura di cui all'art. 155 ORC. La cancellazione non può tuttavia essere effettuata mancando il consenso delle autorità fiscali federali e cantonali.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Caseificio sociale di Osco società cooperativa</name>
+      <uid>CHE101486717</uid>
+      <uidOrganisationId>101486717</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50650002973</code13>
+      <seat>Faido</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <swissZipCode>6763</swissZipCode>
+        <town>Osco</town>
+      </address>
+    </company>
+    <purpose>Caseificio per la lavorazione in comune del latte.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Caseificio sociale di Osco società cooperativa</name>
+      <uid>CHE101486717</uid>
+      <uidOrganisationId>101486717</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50650002973</code13>
+      <seat>Faido</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <swissZipCode>6763</swissZipCode>
+        <town>Osco</town>
+      </address>
+    </company>
+    <purpose>Caseificio per la lavorazione in comune del latte.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-11</lastFoscDate>
+    <lastFoscNumber>71</lastFoscNumber>
+    <lastFoscSequence>1004608761</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

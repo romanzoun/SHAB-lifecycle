@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ab7cf212-8c80-47a6-a82f-5cdd867ae30b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004610580</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation Airopack Technology Group AG, Baar</de>
+    <en>Change Airopack Technology Group AG, Baar</en>
+    <it>Cambiamenti Airopack Technology Group AG, Baar</it>
+    <fr>Mutation Airopack Technology Group AG, Baar</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5117</journalNumber>
+  <journalDate>2019-04-10</journalDate>
+  <publicationText>Airopack Technology Group AG, in Baar, CHE-107.124.885, Aktiengesellschaft (SHAB Nr. 53 vom 18.03.2019, Publ. 1004589639). Mit Entscheid vom 09.04.2019 hat der Einzelrichter am Kantonsgericht die am 12.02.2019 gewährte provisorische Nachlassstundung bis am12.06.2019 verlängert. [bisher: Mit Entscheid vom 12.02.2019 hat der Einzelrichter am Kantonsgericht eine provisorische Nachlassstundung bis 12.04.2019 gewährt.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Airopack Technology Group AG</name>
+      <translations>[fr] Airopack Technology Group SA [it] Airopack Technology Group Ltd</translations>
+      <uid>CHE107124885</uid>
+      <uidOrganisationId>107124885</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030006137</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Blegistrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Verwaltung, Beratung und Koordination von Beteiligungen, hauptsächlich in der Verpackungsindustrie; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>99726860.00</nominal>
+      <paid>99726860.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Airopack Technology Group AG</name>
+      <translations>[fr] Airopack Technology Group SA [it] Airopack Technology Group Ltd</translations>
+      <uid>CHE107124885</uid>
+      <uidOrganisationId>107124885</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030006137</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Blegistrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Verwaltung, Beratung und Koordination von Beteiligungen, hauptsächlich in der Verpackungsindustrie; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>99726860.00</nominal>
+      <paid>99726860.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-18</lastFoscDate>
+    <lastFoscNumber>53</lastFoscNumber>
+    <lastFoscSequence>1004589639</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

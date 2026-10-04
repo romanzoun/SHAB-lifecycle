@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>2af7989d-9f67-4f41-8ee5-de3e3771dd4e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004706462</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Sogeprom Promotion S.à.r.l., Saint-Sulpice (VD)</de>
+    <en>Change Sogeprom Promotion S.à.r.l., Saint-Sulpice (VD)</en>
+    <it>Cambiamenti Sogeprom Promotion S.à.r.l., Saint-Sulpice (VD)</it>
+    <fr>Mutation Sogeprom Promotion S.à.r.l., Saint-Sulpice (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15469</journalNumber>
+  <journalDate>2019-08-27</journalDate>
+  <publicationText>Sogeprom Promotion S.à.r.l., à Saint-Sulpice (VD), CHE-100.960.225 (FOSC du 14.02.2018, p. 0/4056445). L'associée ABW Holding AG (CH-550-0143140-9), qui a modifié sa raison de commerce en ABW Holding SA et dont le numéro d'identification des entreprises est désormais (CHE-103.477.126), a transféré son siège à Lausanne.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Sogeprom Promotion S.à.r.l.</name>
+      <uid>CHE-100.960.225</uid>
+      <uidOrganisationId>100960225</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001079404</code13>
+      <seat>Saint-Sulpice (VD)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Jordils</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>1025</swissZipCode>
+        <town>St-Sulpice VD</town>
+      </address>
+    </company>
+    <purpose>opérations immobilières.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Sogeprom Promotion S.à.r.l.</name>
+      <uid>CHE-100.960.225</uid>
+      <uidOrganisationId>100960225</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001079404</code13>
+      <seat>Saint-Sulpice (VD)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Jordils</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>1025</swissZipCode>
+        <town>St-Sulpice VD</town>
+      </address>
+    </company>
+    <purpose>opérations immobilières.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-02-14</lastFoscDate>
+    <lastFoscNumber>31</lastFoscNumber>
+    <lastFoscSequence>4056445</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

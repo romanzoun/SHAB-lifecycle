@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.15/HR02-export.xsd">
+<meta>
+  <id>116d7133-225d-4160-a756-1db118e9bc2b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005498258</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-06-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation VALDAVY, Murten</de>
+    <en>Change VALDAVY, Murten</en>
+    <it>Cambiamenti VALDAVY, Murten</it>
+    <fr>Mutation VALDAVY, Murten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3745</journalNumber>
+  <journalDate>2022-06-14</journalDate>
+  <publicationText>VALDAVY, in Murten, CHE-462.513.204 (SHAB vom 23.11.2017, s. 0/3889163). Eingetragene Person geändert: KSM Revisions AG (CHE-101.816.944), Revisionsstelle, firmiert neu Revision Schwab AG.</publicationText>
+  <commonsNew>
+    <company>
+      <name>VALDAVY</name>
+      <uid>CHE-462.513.204</uid>
+      <uidOrganisationId>462513204</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735627027</code13>
+      <seat>Murten</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Hirter AG</addressLine1>
+        <street>Deutsche Kirchgasse</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Die Stiftung bezweckt für die Gesamtkosten der Bestattung von Kleinkindern in der Region Murten finanziell aufzukommen und mit einem Maximum an Aufwand für eine für die Angehörigen kostenlose Organisation und Durchführung der Bestattung einzustehen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Revision Schwab AG</name>
+        <country>CH</country>
+        <uid>CHE101816944</uid>
+        <uidOrganisationId>101816944</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>VALDAVY</name>
+      <uid>CHE-462.513.204</uid>
+      <uidOrganisationId>462513204</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735627027</code13>
+      <seat>Murten</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Hirter AG</addressLine1>
+        <street>Deutsche Kirchgasse</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Die Stiftung bezweckt für die Gesamtkosten der Bestattung von Kleinkindern in der Region Murten finanziell aufzukommen und mit einem Maximum an Aufwand für eine für die Angehörigen kostenlose Organisation und Durchführung der Bestattung einzustehen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-23</lastFoscDate>
+    <lastFoscNumber>228</lastFoscNumber>
+    <lastFoscSequence>3889163</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

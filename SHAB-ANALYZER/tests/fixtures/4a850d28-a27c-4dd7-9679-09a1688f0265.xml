@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>4a7d913a-6ff1-4731-959a-de6504d179b1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004558083</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation ViaTerra SA, Neuchâtel</de>
+    <en>Change ViaTerra SA, Neuchâtel</en>
+    <it>Cambiamenti ViaTerra SA, Neuchâtel</it>
+    <fr>Mutation ViaTerra SA, Neuchâtel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>402</journalNumber>
+  <journalDate>2019-01-30</journalDate>
+  <publicationText>ViaTerra SA, à Neuchâtel, CHE-114.334.666 (FOSC du 10.01.2018, p. 0/3980311). Administration: Schmutz Laurence, nommée présidente, et Bosser Katell, de Sainte-Croix, à Lausanne. Signature individuelle de la présidente ou collective à deux de l'autre membre du conseil d'administration.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ViaTerra SA</name>
+      <uid>CHE114334666</uid>
+      <uidOrganisationId>114334666</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541027566</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route des Falaises</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>gestion et administration de biens, conseils en matière de succession, liquidation de succession, courtage et estimation de biens immobiliers, fiscalité successorale et immobilière; accorder des prêts ou des garanties à des actionnaires ou des tiers, dans l'intérêt de la société; acquérir ou vendre des immeubles.</purpose>
+    <capital>
+      <nominal>102000.00</nominal>
+      <paid>102000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ViaTerra SA</name>
+      <uid>CHE114334666</uid>
+      <uidOrganisationId>114334666</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541027566</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route des Falaises</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>gestion et administration de biens, conseils en matière de succession, liquidation de succession, courtage et estimation de biens immobiliers, fiscalité successorale et immobilière; accorder des prêts ou des garanties à des actionnaires ou des tiers, dans l'intérêt de la société; acquérir ou vendre des immeubles.</purpose>
+    <capital>
+      <nominal>102000.00</nominal>
+      <paid>102000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-01-10</lastFoscDate>
+    <lastFoscSequence>3980311</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

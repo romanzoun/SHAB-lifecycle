@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.13/HR02-export.xsd">
+<meta>
+  <id>02ba788f-d1bd-4a3a-b973-8f2b65206b08</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005310991</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-10-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation SI chemin des Hutins 21A SA, Anières</de>
+    <en>Change SI chemin des Hutins 21A SA, Anières</en>
+    <it>Cambiamenti SI chemin des Hutins 21A SA, Anières</it>
+    <fr>Mutation SI chemin des Hutins 21A SA, Anières</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>24711</journalNumber>
+  <journalDate>2021-10-07</journalDate>
+  <publicationText>SI chemin des Hutins 21A SA, à Anières, CHE-114.922.722 (FOSC du 10.08.2021, p. 0/1005268367). Le 01.05.2021, les actions au porteur ont été converties de par la loi en actions nominatives; par décision de l'assemblée générale du 12.05.2021, les statuts de la société ont été adaptés à la conversion. Capital-actions: CHF 100'000, libéré à concurrence de CHF 100'000, divisé en 100 actions de CHF 1'000, nominatives. Communication aux actionnaires: lettre recommandée ou citation remise contre récépissé. Nouveaux statuts du 12.05.2021.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SI chemin des Hutins 21A SA</name>
+      <uid>CHE-114.922.722</uid>
+      <uidOrganisationId>114922722</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66013810090</code13>
+      <seat>Anières</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Hutins</street>
+        <houseNumber>21 A</houseNumber>
+        <swissZipCode>1247</swissZipCode>
+        <town>Anières</town>
+      </address>
+    </company>
+    <purpose>achat, vente et gestion d'immeubles (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SI chemin des Hutins 21A SA</name>
+      <uid>CHE-114.922.722</uid>
+      <uidOrganisationId>114922722</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66013810090</code13>
+      <seat>Anières</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Hutins</street>
+        <houseNumber>21 A</houseNumber>
+        <swissZipCode>1247</swissZipCode>
+        <town>Anières</town>
+      </address>
+    </company>
+    <purpose>achat, vente et gestion d'immeubles (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-08-10</lastFoscDate>
+    <lastFoscNumber>153</lastFoscNumber>
+    <lastFoscSequence>1005268367</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

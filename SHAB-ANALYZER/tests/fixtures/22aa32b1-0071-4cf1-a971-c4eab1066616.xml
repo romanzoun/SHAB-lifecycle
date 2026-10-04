@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>226fcd64-48ad-45e7-9a4f-a3d53fbebfd7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004494948</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation SI Marcaure SA, Collonge-Bellerive</de>
+    <en>Change SI Marcaure SA, Collonge-Bellerive</en>
+    <it>Cambiamenti SI Marcaure SA, Collonge-Bellerive</it>
+    <fr>Mutation SI Marcaure SA, Collonge-Bellerive</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20594</journalNumber>
+  <journalDate>2018-11-06</journalDate>
+  <publicationText>SI Marcaure SA, à Collonge-Bellerive, CHE-276.274.252 (FOSC du 02.12.2016, p. 0/3199339). L'inscription N° 11778 du 06.07.2016 (FOSC du 11.07.2016, p. 2945739) est complétée comme suit: selon déclaration du 23.06.2016, il est renoncé à un contrôle restreint.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SI Marcaure SA</name>
+      <uid>CHE276274252</uid>
+      <uidOrganisationId>276274252</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66019090163</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Vieux-Vésenaz</street>
+        <houseNumber>3 A</houseNumber>
+        <swissZipCode>1222</swissZipCode>
+        <town>Vésenaz</town>
+      </address>
+    </company>
+    <purpose>l'achat, la vente, l'administration, la gestion, le courtage, l'exploitation et la gérance d'immeubles (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SI Marcaure SA</name>
+      <uid>CHE276274252</uid>
+      <uidOrganisationId>276274252</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66019090163</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Vieux-Vésenaz</street>
+        <houseNumber>3 A</houseNumber>
+        <swissZipCode>1222</swissZipCode>
+        <town>Vésenaz</town>
+      </address>
+    </company>
+    <purpose>l'achat, la vente, l'administration, la gestion, le courtage, l'exploitation et la gérance d'immeubles (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-12-02</lastFoscDate>
+    <lastFoscSequence>3199339</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

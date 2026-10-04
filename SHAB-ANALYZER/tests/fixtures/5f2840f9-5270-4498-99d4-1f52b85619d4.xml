@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>5ee04def-87ad-40b6-862e-798663c48a3a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004550019</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Nails Parisi, Jonschwil</de>
+    <en>Change Nails Parisi, Jonschwil</en>
+    <it>Cambiamenti Nails Parisi, Jonschwil</it>
+    <fr>Mutation Nails Parisi, Jonschwil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>629</journalNumber>
+  <journalDate>2019-01-21</journalDate>
+  <publicationText>Nails Parisi, in Jonschwil, CHE-192.126.690, Einzelunternehmen (SHAB Nr. 247 vom 20.12.2018, Publ. 1004526479). Das Obergericht des Kantons Zürich hat der Beschwerde gegen die Verfügung des Konkursrichters des Bezirksgerichts Winterthur vom 11.12.2018 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen. [bisher: Über die Inhaberin dieses Einzelunternehmens ist mit Verfügung des Konkursrichters des Bezirksgerichts Winterthur vom 11.12.2018 mit Wirkung ab dem 11.12.2018, 11.30 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Nails Parisi</name>
+      <uid>CHE192126690</uid>
+      <uidOrganisationId>192126690</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010825045</code13>
+      <seat>Jonschwil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonnenrainstrasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>9243</swissZipCode>
+        <town>Jonschwil</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen in den Bereichen Schönheit und Wohlbefinden sowie Handel mit Kosmetik-, Schönheits- und Pflegeprodukten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Nails Parisi</name>
+      <uid>CHE192126690</uid>
+      <uidOrganisationId>192126690</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010825045</code13>
+      <seat>Jonschwil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonnenrainstrasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>9243</swissZipCode>
+        <town>Jonschwil</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen in den Bereichen Schönheit und Wohlbefinden sowie Handel mit Kosmetik-, Schönheits- und Pflegeprodukten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-20</lastFoscDate>
+    <lastFoscNumber>247</lastFoscNumber>
+    <lastFoscSequence>1004526479</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

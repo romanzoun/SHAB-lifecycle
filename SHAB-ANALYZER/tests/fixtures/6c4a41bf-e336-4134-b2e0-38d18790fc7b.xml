@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.21/HR02-export.xsd">
+<meta>
+  <id>6b95807a-e40d-4e8b-b418-64599a14aa50</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006063416</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-06-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Fischwerk Werner Dönni, Luzern</de>
+    <en>Change Fischwerk Werner Dönni, Luzern</en>
+    <it>Cambiamenti Fischwerk Werner Dönni, Luzern</it>
+    <fr>Mutation Fischwerk Werner Dönni, Luzern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5848</journalNumber>
+  <journalDate>2024-06-18</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 111 vom 11.06.2024, publizierten TR-Eintrags Nr. 5335 vom 06.06.2024 Fischwerk Werner Dönni, in Luzern, CHE-115.510.871, Einzelunternehmen (SHAB Nr. 111 vom 11.06.2024, Publ. 1006053356). [nicht: Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vertrag vom 04.06.2024 Aktiven von CHF 250'938.35 und Passiven (Fremdkapital) von CHF 250'832.39 auf die Fischwerk GmbH, in Luzern (CHE-491.427.386). Gegenleistung: CHF 200.00.]. Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vertrag vom 04.06.2024 Aktiven von CHF 250'938.35 und Passiven (Fremdkapital) von CHF 250'832.39 auf die Fischwerk GmbH, in Luzern (CHE-491.427.386). Gegenleistung: CHF 200'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fischwerk Werner Dönni</name>
+      <uid>CHE-115.510.871</uid>
+      <uidOrganisationId>115510871</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10017911677</code13>
+      <seat>Luzern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neustadtstrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>6003</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen in den Bereichen Ökologie, Fischerei und Geoinformatik.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fischwerk Werner Dönni</name>
+      <uid>CHE-115.510.871</uid>
+      <uidOrganisationId>115510871</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10017911677</code13>
+      <seat>Luzern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neustadtstrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>6003</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen in den Bereichen Ökologie, Fischerei und Geoinformatik.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2024-06-11</lastFoscDate>
+    <lastFoscNumber>111</lastFoscNumber>
+    <lastFoscSequence>1006053356</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

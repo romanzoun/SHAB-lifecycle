@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>fa9970c9-ad22-452e-b533-0afd2883e5db</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004520585</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Delsouiller Sàrl, en liquidation, Vandoeuvres</de>
+    <en>Change Delsouiller Sàrl, en liquidation, Vandoeuvres</en>
+    <it>Cambiamenti Delsouiller Sàrl, en liquidation, Vandoeuvres</it>
+    <fr>Mutation Delsouiller Sàrl, en liquidation, Vandoeuvres</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23013</journalNumber>
+  <journalDate>2018-12-10</journalDate>
+  <publicationText>Delsouiller Sàrl, en liquidation, à Vandoeuvres, CHE-473.114.156 (FOSC du 27.11.2018, p. 0/1004507231). L'inscription no 21697 du 22.11.2018 est rectifiée en ce sens que l'adresse de liquidation est: chemin Sur-Rang 25A, c/o FiduOne Sàrl, 1234 Veyrier (et non pas chemin Sur-Rang 25A, 1234 Veyrier).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Delsouiller Sàrl, en liquidation</name>
+      <translations>[de] Delsouiller Sàrl, in liquidation [it] Delsouiller Sàrl, en liquidazione [en] Delsouiller Sàrl, in liquidation</translations>
+      <uid>CHE473114156</uid>
+      <uidOrganisationId>473114156</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66026180132</code13>
+      <seat>Vandoeuvres</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <town>ohne Domizil-sans domicile-senza indiriz</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o FiduOne Sàrl</addressLine1>
+        <street>chemin Sur-Rang</street>
+        <houseNumber>25 A</houseNumber>
+        <swissZipCode>1234</swissZipCode>
+        <town>Veyrier</town>
+      </liqAddress>
+    </company>
+    <purpose>commerce de détail entre autre de produits laitiers et d'oeufs ainsi que d'articles de restauration rapide et boissons (sans préparation) à consommer ou à emporter (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Delsouiller Sàrl, en liquidation</name>
+      <translations>[de] Delsouiller Sàrl, in liquidation [it] Delsouiller Sàrl, en liquidazione [en] Delsouiller Sàrl, in liquidation</translations>
+      <uid>CHE473114156</uid>
+      <uidOrganisationId>473114156</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66026180132</code13>
+      <seat>Vandoeuvres</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <town>ohne Domizil-sans domicile-senza indiriz</town>
+      </address>
+      <liqAddress>
+        <street>Chemin Sur-Rang</street>
+        <houseNumber>25 A</houseNumber>
+        <swissZipCode>1234</swissZipCode>
+        <town>Vessy</town>
+      </liqAddress>
+    </company>
+    <purpose>commerce de détail entre autre de produits laitiers et d'oeufs ainsi que d'articles de restauration rapide et boissons (sans préparation) à consommer ou à emporter (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-27</lastFoscDate>
+    <lastFoscSequence>1004507231</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

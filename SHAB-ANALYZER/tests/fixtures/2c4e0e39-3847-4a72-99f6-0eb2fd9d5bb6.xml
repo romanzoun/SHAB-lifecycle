@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>2c2b6e55-feb8-4733-ace1-4785d21d1dfe</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004776375</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Le Jardin d'Iris Sàrl, Genthod</de>
+    <en>Change Le Jardin d'Iris Sàrl, Genthod</en>
+    <it>Cambiamenti Le Jardin d'Iris Sàrl, Genthod</it>
+    <fr>Mutation Le Jardin d'Iris Sàrl, Genthod</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22546</journalNumber>
+  <journalDate>2019-12-02</journalDate>
+  <publicationText>Le Jardin d'Iris Sàrl, à Genthod, CHE-209.411.391 (FOSC du 13.11.2014, p. 0/1821183). L'associé Burkhardt Daniel Charles est désormais titulaire de 17 parts de CHF 100, suite à la cession de 5 parts de CHF 100 à Genser Noëlle et de 5 parts de CHF 100 à Lejeune Catherine, de Sierre, à Collex-Bossy, laquelle n'exerce pas la signature sociale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Le Jardin d'Iris Sàrl</name>
+      <uid>CHE-209.411.391</uid>
+      <uidOrganisationId>209411391</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66023610139</code13>
+      <seat>Genthod</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Pralay</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1294</swissZipCode>
+        <town>Genthod</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une épicerie avec tea-room accessoire et de toutes activités en lien avec l'achat, la vente et le commerce de tous produits alimentaires et ménagers (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Le Jardin d'Iris Sàrl</name>
+      <uid>CHE-209.411.391</uid>
+      <uidOrganisationId>209411391</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66023610139</code13>
+      <seat>Genthod</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Pralay</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1294</swissZipCode>
+        <town>Genthod</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une épicerie avec tea-room accessoire et de toutes activités en lien avec l'achat, la vente et le commerce de tous produits alimentaires et ménagers (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-11-13</lastFoscDate>
+    <lastFoscNumber>220</lastFoscNumber>
+    <lastFoscSequence>1821183</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

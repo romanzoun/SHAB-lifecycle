@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>598a06b3-f09d-4264-958a-2e51ce2419f0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004680407</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation DUPLEX Vincent Dafflon, Saint-Sulpice (VD)</de>
+    <en>Change DUPLEX Vincent Dafflon, Saint-Sulpice (VD)</en>
+    <it>Cambiamenti DUPLEX Vincent Dafflon, Saint-Sulpice (VD)</it>
+    <fr>Mutation DUPLEX Vincent Dafflon, Saint-Sulpice (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12924</journalNumber>
+  <journalDate>2019-07-16</journalDate>
+  <publicationText>DUPLEX Vincent Dafflon, à Saint-Sulpice (VD), CHE-272.619.955 (FOSC du 30.03.2017, p. 0/3436515). Transfert de patrimoine: Selon contrat du 27 juin 2019, le titulaire a transféré des actifs pour CHF 453'911.62 et des passifs envers les tiers pour CHF 188'194.52 à Duplex Interior Design SA, à Saint-Sulpice (VD) (CHE-329.014.964). Contre-prestation: 100'000 actions de CHF 1 et créance de CHF 165'717.10. L'entreprise individuelle est radiée par suite de transfert de patrimoine.</publicationText>
+  <commonsNew>
+    <company>
+      <name>DUPLEX Vincent Dafflon</name>
+      <uid>CHE272619955</uid>
+      <uidOrganisationId>272619955</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011224257</code13>
+      <seat>Saint-Sulpice (VD)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Pâqueret</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>1025</swissZipCode>
+        <town>St-Sulpice VD</town>
+      </address>
+    </company>
+    <purpose>toute activité dans le domaine de l'aménagement d'intérieur; conseils, promotion et organisation d'évènements.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>DUPLEX Vincent Dafflon</name>
+      <uid>CHE272619955</uid>
+      <uidOrganisationId>272619955</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011224257</code13>
+      <seat>Saint-Sulpice (VD)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Pâqueret</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>1025</swissZipCode>
+        <town>St-Sulpice VD</town>
+      </address>
+    </company>
+    <purpose>toute activité dans le domaine de l'aménagement d'intérieur; conseils, promotion et organisation d'évènements.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-03-30</lastFoscDate>
+    <lastFoscSequence>3436515</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

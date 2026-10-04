@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3c2de16c-9157-4756-901e-6ff5c53a28e2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004617355</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation OHRID SA, Aubonne</de>
+    <en>Change OHRID SA, Aubonne</en>
+    <it>Cambiamenti OHRID SA, Aubonne</it>
+    <fr>Mutation OHRID SA, Aubonne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7398</journalNumber>
+  <journalDate>2019-04-18</journalDate>
+  <publicationText>OHRID SA, à Aubonne, CHE-106.363.588 (FOSC du 22.03.2019, p. 0/1004594234). Rectificatif: l'inscription n° 5372 du 19.03.2019 (FOSC du 22.03.2019, p. 0/1004594234) est rectifiée en ce sens que l'unique administrateur se nomme John Nuhi (et non Nuhi John, comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>OHRID SA</name>
+      <uid>CHE106363588</uid>
+      <uidOrganisationId>106363588</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701360511</code13>
+      <seat>Aubonne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Ouriette</street>
+        <houseNumber>140</houseNumber>
+        <swissZipCode>1170</swissZipCode>
+        <town>Aubonne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but, tant en Suisse, qu'à l'étranger, l'achat, la vente, l'importation, l'exportation et en général, le commerce de tous biens de toute nature en relation avec le bâtiment, de même que l'exécution de tous mandats et travaux dans le domaine de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>OHRID SA</name>
+      <uid>CHE106363588</uid>
+      <uidOrganisationId>106363588</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701360511</code13>
+      <seat>Aubonne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Ouriette</street>
+        <houseNumber>140</houseNumber>
+        <swissZipCode>1170</swissZipCode>
+        <town>Aubonne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but, tant en Suisse, qu'à l'étranger, l'achat, la vente, l'importation, l'exportation et en général, le commerce de tous biens de toute nature en relation avec le bâtiment, de même que l'exécution de tous mandats et travaux dans le domaine de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-22</lastFoscDate>
+    <lastFoscSequence>1004594234</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>c53615c6-8aa8-4002-9557-102f596b9a62</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004778756</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Mirabaud Partners &amp; Cie, Collonge-Bellerive</de>
+    <en>Change Mirabaud Partners &amp; Cie, Collonge-Bellerive</en>
+    <it>Cambiamenti Mirabaud Partners &amp; Cie, Collonge-Bellerive</it>
+    <fr>Mutation Mirabaud Partners &amp; Cie, Collonge-Bellerive</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22760</journalNumber>
+  <journalDate>2019-12-04</journalDate>
+  <publicationText>Mirabaud Partners &amp; Cie, à Collonge-Bellerive, CHE-303.884.260 (FOSC du 18.01.2019, p. 0/1004545924). La commandite de l'associée commanditaire MIRABAUD &amp; CIE PARTICIPATIONS (CHE-328.635.856) a été réduite de CHF 2'650'000.- à CHF 1'150'000.-. Nouvelle associée commanditaire: M &amp; Cie Participations SCM (CHE-216.606.563), à Genève, pour une commandite de CHF 3'400'000.-.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mirabaud Partners &amp; Cie</name>
+      <uid>CHE-303.884.260</uid>
+      <uidOrganisationId>303884260</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030940135</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Marèches</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1222</swissZipCode>
+        <town>Vésenaz</town>
+      </address>
+    </company>
+    <purpose>prise de participations directes, minoritaires ou majoritaires, dans toutes entreprises commerciales, industrielles ou financières.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mirabaud Partners &amp; Cie</name>
+      <uid>CHE-303.884.260</uid>
+      <uidOrganisationId>303884260</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030940135</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Marèches</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1222</swissZipCode>
+        <town>Vésenaz</town>
+      </address>
+    </company>
+    <purpose>prise de participations directes, minoritaires ou majoritaires, dans toutes entreprises commerciales, industrielles ou financières.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-18</lastFoscDate>
+    <lastFoscNumber>12</lastFoscNumber>
+    <lastFoscSequence>1004545924</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

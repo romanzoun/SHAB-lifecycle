@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>1553444f-8a82-4612-9443-03f13456390b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004790004</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation DPTECH Sàrl, Ollon, neu DPTECH Sàrl en liquidation</de>
+    <en>Change DPTECH Sàrl, Ollon, new DPTECH Sàrl en liquidation</en>
+    <it>Cambiamenti DPTECH Sàrl, Ollon, nuovo DPTECH Sàrl en liquidation</it>
+    <fr>Mutation DPTECH Sàrl, Ollon, nouveau DPTECH Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22860</journalNumber>
+  <journalDate>2019-12-17</journalDate>
+  <publicationText>DPTECH Sàrl, à Ollon, CHE-110.615.741 (FOSC du 23.12.2016, p. 0/3245069). Selon décision de son assemblée des associés du 6 décembre 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: DPTECH Sàrl en liquidation. L'associé gérant et président Dal Pozzo Rugerro, dont le prénom exact est Ruggero, désormais d'Ollon, est nommé liquidateur avec signature individuelle. Adresse de liquidation: Chemin des Plans 32, c/o Ruggero Dal Pozzo, Chalet l'Elan, 1885 Chesières.</publicationText>
+  <commonsNew>
+    <company>
+      <name>DPTECH Sàrl en liquidation</name>
+      <uid>CHE-110.615.741</uid>
+      <uidOrganisationId>110615741</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010390705</code13>
+      <seat>Ollon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chesières, chemin des Plans, chalet L'Elan</street>
+        <swissZipCode>1885</swissZipCode>
+        <town>Chesières</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Ruggero Dal Pozzo</addressLine1>
+        <addressLine2>Chalet l'Elan</addressLine2>
+        <street>Chemin des Plans</street>
+        <houseNumber>32</houseNumber>
+        <swissZipCode>1885</swissZipCode>
+        <town>Chesières</town>
+      </liqAddress>
+    </company>
+    <purpose>conseils et commerce en matière de produits industriels, chimiques, métallurgiques et autres.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>DPTECH Sàrl</name>
+      <uid>CHE-110.615.741</uid>
+      <uidOrganisationId>110615741</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010390705</code13>
+      <seat>Ollon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chesières, chemin des Plans, chalet L'Elan</street>
+        <swissZipCode>1885</swissZipCode>
+        <town>Chesières</town>
+      </address>
+    </company>
+    <purpose>conseils et commerce en matière de produits industriels, chimiques, métallurgiques et autres.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-12-23</lastFoscDate>
+    <lastFoscNumber>250</lastFoscNumber>
+    <lastFoscSequence>3245069</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>07876c10-dba8-4690-bb23-83d22c9d8f23</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004465455</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation TAURUS PETROLEUM LIMITED, en liquidation, Genève</de>
+    <en>Change TAURUS PETROLEUM LIMITED, en liquidation, Genève</en>
+    <it>Cambiamenti TAURUS PETROLEUM LIMITED, en liquidation, Genève</it>
+    <fr>Mutation TAURUS PETROLEUM LIMITED, en liquidation, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17333</journalNumber>
+  <journalDate>2018-09-25</journalDate>
+  <publicationText>TAURUS PETROLEUM LIMITED, en liquidation, à Genève, CHE-109.880.101 (FOSC du 25.09.2018, p. 0/1004462701). Nouvel organe de révision: UNIFID Conseils SA (CHE-107.963.779), à Genève. Adresse de liquidation: rue Etienne-Dumont 22, c/o MFT Services SA, 1204 Genève.</publicationText>
+  <commonsNew>
+    <company>
+      <name>TAURUS PETROLEUM LIMITED, en liquidation</name>
+      <uid>CHE109880101</uid>
+      <uidOrganisationId>109880101</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000820032</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Rôtisserie</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o MFT Services SA</addressLine1>
+        <street>rue Etienne-Dumont</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>opérations commerciales, notamment sur le marché des produits pétroliers et des huiles brutes, dans le monde entier.</purpose>
+    <capital>
+      <nominal>9855000.00</nominal>
+      <paid>9855000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>UNIFID Conseils SA</name>
+        <country>CH</country>
+        <uid>CHE107963779</uid>
+        <uidOrganisationId>107963779</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TAURUS PETROLEUM LIMITED, en liquidation</name>
+      <uid>CHE109880101</uid>
+      <uidOrganisationId>109880101</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000820032</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Rôtisserie</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>opérations commerciales, notamment sur le marché des produits pétroliers et des huiles brutes, dans le monde entier.</purpose>
+    <capital>
+      <nominal>9855000.00</nominal>
+      <paid>9855000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-25</lastFoscDate>
+    <lastFoscSequence>1004462701</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

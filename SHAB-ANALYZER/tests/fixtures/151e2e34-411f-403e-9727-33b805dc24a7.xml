@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>14f484e0-0a88-44b6-8227-1c0efed6d2dd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005234534</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-06-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <secondaryTenants>
+    <tenantCode>kabti</tenantCode>
+    <publicationDate>2021-06-30</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation Nzeadi Cyril Duru, Bellinzona</de>
+    <en>Change Nzeadi Cyril Duru, Bellinzona</en>
+    <it>Cambiamenti Nzeadi Cyril Duru, Bellinzona</it>
+    <fr>Mutation Nzeadi Cyril Duru, Bellinzona</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17355</journalNumber>
+  <journalDate>2021-06-25</journalDate>
+  <publicationText>Nzeadi Cyril Duru, in Bellinzona, CHE-275.182.469, impresa individuale (Nr. FUSC 120 del 24.06.2021, Pubbl. 1005227534). Nuova IDE: CHE-136.938.080 [finora: CHE-275.182.469].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Nzeadi Cyril Duru</name>
+      <uid>CHE-136.938.080</uid>
+      <uidOrganisationId>136938080</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110214928</code13>
+      <seat>Bellinzona</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via alla Nave</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>6518</swissZipCode>
+        <town>Gorduno</town>
+      </address>
+    </company>
+    <purpose>Export pezzi di ricambi per auto e pneumatici.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Nzeadi Cyril Duru</name>
+      <uid>CHE-275.182.469</uid>
+      <uidOrganisationId>275182469</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110214928</code13>
+      <seat>Bellinzona</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via alla Nave</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>6518</swissZipCode>
+        <town>Gorduno</town>
+      </address>
+    </company>
+    <purpose>Export pezzi di ricambi per auto e pneumatici.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-06-24</lastFoscDate>
+    <lastFoscNumber>120</lastFoscNumber>
+    <lastFoscSequence>1005227534</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>true</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>1ac2aac1-839d-45c7-be6d-622feb378848</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004571332</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation SWISSOHM SA, Collonge-Bellerive</de>
+    <en>Change SWISSOHM SA, Collonge-Bellerive</en>
+    <it>Cambiamenti SWISSOHM SA, Collonge-Bellerive</it>
+    <fr>Mutation SWISSOHM SA, Collonge-Bellerive</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3422</journalNumber>
+  <journalDate>2019-02-15</journalDate>
+  <publicationText>SWISSOHM SA, à Collonge-Bellerive, CHE-103.224.861 (FOSC du 22.10.2018, p. 0/1004481729). reprise des actifs et passifs de FEC SA, à Collonge-Bellerive (CHE-160.389.647), selon contrat de fusion du 13.12.2018 et bilan intermédiaire au 31.08.2018 présentant des actifs de CHF 966'369.61 et des passifs envers les tiers de CHF 1'492'514.60, et de SPEEC SA, à Collonge-Bellerive (CHE-110.540.876), selon contrat de fusion du 13.12.2018 et bilan intermédiaire au 31.08.2018 présentant des actifs de CHF 693'638.51 et des passifs envers les tiers de CHF 668'452.08. Selon une attestation d'un expert-réviseur agrée, SWISSOHM SA dispose de fonds propres librement disponibles équivalant au moins au montant du découvert et du surendettement des sociétés transférantes. La totalité du capital-actions des sociétés transférantes étant détenu par la société reprenante, la fusion ne donne pas lieu à une augmentation de capital, ni à une attribution d'actions.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SWISSOHM SA</name>
+      <uid>CHE103224861</uid>
+      <uidOrganisationId>103224861</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004659903</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Thonon</street>
+        <houseNumber>114</houseNumber>
+        <swissZipCode>1222</swissZipCode>
+        <town>Vésenaz</town>
+      </address>
+    </company>
+    <purpose>fabrication, vente et pose de tableaux électriques destinés à la construction immobilière; importation et commerce de matières premières nécessaires à la fabrication.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SWISSOHM SA</name>
+      <uid>CHE103224861</uid>
+      <uidOrganisationId>103224861</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004659903</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Thonon</street>
+        <houseNumber>114</houseNumber>
+        <swissZipCode>1222</swissZipCode>
+        <town>Vésenaz</town>
+      </address>
+    </company>
+    <purpose>fabrication, vente et pose de tableaux électriques destinés à la construction immobilière; importation et commerce de matières premières nécessaires à la fabrication.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-22</lastFoscDate>
+    <lastFoscSequence>1004481729</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

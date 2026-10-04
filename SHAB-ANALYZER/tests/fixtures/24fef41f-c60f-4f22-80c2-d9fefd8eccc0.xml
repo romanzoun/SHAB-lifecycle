@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>23b092d3-49a3-41e0-82a4-e48e0b579aa5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004758882</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Panem et Circenses Sàrl, Genève</de>
+    <en>Change Panem et Circenses Sàrl, Genève</en>
+    <it>Cambiamenti Panem et Circenses Sàrl, Genève</it>
+    <fr>Mutation Panem et Circenses Sàrl, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20996</journalNumber>
+  <journalDate>2019-11-08</journalDate>
+  <publicationText>Panem et Circenses Sàrl, à Genève, CHE-415.198.717 (FOSC du 08.06.2018, p. 0/4279403). L'associé Richard Samuel a cédé 10 parts de CHF 1'000 à l'associé-gérant Tosoni Fabien, ce dernier possède désormais 30 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Panem et Circenses Sàrl</name>
+      <uid>CHE-415.198.717</uid>
+      <uidOrganisationId>415198717</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66035520149</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Tosoni Fabien</addressLine1>
+        <street>rue Lamartine</street>
+        <houseNumber>17 A</houseNumber>
+        <swissZipCode>1203</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un établissement de divertissement sous forme de jeux et d'énigmes, l'animation de réunions et de soirées ainsi que l'organisation d'événements ludiques (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Panem et Circenses Sàrl</name>
+      <uid>CHE-415.198.717</uid>
+      <uidOrganisationId>415198717</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66035520149</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Tosoni Fabien</addressLine1>
+        <street>rue Lamartine</street>
+        <houseNumber>17 A</houseNumber>
+        <swissZipCode>1203</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un établissement de divertissement sous forme de jeux et d'énigmes, l'animation de réunions et de soirées ainsi que l'organisation d'événements ludiques (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-08</lastFoscDate>
+    <lastFoscNumber>109</lastFoscNumber>
+    <lastFoscSequence>4279403</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

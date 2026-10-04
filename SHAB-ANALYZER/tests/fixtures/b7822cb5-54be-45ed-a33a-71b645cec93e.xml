@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>b77f28fc-0de9-4a31-bcfc-7d0fffa79e19</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004526916</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Les Remparts SA Sion, Sion</de>
+    <en>Change Les Remparts SA Sion, Sion</en>
+    <it>Cambiamenti Les Remparts SA Sion, Sion</it>
+    <fr>Mutation Les Remparts SA Sion, Sion</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3215</journalNumber>
+  <journalDate>2018-12-17</journalDate>
+  <publicationText>Les Remparts SA Sion, à Sion, CHE-103.035.188, société anonyme (No. FOSC 9 du 15.01.2013, Publ. 7016690). Modification des statuts: 14.04.2018. Nouveaux faits qualifiés: [biffé: Stéphanie Dubuis-Iten, à Sion, et les enfants de Gustave Dubuis, à Sion, soit Etienne, Bernard, Michel et Joseph-Antoine Dubuis, Suzanne Von Gunten-Dubuis, ainsi que Marie-Jeanne Dubuis font apport à la société de l'immeuble sur la commune de Sion No 632, fol. 9, En Ville, de 495 m2. Cet apport est accepté pour le prix de CHF 450'000.-- payable par remise de CHF 350'000.-- en actions de la société et CHF 100'000.-- par reprise de la dette hypothécaire]. [Modification des statuts sur des points non soumis à publication].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Les Remparts SA Sion</name>
+      <uid>CHE103035188</uid>
+      <uidOrganisationId>103035188</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630012753</code13>
+      <seat>Sion</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Joseph-Antoine Dubuis</addressLine1>
+        <street>Avenue Ritz</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <purpose>Achat, vente, construction et gérance d'immeublesAchat, vente et nantissement d'actions</purpose>
+    <capital>
+      <nominal>261000.00</nominal>
+      <paid>261000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Les Remparts SA Sion</name>
+      <uid>CHE103035188</uid>
+      <uidOrganisationId>103035188</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630012753</code13>
+      <seat>Sion</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Joseph-Antoine Dubuis</addressLine1>
+        <street>Avenue Ritz</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>1950</swissZipCode>
+        <town>Sion</town>
+      </address>
+    </company>
+    <capital>
+      <nominal>261000.00</nominal>
+      <paid>261000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-01-15</lastFoscDate>
+    <lastFoscNumber>9</lastFoscNumber>
+    <lastFoscSequence>7016690</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,58 @@
+{
+  "publication_id": "1d44e93c-3591-4e08-925f-c9835c138c14",
+  "published_at": "2026-09-25",
+  "language": "fr",
+  "sub_rubric": "HR02",
+  "org_uid": "CHE-108.731.444",
+  "canton": "VD",
+  "plz": "1800",
+  "status": "FULLY_PARSED",
+  "leftover_text": "Nestlé Enterprises SA, à Vevey, CHE-108.731.444 (FOSC du 12.08.2026, p. 0/1006729870)",
+  "events": [
+    {
+      "event_type": "signing_authority_changed",
+      "rule_id": "fr.persons.sign_revoked.v1",
+      "org_uid": "CHE-108.731.444",
+      "person_key": "p:tschiemer goumaz susanne",
+      "plz": "1800",
+      "canton": "VD",
+      "role": null,
+      "signing": null,
+      "payload": {
+        "name": "Tschiemer Goumaz Susanne",
+        "place": null,
+        "action": "revoked"
+      }
+    },
+    {
+      "event_type": "signing_authority_changed",
+      "rule_id": "fr.persons.sign_granted.v1",
+      "org_uid": "CHE-108.731.444",
+      "person_key": "p:boldina svetlana|blonay - saint-legier",
+      "plz": "1800",
+      "canton": "VD",
+      "role": "directrice adjointe",
+      "signing": "Einzelunterschrift",
+      "payload": {
+        "name": "Boldina Svetlana",
+        "place": "Blonay - Saint-Légier",
+        "heimat": "Russie"
+      }
+    },
+    {
+      "event_type": "signing_authority_changed",
+      "rule_id": "fr.persons.sign_granted.v1",
+      "org_uid": "CHE-108.731.444",
+      "person_key": "p:stephan laurence|morlon.",
+      "plz": "1800",
+      "canton": "VD",
+      "role": null,
+      "signing": "Kollektivunterschrift zu zweien",
+      "payload": {
+        "name": "Stephan Laurence",
+        "place": "Morlon.",
+        "heimat": "Basse-Vendline"
+      }
+    }
+  ]
+}

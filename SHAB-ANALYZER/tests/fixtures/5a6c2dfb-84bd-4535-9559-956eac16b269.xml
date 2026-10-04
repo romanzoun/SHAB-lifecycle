@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>59f1d6dd-1f1f-4116-b4b0-30c9b932e0f8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004498624</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Degiacomi Orthopädie-Schuhtechnik, Schuh und Sport, Bonaduz</de>
+    <en>Change Degiacomi Orthopädie-Schuhtechnik, Schuh und Sport, Bonaduz</en>
+    <it>Cambiamenti Degiacomi Orthopädie-Schuhtechnik, Schuh und Sport, Bonaduz</it>
+    <fr>Mutation Degiacomi Orthopädie-Schuhtechnik, Schuh und Sport, Bonaduz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5076</journalNumber>
+  <journalDate>2018-11-12</journalDate>
+  <publicationText>Degiacomi Orthopädie-Schuhtechnik, Schuh und Sport, in Bonaduz, CHE-105.769.284, Einzelunternehmen (SHAB Nr. 32 vom 15.02.1994). Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vertrag vom 09.11.2018 den Betriebsteil Orthopädie/Schuhtechnik mit Aktiven von CHF 31'854.00 auf die Laufgut Degiacomi GmbH (CHE-315.653.974), in Chur. Gegenleistung: 200 Stammanteile zu CHF 100.00 und Gutschrift einer Forderung von CHF 11'854.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Degiacomi Orthopädie-Schuhtechnik, Schuh und Sport</name>
+      <uid>CHE105769284</uid>
+      <uidOrganisationId>105769284</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35010035125</code13>
+      <seat>Bonaduz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Versamerstrasse</street>
+        <houseNumber>32</houseNumber>
+        <swissZipCode>7402</swissZipCode>
+        <town>Bonaduz</town>
+      </address>
+    </company>
+    <purpose>Handel mit Schuhen, Sportgeräten und orthopädischen Hilfsmitteln, Produktion von Schuhen und orthopädischen Hilfsmitteln.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Degiacomi Orthopädie-Schuhtechnik, Schuh und Sport</name>
+      <uid>CHE105769284</uid>
+      <uidOrganisationId>105769284</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35010035125</code13>
+      <seat>Bonaduz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Versamerstrasse</street>
+        <houseNumber>32</houseNumber>
+        <swissZipCode>7402</swissZipCode>
+        <town>Bonaduz</town>
+      </address>
+    </company>
+    <purpose>Handel mit Schuhen, Sportgeräten und orthopädischen Hilfsmitteln, Produktion von Schuhen und orthopädischen Hilfsmitteln.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>1994-02-15</lastFoscDate>
+    <lastFoscNumber>32</lastFoscNumber>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

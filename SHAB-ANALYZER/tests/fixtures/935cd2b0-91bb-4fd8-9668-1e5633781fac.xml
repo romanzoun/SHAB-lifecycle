@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>9332d3f0-7c4a-48af-a843-75aa20d333bc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004859252</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Bluefield Sàrl, Genève</de>
+    <en>Change Bluefield Sàrl, Genève</en>
+    <it>Cambiamenti Bluefield Sàrl, Genève</it>
+    <fr>Mutation Bluefield Sàrl, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5660</journalNumber>
+  <journalDate>2020-03-19</journalDate>
+  <publicationText>Bluefield Sàrl, à Genève, CHE-112.812.442 (FOSC du 24.07.2015, p. 0/2288601). Obligation de fournir des prestations accessoires, droits de préférence, de préemption ou d'emption: pour les détails, voir les statuts. Communication aux associés: par lettre, téléfax ou email. Nouveaux statuts du 13.03.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bluefield Sàrl</name>
+      <uid>CHE-112.812.442</uid>
+      <uidOrganisationId>112812442</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005840068</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Python &amp; Peter</addressLine1>
+        <street>rue Charles-Bonnet 2, avocats</street>
+        <swissZipCode>1206</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>achat et vente d'oeuvres d'art à l'étranger.</purpose>
+    <capital>
+      <nominal>120000.00</nominal>
+      <paid>120000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bluefield Sàrl</name>
+      <uid>CHE-112.812.442</uid>
+      <uidOrganisationId>112812442</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005840068</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Python &amp; Peter</addressLine1>
+        <street>rue Charles-Bonnet 2, avocats</street>
+        <swissZipCode>1206</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>achat et vente d'oeuvres d'art à l'étranger.</purpose>
+    <capital>
+      <nominal>120000.00</nominal>
+      <paid>120000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-07-24</lastFoscDate>
+    <lastFoscNumber>141</lastFoscNumber>
+    <lastFoscSequence>2288601</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>3f586beb-7426-4e9e-9c50-4d67e18e0341</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005213499</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-06-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation VACANCES NEIGE SA No 24, Martigny</de>
+    <en>Change VACANCES NEIGE SA No 24, Martigny</en>
+    <it>Cambiamenti VACANCES NEIGE SA No 24, Martigny</it>
+    <fr>Mutation VACANCES NEIGE SA No 24, Martigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3678</journalNumber>
+  <journalDate>2021-06-07</journalDate>
+  <publicationText>VACANCES NEIGE SA No 24, à Martigny, CHE-103.025.764, société anonyme (No. FOSC 77 du 21.04.2016, p.0, Publ. 2793045). Nouvelles actions: 50 actions nominatives de CHF 1'000.00 (chacune) [précédemment: 50 actions au porteur de CHF 1'000.00 (chacune)]. Le 1er mai 2021, les actions au porteur ont été converties de par la loi en actions nominatives. Les statuts de la société n'ont pas encore été adaptés à la conversion, mais devront l'être lors de la prochaine modification.</publicationText>
+  <commonsNew>
+    <company>
+      <name>VACANCES NEIGE SA No 24</name>
+      <uid>CHE-103.025.764</uid>
+      <uidOrganisationId>103025764</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630020369</code13>
+      <seat>Martigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o NOFIVAL SA</addressLine1>
+        <street>Rue du Rhône</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>acquisition, vente, échange, construction, financement, exploitation, gérance d'immeubles ou de terrains, avec ou sans accessoires, participation à toutes opérations financières et à toutes transactions</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>VACANCES NEIGE SA No 24</name>
+      <uid>CHE-103.025.764</uid>
+      <uidOrganisationId>103025764</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630020369</code13>
+      <seat>Martigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o NOFIVAL SA</addressLine1>
+        <street>Rue du Rhône</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>acquisition, vente, échange, construction, financement, exploitation, gérance d'immeubles ou de terrains, avec ou sans accessoires, participation à toutes opérations financières et à toutes transactions</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-04-21</lastFoscDate>
+    <lastFoscNumber>77</lastFoscNumber>
+    <lastFoscSequence>2793045</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

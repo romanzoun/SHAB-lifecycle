@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>1d31d3fb-61e2-46a9-ae01-40faaee63b50</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004506881</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Ulrico Monighetti &amp; Co. SA, Lostallo</de>
+    <en>Change Ulrico Monighetti &amp; Co. SA, Lostallo</en>
+    <it>Cambiamenti Ulrico Monighetti &amp; Co. SA, Lostallo</it>
+    <fr>Mutation Ulrico Monighetti &amp; Co. SA, Lostallo</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5330</journalNumber>
+  <journalDate>2018-11-22</journalDate>
+  <publicationText>Ulrico Monighetti &amp; Co. SA, in Lostallo, CHE-107.055.936, società anonima (Nr. FUSC 182 del 20.09.2018, Pubbl. 1004459525). Nuova succursale: [radiati: Bellinzona].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Ulrico Monighetti &amp; Co. SA</name>
+      <uid>CHE107055936</uid>
+      <uidOrganisationId>107055936</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35020004342</code13>
+      <seat>Lostallo</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Cantonale</street>
+        <swissZipCode>6558</swissZipCode>
+        <town>Lostallo</town>
+      </address>
+    </company>
+    <purpose>La realizzazione di tetti in lastre di pietra e altri materiali, l'esecuzione di impalcature e la conduzione di un'impresa generale; scopo completo a norma degli statuti.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Ulrico Monighetti &amp; Co. SA</name>
+      <uid>CHE107055936</uid>
+      <uidOrganisationId>107055936</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35020004342</code13>
+      <seat>Lostallo</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Cantonale</street>
+        <swissZipCode>6558</swissZipCode>
+        <town>Lostallo</town>
+      </address>
+    </company>
+    <purpose>La realizzazione di tetti in lastre di pietra e altri materiali, l'esecuzione di impalcature e la conduzione di un'impresa generale; scopo completo a norma degli statuti.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-20</lastFoscDate>
+    <lastFoscNumber>182</lastFoscNumber>
+    <lastFoscSequence>1004459525</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

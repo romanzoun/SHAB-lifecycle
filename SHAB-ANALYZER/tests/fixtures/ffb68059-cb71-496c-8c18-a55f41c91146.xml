@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>ff797191-4758-42b3-95c7-13c00c0ed4de</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004689629</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AR</cantons>
+  <title>
+    <de>Mutation Metrohm Stiftung, Herisau</de>
+    <en>Change Metrohm Stiftung, Herisau</en>
+    <it>Cambiamenti Metrohm Stiftung, Herisau</it>
+    <fr>Mutation Metrohm Stiftung, Herisau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1201</journalNumber>
+  <journalDate>2019-07-30</journalDate>
+  <publicationText>Metrohm Stiftung, in Herisau, CHE-101.906.168, Stiftung (SHAB Nr. 123 vom 28.06.2019, Publ. 1004662600). Urkundenänderung: 02.07.2019. Die publikationspflichtigen Tatsachen haben keine Änderung erfahren. Organisation neu: gestrichen, da nicht mehr eintragungspflichtig [bisher: Stiftungsrat aus 5 bis 7 Mitgliedern].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Metrohm Stiftung</name>
+      <uid>CHE101906168</uid>
+      <uidOrganisationId>101906168</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30070122019</code13>
+      <seat>Herisau</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ionenstrasse</street>
+        <swissZipCode>9100</swissZipCode>
+        <town>Herisau</town>
+      </address>
+    </company>
+    <purpose>Unterstützung und Förderung gemeinnütziger und kultureller Werke, Unterstützung von Organisationen und Veranstaltungen, deren Tätigkeit und Erfolg den Interessen der Oeffentlichkeit dient, Förderung der Wirtschaftsstruktur und Beitragsleistungen zur Erhaltung von Arbeitsplätzen im Kanton Appenzell Ausserrhoden sowie Unterstützung und Förderung definierter Projekte im Bereich der Entwicklungshilfe.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Metrohm Stiftung</name>
+      <uid>CHE101906168</uid>
+      <uidOrganisationId>101906168</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30070122019</code13>
+      <seat>Herisau</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ionenstrasse</street>
+        <swissZipCode>9100</swissZipCode>
+        <town>Herisau</town>
+      </address>
+    </company>
+    <purpose>Unterstützung und Förderung gemeinnütziger und kultureller Werke, Unterstützung von Organisationen und Veranstaltungen, deren Tätigkeit und Erfolg den Interessen der Oeffentlichkeit dient, Förderung der Wirtschaftsstruktur und Beitragsleistungen zur Erhaltung von Arbeitsplätzen im Kanton Appenzell Ausserrhoden sowie Unterstützung und Förderung definierter Projekte im Bereich der Entwicklungshilfe.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-28</lastFoscDate>
+    <lastFoscNumber>123</lastFoscNumber>
+    <lastFoscSequence>1004662600</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Appenzell A.Rh.</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>580a9c50-c0c1-4278-a51b-2682037da50b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004745515</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation L'ECHO PAIN S. Müller, Denges</de>
+    <en>Change L'ECHO PAIN S. Müller, Denges</en>
+    <it>Cambiamenti L'ECHO PAIN S. Müller, Denges</it>
+    <fr>Mutation L'ECHO PAIN S. Müller, Denges</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19006</journalNumber>
+  <journalDate>2019-10-22</journalDate>
+  <publicationText>L'ECHO PAIN S. Müller, à Denges, CHE-211.051.735 (FOSC du 24.09.2019, p. 0/1004722935). Par arrêt du 10 octobre 2019, la Cour des poursuites et faillites du Tribunal cantonal a déclaré le recours irrecevable et dit que la requête d'effet suspensif est sans objet.</publicationText>
+  <commonsNew>
+    <company>
+      <name>L'ECHO PAIN S. Müller</name>
+      <uid>CHE-211.051.735</uid>
+      <uidOrganisationId>211051735</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011594944</code13>
+      <seat>Denges</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Lac</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1026</swissZipCode>
+        <town>Denges</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une boulangerie-pâtisserie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>L'ECHO PAIN S. Müller</name>
+      <uid>CHE-211.051.735</uid>
+      <uidOrganisationId>211051735</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011594944</code13>
+      <seat>Denges</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Lac</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1026</swissZipCode>
+        <town>Denges</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une boulangerie-pâtisserie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-24</lastFoscDate>
+    <lastFoscNumber>184</lastFoscNumber>
+    <lastFoscSequence>1004722935</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

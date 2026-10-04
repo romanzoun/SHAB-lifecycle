@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ad6a4ac6-743c-4218-b254-7635d3be5511</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004522460</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Benoît Tinguely - charpente, Gibloux</de>
+    <en>Change Benoît Tinguely - charpente, Gibloux</en>
+    <it>Cambiamenti Benoît Tinguely - charpente, Gibloux</it>
+    <fr>Mutation Benoît Tinguely - charpente, Gibloux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6568</journalNumber>
+  <journalDate>2018-12-12</journalDate>
+  <publicationText>Benoît Tinguely - charpente, à Gibloux, CHE-381.644.674 (FOSC du 04.12.2018, p. 0/1004511742). Par arrêt du 11.12.2018, le Tribunal cantonal de Fribourg a accordé l'effet suspensif au recours interjeté le 06.12.2018 contre la décision du faillite du 26.11.2018 (art. 159, al. 2 ORC).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Benoît Tinguely - charpente</name>
+      <uid>CHE381644674</uid>
+      <uidOrganisationId>381644674</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735478885</code13>
+      <seat>Gibloux</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route St-Jacques</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1726</swissZipCode>
+        <town>Farvagny</town>
+      </address>
+    </company>
+    <purpose>entreprise de charpente, menuiserie et couverture.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Benoît Tinguely - charpente</name>
+      <uid>CHE381644674</uid>
+      <uidOrganisationId>381644674</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735478885</code13>
+      <seat>Gibloux</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route St-Jacques</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1726</swissZipCode>
+        <town>Farvagny</town>
+      </address>
+    </company>
+    <purpose>entreprise de charpente, menuiserie et couverture.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-04</lastFoscDate>
+    <lastFoscSequence>1004511742</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

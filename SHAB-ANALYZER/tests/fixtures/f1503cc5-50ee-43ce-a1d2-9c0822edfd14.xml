@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>f0a230e5-fab5-4e8c-8b81-21a8962a83b7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004656900</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation ALTEAG Düdingen AG, Düdingen</de>
+    <en>Change ALTEAG Düdingen AG, Düdingen</en>
+    <it>Cambiamenti ALTEAG Düdingen AG, Düdingen</it>
+    <fr>Mutation ALTEAG Düdingen AG, Düdingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3417</journalNumber>
+  <journalDate>2019-06-18</journalDate>
+  <publicationText>ALTEAG Düdingen AG, in Düdingen, CHE-106.100.994 (SHAB vom 12.12.2018, s. 0/1004518710). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 14.06.2019 Aktiven von CHF 524'158.20 auf die Alteag Metallbausysteme AG in Düdingen (CHE-102.482.828). Gegenleistung: CHF 524'158.20.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ALTEAG Düdingen AG</name>
+      <uid>CHE106100994</uid>
+      <uidOrganisationId>106100994</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH22906307121</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Planung und Fabrikation von Velo- und PW-Parkierungsanlagen sowie von Personenunterständen, Metallbauteilen, Förderanlagen und Apparaten jeglicher Art (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ALTEAG Düdingen AG</name>
+      <uid>CHE106100994</uid>
+      <uidOrganisationId>106100994</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH22906307121</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Planung und Fabrikation von Velo- und PW-Parkierungsanlagen sowie von Personenunterständen, Metallbauteilen, Förderanlagen und Apparaten jeglicher Art (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-12</lastFoscDate>
+    <lastFoscSequence>1004518710</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

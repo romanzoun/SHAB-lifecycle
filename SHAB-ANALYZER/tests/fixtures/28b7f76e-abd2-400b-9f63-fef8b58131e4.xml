@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>28b167dc-a7c8-44d0-a17f-62eda2576858</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004633094</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation AV Productions SARL, en liquidation, Genève</de>
+    <en>Change AV Productions SARL, en liquidation, Genève</en>
+    <it>Cambiamenti AV Productions SARL, en liquidation, Genève</it>
+    <fr>Mutation AV Productions SARL, en liquidation, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9203</journalNumber>
+  <journalDate>2019-05-14</journalDate>
+  <publicationText>AV Productions SARL, en liquidation, à Genève, CHE-347.857.624 (FOSC du 15.05.2019, p. 0/1004630937). L'inscription no 9006 du 10.05.2019 est rectifiée en ce sens que Hafner Xavier est gérant (et non pas gérant liquidateur) et que la liquidatrice est BRANDED SARL (CHE-109.602.335), à Genève.</publicationText>
+  <commonsNew>
+    <company>
+      <name>AV Productions SARL, en liquidation</name>
+      <uid>CHE347857624</uid>
+      <uidOrganisationId>347857624</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002360130</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o BRANDED SARL</addressLine1>
+        <street>Boulevard de Saint-Georges</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>production, réalisation et diffusion de films de cinéma et télévision, de courts métrages, d'émissions de télévision, de reportages, de documentaires, de spots publicitaires et de films institutionnels, ainsi que la couverture audiovisuelle d'événements (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AV Productions SARL, en liquidation</name>
+      <uid>CHE347857624</uid>
+      <uidOrganisationId>347857624</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002360130</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o BRANDED SARL</addressLine1>
+        <street>Boulevard de Saint-Georges</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>production, réalisation et diffusion de films de cinéma et télévision, de courts métrages, d'émissions de télévision, de reportages, de documentaires, de spots publicitaires et de films institutionnels, ainsi que la couverture audiovisuelle d'événements (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-15</lastFoscDate>
+    <lastFoscSequence>1004630937</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>de2529fc-2f8b-41ce-a162-f52d6f424103</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004624201</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation M. Petermann Transport, Thunstetten</de>
+    <en>Change M. Petermann Transport, Thunstetten</en>
+    <it>Cambiamenti M. Petermann Transport, Thunstetten</it>
+    <fr>Mutation M. Petermann Transport, Thunstetten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6917</journalNumber>
+  <journalDate>2019-05-02</journalDate>
+  <publicationText>M. Petermann Transport, in Thunstetten, CHE-135.931.891, Einzelunternehmen (SHAB Nr. 215 vom 06.11.2017, Publ. 3851417). Da der Inhaber den Geschäftsbetrieb weiterführt, sind die Voraussetzungen für eine Löschung gemäss Art. 159 Abs. 5 lit. a HRegV nicht erfüllt. Die Eintragung bleibt folgedessen bestehen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>M. Petermann Transport</name>
+      <uid>CHE135931891</uid>
+      <uidOrganisationId>135931891</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610685199</code13>
+      <seat>Thunstetten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bernstrasse</street>
+        <houseNumber>73</houseNumber>
+        <swissZipCode>4922</swissZipCode>
+        <town>Bützberg</town>
+      </address>
+    </company>
+    <purpose>Transport von Stückgut, Umzug und Motorrad-Transport sowie Beratung in Auto Verwertungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>M. Petermann Transport</name>
+      <uid>CHE135931891</uid>
+      <uidOrganisationId>135931891</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610685199</code13>
+      <seat>Thunstetten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bernstrasse</street>
+        <houseNumber>73</houseNumber>
+        <swissZipCode>4922</swissZipCode>
+        <town>Bützberg</town>
+      </address>
+    </company>
+    <purpose>Transport von Stückgut, Umzug und Motorrad-Transport sowie Beratung in Auto Verwertungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-06</lastFoscDate>
+    <lastFoscNumber>215</lastFoscNumber>
+    <lastFoscSequence>3851417</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

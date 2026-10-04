@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.17/HR02-export.xsd">
+<meta>
+  <id>45067be4-92a1-44cd-95ec-4be98efb0075</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005678178</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-02-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>TG</cantons>
+  <title>
+    <de>Mutation Papas Bester by eigenmann, Pfyn</de>
+    <en>Change Papas Bester by eigenmann, Pfyn</en>
+    <it>Cambiamenti Papas Bester by eigenmann, Pfyn</it>
+    <fr>Mutation Papas Bester by eigenmann, Pfyn</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>873</journalNumber>
+  <journalDate>2023-02-09</journalDate>
+  <publicationText>Papas Bester by eigenmann, in Pfyn, CHE-192.789.459, Einzelunternehmen (SHAB Nr. 24 vom 03.02.2023, Publ. 1005669688). Mit Entscheid des Obergerichts des Kantons Thurgau vom 08.02.2023 ist der Beschwerde aufschiebende Wirkung zuerkannt worden. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen und das Unternehmen besteht gemäss dem bisherigen Eintrag weiter. [bisher: Über den Inhaber dieses Einzelunternehmens wurde mit Entscheid des Bezirksgerichts Frauenfeld vom 23.11.2022, mit Wirkung ab dem 23.11.2022, 11.00 Uhr, der Konkurs eröffnet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Papas Bester by eigenmann</name>
+      <uid>CHE-192.789.459</uid>
+      <uidOrganisationId>192789459</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44010355444</code13>
+      <seat>Pfyn</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wiedenstrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>8505</swissZipCode>
+        <town>Pfyn</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren aller Art, insbesondere mit Alkohol und Partyartikeln.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Papas Bester by eigenmann</name>
+      <uid>CHE-192.789.459</uid>
+      <uidOrganisationId>192789459</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44010355444</code13>
+      <seat>Pfyn</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wiedenstrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>8505</swissZipCode>
+        <town>Pfyn</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren aller Art, insbesondere mit Alkohol und Partyartikeln.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2023-02-03</lastFoscDate>
+    <lastFoscNumber>24</lastFoscNumber>
+    <lastFoscSequence>1005669688</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Thurgau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

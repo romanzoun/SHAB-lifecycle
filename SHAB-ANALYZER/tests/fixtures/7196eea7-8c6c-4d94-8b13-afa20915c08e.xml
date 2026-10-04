@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>717626e1-ec87-44f7-916a-c9ae1d857ce8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005099400</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation FKSWISS LOGISTICS BASEL, IGBOERISIM, Basel</de>
+    <en>Change FKSWISS LOGISTICS BASEL, IGBOERISIM, Basel</en>
+    <it>Cambiamenti FKSWISS LOGISTICS BASEL, IGBOERISIM, Basel</it>
+    <fr>Mutation FKSWISS LOGISTICS BASEL, IGBOERISIM, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>869</journalNumber>
+  <journalDate>2021-02-09</journalDate>
+  <publicationText>FKSWISS LOGISTICS BASEL, IGBOERISIM, in Basel, CHE-201.763.716, Einzelunternehmen (SHAB Nr. 252 vom 28.12.2020, Publ. 1005059505). Der Inhaber führt den Geschäftsbetrieb weiter. Die Eintragung bleibt bestehen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>FKSWISS LOGISTICS BASEL, IGBOERISIM</name>
+      <uid>CHE-201.763.716</uid>
+      <uidOrganisationId>201763716</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27010169702</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hochbergerstr.</street>
+        <houseNumber>98</houseNumber>
+        <swissZipCode>4057</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>An- und Verkauf von Autos, Autoteilen, Elektronik, Krankenhaus-Ausrüstungen sowie Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FKSWISS LOGISTICS BASEL, IGBOERISIM</name>
+      <uid>CHE-201.763.716</uid>
+      <uidOrganisationId>201763716</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27010169702</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hochbergerstr.</street>
+        <houseNumber>98</houseNumber>
+        <swissZipCode>4057</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>An- und Verkauf von Autos, Autoteilen, Elektronik, Krankenhaus-Ausrüstungen sowie Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-12-28</lastFoscDate>
+    <lastFoscNumber>252</lastFoscNumber>
+    <lastFoscSequence>1005059505</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

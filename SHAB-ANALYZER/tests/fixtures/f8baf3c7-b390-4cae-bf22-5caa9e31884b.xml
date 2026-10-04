@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>f8b43230-ce80-4df9-bbd5-31f42bf76050</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004718155</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation De Marzo Peinture Sàrl en liquidation, Val-de-Travers, neu De Marzo Peinture Sàrl</de>
+    <en>Change De Marzo Peinture Sàrl en liquidation, Val-de-Travers, new De Marzo Peinture Sàrl</en>
+    <it>Cambiamenti De Marzo Peinture Sàrl en liquidation, Val-de-Travers, nuovo De Marzo Peinture Sàrl</it>
+    <fr>Mutation De Marzo Peinture Sàrl en liquidation, Val-de-Travers, nouveau De Marzo Peinture Sàrl</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2917</journalNumber>
+  <journalDate>2019-09-12</journalDate>
+  <publicationText>De Marzo Peinture Sàrl en liquidation, à Val-de-Travers, CHE-315.827.932 (FOSC du 28.08.2019, p. 0/1004704617). Par ordonnance du 09.09.2019 le Tribunal cantonal a suspendu l'exécution du jugement de faillite rendu le 19.08.2019. Par conséquent sa raison sociale redevient: De Marzo Peinture Sàrl.</publicationText>
+  <commonsNew>
+    <company>
+      <name>De Marzo Peinture Sàrl</name>
+      <uid>CHE-315.827.932</uid>
+      <uidOrganisationId>315827932</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541176449</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fleurier, rue de l'Areuse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2114</swissZipCode>
+        <town>Fleurier</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de peinture, plâtrerie, isolation périphérique et rénovation (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>De Marzo Peinture Sàrl en liquidation</name>
+      <uid>CHE-315.827.932</uid>
+      <uidOrganisationId>315827932</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541176449</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fleurier, rue de l'Areuse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2114</swissZipCode>
+        <town>Fleurier</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de peinture, plâtrerie, isolation périphérique et rénovation (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-28</lastFoscDate>
+    <lastFoscNumber>165</lastFoscNumber>
+    <lastFoscSequence>1004704617</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

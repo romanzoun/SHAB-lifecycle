@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>d923630d-da64-46b4-b949-5e46c21121c3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004491862</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation GIT-IT SA, Genève</de>
+    <en>Change GIT-IT SA, Genève</en>
+    <it>Cambiamenti GIT-IT SA, Genève</it>
+    <fr>Mutation GIT-IT SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20267</journalNumber>
+  <journalDate>2018-11-01</journalDate>
+  <publicationText>GIT-IT SA, à Genève, CHE-168.106.540 (FOSC du 04.09.2017, p. 0/3731845). Nouvelle raison de commerce du réviseur: Berney Associés Audit SA (CHE-102.136.421).</publicationText>
+  <commonsNew>
+    <company>
+      <name>GIT-IT SA</name>
+      <uid>CHE168106540</uid>
+      <uidOrganisationId>168106540</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66025110173</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Le-Royer</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>créer, développer, fabriquer, modifier, réaliser, acheter, vendre et entretenir des logiciels et du matériel d'informatique destiné à des applications industrielles, bureautiques, domotiques ou autres; toute activité en relation avec l'informatique et l'électronique et ses applications tant pratique qu'électronique et développement d'activités de conseils, de formations en informatique et en électronique, d'expertise en informatique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GIT-IT SA</name>
+      <uid>CHE168106540</uid>
+      <uidOrganisationId>168106540</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66025110173</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Le-Royer</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>créer, développer, fabriquer, modifier, réaliser, acheter, vendre et entretenir des logiciels et du matériel d'informatique destiné à des applications industrielles, bureautiques, domotiques ou autres; toute activité en relation avec l'informatique et l'électronique et ses applications tant pratique qu'électronique et développement d'activités de conseils, de formations en informatique et en électronique, d'expertise en informatique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-09-04</lastFoscDate>
+    <lastFoscSequence>3731845</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

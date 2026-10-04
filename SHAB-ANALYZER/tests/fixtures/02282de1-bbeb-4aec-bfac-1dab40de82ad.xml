@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>01396160-c310-4645-ba7d-9d67ebad5a71</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004697298</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Mediaforce GmbH in Liquidation, Murten</de>
+    <en>Change Mediaforce GmbH in Liquidation, Murten</en>
+    <it>Cambiamenti Mediaforce GmbH in Liquidation, Murten</it>
+    <fr>Mutation Mediaforce GmbH in Liquidation, Murten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4565</journalNumber>
+  <journalDate>2019-08-13</journalDate>
+  <publicationText>Mediaforce GmbH in Liquidation, in Murten, CHE-113.278.835 (SHAB vom 21.12.2018, s. 0/1004527799). Neue Liquidationsadresse: Hauptgasse 58, c/o Daniel Bitterli, 3280 Murten.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mediaforce GmbH in Liquidation</name>
+      <uid>CHE113278835</uid>
+      <uidOrganisationId>113278835</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735366600</code13>
+      <seat>Murten</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o Daniel Bitterli</addressLine1>
+        <street>Hauptgasse</street>
+        <houseNumber>58</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </liqAddress>
+    </company>
+    <purpose>Die Gesellschaft ist im Bereich des Anzeigen- und Verlagsmarketing sowie der Kommunikations- und Verlagsberatung tätig (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mediaforce GmbH in Liquidation</name>
+      <uid>CHE113278835</uid>
+      <uidOrganisationId>113278835</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735366600</code13>
+      <seat>Murten</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <street>Engelhardstrasse</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </liqAddress>
+    </company>
+    <purpose>Die Gesellschaft ist im Bereich des Anzeigen- und Verlagsmarketing sowie der Kommunikations- und Verlagsberatung tätig (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-21</lastFoscDate>
+    <lastFoscSequence>1004527799</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

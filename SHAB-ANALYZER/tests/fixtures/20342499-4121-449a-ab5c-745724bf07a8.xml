@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.18/HR02-export.xsd">
+<meta>
+  <id>1fbeec8e-680f-42d8-8326-5be5426cb5f4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005767005</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-06-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Irento FRICK, Affoltern am Albis</de>
+    <en>Change Irento FRICK, Affoltern am Albis</en>
+    <it>Cambiamenti Irento FRICK, Affoltern am Albis</it>
+    <fr>Mutation Irento FRICK, Affoltern am Albis</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23490</journalNumber>
+  <journalDate>2023-06-08</journalDate>
+  <publicationText>Irento FRICK, in Affoltern am Albis, CHE-111.970.334, Einzelunternehmen (SHAB Nr. 106 vom 05.06.2023, Publ. 1005759763). Die Löschung dieses Einzelunternehmens erfolgte irrtümlich und wird in allen Teilen widerrufen. Das Einzelunternehmen besteht gemäss den früheren Einträgen weiter. [bisher: Das Einzelunternehmen ist infolge Aufgabe der Geschäftstätigkeit erloschen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Irento FRICK</name>
+      <uid>CHE-111.970.334</uid>
+      <uidOrganisationId>111970334</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010459883</code13>
+      <seat>Affoltern am Albis</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Alte Obfelderstrasse</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>8910</swissZipCode>
+        <town>Affoltern am Albis</town>
+      </address>
+    </company>
+    <purpose>Reinigungen, Entsorgungen, Kleintransporte, Liegenschaftenunterhalt, Haustierbetreuung, kleine Arbeiten und Reparaturen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Irento FRICK</name>
+      <uid>CHE-111.970.334</uid>
+      <uidOrganisationId>111970334</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010459883</code13>
+      <seat>Affoltern am Albis</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Alte Obfelderstrasse</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>8910</swissZipCode>
+        <town>Affoltern am Albis</town>
+      </address>
+    </company>
+    <purpose>Reinigungen, Entsorgungen, Kleintransporte, Liegenschaftenunterhalt, Haustierbetreuung, kleine Arbeiten und Reparaturen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2023-06-05</lastFoscDate>
+    <lastFoscNumber>106</lastFoscNumber>
+    <lastFoscSequence>1005759763</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

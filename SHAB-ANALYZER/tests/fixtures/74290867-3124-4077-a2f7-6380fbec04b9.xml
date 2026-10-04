@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.17/HR02-export.xsd">
+<meta>
+  <id>73ad2807-8844-41a6-9918-f17654a8f330</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005696032</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-03-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Paks Diffusion, Ellen Hebsaker, Blonay - Saint-Légier</de>
+    <en>Change Paks Diffusion, Ellen Hebsaker, Blonay - Saint-Légier</en>
+    <it>Cambiamenti Paks Diffusion, Ellen Hebsaker, Blonay - Saint-Légier</it>
+    <fr>Mutation Paks Diffusion, Ellen Hebsaker, Blonay - Saint-Légier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4298</journalNumber>
+  <journalDate>2023-03-03</journalDate>
+  <publicationText>Paks Diffusion, Ellen Hebsaker, à Blonay - Saint-Légier, CHE-107.695.343 (FOSC du 14.04.2022, p. 0/1005451881). N'étant pas soumise à l'inscription (art. 931, al. 1 CO), l'entreprise individuelle est radiée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Paks Diffusion, Ellen Hebsaker</name>
+      <uid>CHE-107.695.343</uid>
+      <uidOrganisationId>107695343</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000474508</code13>
+      <seat>Blonay - Saint-Légier</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Tercier</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1807</swissZipCode>
+        <town>Blonay</town>
+      </address>
+    </company>
+    <purpose>Commerce et représentation d'articles en tous genres, en particulier de papeterie et publicitaires de toutes marques.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Paks Diffusion, Ellen Hebsaker</name>
+      <uid>CHE-107.695.343</uid>
+      <uidOrganisationId>107695343</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000474508</code13>
+      <seat>Blonay - Saint-Légier</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Tercier</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1807</swissZipCode>
+        <town>Blonay</town>
+      </address>
+    </company>
+    <purpose>Commerce et représentation d'articles en tous genres, en particulier de papeterie et publicitaires de toutes marques.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2022-04-14</lastFoscDate>
+    <lastFoscNumber>74</lastFoscNumber>
+    <lastFoscSequence>1005451881</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

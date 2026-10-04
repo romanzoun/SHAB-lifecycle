@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>49c60a9d-6478-48f7-a448-476c1a6fc48f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004511058</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Menuiserie Luquiens Sàrl, Coppet</de>
+    <en>Change Menuiserie Luquiens Sàrl, Coppet</en>
+    <it>Cambiamenti Menuiserie Luquiens Sàrl, Coppet</it>
+    <fr>Mutation Menuiserie Luquiens Sàrl, Coppet</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21208</journalNumber>
+  <journalDate>2018-11-28</journalDate>
+  <publicationText>Menuiserie Luquiens Sàrl, à Coppet, CHE-109.405.556 (FOSC du 19.12.2013, p. 0/7225834). L'associé-gérant Luquiens René, désormais à Chavannes-de-Bogis, cède 1 de ses 20 parts de CHF 1'000 à Luquiens Gilles, de Crans-près-Céligny, à Bogis-Bossey, nouvel associé avec 1 part de CHF 1'000, gérant avec signature individuelle. Luquiens René reste titulaire de 19 parts de CHF 1'000; il est élu président.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Menuiserie Luquiens Sàrl</name>
+      <uid>CHE109405556</uid>
+      <uidOrganisationId>109405556</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010277053</code13>
+      <seat>Coppet</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Founex</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1296</swissZipCode>
+        <town>Coppet</town>
+      </address>
+    </company>
+    <purpose>travaux de menuiserie et charpenterie ainsi que d'une manière générale travaux sur bois et commerce de produits, matériaux et matières premières en rapport.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Menuiserie Luquiens Sàrl</name>
+      <uid>CHE109405556</uid>
+      <uidOrganisationId>109405556</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010277053</code13>
+      <seat>Coppet</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Founex</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1296</swissZipCode>
+        <town>Coppet</town>
+      </address>
+    </company>
+    <purpose>travaux de menuiserie et charpenterie ainsi que d'une manière générale travaux sur bois et commerce de produits, matériaux et matières premières en rapport.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

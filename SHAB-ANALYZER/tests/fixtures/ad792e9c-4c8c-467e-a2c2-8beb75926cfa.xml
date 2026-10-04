@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>ad3baa4f-81c2-444f-b937-c175facef037</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005233771</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-06-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation TR Invest AG, Tafers</de>
+    <en>Change TR Invest AG, Tafers</en>
+    <it>Cambiamenti TR Invest AG, Tafers</it>
+    <fr>Mutation TR Invest AG, Tafers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5724</journalNumber>
+  <journalDate>2021-06-25</journalDate>
+  <publicationText>TR Invest AG, in Tafers, CHE-115.867.758 (SHAB vom 25.06.2020, s. 0/1004920067). Fusion: Übernahme der Aktiven und der Passiven der RAME Holding GmbH (CHE-380.610.520), in Tafers, gemäss Fusionsvertrag vom 16.06.2021 und Bilanz per 31.12.2020. Aktiven von CHF 680'802.18 und Passiven (Fremdkapital) von CHF 550'400 gehen auf die übernehmende Gesellschaft über. Da die übernehmende Gesellschaft sämtliche Stammanteile der übertragenden Gesellschaft hält, findet weder eine Kapitalerhöhung noch eine Aktienzuteilung statt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>TR Invest AG</name>
+      <uid>CHE-115.867.758</uid>
+      <uidOrganisationId>115867758</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735453984</code13>
+      <seat>Tafers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Thomas Rauber</addressLine1>
+        <street>Windhaltastrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1712</swissZipCode>
+        <town>Tafers</town>
+      </address>
+    </company>
+    <purpose>Beteiligung an anderen Unternehmen. Erbringen von Dienstleistungen für Management und Umstrukturierung von Unternehmungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TR Invest AG</name>
+      <uid>CHE-115.867.758</uid>
+      <uidOrganisationId>115867758</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735453984</code13>
+      <seat>Tafers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Thomas Rauber</addressLine1>
+        <street>Windhaltastrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1712</swissZipCode>
+        <town>Tafers</town>
+      </address>
+    </company>
+    <purpose>Beteiligung an anderen Unternehmen. Erbringen von Dienstleistungen für Management und Umstrukturierung von Unternehmungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-25</lastFoscDate>
+    <lastFoscNumber>121</lastFoscNumber>
+    <lastFoscSequence>1004920067</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

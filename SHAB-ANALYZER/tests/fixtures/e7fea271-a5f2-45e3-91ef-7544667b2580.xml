@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>e775a4cc-aa86-49ba-b2f8-7e6cf80d6558</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004581357</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation G. Huber Verwaltungen, Kleinbösingen</de>
+    <en>Change G. Huber Verwaltungen, Kleinbösingen</en>
+    <it>Cambiamenti G. Huber Verwaltungen, Kleinbösingen</it>
+    <fr>Mutation G. Huber Verwaltungen, Kleinbösingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1310</journalNumber>
+  <journalDate>2019-03-01</journalDate>
+  <publicationText>G. Huber Verwaltungen, in Kleinbösingen, CHE-105.303.164 (SHAB vom 12.10.2016, s. 0/3103965). Das Einzelunternehmen wird infolge Geschäftsaufgabe gelöscht.</publicationText>
+  <commonsNew>
+    <company>
+      <name>G. Huber Verwaltungen</name>
+      <uid>CHE105303164</uid>
+      <uidOrganisationId>105303164</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705108941</code13>
+      <seat>Kleinbösingen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seeblick</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>3213</swissZipCode>
+        <town>Kleinbösingen</town>
+      </address>
+    </company>
+    <purpose>Verwaltung und Akquisition von Vermögenswerten aller Art, Verwaltung, An- und Verkauf von Liegenschaften. Vermietung von Personalresourcen an andere Unternehmen. Ausführen von Mandaten im Informatikbereich. Handel mit Waren im Informatikbereich.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>G. Huber Verwaltungen</name>
+      <uid>CHE105303164</uid>
+      <uidOrganisationId>105303164</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705108941</code13>
+      <seat>Kleinbösingen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seeblick</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>3213</swissZipCode>
+        <town>Kleinbösingen</town>
+      </address>
+    </company>
+    <purpose>Verwaltung und Akquisition von Vermögenswerten aller Art, Verwaltung, An- und Verkauf von Liegenschaften. Vermietung von Personalresourcen an andere Unternehmen. Ausführen von Mandaten im Informatikbereich. Handel mit Waren im Informatikbereich.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-10-12</lastFoscDate>
+    <lastFoscSequence>3103965</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

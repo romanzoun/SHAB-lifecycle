@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>6c67a648-5147-4c96-a2e6-2c0e0f672cc1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004748291</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Hans Marti-Stiftung, Basel</de>
+    <en>Change Hans Marti-Stiftung, Basel</en>
+    <it>Cambiamenti Hans Marti-Stiftung, Basel</it>
+    <fr>Mutation Hans Marti-Stiftung, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6184</journalNumber>
+  <journalDate>2019-10-25</journalDate>
+  <publicationText>Hans Marti-Stiftung, in Basel, CHE-111.977.299, Stiftung (SHAB Nr. 98 vom 22.05.2019, Publ. 1004635816). Mit Verfügung vom 01.10.2019 hat die Aufsichtsbehörde ihre Verfügung vom 12.03.2007, mit welcher die Stiftung von der Pflicht zur Bezeichnung einer Revisionsstelle befreit worden ist, widerrufen. [bisher: Die Stiftung wurde mit Verfügung vom 12.03.2007 der Aufsichtsbehörde von der Pflicht befreit, eine Revisionsstelle zu bezeichnen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hans Marti-Stiftung</name>
+      <uid>CHE-111.977.299</uid>
+      <uidOrganisationId>111977299</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27070029029</code13>
+      <seat>Basel</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o UBS AG</addressLine1>
+        <street>Aeschenvorstadt</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>4051</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Unterstützung von alten, kranken oder behinderten Menschen. Die Stiftung hat gemeinnützigen Charakter und verfolgt keinerlei Erwerbszweck.</purpose>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hans Marti-Stiftung</name>
+      <uid>CHE-111.977.299</uid>
+      <uidOrganisationId>111977299</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27070029029</code13>
+      <seat>Basel</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o UBS AG</addressLine1>
+        <street>Aeschenvorstadt</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>4051</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Unterstützung von alten, kranken oder behinderten Menschen. Die Stiftung hat gemeinnützigen Charakter und verfolgt keinerlei Erwerbszweck.</purpose>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-22</lastFoscDate>
+    <lastFoscNumber>98</lastFoscNumber>
+    <lastFoscSequence>1004635816</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

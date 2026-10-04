@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>265dddfe-fad1-44bd-ac42-a43a3527cb2e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004778313</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Hans Rüedi AG, Gebenstorf</de>
+    <en>Change Hans Rüedi AG, Gebenstorf</en>
+    <it>Cambiamenti Hans Rüedi AG, Gebenstorf</it>
+    <fr>Mutation Hans Rüedi AG, Gebenstorf</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12842</journalNumber>
+  <journalDate>2019-12-04</journalDate>
+  <publicationText>Hans Rüedi AG, in Gebenstorf, CHE-100.894.456, Aktiengesellschaft (SHAB Nr. 164 vom 25.08.1999, S.5806). Die Vorschriften von Art. 748 aOR sind eingehalten. [Die Löschung erfolgt sobald die Zustimmungen der Steuerverwaltungen vorliegen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hans Rüedi AG</name>
+      <uid>CHE-100.894.456</uid>
+      <uidOrganisationId>100894456</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40039191201</code13>
+      <seat>Gebenstorf</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Landstrasse</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>5412</swissZipCode>
+        <town>Gebenstorf</town>
+      </address>
+    </company>
+    <purpose>Ausführung von Elektroinstallationen aller Art, Handel mit Elektroapparaten aller Art. Ein allfälliger "kann Zweck" ist aus den Statuten zu entnehmen.</purpose>
+    <capital>
+      <nominal>90000.00</nominal>
+      <paid>90000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hans Rüedi AG</name>
+      <uid>CHE-100.894.456</uid>
+      <uidOrganisationId>100894456</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40039191201</code13>
+      <seat>Gebenstorf</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Landstrasse</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>5412</swissZipCode>
+        <town>Gebenstorf</town>
+      </address>
+    </company>
+    <purpose>Ausführung von Elektroinstallationen aller Art, Handel mit Elektroapparaten aller Art. Ein allfälliger "kann Zweck" ist aus den Statuten zu entnehmen.</purpose>
+    <capital>
+      <nominal>90000.00</nominal>
+      <paid>90000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>1999-08-25</lastFoscDate>
+    <lastFoscNumber>164</lastFoscNumber>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

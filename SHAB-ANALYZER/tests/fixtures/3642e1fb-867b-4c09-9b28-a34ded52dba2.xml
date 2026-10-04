@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>35dae2a4-3a1d-470f-9c80-793165d9bd6a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004583966</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Caisse de pensions Givaudan, Vernier</de>
+    <en>Change Caisse de pensions Givaudan, Vernier</en>
+    <it>Cambiamenti Caisse de pensions Givaudan, Vernier</it>
+    <fr>Mutation Caisse de pensions Givaudan, Vernier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4482</journalNumber>
+  <journalDate>2019-03-05</journalDate>
+  <publicationText>Caisse de pensions Givaudan, à Vernier, CHE-109.786.666 (FOSC du 21.01.2019, p. 0/1004547046). Lamy Hervé, membre du conseil, a été nommé président.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Caisse de pensions Givaudan</name>
+      <uid>CHE109786666</uid>
+      <uidOrganisationId>109786666</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000829524</code13>
+      <seat>Vernier</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Parfumerie 5, c/Givaudan SA</street>
+        <town>Vernier</town>
+      </address>
+    </company>
+    <purpose>prémunir le personnel de la fondatrice et des autres sociétés du Groupe Givaudan contre les conséquences économiques de la retraite, de l'invalidité et de la mort, en assurant des prestations fixées par voie réglementaire.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Ernst &amp; Young SA</name>
+        <country>CH</country>
+        <uid>CHE186791979</uid>
+        <uidOrganisationId>186791979</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Caisse de pensions Givaudan</name>
+      <uid>CHE109786666</uid>
+      <uidOrganisationId>109786666</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000829524</code13>
+      <seat>Vernier</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Parfumerie 5, c/Givaudan SA</street>
+        <town>Vernier</town>
+      </address>
+    </company>
+    <purpose>prémunir le personnel de la fondatrice et des autres sociétés du Groupe Givaudan contre les conséquences économiques de la retraite, de l'invalidité et de la mort, en assurant des prestations fixées par voie réglementaire.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Ernst &amp; Young SA</name>
+        <country>CH</country>
+        <uid>CHE186791979</uid>
+        <uidOrganisationId>186791979</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-21</lastFoscDate>
+    <lastFoscSequence>1004547046</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

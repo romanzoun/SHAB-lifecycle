@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>76854a1d-4a6f-4816-95e3-6a07b1323fb8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004640060</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation BfB Audit SA, Renens (VD)</de>
+    <en>Change BfB Audit SA, Renens (VD)</en>
+    <it>Cambiamenti BfB Audit SA, Renens (VD)</it>
+    <fr>Mutation BfB Audit SA, Renens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9383</journalNumber>
+  <journalDate>2019-05-23</journalDate>
+  <publicationText>BfB Audit SA, à Renens (VD), CHE-109.080.141 (FOSC du 12.03.2019, p. 0/1004585890). Bersier Christophe et Chervet Guy sont nommés administrateurs et continuent de signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>BfB Audit SA</name>
+      <uid>CHE109080141</uid>
+      <uidOrganisationId>109080141</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66011910012</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Baumettes</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>tous services qui se rattachent à l'activité d'une société fiduciaire, notamment dans les domaines de la révision, de lacomptabilité, de la fiscalité et du conseil juridique et général (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BfB Audit SA</name>
+      <uid>CHE109080141</uid>
+      <uidOrganisationId>109080141</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66011910012</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Baumettes</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>tous services qui se rattachent à l'activité d'une société fiduciaire, notamment dans les domaines de la révision, de lacomptabilité, de la fiscalité et du conseil juridique et général (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-12</lastFoscDate>
+    <lastFoscSequence>1004585890</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

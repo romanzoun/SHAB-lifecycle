@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>db68e51b-e314-469a-bdd0-52267133cac1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004516472</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Haus &amp; Handel Welti, Beringen</de>
+    <en>Change Haus &amp; Handel Welti, Beringen</en>
+    <it>Cambiamenti Haus &amp; Handel Welti, Beringen</it>
+    <fr>Mutation Haus &amp; Handel Welti, Beringen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2110</journalNumber>
+  <journalDate>2018-12-05</journalDate>
+  <publicationText>Haus &amp; Handel Welti, in Beringen, CHE-147.451.014, Einzelunternehmen (SHAB Nr. 234 vom 03.12.2018, Publ. 1004510771). Mit Verfügung vom 03.12.2018 hat das Obergericht des Kantons Schaffhausen der Beschwerde gegen die Konkurseröffnung vom 26.11.2018 die aufschiebende Wirkung erteilt. [bisher: Mit Verfügung vom 26.11.2018, 11 h, hat das Kantonsgericht Schaffhausen über das Vermögen des Inhabers den Konkurs eröffnet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Haus &amp; Handel Welti</name>
+      <uid>CHE147451014</uid>
+      <uidOrganisationId>147451014</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29010194176</code13>
+      <seat>Beringen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Steig</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>8222</swissZipCode>
+        <town>Beringen</town>
+      </address>
+    </company>
+    <purpose>Handel mit Produkten in den Bereichen Heim, Garten und Geschenke sowie Consumer Electronics; kann Zweigniederlassungen errichten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Haus &amp; Handel Welti</name>
+      <uid>CHE147451014</uid>
+      <uidOrganisationId>147451014</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29010194176</code13>
+      <seat>Beringen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Steig</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>8222</swissZipCode>
+        <town>Beringen</town>
+      </address>
+    </company>
+    <purpose>Handel mit Produkten in den Bereichen Heim, Garten und Geschenke sowie Consumer Electronics; kann Zweigniederlassungen errichten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-03</lastFoscDate>
+    <lastFoscNumber>234</lastFoscNumber>
+    <lastFoscSequence>1004510771</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

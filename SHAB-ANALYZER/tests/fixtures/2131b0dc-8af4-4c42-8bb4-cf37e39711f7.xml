@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>213062cb-1586-4186-b1dd-0839c9b62795</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004456655</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Kizilkaya Immobilienverwaltung, Basel</de>
+    <en>Change Kizilkaya Immobilienverwaltung, Basel</en>
+    <it>Cambiamenti Kizilkaya Immobilienverwaltung, Basel</it>
+    <fr>Mutation Kizilkaya Immobilienverwaltung, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5179</journalNumber>
+  <journalDate>2018-09-12</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 163 vom 24.08.2018 publizierten TR-Eintrag Nr. 4'716 vom 21.08.2018 Kizilkaya Immobilienverwaltung, in Basel, CHE-196.973.200, Einzelunternehmen (SHAB Nr. 163 vom 24.08.2018, Publ. 4433831). Die Gesellschaft hat sich infolge Ausscheidens des Gesellschafters Hasan Kadioglu aufgelöst. Die Firma ist erloschen. Der Gesellschafter Ferhat Kizilkaya führt im Sinne von Art. 579 OR das Geschäft als Einzelunternehmen fort.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kizilkaya Immobilienverwaltung</name>
+      <uid>CHE196973200</uid>
+      <uidOrganisationId>196973200</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27020030392</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Advokaturbüro Kizilkaya</addressLine1>
+        <street>Greifengasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>4058</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Immobilienverwaltung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kizilkaya Immobilienverwaltung</name>
+      <uid>CHE196973200</uid>
+      <uidOrganisationId>196973200</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27020030392</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Advokaturbüro Kizilkaya</addressLine1>
+        <street>Greifengasse</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>4058</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Immobilienverwaltung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-24</lastFoscDate>
+    <lastFoscNumber>163</lastFoscNumber>
+    <lastFoscSequence>4433831</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

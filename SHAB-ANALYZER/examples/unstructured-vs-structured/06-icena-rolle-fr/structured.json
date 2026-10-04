@@ -1,0 +1,57 @@
+{
+  "publication_id": "feddc02f-6eb7-44bb-bf61-ecd5801e1f06",
+  "published_at": "2026-09-28",
+  "language": "fr",
+  "sub_rubric": "HR02",
+  "org_uid": "CHE-113.809.856",
+  "canton": "NE",
+  "plz": "2000",
+  "status": "FULLY_PARSED",
+  "leftover_text": "Icena Sàrl, à Neuchâtel, CHE-113.809.856 (FOSC du 16.02.2026, p. 0/1006571195). Tissot Pierre Jacques n'est plus président; demeure gérant unique et continue de signer individuellement",
+  "events": [
+    {
+      "event_type": "officer_changed",
+      "rule_id": "fr.persons.role_off.v1",
+      "org_uid": "CHE-113.809.856",
+      "person_key": "p:icena sarl, a neuchatel, che-113.809.856 (fosc du 16.02.2026, p. 0/1006571195). tissot pierre jacques",
+      "plz": "2000",
+      "canton": "NE",
+      "role": "président",
+      "signing": null,
+      "payload": {
+        "name": "Icena Sàrl, à Neuchâtel, CHE-113.809.856 (FOSC du 16.02.2026, p. 0/1006571195). Tissot Pierre Jacques",
+        "place": null,
+        "action": "role_removed"
+      }
+    },
+    {
+      "event_type": "officer_changed",
+      "rule_id": "fr.persons.role_on.v1",
+      "org_uid": "CHE-113.809.856",
+      "person_key": "p:icena sarl, a neuchatel, che-113.809.856 (fosc du 16.02.2026, p. 0/1006571195). tissot pierre jacques",
+      "plz": "2000",
+      "canton": "NE",
+      "role": "gérant unique et continue de signer individuellement",
+      "signing": null,
+      "payload": {
+        "name": "Icena Sàrl, à Neuchâtel, CHE-113.809.856 (FOSC du 16.02.2026, p. 0/1006571195). Tissot Pierre Jacques",
+        "place": null,
+        "action": "role_kept"
+      }
+    },
+    {
+      "event_type": "signing_authority_changed",
+      "rule_id": "fr.persons.signing.v1",
+      "org_uid": "CHE-113.809.856",
+      "person_key": "p:icena sarl, a neuchatel, che-113.809.856 (fosc du 16.02.2026, p. 0/1006571195). tissot pierre jacques",
+      "plz": "2000",
+      "canton": "NE",
+      "role": null,
+      "signing": "Einzelunterschrift",
+      "payload": {
+        "name": "Icena Sàrl, à Neuchâtel, CHE-113.809.856 (FOSC du 16.02.2026, p. 0/1006571195). Tissot Pierre Jacques",
+        "place": null
+      }
+    }
+  ]
+}

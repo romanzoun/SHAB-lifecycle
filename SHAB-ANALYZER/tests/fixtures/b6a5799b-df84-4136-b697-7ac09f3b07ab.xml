@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.13/HR02-export.xsd">
+<meta>
+  <id>b6494ed5-601c-402a-b051-7b3d9ebb0615</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005321214</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-10-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation TSCHARNER PONTEGGI SAGL in Liquidation, Domat/Ems</de>
+    <en>Change TSCHARNER PONTEGGI SAGL in Liquidation, Domat/Ems</en>
+    <it>Cambiamenti TSCHARNER PONTEGGI SAGL in Liquidation, Domat/Ems</it>
+    <fr>Mutation TSCHARNER PONTEGGI SAGL in Liquidation, Domat/Ems</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6042</journalNumber>
+  <journalDate>2021-10-22</journalDate>
+  <publicationText>TSCHARNER PONTEGGI SAGL in Liquidation, in Domat/Ems, CHE-109.512.301, Gesellschaft mit beschränkter Haftung (SHAB Nr. 200 vom 14.10.2020, Publ. 1004999780). Die Liquidation ist beendet. Vorzeitige Löschung mit Bestätigung des zugelassenen Revisionsexperten vom 03.05.2021 aufgeschoben mangels Zustimmungen der eidg. und kant. Steuerverwaltungen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>TSCHARNER PONTEGGI SAGL in Liquidation</name>
+      <uid>CHE-109.512.301</uid>
+      <uidOrganisationId>109512301</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50940074023</code13>
+      <seat>Domat/Ems</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Plong Muling</street>
+        <swissZipCode>7013</swissZipCode>
+        <town>Domat/Ems</town>
+      </address>
+    </company>
+    <purpose>Der Betrieb einer Gerüstbauunternehmung, insbesondere die Montage und Demontage, die Vermietung und der Kauf sowie Verkauf von Gerüsten, alles auf eigene oder fremde Rechnung; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TSCHARNER PONTEGGI SAGL in Liquidation</name>
+      <uid>CHE-109.512.301</uid>
+      <uidOrganisationId>109512301</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50940074023</code13>
+      <seat>Domat/Ems</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Plong Muling</street>
+        <swissZipCode>7013</swissZipCode>
+        <town>Domat/Ems</town>
+      </address>
+    </company>
+    <purpose>Der Betrieb einer Gerüstbauunternehmung, insbesondere die Montage und Demontage, die Vermietung und der Kauf sowie Verkauf von Gerüsten, alles auf eigene oder fremde Rechnung; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-14</lastFoscDate>
+    <lastFoscNumber>200</lastFoscNumber>
+    <lastFoscSequence>1004999780</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

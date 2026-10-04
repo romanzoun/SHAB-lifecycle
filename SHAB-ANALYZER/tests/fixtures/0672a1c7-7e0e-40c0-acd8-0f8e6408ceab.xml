@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.16/HR02-export.xsd">
+<meta>
+  <id>064a51e2-680d-442c-b2ea-2916f23499a6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005571089</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-09-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation des Amitiés gréco-suisses pour le financement du Prix Constantin-Valiadis, Lausanne</de>
+    <en>Change Fondation des Amitiés gréco-suisses pour le financement du Prix Constantin-Valiadis, Lausanne</en>
+    <it>Cambiamenti Fondation des Amitiés gréco-suisses pour le financement du Prix Constantin-Valiadis, Lausanne</it>
+    <fr>Mutation Fondation des Amitiés gréco-suisses pour le financement du Prix Constantin-Valiadis, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17872</journalNumber>
+  <journalDate>2022-09-23</journalDate>
+  <publicationText>Fondation des Amitiés gréco-suisses pour le financement du Prix Constantin-Valiadis, à Lausanne, CHE-104.185.092 (FOSC du 16.01.2019, p. 0/1004543327). L'autorité de surveillance a révoqué la dispense d'organe de révision octroyée à la Fondation par décision du 08.07.2022.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation des Amitiés gréco-suisses pour le financement du Prix Constantin-Valiadis</name>
+      <uid>CHE-104.185.092</uid>
+      <uidOrganisationId>104185092</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001750387</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Pierre Völke</addressLine1>
+        <street>Chemin des Allinges</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1006</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>remettre le prix Constantin-Valiadis, selon les dispositions prises en 1963 par l'association "Amitiés gréco-suisses".</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation des Amitiés gréco-suisses pour le financement du Prix Constantin-Valiadis</name>
+      <uid>CHE-104.185.092</uid>
+      <uidOrganisationId>104185092</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001750387</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Pierre Völke</addressLine1>
+        <street>Chemin des Allinges</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1006</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>remettre le prix Constantin-Valiadis, selon les dispositions prises en 1963 par l'association "Amitiés gréco-suisses".</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-16</lastFoscDate>
+    <lastFoscNumber>10</lastFoscNumber>
+    <lastFoscSequence>1004543327</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

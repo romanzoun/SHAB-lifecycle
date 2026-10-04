@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>58429deb-8210-48ff-af00-0f2412451552</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004683671</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Power Sports Club Decian, Zürich</de>
+    <en>Change Power Sports Club Decian, Zürich</en>
+    <it>Cambiamenti Power Sports Club Decian, Zürich</it>
+    <fr>Mutation Power Sports Club Decian, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>28772</journalNumber>
+  <journalDate>2019-07-22</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 130 vom 09.07.2019 publizierten TR-Eintrag Nr. 26200 vom 04.07.2019 Power Sports Club Decian, in Zürich, CHE-295.493.808, Einzelunternehmen (SHAB Nr. 130 vom 09.07.2019, Publ. 1004670965). [Der Beleg wurde berichtigt.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Power Sports Club Decian</name>
+      <uid>CHE295493808</uid>
+      <uidOrganisationId>295493808</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010814124</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schaffhauserstrasse</street>
+        <houseNumber>418</houseNumber>
+        <swissZipCode>8050</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Kampfsportschule, insbesondere Kick Boxing, Brazilian Jiu-Jitsu, Karate sowie allgemeine Fitness. Des Weiteren Handel mit Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Power Sports Club Decian</name>
+      <uid>CHE295493808</uid>
+      <uidOrganisationId>295493808</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010814124</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schaffhauserstrasse</street>
+        <houseNumber>418</houseNumber>
+        <swissZipCode>8050</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Kampfsportschule, insbesondere Kick Boxing, Brazilian Jiu-Jitsu, Karate sowie allgemeine Fitness. Des Weiteren Handel mit Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-09</lastFoscDate>
+    <lastFoscNumber>130</lastFoscNumber>
+    <lastFoscSequence>1004670965</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

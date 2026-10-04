@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ca03e34e-71b9-48e9-91a4-0fe04e01ab99</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004511114</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation L3R Les Trois Rocs SA, Bagnes</de>
+    <en>Change L3R Les Trois Rocs SA, Bagnes</en>
+    <it>Cambiamenti L3R Les Trois Rocs SA, Bagnes</it>
+    <fr>Mutation L3R Les Trois Rocs SA, Bagnes</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3039</journalNumber>
+  <journalDate>2018-11-28</journalDate>
+  <publicationText>L3R Les Trois Rocs SA, à Bagnes, CHE-112.229.805, société anonyme (No. FOSC 120 du 25.06.2018, Publ. 4312205). Modification des statuts: 22.11.2018. Par décision du 22.11.2018, l'assemblée générale a modifié la clause statutaire relative à l'augmentation autorisée du capital introduite par décision du 11.08.2015 et modifiée le 09.12.2016: pour les détails, voir les statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>L3R Les Trois Rocs SA</name>
+      <uid>CHE112229805</uid>
+      <uidOrganisationId>112229805</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130069024</code13>
+      <seat>Bagnes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Médran</street>
+        <houseNumber>70</houseNumber>
+        <swissZipCode>1936</swissZipCode>
+        <town>Verbier</town>
+      </address>
+    </company>
+    <purpose>financement et développement de toutes activités immobilières, ainsi que toutes opérations commerciales, financières et autres convergentes</purpose>
+    <capital>
+      <nominal>33079600.00</nominal>
+      <paid>33079600.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>L3R Les Trois Rocs SA</name>
+      <uid>CHE112229805</uid>
+      <uidOrganisationId>112229805</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130069024</code13>
+      <seat>Bagnes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Médran</street>
+        <houseNumber>70</houseNumber>
+        <swissZipCode>1936</swissZipCode>
+        <town>Verbier</town>
+      </address>
+    </company>
+    <purpose>financement et développement de toutes activités immobilières, ainsi que toutes opérations commerciales, financières et autres convergentes</purpose>
+    <capital>
+      <nominal>33079600.00</nominal>
+      <paid>33079600.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-25</lastFoscDate>
+    <lastFoscNumber>120</lastFoscNumber>
+    <lastFoscSequence>4312205</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

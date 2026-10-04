@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>17b52a61-bd76-48bc-906d-a60e3d90ac45</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005089681</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Albeina Sport AG, Klosters</de>
+    <en>Change Albeina Sport AG, Klosters</en>
+    <it>Cambiamenti Albeina Sport AG, Klosters</it>
+    <fr>Mutation Albeina Sport AG, Klosters</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>574</journalNumber>
+  <journalDate>2021-01-28</journalDate>
+  <publicationText>Albeina Sport AG, in Klosters-Serneus, CHE-105.583.621, Aktiengesellschaft (SHAB Nr. 185 vom 24.09.2008, S.8, Publ. 4663540). Sitz neu: Klosters. [Sitzänderung von Amtes wegen infolge Namensänderung der Gemeinde].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Albeina Sport AG</name>
+      <uid>CHE-105.583.621</uid>
+      <uidOrganisationId>105583621</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030069306</code13>
+      <seat>Klosters</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Landstrasse</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>7252</swissZipCode>
+        <town>Klosters Dorf</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Vermietung von Sportartikeln und Bekleidung sowie ähnlichen Produkten aller Art; die Gesellschaft kann Zweigniederlassungen errichten, sich an anderen Unternehmungen oder Gesellschaften beteiligen, gleichartige oder verwandte Unternehmungen oder Gesellschaften erwerben oder errichten sowie Liegenschaften erwerben, überbauen, verkaufen und belasten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Albeina Sport AG</name>
+      <uid>CHE-105.583.621</uid>
+      <uidOrganisationId>105583621</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030069306</code13>
+      <seat>Klosters</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Landstrasse</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>7252</swissZipCode>
+        <town>Klosters Dorf</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Vermietung von Sportartikeln und Bekleidung sowie ähnlichen Produkten aller Art; die Gesellschaft kann Zweigniederlassungen errichten, sich an anderen Unternehmungen oder Gesellschaften beteiligen, gleichartige oder verwandte Unternehmungen oder Gesellschaften erwerben oder errichten sowie Liegenschaften erwerben, überbauen, verkaufen und belasten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2008-09-24</lastFoscDate>
+    <lastFoscNumber>185</lastFoscNumber>
+    <lastFoscSequence>4663540</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

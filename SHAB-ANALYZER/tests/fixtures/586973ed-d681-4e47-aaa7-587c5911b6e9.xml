@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>57ed1ee1-eeae-4125-858a-50a5794098e1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004682672</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Malergeschaeft Nova Ltd, London, Zweigniederlassung Wädenswil, Wädenswil</de>
+    <en>Change Malergeschaeft Nova Ltd, London, Zweigniederlassung Wädenswil, Wädenswil</en>
+    <it>Cambiamenti Malergeschaeft Nova Ltd, London, Zweigniederlassung Wädenswil, Wädenswil</it>
+    <fr>Mutation Malergeschaeft Nova Ltd, London, Zweigniederlassung Wädenswil, Wädenswil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>28612</journalNumber>
+  <journalDate>2019-07-19</journalDate>
+  <publicationText>Malergeschaeft Nova Ltd, London, Zweigniederlassung Wädenswil, in Wädenswil, CHE-318.409.672, ausländische Zweigniederlassung (SHAB Nr. 62 vom 29.03.2019, Publ. 1004598479), Hauptsitz in: London (GB). Kapital Hauptsitz neu: EUR 1'000'000.00; Liberierung: EUR 20'000.00 [bisher: Aktienkapital: EUR 2.00; Liberierung: EUR 2.00].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Malergeschaeft Nova Ltd, London, Zweigniederlassung Wädenswil</name>
+      <uid>CHE318409672</uid>
+      <uidOrganisationId>318409672</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090053655</code13>
+      <seat>Wädenswil</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hangenmoosstrasse</street>
+        <houseNumber>7A</houseNumber>
+        <swissZipCode>8820</swissZipCode>
+        <town>Wädenswil</town>
+      </address>
+    </company>
+    <purpose>Malergeschäft.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Malergeschaeft Nova Ltd, London, Zweigniederlassung Wädenswil</name>
+      <uid>CHE318409672</uid>
+      <uidOrganisationId>318409672</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090053655</code13>
+      <seat>Wädenswil</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hangenmoosstrasse</street>
+        <houseNumber>7A</houseNumber>
+        <swissZipCode>8820</swissZipCode>
+        <town>Wädenswil</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-29</lastFoscDate>
+    <lastFoscNumber>62</lastFoscNumber>
+    <lastFoscSequence>1004598479</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

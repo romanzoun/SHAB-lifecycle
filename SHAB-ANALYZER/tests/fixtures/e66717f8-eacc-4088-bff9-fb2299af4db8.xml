@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>e65d978a-3ca1-4bf4-afc1-18457b1a98fa</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004636227</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation FDA Fiduciaire S.A., Val-de-Ruz</de>
+    <en>Change FDA Fiduciaire S.A., Val-de-Ruz</en>
+    <it>Cambiamenti FDA Fiduciaire S.A., Val-de-Ruz</it>
+    <fr>Mutation FDA Fiduciaire S.A., Val-de-Ruz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1582</journalNumber>
+  <journalDate>2019-05-17</journalDate>
+  <publicationText>FDA Fiduciaire S.A., à Val-de-Ruz, CHE-101.210.724 (FOSC du 16.05.2019, p. 0/1004631909). L'inscription n° 1511 du 13.05.2019 est rectifiée en ce sens que Madame Serralva Melo porte le prénom Virginie.</publicationText>
+  <commonsNew>
+    <company>
+      <name>FDA Fiduciaire S.A.</name>
+      <uid>CHE101210724</uid>
+      <uidOrganisationId>101210724</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510063735</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boudevilliers, La Chotte</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2043</swissZipCode>
+        <town>Boudevilliers</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une société fiduciaire, avec les activités qui y sont liées, fiscalité, révision, expertise, comptabilité, administration et domiciliation de sociétés, conseil en gestion de fortune et en matière successorale.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FDA Fiduciaire S.A.</name>
+      <uid>CHE101210724</uid>
+      <uidOrganisationId>101210724</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510063735</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boudevilliers, La Chotte</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2043</swissZipCode>
+        <town>Boudevilliers</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une société fiduciaire, avec les activités qui y sont liées, fiscalité, révision, expertise, comptabilité, administration et domiciliation de sociétés, conseil en gestion de fortune et en matière successorale.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-16</lastFoscDate>
+    <lastFoscSequence>1004631909</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

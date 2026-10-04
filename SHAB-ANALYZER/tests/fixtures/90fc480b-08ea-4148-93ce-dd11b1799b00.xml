@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>90c51360-bd5d-4b80-8d5d-f7a9f677ba6e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004581857</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Honeywell International Sàrl, Rolle</de>
+    <en>Change Honeywell International Sàrl, Rolle</en>
+    <it>Cambiamenti Honeywell International Sàrl, Rolle</it>
+    <fr>Mutation Honeywell International Sàrl, Rolle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4222</journalNumber>
+  <journalDate>2019-03-01</journalDate>
+  <publicationText>Honeywell International Sàrl, à Rolle, CHE-113.388.518 (FOSC du 01.02.2019, p. 0/1004556874). Honeywell Luxembourg Holding Sàrl (B 116139) et Honeywell Switzerland Holding PMT Sàrl (CHE-410.646.306), qui ne sont plus associées, cèdent leurs 2'533 parts ordinaires de CHF 100, respectivement 938 parts de catégorie A de CHF 100 et 181 parts de catégorie C de CHF 100 à Honeywell International Holding GmbH (CHE-434.282.850), à Lucerne, nouvelle associée avec 938 parts de catégorie A de CHF 100, 181 parts de catégorie C de CHF 100 et 2'533 parts ordinaires de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Honeywell International Sàrl</name>
+      <uid>CHE113388518</uid>
+      <uidOrganisationId>113388518</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010493418</code13>
+      <seat>Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zone d'Activités La Pièce</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1180</swissZipCode>
+        <town>Rolle</town>
+      </address>
+    </company>
+    <purpose>développement, fabrication et commercialisation de composants automobiles, de composants aéronautiques, d'appareils de mesure, de régulation et de contrôle ainsi que de produits et spécialités chimiques; développement et commercialisation sous forme de vente ou de licence, de logiciels relatifs à un produit ou une activité; recherche, développement, prestations de services et activités de réparation dans ces domaines.</purpose>
+    <capital>
+      <nominal>479800.00</nominal>
+      <paid>479800.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Honeywell International Sàrl</name>
+      <uid>CHE113388518</uid>
+      <uidOrganisationId>113388518</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010493418</code13>
+      <seat>Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zone d'Activités La Pièce</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1180</swissZipCode>
+        <town>Rolle</town>
+      </address>
+    </company>
+    <purpose>développement, fabrication et commercialisation de composants automobiles, de composants aéronautiques, d'appareils de mesure, de régulation et de contrôle ainsi que de produits et spécialités chimiques; développement et commercialisation sous forme de vente ou de licence, de logiciels relatifs à un produit ou une activité; recherche, développement, prestations de services et activités de réparation dans ces domaines.</purpose>
+    <capital>
+      <nominal>479800.00</nominal>
+      <paid>479800.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-01</lastFoscDate>
+    <lastFoscSequence>1004556874</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

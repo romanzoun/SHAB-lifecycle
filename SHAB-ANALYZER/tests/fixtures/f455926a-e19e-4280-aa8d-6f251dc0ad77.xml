@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>f421837d-3da5-4e9c-975f-b5fff9e7b784</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004456014</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Association de la Pharmacie des Hôpitaux de l'Est Lémanique, Vevey</de>
+    <en>Change Association de la Pharmacie des Hôpitaux de l'Est Lémanique, Vevey</en>
+    <it>Cambiamenti Association de la Pharmacie des Hôpitaux de l'Est Lémanique, Vevey</it>
+    <fr>Mutation Association de la Pharmacie des Hôpitaux de l'Est Lémanique, Vevey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16142</journalNumber>
+  <journalDate>2018-09-11</journalDate>
+  <publicationText>Association de la Pharmacie des Hôpitaux de l'Est Lémanique, à Vevey, CHE-109.986.455 (FOSC du 11.05.2017, p. 0/3516315). Statuts modifiés le 25 mai 2018 sutr des points non soumis à publication.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Association de la Pharmacie des Hôpitaux de l'Est Lémanique</name>
+      <uid>CHE109986455</uid>
+      <uidOrganisationId>109986455</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010329324</code13>
+      <seat>Vevey</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard Paderewski</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1800</swissZipCode>
+        <town>Vevey</town>
+      </address>
+    </company>
+    <purpose>l'associaion a pour but de fournir à ses membres une assistance pharmaceutique de qualité, ainsi que des médicaments et autres produits aux meilleures conditions; l'association peut approvisionner d'autres établissements et les faire bénéficier d'une assistance pharmaceutique (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Association de la Pharmacie des Hôpitaux de l'Est Lémanique</name>
+      <uid>CHE109986455</uid>
+      <uidOrganisationId>109986455</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010329324</code13>
+      <seat>Vevey</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard Paderewski</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1800</swissZipCode>
+        <town>Vevey</town>
+      </address>
+    </company>
+    <purpose>l'associaion a pour but de fournir à ses membres une assistance pharmaceutique de qualité, ainsi que des médicaments et autres produits aux meilleures conditions; l'association peut approvisionner d'autres établissements et les faire bénéficier d'une assistance pharmaceutique (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-05-11</lastFoscDate>
+    <lastFoscSequence>3516315</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

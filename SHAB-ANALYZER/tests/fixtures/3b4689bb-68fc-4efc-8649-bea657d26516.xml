@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.19/HR02-export.xsd">
+<meta>
+  <id>3ae0f441-a4f8-40b0-a6e1-8534eb4c7c56</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005847772</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-09-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AR</cantons>
+  <secondaryTenants>
+    <tenantCode>kabar</tenantCode>
+    <publicationDate>2023-09-28</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation Restaurant Rössli GmbH Waldstatt in Liquidation, Waldstatt</de>
+    <en>Change Restaurant Rössli GmbH Waldstatt in Liquidation, Waldstatt</en>
+    <it>Cambiamenti Restaurant Rössli GmbH Waldstatt in Liquidation, Waldstatt</it>
+    <fr>Mutation Restaurant Rössli GmbH Waldstatt in Liquidation, Waldstatt</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1769</journalNumber>
+  <journalDate>2023-09-25</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 178 vom 14.09.2023, Publ. Nr. 1005838103, publizierten TR-Eintrags Nr. 1647 vom 11.09.2023. Restaurant Rössli GmbH Waldstatt in Liquidation, in Waldstatt, CHE-112.570.718, Gesellschaft mit beschränkter Haftung (SHAB Nr. 178 vom 14.09.2023, Publ. 1005838103). Bemerkungen neu: Die Löschung der Gesellschaft wurde fälschlicherweise aufgrund einer irrtümlichen Löschungszustimmung der eidgenössischen Steuerverwaltung eingetragen. Die Gesellschaft kann mangels Zustimmung der eidgenössischen Steuerverwaltungen noch nicht gelöscht werden [nicht: Löschungsgrund: Die Zustimmung der eidgenössischen Steuerverwaltung liegt vor. Die Gesellschaft wird gelöscht].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Restaurant Rössli GmbH Waldstatt in Liquidation</name>
+      <uid>CHE-112.570.718</uid>
+      <uidOrganisationId>112570718</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30040150970</code13>
+      <seat>Waldstatt</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>48</houseNumber>
+        <swissZipCode>9104</swissZipCode>
+        <town>Waldstatt</town>
+      </address>
+    </company>
+    <purpose>Betrieb des Restaurants Rössli in Waldstatt sowie Handel mit Lebensmitteln aller Art. Die Gesellschaft kann Liegenschaften erwerben, überbauen und veräussern sowie sich an anderen Unternehmen im In- und Ausland beteiligen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Restaurant Rössli GmbH Waldstatt in Liquidation</name>
+      <uid>CHE-112.570.718</uid>
+      <uidOrganisationId>112570718</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30040150970</code13>
+      <seat>Waldstatt</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>48</houseNumber>
+        <swissZipCode>9104</swissZipCode>
+        <town>Waldstatt</town>
+      </address>
+    </company>
+    <purpose>Betrieb des Restaurants Rössli in Waldstatt sowie Handel mit Lebensmitteln aller Art. Die Gesellschaft kann Liegenschaften erwerben, überbauen und veräussern sowie sich an anderen Unternehmen im In- und Ausland beteiligen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2023-09-14</lastFoscDate>
+    <lastFoscNumber>178</lastFoscNumber>
+    <lastFoscSequence>1005838103</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Appenzell A.Rh.</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

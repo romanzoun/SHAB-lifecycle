@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>f07334f8-259b-4a59-85f1-6c5a8ca5a1cd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004771728</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Radvice SA, Veyrier</de>
+    <en>Change Radvice SA, Veyrier</en>
+    <it>Cambiamenti Radvice SA, Veyrier</it>
+    <fr>Mutation Radvice SA, Veyrier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22178</journalNumber>
+  <journalDate>2019-11-26</journalDate>
+  <publicationText>Radvice SA, à Veyrier, CHE-363.236.567 (FOSC du 02.07.2019, p. 0/1004665644). Statuts modifiés le 21.11.2019, sur un point non soumis à publication.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Radvice SA</name>
+      <uid>CHE-363.236.567</uid>
+      <uidOrganisationId>363236567</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66019510194</code13>
+      <seat>Veyrier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de la Tour-de-Pinchat</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>1234</swissZipCode>
+        <town>Vessy</town>
+      </address>
+    </company>
+    <purpose>toutes prestations de conseil en matières juridique international, réglementaire, stratégique, de sanction, de gestion d'entreprise, de gestion de risques et de conformité (compliance), aux sociétés et banques en Suisse et à l'étranger (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Radvice SA</name>
+      <uid>CHE-363.236.567</uid>
+      <uidOrganisationId>363236567</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66019510194</code13>
+      <seat>Veyrier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de la Tour-de-Pinchat</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>1234</swissZipCode>
+        <town>Vessy</town>
+      </address>
+    </company>
+    <purpose>toutes prestations de conseil en matières juridique international, réglementaire, stratégique, de sanction, de gestion d'entreprise, de gestion de risques et de conformité (compliance), aux sociétés et banques en Suisse et à l'étranger (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-02</lastFoscDate>
+    <lastFoscNumber>125</lastFoscNumber>
+    <lastFoscSequence>1004665644</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

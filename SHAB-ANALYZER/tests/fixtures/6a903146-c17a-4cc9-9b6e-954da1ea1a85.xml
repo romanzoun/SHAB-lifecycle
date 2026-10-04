@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>6a7c4f84-0c2a-46ba-a8eb-f2ef55dbc485</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004702368</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Vuagniaux Charpente Sàrl, La Verrerie</de>
+    <en>Change Vuagniaux Charpente Sàrl, La Verrerie</en>
+    <it>Cambiamenti Vuagniaux Charpente Sàrl, La Verrerie</it>
+    <fr>Mutation Vuagniaux Charpente Sàrl, La Verrerie</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4660</journalNumber>
+  <journalDate>2019-08-21</journalDate>
+  <publicationText>Vuagniaux Charpente Sàrl, à La Verrerie, CHE-452.955.902 (FOSC du 12.12.2016, p. 0/3215757). Complément à l'inscription n° 7035 du 07.12.2016 (FOSC du 12.12.2016, Id 3215757): Capital social: CHF 20'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Vuagniaux Charpente Sàrl</name>
+      <uid>CHE452955902</uid>
+      <uidOrganisationId>452955902</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735624441</code13>
+      <seat>La Verrerie</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Routes des Mines</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1624</swissZipCode>
+        <town>La Verrerie</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de charpente, couverture, ferblanterie et construction bois (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Vuagniaux Charpente Sàrl</name>
+      <uid>CHE452955902</uid>
+      <uidOrganisationId>452955902</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735624441</code13>
+      <seat>La Verrerie</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Routes des Mines</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1624</swissZipCode>
+        <town>La Verrerie</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de charpente, couverture, ferblanterie et construction bois (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-12-12</lastFoscDate>
+    <lastFoscNumber>241</lastFoscNumber>
+    <lastFoscSequence>3215757</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

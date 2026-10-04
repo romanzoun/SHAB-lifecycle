@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>e73e827d-9621-41fd-853b-013d3959cf5c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004695193</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation La Fondation de Landeyeux, Val-de-Ruz</de>
+    <en>Change La Fondation de Landeyeux, Val-de-Ruz</en>
+    <it>Cambiamenti La Fondation de Landeyeux, Val-de-Ruz</it>
+    <fr>Mutation La Fondation de Landeyeux, Val-de-Ruz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2527</journalNumber>
+  <journalDate>2019-08-08</journalDate>
+  <publicationText>La Fondation de Landeyeux, à Val-de-Ruz, CHE-107.776.059 (FOSC du 09.03.2018, p. 0/4103855). Correia de Oliveira Domingos (dit Dominique), du Portugal, à Lausanne, est membre du comité administratif; il n'exerce pas la signature sociale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>La Fondation de Landeyeux</name>
+      <uid>CHE107776059</uid>
+      <uidOrganisationId>107776059</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510055857</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fontaines, route de Landeyeux</street>
+        <swissZipCode>2046</swissZipCode>
+        <town>Fontaines NE</town>
+      </address>
+    </company>
+    <purpose>exploiter le Home médicalisé du Val-de-Ruz et gérer son patrimoine conformément aux missions confiées par la planification sanitaire cantonale (pour but complet, cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>La Fondation de Landeyeux</name>
+      <uid>CHE107776059</uid>
+      <uidOrganisationId>107776059</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510055857</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fontaines, route de Landeyeux</street>
+        <swissZipCode>2046</swissZipCode>
+        <town>Fontaines NE</town>
+      </address>
+    </company>
+    <purpose>exploiter le Home médicalisé du Val-de-Ruz et gérer son patrimoine conformément aux missions confiées par la planification sanitaire cantonale (pour but complet, cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-03-09</lastFoscDate>
+    <lastFoscSequence>4103855</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

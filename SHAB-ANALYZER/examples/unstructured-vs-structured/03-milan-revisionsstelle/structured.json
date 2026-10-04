@@ -1,0 +1,42 @@
+{
+  "publication_id": "085a33cb-1839-4246-8050-97466a7f9a39",
+  "published_at": "2026-09-25",
+  "language": "de",
+  "sub_rubric": "HR02",
+  "org_uid": "CHE-103.637.200",
+  "canton": "AG",
+  "plz": "4310",
+  "status": "FULLY_PARSED",
+  "leftover_text": "Milan Analytica AG, in Rheinfelden, CHE-103.637.200, Aktiengesellschaft (SHAB Nr. 89 vom 10.05.2021, Publ. 1005175596)",
+  "events": [
+    {
+      "event_type": "officer_removed",
+      "rule_id": "de.persons.org.v1",
+      "org_uid": "CHE-103.637.200",
+      "person_key": "uid:CHE-106.542.814",
+      "plz": "4310",
+      "canton": "AG",
+      "role": "Revisionsstelle",
+      "signing": null,
+      "payload": {
+        "name": "KMS Treuhand & Revisions AG",
+        "place": "Aarberg"
+      }
+    },
+    {
+      "event_type": "officer_changed",
+      "rule_id": "de.persons.org.v1",
+      "org_uid": "CHE-103.637.200",
+      "person_key": "uid:CHE-453.080.264",
+      "plz": "4310",
+      "canton": "AG",
+      "role": "Revisionsstelle",
+      "signing": null,
+      "payload": {
+        "name": "KMS CORDIS audit AG",
+        "place": "Aarberg",
+        "registry_id": "CH-036.3.102.407-0"
+      }
+    }
+  ]
+}

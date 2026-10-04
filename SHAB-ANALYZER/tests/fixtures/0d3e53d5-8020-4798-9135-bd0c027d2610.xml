@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0d2b0fc2-c13a-461b-a872-b48b8d7205fc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004591882</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SO</cantons>
+  <title>
+    <de>Mutation Hans Gurtner AG, Grenchen</de>
+    <en>Change Hans Gurtner AG, Grenchen</en>
+    <it>Cambiamenti Hans Gurtner AG, Grenchen</it>
+    <fr>Mutation Hans Gurtner AG, Grenchen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1287</journalNumber>
+  <journalDate>2019-03-15</journalDate>
+  <publicationText>Hans Gurtner AG, in Grenchen, CHE-105.745.898, Aktiengesellschaft (SHAB Nr. 10 vom 16.01.2019, Publ. 1004542895). Zweigniederlassung neu: Brügg (CHE-130.015.389) [bisher: Lengnau BE].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hans Gurtner AG</name>
+      <uid>CHE105745898</uid>
+      <uidOrganisationId>105745898</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH25430003113</code13>
+      <seat>Grenchen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Archmattweg</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>2540</swissZipCode>
+        <town>Grenchen</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Baugeschäftes sowie Handel mit Baumaterialien aller Art. Kann sich an anderen Unternehmen beteiligen, Lizenzen, Patente und andere immaterielle Werte sowie Grundeigentum erwerben, verwalten, vermitteln und veräussern, ferner Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und überhaupt alle Geschäfte tätigen, die mit dem Zweck der Gesellschaft zusammenhängen oder diesen zu fördern geeignet sind.</purpose>
+    <capital>
+      <nominal>210000.00</nominal>
+      <paid>210000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hans Gurtner AG</name>
+      <uid>CHE105745898</uid>
+      <uidOrganisationId>105745898</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH25430003113</code13>
+      <seat>Grenchen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Archmattweg</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>2540</swissZipCode>
+        <town>Grenchen</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Baugeschäftes sowie Handel mit Baumaterialien aller Art. Kann sich an anderen Unternehmen beteiligen, Lizenzen, Patente und andere immaterielle Werte sowie Grundeigentum erwerben, verwalten, vermitteln und veräussern, ferner Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und überhaupt alle Geschäfte tätigen, die mit dem Zweck der Gesellschaft zusammenhängen oder diesen zu fördern geeignet sind.</purpose>
+    <capital>
+      <nominal>210000.00</nominal>
+      <paid>210000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-16</lastFoscDate>
+    <lastFoscNumber>10</lastFoscNumber>
+    <lastFoscSequence>1004542895</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Solothurn</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

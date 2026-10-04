@@ -1,0 +1,78 @@
+{
+  "publication_id": "a3d86d90-4b95-4f57-8a98-d70ad9dbdf05",
+  "published_at": "2026-09-10",
+  "language": "de",
+  "sub_rubric": "HR02",
+  "org_uid": "CHE-252.691.286",
+  "canton": "SG",
+  "plz": "7320",
+  "status": "FULLY_PARSED",
+  "leftover_text": "Du Bira GmbH, in Sargans, CHE-252.691.286, Gesellschaft mit beschränkter Haftung (SHAB Nr. 101 vom 29.05.2026, Publ. 1006662304)",
+  "events": [
+    {
+      "event_type": "officer_removed",
+      "rule_id": "de.persons.natural.v1",
+      "org_uid": "CHE-252.691.286",
+      "person_key": "p:yilmaz, didin|sargans",
+      "plz": "7320",
+      "canton": "SG",
+      "role": "Gesellschafter und Vorsitzender der Geschäftsführung",
+      "signing": "Einzelunterschrift",
+      "payload": {
+        "name": "Yilmaz, Didin",
+        "place": "Sargans",
+        "heimat": null,
+        "nationality": "türkischer Staatsangehöriger",
+        "shares_count": 100,
+        "shares_nominal": "100.00"
+      }
+    },
+    {
+      "event_type": "signing_authority_changed",
+      "rule_id": "de.persons.signing.v1",
+      "org_uid": "CHE-252.691.286",
+      "person_key": "p:yilmaz, didin|sargans",
+      "plz": "7320",
+      "canton": "SG",
+      "role": "Gesellschafter und Vorsitzender der Geschäftsführung",
+      "signing": "Einzelunterschrift",
+      "payload": {
+        "name": "Yilmaz, Didin",
+        "place": "Sargans"
+      }
+    },
+    {
+      "event_type": "officer_changed",
+      "rule_id": "de.persons.natural.v1",
+      "org_uid": "CHE-252.691.286",
+      "person_key": "p:pusat, mehmet|chur",
+      "plz": "7320",
+      "canton": "SG",
+      "role": "Gesellschafter und Geschäftsführer",
+      "signing": "Einzelunterschrift",
+      "payload": {
+        "name": "Pusat, Mehmet",
+        "place": "Chur",
+        "heimat": null,
+        "nationality": "türkischer Staatsangehöriger",
+        "shares_count": 200,
+        "shares_nominal": "100.00",
+        "previous": "mit 100 Stammanteilen zu je CHF 100.00"
+      }
+    },
+    {
+      "event_type": "signing_authority_changed",
+      "rule_id": "de.persons.signing.v1",
+      "org_uid": "CHE-252.691.286",
+      "person_key": "p:pusat, mehmet|chur",
+      "plz": "7320",
+      "canton": "SG",
+      "role": "Gesellschafter und Geschäftsführer",
+      "signing": "Einzelunterschrift",
+      "payload": {
+        "name": "Pusat, Mehmet",
+        "place": "Chur"
+      }
+    }
+  ]
+}

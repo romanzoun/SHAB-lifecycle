@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>8c263faf-8a60-4029-9406-672a95ba4b1f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004781257</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation zur Bonsen, Communications &amp; CSR Management, Hinwil</de>
+    <en>Change zur Bonsen, Communications &amp; CSR Management, Hinwil</en>
+    <it>Cambiamenti zur Bonsen, Communications &amp; CSR Management, Hinwil</it>
+    <fr>Mutation zur Bonsen, Communications &amp; CSR Management, Hinwil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>47814</journalNumber>
+  <journalDate>2019-12-09</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 225 vom 19.11.2015 publizierten TR-Eintrags Nr. 39919 vom 16.11.2015 zur Bonsen, Communications &amp; CSR Management, in Hinwil, CHE-458.387.445, Einzelunternehmen (SHAB Nr. 225 vom 19.11.2015, S.0, Publ. 2490615). Die unter TR-Nr. 39919 vom 16.11.2015 und im SHAB-Nr. 225 vom 19.11.2015 publizierte Löschung von Glees zur Bonsen, Cornelia, wurde mit der falschen UID-Nr. publiziert (CHE-197.632.552 anstelle von CHE-458.387.445) deshalb erfolgt diese Berichtigung.</publicationText>
+  <commonsNew>
+    <company>
+      <name>zur Bonsen, Communications &amp; CSR Management</name>
+      <uid>CHE-458.387.445</uid>
+      <uidOrganisationId>458387445</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010718039</code13>
+      <seat>Hinwil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Spilchbüel</street>
+        <houseNumber>9c</houseNumber>
+        <swissZipCode>8342</swissZipCode>
+        <town>Wernetshausen</town>
+      </address>
+    </company>
+    <purpose>Kommunikation, PR, Beratung, CSR und Nachhaltigkeitsberatung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>zur Bonsen, Communications &amp; CSR Management</name>
+      <uid>CHE-458.387.445</uid>
+      <uidOrganisationId>458387445</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010718039</code13>
+      <seat>Hinwil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Spilchbüel</street>
+        <houseNumber>9c</houseNumber>
+        <swissZipCode>8342</swissZipCode>
+        <town>Wernetshausen</town>
+      </address>
+    </company>
+    <purpose>Kommunikation, PR, Beratung, CSR und Nachhaltigkeitsberatung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-11-19</lastFoscDate>
+    <lastFoscNumber>225</lastFoscNumber>
+    <lastFoscSequence>2490615</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

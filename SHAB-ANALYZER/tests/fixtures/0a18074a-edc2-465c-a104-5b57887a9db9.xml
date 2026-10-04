@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>09e3e4a6-29c4-4568-92a3-d04b499a30e7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004492381</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation DiaMed (Schweiz) GmbH, Cressier (FR)</de>
+    <en>Change DiaMed (Schweiz) GmbH, Cressier (FR)</en>
+    <it>Cambiamenti DiaMed (Schweiz) GmbH, Cressier (FR)</it>
+    <fr>Mutation DiaMed (Schweiz) GmbH, Cressier (FR)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5747</journalNumber>
+  <journalDate>2018-11-02</journalDate>
+  <publicationText>DiaMed (Schweiz) GmbH, in Cressier (FR), CHE-105.635.695 (SHAB vom 11.04.2018, s. 0/4164355). Gelöschte Person: Pathmarajah Markandan, Direktor, Kollektivunterschrift zu zweien.</publicationText>
+  <commonsNew>
+    <company>
+      <name>DiaMed (Schweiz) GmbH</name>
+      <translations>[fr] DiaMed (Suisse) Sàrl [en] DiaMed (Switzerland) LLC</translations>
+      <uid>CHE105635695</uid>
+      <uidOrganisationId>105635695</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705308126</code13>
+      <seat>Cressier (FR)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o DiaMed Holding GmbH</addressLine1>
+        <street>Route du Pra Rond</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>1785</swissZipCode>
+        <town>Cressier FR</town>
+      </address>
+    </company>
+    <purpose>Herstellung und Vertrieb von medizinischen, diagnostischen und anderen Produkten über das Vertriebsnetz Schweiz. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>DiaMed (Schweiz) GmbH</name>
+      <translations>[fr] DiaMed (Suisse) Sàrl [en] DiaMed (Switzerland) LLC</translations>
+      <uid>CHE105635695</uid>
+      <uidOrganisationId>105635695</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705308126</code13>
+      <seat>Cressier (FR)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o DiaMed Holding GmbH</addressLine1>
+        <street>Route du Pra Rond</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>1785</swissZipCode>
+        <town>Cressier FR</town>
+      </address>
+    </company>
+    <purpose>Herstellung und Vertrieb von medizinischen, diagnostischen und anderen Produkten über das Vertriebsnetz Schweiz. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-11</lastFoscDate>
+    <lastFoscSequence>4164355</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

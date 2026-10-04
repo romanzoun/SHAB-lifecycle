@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>57421225-63ce-4128-b2e2-07c9d67d5b00</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004489996</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Le petit coin gourmand, da Rocha Ferreira, Lausanne</de>
+    <en>Change Le petit coin gourmand, da Rocha Ferreira, Lausanne</en>
+    <it>Cambiamenti Le petit coin gourmand, da Rocha Ferreira, Lausanne</it>
+    <fr>Mutation Le petit coin gourmand, da Rocha Ferreira, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19313</journalNumber>
+  <journalDate>2018-10-30</journalDate>
+  <publicationText>Le petit coin gourmand, da Rocha Ferreira, à Lausanne, CHE-108.242.286 (FOSC du 07.09.2016, p. 0/3042485). L'identification de la succursale à Lausanne, avenue de Cour 19, est maintenant (CHE-367.469.544). Inscription de la mention de l'existence d'une succursale à Lausanne, avenue du Servant 36 (CHE-309.193.266), et à Lausanne, place de la Navigation 18 (CHE-305.871.512).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Le petit coin gourmand, da Rocha Ferreira</name>
+      <uid>CHE108242286</uid>
+      <uidOrganisationId>108242286</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000666933</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de Cour</street>
+        <houseNumber>6 A</houseNumber>
+        <swissZipCode>1007</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une pâtisserie-confiserie et d'un tea-room et vente d'alcool.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Le petit coin gourmand, da Rocha Ferreira</name>
+      <uid>CHE108242286</uid>
+      <uidOrganisationId>108242286</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000666933</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de Cour</street>
+        <houseNumber>6 A</houseNumber>
+        <swissZipCode>1007</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une pâtisserie-confiserie et d'un tea-room et vente d'alcool.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-09-07</lastFoscDate>
+    <lastFoscSequence>3042485</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

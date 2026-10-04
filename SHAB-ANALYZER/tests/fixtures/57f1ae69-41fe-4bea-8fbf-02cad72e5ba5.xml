@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>5793cf5b-466e-493b-b9f2-194df982d742</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004590014</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Esprit du Service Sàrl en liquidation, bisher Esprit du Service Sàrl, Prilly</de>
+    <en>Change Esprit du Service Sàrl en liquidation, to date Esprit du Service Sàrl, Prilly</en>
+    <it>Cambiamenti Esprit du Service Sàrl en liquidation, prima Esprit du Service Sàrl, Prilly</it>
+    <fr>Mutation Esprit du Service Sàrl en liquidation, Prilly</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4992</journalNumber>
+  <journalDate>2019-03-13</journalDate>
+  <publicationText>Esprit du Service Sàrl, à Prilly, CHE-135.527.314 (FOSC du 02.08.2018, p. 0/4394025). Selon décision de son assemblée des associés du 6 mars 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Esprit du Service Sàrl en liquidation (Esprit du Service GmbH in Liquidation) (Esprit du Service Sagl in liquidazione) (Esprit du Service Ltd liab. Co in liquidation). L'associé-gérant Hyseni Lulzim est élu liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Esprit du Service Sàrl en liquidation</name>
+      <translations>[de] Esprit du Service GmbH in Liquidation [it] Esprit du Service Sagl in liquidazione [en] Esprit du Service Ltd liab. Co in liquidation</translations>
+      <uid>CHE135527314</uid>
+      <uidOrganisationId>135527314</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735556285</code13>
+      <seat>Prilly</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Chasseur</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1008</swissZipCode>
+        <town>Prilly</town>
+      </address>
+    </company>
+    <purpose>la société a pour but d'offrir des services de conciergerie générale comprenant les travaux de fin de chantiers, entretien des locaux, fin de baux, jardinage et déménagement (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Esprit du Service Sàrl</name>
+      <translations>[de] Esprit du Service GmbH [it] Esprit du Service Sagl [en] Esprit du Service Ltd liab. Co</translations>
+      <uid>CHE135527314</uid>
+      <uidOrganisationId>135527314</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735556285</code13>
+      <seat>Prilly</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Chasseur</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1008</swissZipCode>
+        <town>Prilly</town>
+      </address>
+    </company>
+    <purpose>la société a pour but d'offrir des services de conciergerie générale comprenant les travaux de fin de chantiers, entretien des locaux, fin de baux, jardinage et déménagement (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-02</lastFoscDate>
+    <lastFoscSequence>4394025</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

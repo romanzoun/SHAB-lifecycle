@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>d2d82a1f-abd4-4e5b-b6fa-a9f1b575a873</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004768489</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation ADA Montage Sàrl en liquidation, Montreux</de>
+    <en>Change ADA Montage Sàrl en liquidation, Montreux</en>
+    <it>Cambiamenti ADA Montage Sàrl en liquidation, Montreux</it>
+    <fr>Mutation ADA Montage Sàrl en liquidation, Montreux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20995</journalNumber>
+  <journalDate>2019-11-21</journalDate>
+  <publicationText>ADA Montage Sàrl en liquidation, à Montreux, CHE-441.098.760 (FOSC du 12.02.2019, p. 0/1004564697). La société est réinscrite au registre du commerce conformément à la décision du président du Tribunal de l'arrondissement de l'Est vaudois du 12 novembre 2019. Les faits inscrits relatifs à l'adresse de liquidation demeurent valables.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ADA Montage Sàrl en liquidation</name>
+      <uid>CHE-441.098.760</uid>
+      <uidOrganisationId>441098760</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011571116</code13>
+      <seat>Montreux</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Abeille</street>
+        <houseNumber>3 B</houseNumber>
+        <swissZipCode>1815</swissZipCode>
+        <town>Clarens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la pose de portes et fenêtres, ainsi que tous travaux dans le domaine de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ADA Montage Sàrl en liquidation</name>
+      <uid>CHE-441.098.760</uid>
+      <uidOrganisationId>441098760</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011571116</code13>
+      <seat>Montreux</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Abeille</street>
+        <houseNumber>3 B</houseNumber>
+        <swissZipCode>1815</swissZipCode>
+        <town>Clarens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la pose de portes et fenêtres, ainsi que tous travaux dans le domaine de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-12</lastFoscDate>
+    <lastFoscNumber>29</lastFoscNumber>
+    <lastFoscSequence>1004564697</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

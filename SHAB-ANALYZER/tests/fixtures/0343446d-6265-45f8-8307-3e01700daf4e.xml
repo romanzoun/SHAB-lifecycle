@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>02f678cb-5157-402c-a752-97a151c67fda</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005006257</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation S.I.GN Partenaires SA, Lausanne</de>
+    <en>Change S.I.GN Partenaires SA, Lausanne</en>
+    <it>Cambiamenti S.I.GN Partenaires SA, Lausanne</it>
+    <fr>Mutation S.I.GN Partenaires SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17307</journalNumber>
+  <journalDate>2020-10-19</journalDate>
+  <publicationText>S.I.GN Partenaires SA, à Lausanne, CHE-113.027.397 (FOSC du 05.03.2018, p. 0/4091973). Signature collective à deux est conférée à Marguerat Sophie, de Lutry, et Migy Cécile, de Günsberg, les deux à Lausanne.</publicationText>
+  <commonsNew>
+    <company>
+      <name>S.I.GN Partenaires SA</name>
+      <uid>CHE-113.027.397</uid>
+      <uidOrganisationId>113027397</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735359967</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Forum "Après-Demain", chemin Messidor</street>
+        <houseNumber>5-7</houseNumber>
+        <swissZipCode>1006</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>opérations dans les domaines économique, commercial, mobilier et des prises de participations financières (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>10000000.00</nominal>
+      <paid>10000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>S.I.GN Partenaires SA</name>
+      <uid>CHE-113.027.397</uid>
+      <uidOrganisationId>113027397</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735359967</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Forum "Après-Demain", chemin Messidor</street>
+        <houseNumber>5-7</houseNumber>
+        <swissZipCode>1006</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>opérations dans les domaines économique, commercial, mobilier et des prises de participations financières (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>10000000.00</nominal>
+      <paid>10000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-03-05</lastFoscDate>
+    <lastFoscNumber>44</lastFoscNumber>
+    <lastFoscSequence>4091973</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

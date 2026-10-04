@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>228c2000-5be6-446e-987b-4ccb5afdb773</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004616341</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Econocom Switzerland SA, Nyon</de>
+    <en>Change Econocom Switzerland SA, Nyon</en>
+    <it>Cambiamenti Econocom Switzerland SA, Nyon</it>
+    <fr>Mutation Econocom Switzerland SA, Nyon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7311</journalNumber>
+  <journalDate>2019-04-17</journalDate>
+  <publicationText>Econocom Switzerland SA, à Nyon, CHE-112.427.185 (FOSC du 23.10.2017, p. 0/3825341). HORWATH BERNEY SA (CHE-109.855.563), organe de révision, a modifié sa raison de commerce en CROWE BERNEY SA (CHE-109.855.563).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Econocom Switzerland SA</name>
+      <uid>CHE112427185</uid>
+      <uidOrganisationId>112427185</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010444243</code13>
+      <seat>Nyon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zone industrielle Ouest, en Champ-Colin.</street>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon 2</town>
+      </address>
+    </company>
+    <purpose>achat, vente, location et entretien de matériel informatique et de communication, importation, exportation, représentation, courtage, dépôt et consignation de tout appareil d'informatique et électronique.</purpose>
+    <capital>
+      <nominal>2200000.00</nominal>
+      <paid>2200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>CROWE BERNEY SA</name>
+        <country>CH</country>
+        <uid>CHE109855563</uid>
+        <uidOrganisationId>109855563</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Econocom Switzerland SA</name>
+      <uid>CHE112427185</uid>
+      <uidOrganisationId>112427185</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010444243</code13>
+      <seat>Nyon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zone industrielle Ouest, en Champ-Colin.</street>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon 2</town>
+      </address>
+    </company>
+    <purpose>achat, vente, location et entretien de matériel informatique et de communication, importation, exportation, représentation, courtage, dépôt et consignation de tout appareil d'informatique et électronique.</purpose>
+    <capital>
+      <nominal>2200000.00</nominal>
+      <paid>2200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-10-23</lastFoscDate>
+    <lastFoscSequence>3825341</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

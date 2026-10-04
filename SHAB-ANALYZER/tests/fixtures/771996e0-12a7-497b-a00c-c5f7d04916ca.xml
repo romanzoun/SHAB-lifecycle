@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>76ed7e8e-e1f3-4f08-9af4-042f741b9018</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004588261</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Charmanty-Vertriebs AG in Liquidation, Zürich</de>
+    <en>Change Charmanty-Vertriebs AG in Liquidation, Zürich</en>
+    <it>Cambiamenti Charmanty-Vertriebs AG in Liquidation, Zürich</it>
+    <fr>Mutation Charmanty-Vertriebs AG in Liquidation, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10488</journalNumber>
+  <journalDate>2019-03-12</journalDate>
+  <publicationText>Charmanty-Vertriebs AG in Liquidation, in Zürich, ADM-378.393.891, Aktiengesellschaft (SHAB Nr. 25 vom 07.02.1997, S.835). Die am 03.02.1997 gelöschte Gesellschaft wird auf Grund des Urteils des Einzelgerichts des Bezirksgerichts Zürich vom 08.02.2019 zwecks Bereinigung eines öffentlichen Registers wieder in das Handelsregister eingetragen und besteht entsprechend den früheren Eintragungen weiter. [bisher: Die Gesellschaft wird im Sinne von Art. 66 Abs. 2 Satz 2 HRegV von Amtes wegen gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Charmanty-Vertriebs AG in Liquidation</name>
+      <uid>CHE378393891</uid>
+      <uidOrganisationId>378393891</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030069481</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Weststrasse</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>8003</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Montage von Fertigtürelementen und Einbauküchen; kann sich an anderen Unternehmungen beteiligen sowie Liegenschaften erwerben, belasten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Charmanty-Vertriebs AG in Liquidation</name>
+      <uid>CHE378393891</uid>
+      <uidOrganisationId>378393891</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030069481</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Weststrasse</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>8003</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Montage von Fertigtürelementen und Einbauküchen; kann sich an anderen Unternehmungen beteiligen sowie Liegenschaften erwerben, belasten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>1997-02-07</lastFoscDate>
+    <lastFoscNumber>25</lastFoscNumber>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

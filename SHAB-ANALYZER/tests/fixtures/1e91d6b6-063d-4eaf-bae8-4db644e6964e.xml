@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>1e89bbcf-1c29-4087-907d-c7b6d536405f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004771536</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation NJ Techs Sàrl, Rolle, neu NJ Techs Sàrl en liquidation</de>
+    <en>Change NJ Techs Sàrl, Rolle, new NJ Techs Sàrl en liquidation</en>
+    <it>Cambiamenti NJ Techs Sàrl, Rolle, nuovo NJ Techs Sàrl en liquidation</it>
+    <fr>Mutation NJ Techs Sàrl, Rolle, nouveau NJ Techs Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21339</journalNumber>
+  <journalDate>2019-11-26</journalDate>
+  <publicationText>NJ Techs Sàrl, à Rolle, CHE-306.140.842 (FOSC du 25.03.2019, p. 0/1004595268). Selon décision de son assemblée des associés du 22 novembre 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: NJ Techs Sàrl en liquidation. Ferreira Rodrigues Ana Cláudia, gérante et présidente, est nommée liquidatrice avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>NJ Techs Sàrl en liquidation</name>
+      <uid>CHE-306.140.842</uid>
+      <uidOrganisationId>306140842</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011810620</code13>
+      <seat>Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Rosey</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1180</swissZipCode>
+        <town>Rolle</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'installation, la maintenance et la vente de matériel de sécurité en particulier vidéosurveillance, systèmes d'alarmes; travaux de rénovation et d'entretien de bâtiments; l'importation et l'exportation de véhicules (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>NJ Techs Sàrl</name>
+      <uid>CHE-306.140.842</uid>
+      <uidOrganisationId>306140842</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011810620</code13>
+      <seat>Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Rosey</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1180</swissZipCode>
+        <town>Rolle</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'installation, la maintenance et la vente de matériel de sécurité en particulier vidéosurveillance, systèmes d'alarmes; travaux de rénovation et d'entretien de bâtiments; l'importation et l'exportation de véhicules (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-25</lastFoscDate>
+    <lastFoscNumber>58</lastFoscNumber>
+    <lastFoscSequence>1004595268</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

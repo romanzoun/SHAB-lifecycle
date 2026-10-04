@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>73fb569d-c5e6-4e8d-b62c-d14902c7043a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004597252</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Zerilli-Marimo, Ecublens (VD)</de>
+    <en>Change Fondation Zerilli-Marimo, Ecublens (VD)</en>
+    <it>Cambiamenti Fondation Zerilli-Marimo, Ecublens (VD)</it>
+    <fr>Mutation Fondation Zerilli-Marimo, Ecublens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5633</journalNumber>
+  <journalDate>2019-03-22</journalDate>
+  <publicationText>Fondation Zerilli-Marimo, à Ecublens (VD), CHE-110.394.333 (FOSC du 19.03.2019, p. 0/1004591161). Rectificatif: l'inscription n° 295 du 02.03.1193 (FOSC du 15.03.1993, p. 1265) est rectifiée en ce sens que l'acte de fondation est du 5 février 1993 (et non du 23 février 1993 comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Zerilli-Marimo</name>
+      <uid>CHE110394333</uid>
+      <uidOrganisationId>110394333</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001718442</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lausanne-Dorigny, rectorat de l'Université de Lausanne, BRA</street>
+        <swissZipCode>1024</swissZipCode>
+        <town>Ecublens VD</town>
+      </address>
+    </company>
+    <purpose>soutenir des étudiants et des jeunes chercheurs attachés à l'Université de Lausanne et plus particulièrement les jeunes chercheurs dans le domaine de la langue et de la civilisation italienne au sens large, des origines à nos jours.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Zerilli-Marimo</name>
+      <uid>CHE110394333</uid>
+      <uidOrganisationId>110394333</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001718442</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lausanne-Dorigny, rectorat de l'Université de Lausanne, BRA</street>
+        <swissZipCode>1024</swissZipCode>
+        <town>Ecublens VD</town>
+      </address>
+    </company>
+    <purpose>soutenir des étudiants et des jeunes chercheurs attachés à l'Université de Lausanne et plus particulièrement les jeunes chercheurs dans le domaine de la langue et de la civilisation italienne au sens large, des origines à nos jours.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-19</lastFoscDate>
+    <lastFoscSequence>1004591161</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

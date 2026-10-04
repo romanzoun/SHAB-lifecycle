@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>7a4186cd-d165-4c91-9fd3-9a57f6dcb4f4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005185191</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation ComptaBiz SA, Echandens</de>
+    <en>Change ComptaBiz SA, Echandens</en>
+    <it>Cambiamenti ComptaBiz SA, Echandens</it>
+    <fr>Mutation ComptaBiz SA, Echandens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10175</journalNumber>
+  <journalDate>2021-05-12</journalDate>
+  <publicationText>ComptaBiz SA, à Echandens, CHE-100.359.878 (FOSC du 21.11.2014, p. 0/1836169). Le 1er mai 2021, les actions au porteur ont été converties de par la loi en actions nominatives. Les statuts de la société n'ont pas encore été adaptés à la conversion, mais devront l'être lors de la prochaine modification. Capital-actions: CHF 50'000, libéré à concurrence de CHF 50'000, divisé en 50 actions au nominatives de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ComptaBiz SA</name>
+      <uid>CHE-100.359.878</uid>
+      <uidOrganisationId>100359878</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001442448</code13>
+      <seat>Echandens</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place du Saugey</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1026</swissZipCode>
+        <town>Echandens</town>
+      </address>
+    </company>
+    <purpose>la formation de personnes en matière de programmes informatiques notamment dans le domaine de la comptabilité; la fourniture de tous services en matière de tenue de comptabilité et de gestion comptable pour les entreprises; la fourniture de toutes prestations de service en matière d'administration d'entreprises (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ComptaBiz SA</name>
+      <uid>CHE-100.359.878</uid>
+      <uidOrganisationId>100359878</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001442448</code13>
+      <seat>Echandens</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place du Saugey</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1026</swissZipCode>
+        <town>Echandens</town>
+      </address>
+    </company>
+    <purpose>la formation de personnes en matière de programmes informatiques notamment dans le domaine de la comptabilité; la fourniture de tous services en matière de tenue de comptabilité et de gestion comptable pour les entreprises; la fourniture de toutes prestations de service en matière d'administration d'entreprises (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-11-21</lastFoscDate>
+    <lastFoscNumber>226</lastFoscNumber>
+    <lastFoscSequence>1836169</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

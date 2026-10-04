@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>47258dba-ba6e-4b0a-a70f-0a2068699901</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005223947</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-06-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation LARTAM SA, Anniviers</de>
+    <en>Change LARTAM SA, Anniviers</en>
+    <it>Cambiamenti LARTAM SA, Anniviers</it>
+    <fr>Mutation LARTAM SA, Anniviers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3018</journalNumber>
+  <journalDate>2021-06-16</journalDate>
+  <publicationText>LARTAM SA, à Anniviers, CHE-496.385.878, société anonyme (No. FOSC 114 du 16.06.2021, Publ. 1005219444). Modification des statuts: 03.06.2021. Nouvelles communications: Communication aux actionnaires: par écrit (courrier simple ou fax) ou par courriel. [biffé: Le 1er mai 2021, les actions au porteur ont été converties de par la loi en actions nominatives. Les statuts de la société n'ont pas encore été adaptés à la conversion, mais devront l'être lors de la prochaine modification.]. [Modification des statuts sur des points non soumis à publication].</publicationText>
+  <commonsNew>
+    <company>
+      <name>LARTAM SA</name>
+      <uid>CHE-496.385.878</uid>
+      <uidOrganisationId>496385878</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030150115</code13>
+      <seat>Anniviers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Mission</street>
+        <houseNumber>55</houseNumber>
+        <swissZipCode>3961</swissZipCode>
+        <town>Mission</town>
+      </address>
+    </company>
+    <purpose>Achat, vente, détention, valorisation, gestion et courtage de tous biens immobiliers et toutes opérations en matière immobilière, à l'exclusion d'opérations prohibées par la LFAIE; achat, vente et commerce de véhicules anciens; organisation d'évènements (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LARTAM SA</name>
+      <uid>CHE-496.385.878</uid>
+      <uidOrganisationId>496385878</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030150115</code13>
+      <seat>Anniviers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Mission</street>
+        <houseNumber>55</houseNumber>
+        <swissZipCode>3961</swissZipCode>
+        <town>Mission</town>
+      </address>
+    </company>
+    <purpose>Achat, vente, détention, valorisation, gestion et courtage de tous biens immobiliers et toutes opérations en matière immobilière, à l'exclusion d'opérations prohibées par la LFAIE; achat, vente et commerce de véhicules anciens; organisation d'évènements (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-06-16</lastFoscDate>
+    <lastFoscNumber>114</lastFoscNumber>
+    <lastFoscSequence>1005219444</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

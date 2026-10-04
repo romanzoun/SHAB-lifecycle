@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>e1bf29d0-8aaa-4225-aca4-e0edebb60f6e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004630588</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Genossenschaft Schäfli Uznach, Uznach</de>
+    <en>Change Genossenschaft Schäfli Uznach, Uznach</en>
+    <it>Cambiamenti Genossenschaft Schäfli Uznach, Uznach</it>
+    <fr>Mutation Genossenschaft Schäfli Uznach, Uznach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4401</journalNumber>
+  <journalDate>2019-05-10</journalDate>
+  <publicationText>Genossenschaft Schäfli Uznach, in Uznach, CHE-109.578.435, Genossenschaft (SHAB Nr. 160 vom 20.08.2015, S.0, Publ. 2330033). Statutenänderung: 01.05.2019. Anteilscheine neu: CHF 5'000.00 [bisher: Fr. 10'000.--]. Mit Beschluss der Generalversammlung vom 01.05.2019 wird der Nennwert der Anteilscheine zu CHF 10'000.00 im Sinne von Art. 735 i.V.m. Art. 874 Abs. 2 OR auf CHF 5'000.00 herabgesetzt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Genossenschaft Schäfli Uznach</name>
+      <uid>CHE109578435</uid>
+      <uidOrganisationId>109578435</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32050515551</code13>
+      <seat>Uznach</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Armando Resegatti</addressLine1>
+        <street>Bohlstrasse</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>8730</swissZipCode>
+        <town>Uznach</town>
+      </address>
+    </company>
+    <purpose>In gemeinsamer Selbsthilfe der Mitglieder Erwerb und Führung des Restaurants Schäfli in Uznach.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Genossenschaft Schäfli Uznach</name>
+      <uid>CHE109578435</uid>
+      <uidOrganisationId>109578435</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32050515551</code13>
+      <seat>Uznach</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Armando Resegatti</addressLine1>
+        <street>Bohlstrasse</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>8730</swissZipCode>
+        <town>Uznach</town>
+      </address>
+    </company>
+    <purpose>In gemeinsamer Selbsthilfe der Mitglieder Erwerb und Führung des Restaurants Schäfli in Uznach.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-08-20</lastFoscDate>
+    <lastFoscNumber>160</lastFoscNumber>
+    <lastFoscSequence>2330033</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

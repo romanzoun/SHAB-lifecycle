@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>4d433dbb-4e2b-4647-bc6c-ba6b671537f0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004564427</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Fiduciaire Revigest SA, Bulle</de>
+    <en>Change Fiduciaire Revigest SA, Bulle</en>
+    <it>Cambiamenti Fiduciaire Revigest SA, Bulle</it>
+    <fr>Mutation Fiduciaire Revigest SA, Bulle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>844</journalNumber>
+  <journalDate>2019-02-07</journalDate>
+  <publicationText>Fiduciaire Revigest SA, à Bulle, CHE-100.625.353 (FOSC du 29.01.2019, p. 0/1004553250). Rectification: l'inscription n° 520 du 24.01.2019 (FOSC du 29.01.2019, Id. 1004553250) est rectifiée comme suit: Bovet Vanessa, administratrice, signature collective à deux (et non pas signature individuelle).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fiduciaire Revigest SA</name>
+      <uid>CHE100625353</uid>
+      <uidOrganisationId>100625353</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701348914</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Vevey</street>
+        <houseNumber>178</houseNumber>
+        <swissZipCode>1630</swissZipCode>
+        <town>Bulle</town>
+      </address>
+    </company>
+    <purpose>toutes activités fiduciaires, la tenue de comptabilités, les mandats de revision, le traitement d'affaires fiscales, la gestion, le conseil et l'organisation d'entreprises.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fiduciaire Revigest SA</name>
+      <uid>CHE100625353</uid>
+      <uidOrganisationId>100625353</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701348914</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Vevey</street>
+        <houseNumber>178</houseNumber>
+        <swissZipCode>1630</swissZipCode>
+        <town>Bulle</town>
+      </address>
+    </company>
+    <purpose>toutes activités fiduciaires, la tenue de comptabilités, les mandats de revision, le traitement d'affaires fiscales, la gestion, le conseil et l'organisation d'entreprises.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-29</lastFoscDate>
+    <lastFoscSequence>1004553250</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

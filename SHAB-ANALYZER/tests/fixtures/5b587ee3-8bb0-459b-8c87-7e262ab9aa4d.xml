@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>5b020281-839c-44f3-8efe-72359aa50c41</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004948163</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Kunststoffverarbeitung und Apparatebau AG, Lindau</de>
+    <en>Change Kunststoffverarbeitung und Apparatebau AG, Lindau</en>
+    <it>Cambiamenti Kunststoffverarbeitung und Apparatebau AG, Lindau</it>
+    <fr>Mutation Kunststoffverarbeitung und Apparatebau AG, Lindau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>28944</journalNumber>
+  <journalDate>2020-07-27</journalDate>
+  <publicationText>Kunststoffverarbeitung und Apparatebau AG, in Lindau, CHE-102.600.594, Aktiengesellschaft (SHAB Nr. 9 vom 15.01.2020, Publ. 1004804847). Mit Verfügung vom 10.07.2020 hat der Einzelrichter im summarischen Verfahren des Bezirksgerichts Pfäffikon die definitive Nachlassstundung um sechs Monate bis 14.01.2021 verlängert.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kunststoffverarbeitung und Apparatebau AG</name>
+      <uid>CHE-102.600.594</uid>
+      <uidOrganisationId>102600594</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039154543</code13>
+      <seat>Lindau</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lindauerstrasse</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>8317</swissZipCode>
+        <town>Tagelswangen</town>
+      </address>
+    </company>
+    <purpose>Entwicklung, Verarbeitung, Handel und Vertrieb von Konstruktionen aller Art aus Kunststoff sowie Apparatebau.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kunststoffverarbeitung und Apparatebau AG</name>
+      <uid>CHE-102.600.594</uid>
+      <uidOrganisationId>102600594</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039154543</code13>
+      <seat>Lindau</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lindauerstrasse</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>8317</swissZipCode>
+        <town>Tagelswangen</town>
+      </address>
+    </company>
+    <purpose>Entwicklung, Verarbeitung, Handel und Vertrieb von Konstruktionen aller Art aus Kunststoff sowie Apparatebau.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-15</lastFoscDate>
+    <lastFoscNumber>9</lastFoscNumber>
+    <lastFoscSequence>1004804847</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

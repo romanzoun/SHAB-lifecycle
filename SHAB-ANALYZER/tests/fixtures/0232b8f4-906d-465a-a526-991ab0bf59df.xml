@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>021a7e56-2590-4ede-91f2-d768dacf3af4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004728648</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Pesco Fiorito Immobiliare SA, Lugano, neu Pesco Fiorito Immobiliare SA in liquidazione</de>
+    <en>Change Pesco Fiorito Immobiliare SA, Lugano, new Pesco Fiorito Immobiliare SA in liquidazione</en>
+    <it>Cambiamenti Pesco Fiorito Immobiliare SA, Lugano, nuovo Pesco Fiorito Immobiliare SA in liquidazione</it>
+    <fr>Mutation Pesco Fiorito Immobiliare SA, Lugano, nouveau Pesco Fiorito Immobiliare SA in liquidazione</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13333</journalNumber>
+  <journalDate>2019-09-27</journalDate>
+  <publicationText>Complemento all'iscrizione del registro giornaliero no. 13'085 del 23.09.2019, pubblicata nel FUSC no. 186 del 26.09.2019. Pesco Fiorito Immobiliare SA, in Lugano, CHE-102.105.461, società anonima (Nr. FUSC 186 del 26.09.2019, Pubbl. 1004724804). Nuova ditta: Pesco Fiorito Immobiliare SA in liquidazione.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pesco Fiorito Immobiliare SA in liquidazione</name>
+      <uid>CHE-102.105.461</uid>
+      <uidOrganisationId>102105461</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430069753</code13>
+      <seat>Lugano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Dufour</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>6900</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>L'acqusto di beni immobili, mobili e titoti all'estero, nonché la partecipazione ad altre società. La società non svolgerà nessuna attività in Svizzera.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pesco Fiorito Immobiliare SA</name>
+      <uid>CHE-102.105.461</uid>
+      <uidOrganisationId>102105461</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430069753</code13>
+      <seat>Lugano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Dufour</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>6900</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>L'acqusto di beni immobili, mobili e titoti all'estero, nonché la partecipazione ad altre società. La società non svolgerà nessuna attività in Svizzera.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-26</lastFoscDate>
+    <lastFoscNumber>186</lastFoscNumber>
+    <lastFoscSequence>1004724804</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

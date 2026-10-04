@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>59aa9c98-1252-45d6-8c79-529800d72057</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004470772</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Olivier Moeschler, Rueyres</de>
+    <en>Change Fondation Olivier Moeschler, Rueyres</en>
+    <it>Cambiamenti Fondation Olivier Moeschler, Rueyres</it>
+    <fr>Mutation Fondation Olivier Moeschler, Rueyres</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17557</journalNumber>
+  <journalDate>2018-10-02</journalDate>
+  <publicationText>Fondation Olivier Moeschler, à Rueyres, CHE-110.412.362 (FOSC du 07.06.2017, p. 0/3564775). L'autorité de surveillance a révoqué la dispense d'organe de révision octroyée à la Fondation par décision du 8 août 2018.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Olivier Moeschler</name>
+      <uid>CHE110412362</uid>
+      <uidOrganisationId>110412362</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010055770</code13>
+      <seat>Rueyres</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Patrick Weber</addressLine1>
+        <street>Chemin des Pallins</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1046</swissZipCode>
+        <town>Rueyres</town>
+      </address>
+    </company>
+    <purpose>promotion et soutien à tous les échelons de la chaîne de la médecine d'urgence en tenant compte de l'unité et de l'indivisibilité du concept en soutenant l'enseignement destiné au public et à l'ensemble des professionnels de l'urgence, la recherche, en règle générale clinique, le contrôle de qualité et l'évaluation.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Olivier Moeschler</name>
+      <uid>CHE110412362</uid>
+      <uidOrganisationId>110412362</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010055770</code13>
+      <seat>Rueyres</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Patrick Weber</addressLine1>
+        <street>Chemin des Pallins</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1046</swissZipCode>
+        <town>Rueyres</town>
+      </address>
+    </company>
+    <purpose>promotion et soutien à tous les échelons de la chaîne de la médecine d'urgence en tenant compte de l'unité et de l'indivisibilité du concept en soutenant l'enseignement destiné au public et à l'ensemble des professionnels de l'urgence, la recherche, en règle générale clinique, le contrôle de qualité et l'évaluation.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-06-07</lastFoscDate>
+    <lastFoscSequence>3564775</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

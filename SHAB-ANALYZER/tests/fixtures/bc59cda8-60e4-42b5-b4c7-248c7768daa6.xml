@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>bbe04685-f839-4ee6-9fac-2ecadaf79fd4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004521467</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Promenade Immobilien AG, bisher Promenade Immobilien AG in Liquidation, Lenzburg</de>
+    <en>Change Promenade Immobilien AG, to date Promenade Immobilien AG in Liquidation, Lenzburg</en>
+    <it>Cambiamenti Promenade Immobilien AG, prima Promenade Immobilien AG in Liquidation, Lenzburg</it>
+    <fr>Mutation Promenade Immobilien AG, Lenzburg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12774</journalNumber>
+  <journalDate>2018-12-11</journalDate>
+  <publicationText>Promenade Immobilien AG in Liquidation, in Lenzburg, CHE-266.149.266, Aktiengesellschaft (SHAB Nr. 199 vom 15.10.2018, Publ. 1004476771). Firma neu: Promenade Immobilien AG. [gestrichen: Mit Verfügung des Handelsgerichts vom 13.08.2018 wurde diese Gesellschaft mit Wirkung ab dem 13.08.2018, 16.00 Uhr, nach Art. 731b OR aufgelöst und ihre Liquidation nach den Vorschriften über den Konkurs angeordnet.]. Mit Verfügung des Handelsgerichts vom 02.11.2018 wird der Entscheid vom 13.08.2018 aufgehoben. Infolgedessen besteht die Gesellschaft entsprechend den früheren Eintragungen weiter.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Promenade Immobilien AG</name>
+      <uid>CHE266149266</uid>
+      <uidOrganisationId>266149266</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030354548</code13>
+      <seat>Lenzburg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Promenade</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>5600</swissZipCode>
+        <town>Lenzburg</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Veräusserung und Verwaltung von Grundstücken, Erbringung von medizinischen Dienstleistungen sowie Handel mit Waren aller Art; kann Zweigniederlassungen errichten sowie sich bei anderen Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Promenade Immobilien AG in Liquidation</name>
+      <uid>CHE266149266</uid>
+      <uidOrganisationId>266149266</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030354548</code13>
+      <seat>Lenzburg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Promenade</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>5600</swissZipCode>
+        <town>Lenzburg</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Veräusserung und Verwaltung von Grundstücken, Erbringung von medizinischen Dienstleistungen sowie Handel mit Waren aller Art; kann Zweigniederlassungen errichten sowie sich bei anderen Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-15</lastFoscDate>
+    <lastFoscNumber>199</lastFoscNumber>
+    <lastFoscSequence>1004476771</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>c3967a68-da67-4bd5-80e9-c022cc171eff</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004620469</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Coiffure Whitepearl Mariana Botez, Wallisellen</de>
+    <en>Change Coiffure Whitepearl Mariana Botez, Wallisellen</en>
+    <it>Cambiamenti Coiffure Whitepearl Mariana Botez, Wallisellen</it>
+    <fr>Mutation Coiffure Whitepearl Mariana Botez, Wallisellen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16668</journalNumber>
+  <journalDate>2019-04-26</journalDate>
+  <publicationText>Coiffure Whitepearl Mariana Botez, in Wallisellen, CHE-435.362.977, Einzelunternehmen (SHAB Nr. 77 vom 23.04.2019, Publ. 1004614443). Die Inhaberin führt sein Geschäft weiter; die Eintragung bleibt bestehen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Coiffure Whitepearl Mariana Botez</name>
+      <uid>CHE435362977</uid>
+      <uidOrganisationId>435362977</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010737575</code13>
+      <seat>Wallisellen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schäfligrabenstrasse</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>8304</swissZipCode>
+        <town>Wallisellen</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Coiffeur Salons, webshop mit Haar- und Kosmetik-Produkten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Coiffure Whitepearl Mariana Botez</name>
+      <uid>CHE435362977</uid>
+      <uidOrganisationId>435362977</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010737575</code13>
+      <seat>Wallisellen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schäfligrabenstrasse</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>8304</swissZipCode>
+        <town>Wallisellen</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Coiffeur Salons, webshop mit Haar- und Kosmetik-Produkten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-23</lastFoscDate>
+    <lastFoscNumber>77</lastFoscNumber>
+    <lastFoscSequence>1004614443</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>950c33cf-9d25-4263-b1e6-78b10bf43301</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004621087</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation pour le concours "Environnement + Jeunesse", Lausanne</de>
+    <en>Change Fondation pour le concours "Environnement + Jeunesse", Lausanne</en>
+    <it>Cambiamenti Fondation pour le concours "Environnement + Jeunesse", Lausanne</it>
+    <fr>Mutation Fondation pour le concours "Environnement + Jeunesse", Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7709</journalNumber>
+  <journalDate>2019-04-26</journalDate>
+  <publicationText>Fondation pour le concours "Environnement + Jeunesse", à Lausanne, CHE-110.397.751 (FOSC du 23.12.2016, p. 0/3245099). Pache Virginie, membre du conseil de fondation, est élue secrétaire. Nouveau membre du conseil de fondation sans signature: Cochard Joëlle, de Froideville, à Vevey.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation pour le concours "Environnement + Jeunesse"</name>
+      <uid>CHE110397751</uid>
+      <uidOrganisationId>110397751</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001753075</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o François Sulliger</addressLine1>
+        <street>Chemin de Maillefer 35, Dir. générale de l'enseignement obl.</street>
+        <swissZipCode>1014</swissZipCode>
+        <town>Lausanne Adm cant</town>
+      </address>
+    </company>
+    <purpose>recevoir et réunir des fonds pour les affecter à la mise sur pied du concours "Environnement et Jeunesse"; aider à la prise de conscience des problèmes de l'environnement par la jeunesse.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation pour le concours "Environnement + Jeunesse"</name>
+      <uid>CHE110397751</uid>
+      <uidOrganisationId>110397751</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001753075</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o François Sulliger</addressLine1>
+        <street>Chemin de Maillefer 35, Dir. générale de l'enseignement obl.</street>
+        <swissZipCode>1014</swissZipCode>
+        <town>Lausanne Adm cant</town>
+      </address>
+    </company>
+    <purpose>recevoir et réunir des fonds pour les affecter à la mise sur pied du concours "Environnement et Jeunesse"; aider à la prise de conscience des problèmes de l'environnement par la jeunesse.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-12-23</lastFoscDate>
+    <lastFoscSequence>3245099</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

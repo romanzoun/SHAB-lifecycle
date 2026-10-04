@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.23/HR02-export.xsd">
+<meta>
+  <id>68c747a0-251c-423e-baf4-6500e418ca78</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006280346</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2025-03-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation M + K Impex, Nassiri Ansari, Lausanne</de>
+    <en>Change M + K Impex, Nassiri Ansari, Lausanne</en>
+    <it>Cambiamenti M + K Impex, Nassiri Ansari, Lausanne</it>
+    <fr>Mutation M + K Impex, Nassiri Ansari, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5215</journalNumber>
+  <journalDate>2025-03-07</journalDate>
+  <publicationText>M + K Impex, Nassiri Ansari, à Lausanne, CHE-113.255.449 (FOSC du 16.02.2024, p. 0/1005963781). Par décision du 25.02.2025, le Président du Tribunal de l'arrondissement de la Broye et du Nord vaudois a prolongé le sursis concordataire définitif jusqu'au 11.04.2025.</publicationText>
+  <commonsNew>
+    <company>
+      <name>M + K Impex, Nassiri Ansari</name>
+      <uid>CHE-113.255.449</uid>
+      <uidOrganisationId>113255449</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010486774</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Rond-Point</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1006</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>importation et commerce de carrelages et de meubles en fer forgé.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>M + K Impex, Nassiri Ansari</name>
+      <uid>CHE-113.255.449</uid>
+      <uidOrganisationId>113255449</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010486774</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Rond-Point</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1006</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>importation et commerce de carrelages et de meubles en fer forgé.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2024-02-16</lastFoscDate>
+    <lastFoscNumber>33</lastFoscNumber>
+    <lastFoscSequence>1005963781</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,11 @@
+[project]
+name = "shab-harvester"
+version = "0.1.0"
+description = "Raw harvester for SHAB publications (no parsing/classification)"
+requires-python = ">=3.11"
+dependencies = [
+    "playwright>=1.40",
+]
+
+[project.scripts]
+shab-harvester = "shab_harvester.app:main"

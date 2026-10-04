@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0ac59b53-8be0-4af0-9087-e2e0eb7bbacf</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004522987</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation VMservices Sàrl, Belmont-sur-Yverdon</de>
+    <en>Change VMservices Sàrl, Belmont-sur-Yverdon</en>
+    <it>Cambiamenti VMservices Sàrl, Belmont-sur-Yverdon</it>
+    <fr>Mutation VMservices Sàrl, Belmont-sur-Yverdon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22259</journalNumber>
+  <journalDate>2018-12-12</journalDate>
+  <publicationText>VMservices Sàrl, à Belmont-sur-Yverdon, CHE-332.240.656 (FOSC du 21.11.2018, p. 0/1004502836). Rectificatif: l'inscription n° 20481 du 16.11.2018 (FOSC du 21.11.2018, p. 0/1004502836) est rectifiée en ce sens que la raison de commerce exacte est VMservice Sàrl. Statuts modifiés le 10 décembre 2018. Nouvelle raison de commerce: VMservices Sàrl.</publicationText>
+  <commonsNew>
+    <company>
+      <name>VMservices Sàrl</name>
+      <uid>CHE332240656</uid>
+      <uidOrganisationId>332240656</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011821541</code13>
+      <seat>Belmont-sur-Yverdon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand'Rue</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1432</swissZipCode>
+        <town>Belmont-sur-Yverdon</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes prestations de service dans le domaine de la mécanique industrielle, agricole, forestière et de chantier (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>VMservices Sàrl</name>
+      <uid>CHE332240656</uid>
+      <uidOrganisationId>332240656</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011821541</code13>
+      <seat>Belmont-sur-Yverdon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand'Rue</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1432</swissZipCode>
+        <town>Belmont-sur-Yverdon</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes prestations de service dans le domaine de la mécanique industrielle, agricole, forestière et de chantier (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-21</lastFoscDate>
+    <lastFoscSequence>1004502836</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

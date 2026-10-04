@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>47bf2c35-b71b-4289-8ca7-a110049b57f7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004699996</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation REYMOND SPORTS SOLUTIONS, Payerne</de>
+    <en>Change REYMOND SPORTS SOLUTIONS, Payerne</en>
+    <it>Cambiamenti REYMOND SPORTS SOLUTIONS, Payerne</it>
+    <fr>Mutation REYMOND SPORTS SOLUTIONS, Payerne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14835</journalNumber>
+  <journalDate>2019-08-16</journalDate>
+  <publicationText>REYMOND SPORTS SOLUTIONS, à Payerne, CHE-113.726.897 (FOSC du 22.12.2014, p. 0/1895741). Reymond Sébastien, dont la procuration est éteinte, signe maintenant collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>REYMOND SPORTS SOLUTIONS</name>
+      <uid>CHE113726897</uid>
+      <uidOrganisationId>113726897</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010504259</code13>
+      <seat>Payerne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Impasse Jolimont</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>conseils dans le domaine de la gestion du sport et organisation d'événements ainsi que toute activité commerciale y relative.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>REYMOND SPORTS SOLUTIONS</name>
+      <uid>CHE113726897</uid>
+      <uidOrganisationId>113726897</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010504259</code13>
+      <seat>Payerne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Impasse Jolimont</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>conseils dans le domaine de la gestion du sport et organisation d'événements ainsi que toute activité commerciale y relative.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-12-22</lastFoscDate>
+    <lastFoscNumber>247</lastFoscNumber>
+    <lastFoscSequence>1895741</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

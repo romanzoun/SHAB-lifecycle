@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>e53d54bd-d9b1-40ce-a386-c4e7df0da827</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004703710</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation ING Belgique, Bruxelles, succursale de Lancy/Genève, Lancy</de>
+    <en>Change ING Belgique, Bruxelles, succursale de Lancy/Genève, Lancy</en>
+    <it>Cambiamenti ING Belgique, Bruxelles, succursale de Lancy/Genève, Lancy</it>
+    <fr>Mutation ING Belgique, Bruxelles, succursale de Lancy/Genève, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15833</journalNumber>
+  <journalDate>2019-08-22</journalDate>
+  <publicationText>ING Belgique, Bruxelles, succursale de Lancy/Genève, à Lancy, CHE-109.333.566 (FOSC du 08.08.2019, p. 0/1004692602). Raison sociale du siège principal: ING Belgique [ING België] [ING Belgien] [ING Belgium]. Adjonction de la version anglaise de la raison de commerce: ING Belgique, Bruxelles, succursale de Lancy/Genève  [ING Belgium, Brussels, Lancy/Geneva branch].</publicationText>
+  <commonsNew>
+    <company>
+      <name>ING Belgique, Bruxelles, succursale de Lancy/Genève</name>
+      <translations>[en] ING Belgium, Brussels, Lancy/Geneva branch</translations>
+      <uid>CHE109333566</uid>
+      <uidOrganisationId>109333566</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012990017</code13>
+      <seat>Lancy</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Morgines</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Petit-Lancy</town>
+      </address>
+    </company>
+    <purpose>exercice d'activités bancaires, y compris le négoce de valeurs mobilières.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ING Belgique, Bruxelles, succursale de Lancy/Genève</name>
+      <uid>CHE109333566</uid>
+      <uidOrganisationId>109333566</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012990017</code13>
+      <seat>Lancy</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Morgines</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Petit-Lancy</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-08</lastFoscDate>
+    <lastFoscNumber>151</lastFoscNumber>
+    <lastFoscSequence>1004692602</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

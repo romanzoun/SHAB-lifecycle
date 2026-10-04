@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>13632101-ec79-4cad-b90b-fe9b3abc30fd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004614602</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Thoma Communication &amp; Consulting, Stocken-Höfen</de>
+    <en>Change Thoma Communication &amp; Consulting, Stocken-Höfen</en>
+    <it>Cambiamenti Thoma Communication &amp; Consulting, Stocken-Höfen</it>
+    <fr>Mutation Thoma Communication &amp; Consulting, Stocken-Höfen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6222</journalNumber>
+  <journalDate>2019-04-16</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 146 vom 30.07.2008, publizierten TR-Eintrag Nr. 8'150 vom 24.07.2008 Thoma Communication &amp; Consulting, in Stocken-Höfen, CHE-105.185.054, Einzelunternehmen (SHAB Nr. 146 vom 30.07.2008, S.5, Publ. 4595754). Das Einzelunternehmen wird im Handelsregister gelöscht.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Thoma Communication &amp; Consulting</name>
+      <uid>CHE105185054</uid>
+      <uidOrganisationId>105185054</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH09210110813</code13>
+      <seat>Stocken-Höfen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>3646</swissZipCode>
+        <town>Einigen</town>
+      </address>
+    </company>
+    <purpose>Jegliche Art von Dienstleistungen im Bereich Communication, Business Consulting und Management-Support</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Thoma Communication &amp; Consulting</name>
+      <uid>CHE105185054</uid>
+      <uidOrganisationId>105185054</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH09210110813</code13>
+      <seat>Stocken-Höfen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dorfstrasse</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>3646</swissZipCode>
+        <town>Einigen</town>
+      </address>
+    </company>
+    <purpose>Jegliche Art von Dienstleistungen im Bereich Communication, Business Consulting und Management-Support</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2008-07-30</lastFoscDate>
+    <lastFoscNumber>146</lastFoscNumber>
+    <lastFoscSequence>4595754</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

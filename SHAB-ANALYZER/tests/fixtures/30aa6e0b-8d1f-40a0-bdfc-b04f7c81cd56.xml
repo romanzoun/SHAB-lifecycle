@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>30856fe3-5f3f-4b8a-8556-4790e9ab11b2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004521609</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Fondazione Dr. Hans Dietler/Kottmann, Lugano</de>
+    <en>Change Fondazione Dr. Hans Dietler/Kottmann, Lugano</en>
+    <it>Cambiamenti Fondazione Dr. Hans Dietler/Kottmann, Lugano</it>
+    <fr>Mutation Fondazione Dr. Hans Dietler/Kottmann, Lugano</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16938</journalNumber>
+  <journalDate>2018-12-11</journalDate>
+  <publicationText>Fondazione Dr. Hans Dietler/Kottmann, in Lugano, CHE-101.898.327, fondazione (Nr. FUSC 21 del 31.01.2018, Pubbl. 4026799). Atto pubblico modificato: 17.04.2018. Atto di fondazione modificato con decisione della Vigilanza sulle fondazioni e LPP della Svizzera orientale (CHE-258.186.532) in Muralto in data 31.10.2018 anche su punti non soggetti a pubblicazione.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondazione Dr. Hans Dietler/Kottmann</name>
+      <uid>CHE101898327</uid>
+      <uidOrganisationId>101898327</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51470097441</code13>
+      <seat>Lugano</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Avv. Patrick Bonzanigo</addressLine1>
+        <street>Via G.B. Pioda</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6901</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>Conservare e promuovere il patrimonio artistico, culturale e spirituale del Cantone Ticino.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondazione Dr. Hans Dietler/Kottmann</name>
+      <uid>CHE101898327</uid>
+      <uidOrganisationId>101898327</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51470097441</code13>
+      <seat>Lugano</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Avv. Patrick Bonzanigo</addressLine1>
+        <street>Via G.B. Pioda</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6901</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>Conservare e promuovere il patrimonio artistico, culturale e spirituale del Cantone Ticino.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-01-31</lastFoscDate>
+    <lastFoscNumber>21</lastFoscNumber>
+    <lastFoscSequence>4026799</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

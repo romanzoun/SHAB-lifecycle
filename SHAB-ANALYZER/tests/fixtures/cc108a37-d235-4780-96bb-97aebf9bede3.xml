@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>cc065d54-bc6e-48aa-8055-9edb1204f8b6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004629977</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation AKIROGA SARL, en liquidation, Carouge (GE)</de>
+    <en>Change AKIROGA SARL, en liquidation, Carouge (GE)</en>
+    <it>Cambiamenti AKIROGA SARL, en liquidation, Carouge (GE)</it>
+    <fr>Mutation AKIROGA SARL, en liquidation, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8929</journalNumber>
+  <journalDate>2019-05-09</journalDate>
+  <publicationText>AKIROGA SARL, en liquidation, à Carouge (GE), CHE-240.616.711 (FOSC du 07.06.2018, p. 0/4276439). Adresse de liquidation actuelle: Rue du 31-Décembre 47, c/o Grant Thornton Spiess SA, 1207 Genève.</publicationText>
+  <commonsNew>
+    <company>
+      <name>AKIROGA SARL, en liquidation</name>
+      <uid>CHE240616711</uid>
+      <uidOrganisationId>240616711</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007440114</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o Grant Thornton Spiess SA</addressLine1>
+        <street>Rue du 31-Décembre</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>développement et promotion de sites web, notamment dans le domaine de la commercialisation de produits et de services, de la publicité ou des médias; services informatiques de tout genre, prestations de marketing ou de management (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AKIROGA SARL, en liquidation</name>
+      <uid>CHE240616711</uid>
+      <uidOrganisationId>240616711</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007440114</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o Baker Tilly Spiess SA</addressLine1>
+        <street>rue du 31-Décembre</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>développement et promotion de sites web, notamment dans le domaine de la commercialisation de produits et de services, de la publicité ou des médias; services informatiques de tout genre, prestations de marketing ou de management (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-07</lastFoscDate>
+    <lastFoscSequence>4276439</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

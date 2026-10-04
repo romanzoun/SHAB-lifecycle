@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>84f1e0bd-e13c-4204-9abb-8611840c7869</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005042581</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Dasta Charpente Holding SA, Plan-les-Ouates</de>
+    <en>Change Dasta Charpente Holding SA, Plan-les-Ouates</en>
+    <it>Cambiamenti Dasta Charpente Holding SA, Plan-les-Ouates</it>
+    <fr>Mutation Dasta Charpente Holding SA, Plan-les-Ouates</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21418</journalNumber>
+  <journalDate>2020-12-03</journalDate>
+  <publicationText>Dasta Charpente Holding SA, à Plan-les-Ouates, CHE-103.623.149 (FOSC du 25.11.2020, p. 0/1005031828). Les 200 actions de CHF 1'000, nominatives, sont désormais liées selon statuts. Capital-actions: CHF 200'000, libéré à concurrence de CHF 200'000, divisé en 200 actions de CHF 1'000, nominatives, liées selon statuts. Statuts modifiés le 25.11.2020, y compris sur des points non soumis à publication.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Dasta Charpente Holding SA</name>
+      <uid>CHE-103.623.149</uid>
+      <uidOrganisationId>103623149</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003849868</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Pré-Fleuri</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>prise de participations dans toutes sociétés oeuvrant notamment dans la construction de charpentes en bois, dans le sens d'une société holding, y compris de participations immobilières, non soumises à la LFAIE.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Dasta Charpente Holding SA</name>
+      <uid>CHE-103.623.149</uid>
+      <uidOrganisationId>103623149</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003849868</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Pré-Fleuri</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>prise de participations dans toutes sociétés oeuvrant notamment dans la construction de charpentes en bois, dans le sens d'une société holding, y compris de participations immobilières, non soumises à la LFAIE.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-25</lastFoscDate>
+    <lastFoscNumber>230</lastFoscNumber>
+    <lastFoscSequence>1005031828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

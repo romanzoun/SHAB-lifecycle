@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>b6d6a894-7e1b-4225-ad37-8f19b5c8653a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004781707</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Corbière + Stammler GmbH, St. Gallen</de>
+    <en>Change Corbière + Stammler GmbH, St. Gallen</en>
+    <it>Cambiamenti Corbière + Stammler GmbH, St. Gallen</it>
+    <fr>Mutation Corbière + Stammler GmbH, St. Gallen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11657</journalNumber>
+  <journalDate>2019-12-09</journalDate>
+  <publicationText>Corbière + Stammler GmbH, in St. Gallen, CHE-112.985.605, Gesellschaft mit beschränkter Haftung (SHAB Nr. 16 vom 24.01.2019, Publ. 1004550011). Zweigniederlassung neu: [gestrichen: Winterthur (CH-020.9.003.282-6)]. Zürich (CHE-400.681.301) [bisher: Zürich].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Corbière + Stammler GmbH</name>
+      <uid>CHE-112.985.605</uid>
+      <uidOrganisationId>112985605</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32040594975</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rorschacher Strasse</street>
+        <houseNumber>304</houseNumber>
+        <swissZipCode>9016</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Betrieb von Schausteller-Geschäften und Schausteller-Apparaten sowie deren Vermietung. Die Gesellschaft kann Zweigniederlassungen im In- und Ausland errichten, sich an anderen Unternehmen beteiligen, solche erwerben, neu errichten oder sich mit solchen zusammenschliessen sowie Liegenschaften kaufen, verwalten und verkaufen.</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Corbière + Stammler GmbH</name>
+      <uid>CHE-112.985.605</uid>
+      <uidOrganisationId>112985605</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32040594975</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rorschacher Strasse</street>
+        <houseNumber>304</houseNumber>
+        <swissZipCode>9016</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Betrieb von Schausteller-Geschäften und Schausteller-Apparaten sowie deren Vermietung. Die Gesellschaft kann Zweigniederlassungen im In- und Ausland errichten, sich an anderen Unternehmen beteiligen, solche erwerben, neu errichten oder sich mit solchen zusammenschliessen sowie Liegenschaften kaufen, verwalten und verkaufen.</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-24</lastFoscDate>
+    <lastFoscNumber>16</lastFoscNumber>
+    <lastFoscSequence>1004550011</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

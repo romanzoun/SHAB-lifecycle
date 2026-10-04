@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>1d471b90-e784-43dd-93d6-44a2b65b474a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004704678</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation SVP International SA, en liquidation, Genève</de>
+    <en>Change SVP International SA, en liquidation, Genève</en>
+    <it>Cambiamenti SVP International SA, en liquidation, Genève</it>
+    <fr>Mutation SVP International SA, en liquidation, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15926</journalNumber>
+  <journalDate>2019-08-23</journalDate>
+  <publicationText>SVP International SA, en liquidation, à Genève, CHE-107.913.304 (FOSC du 03.06.2019, p. 0/1004643464). Nouvelle adresse de liquidation: Rue Ferdinand-Hodler 17, c/o E. Kiss-Borlase, Bureau Fiduciaire SA, 1207 Genève.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SVP International SA, en liquidation</name>
+      <uid>CHE-107.913.304</uid>
+      <uidOrganisationId>107913304</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010969894</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o E. Kiss-Borlase</addressLine1>
+        <street>rue Pedro-Meylan 4, Bureau Fiduciaire SA</street>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o E. Kiss-Borlase, Bureau Fiduciaire SA</addressLine1>
+        <street>Rue Ferdinand-Hodler</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>diffusion, vente d'informations et de documentations; prestations de services et exploitation de marques, en particulier du sigle SVP; coordination et promotion des activités du groupe SVP; développement, exploitation et commercialisation des activités internationales des sociétés affiliées au groupe SVP; fourniture de prestations du groupe SVP.</purpose>
+    <capital>
+      <nominal>130000.00</nominal>
+      <paid>130000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SVP International SA, en liquidation</name>
+      <uid>CHE-107.913.304</uid>
+      <uidOrganisationId>107913304</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010969894</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o E. Kiss-Borlase</addressLine1>
+        <street>rue Pedro-Meylan 4, Bureau Fiduciaire SA</street>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>diffusion, vente d'informations et de documentations; prestations de services et exploitation de marques, en particulier du sigle SVP; coordination et promotion des activités du groupe SVP; développement, exploitation et commercialisation des activités internationales des sociétés affiliées au groupe SVP; fourniture de prestations du groupe SVP.</purpose>
+    <capital>
+      <nominal>130000.00</nominal>
+      <paid>130000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-03</lastFoscDate>
+    <lastFoscNumber>105</lastFoscNumber>
+    <lastFoscSequence>1004643464</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

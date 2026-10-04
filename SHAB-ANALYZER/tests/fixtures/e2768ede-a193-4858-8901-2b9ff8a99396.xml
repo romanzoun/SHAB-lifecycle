@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>e26fcb30-796e-4f10-9d73-04aa7c2ce3d1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005189167</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Zefitech AG, Hallwil</de>
+    <en>Change Zefitech AG, Hallwil</en>
+    <it>Cambiamenti Zefitech AG, Hallwil</it>
+    <fr>Mutation Zefitech AG, Hallwil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6483</journalNumber>
+  <journalDate>2021-05-18</journalDate>
+  <publicationText>Zefitech AG, in Hallwil, CHE-108.730.344, Aktiengesellschaft (SHAB Nr. 252 vom 28.12.2011, S.0, Publ. 6480772). Die Inhaberaktien sind am 1. Mai 2021 von Gesetzes wegen in Namenaktien umgewandelt worden. Die Statuten der Gesellschaft sind noch nicht an die Umwandlung angepasst worden; die Anpassung muss anlässlich der nächsten Statutenänderung erfolgen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Zefitech AG</name>
+      <uid>CHE-108.730.344</uid>
+      <uidOrganisationId>108730344</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030107780</code13>
+      <seat>Hallwil</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dürrenäscherstrasse</street>
+        <houseNumber>107</houseNumber>
+        <swissZipCode>5705</swissZipCode>
+        <town>Hallwil</town>
+      </address>
+    </company>
+    <purpose>Herstellung von und Handel mit technischen Erzeugnissen; kann Zweigniederlassungen und Tochtergesellschaften errichten und sich an anderen Unternehmen beteiligen, kann Grundeigentum erwerben, belasten, veräussern und verwalten, kann auch Finanzierungen vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Zefitech AG</name>
+      <uid>CHE-108.730.344</uid>
+      <uidOrganisationId>108730344</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030107780</code13>
+      <seat>Hallwil</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dürrenäscherstrasse</street>
+        <houseNumber>107</houseNumber>
+        <swissZipCode>5705</swissZipCode>
+        <town>Hallwil</town>
+      </address>
+    </company>
+    <purpose>Herstellung von und Handel mit technischen Erzeugnissen; kann Zweigniederlassungen und Tochtergesellschaften errichten und sich an anderen Unternehmen beteiligen, kann Grundeigentum erwerben, belasten, veräussern und verwalten, kann auch Finanzierungen vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2011-12-28</lastFoscDate>
+    <lastFoscNumber>252</lastFoscNumber>
+    <lastFoscSequence>6480772</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

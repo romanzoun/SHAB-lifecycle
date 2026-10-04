@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>a76580c3-9efc-4bf5-a782-c6d65d62f3fc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004777435</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation S.E.B. Services Entretien Bois Sylvain Burri, Ollon</de>
+    <en>Change S.E.B. Services Entretien Bois Sylvain Burri, Ollon</en>
+    <it>Cambiamenti S.E.B. Services Entretien Bois Sylvain Burri, Ollon</it>
+    <fr>Mutation S.E.B. Services Entretien Bois Sylvain Burri, Ollon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21870</journalNumber>
+  <journalDate>2019-12-03</journalDate>
+  <publicationText>S.E.B. Services Entretien Bois Sylvain Burri, à Ollon, CHE-416.616.261 (FOSC du 22.07.2019, p. 0/1004681453). Par décision du 28 novembre 2019, le Président du Tribunal de l'arrondissement de l'Est vaudois a prolongé le sursis concordataire définitif accordé au titulaire jusqu'au 25 mai 2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>S.E.B. Services Entretien Bois Sylvain Burri</name>
+      <uid>CHE-416.616.261</uid>
+      <uidOrganisationId>416616261</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011261938</code13>
+      <seat>Ollon</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Distillerie</street>
+        <houseNumber>65</houseNumber>
+        <swissZipCode>1867</swissZipCode>
+        <town>Ollon VD</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise dans les services forestiers, paysagisme, routier, ferroviaire; production de bois de chauffage et pellet.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>S.E.B. Services Entretien Bois Sylvain Burri</name>
+      <uid>CHE-416.616.261</uid>
+      <uidOrganisationId>416616261</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011261938</code13>
+      <seat>Ollon</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Distillerie</street>
+        <houseNumber>65</houseNumber>
+        <swissZipCode>1867</swissZipCode>
+        <town>Ollon VD</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise dans les services forestiers, paysagisme, routier, ferroviaire; production de bois de chauffage et pellet.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-22</lastFoscDate>
+    <lastFoscNumber>139</lastFoscNumber>
+    <lastFoscSequence>1004681453</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>c845537c-b2dc-40ec-a0e4-3a61e55e512b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004522975</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SERVE Consultant SARL en liquidation, bisher SERVE Consultant SARL, Dully</de>
+    <en>Change SERVE Consultant SARL en liquidation, to date SERVE Consultant SARL, Dully</en>
+    <it>Cambiamenti SERVE Consultant SARL en liquidation, prima SERVE Consultant SARL, Dully</it>
+    <fr>Mutation SERVE Consultant SARL en liquidation, Dully</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22248</journalNumber>
+  <journalDate>2018-12-12</journalDate>
+  <publicationText>SERVE Consultant SARL, à Dully, CHE-229.603.605 (FOSC du 23.03.2015, p. 0/2057543). Selon décision de son assemblée des associés du 5 décembre 2018, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: SERVE Consultant SARL en liquidation. Reboul Rémy et Schneider Reboul Valérie, désormais à Dully, sont nommés liquidateurs avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SERVE Consultant SARL en liquidation</name>
+      <uid>CHE229603605</uid>
+      <uidOrganisationId>229603605</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011245667</code13>
+      <seat>Dully</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Rémy Reboul</addressLine1>
+        <street>Rue Saint-Bonnet</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1195</swissZipCode>
+        <town>Dully</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toute activité de conseil et commerce dans tout domaine agricole (vin, huile d'olive, production céréalière et agroalimentaire en général), ainsi que toute activité de consulting industriel et en matière immobilière (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SERVE Consultant SARL</name>
+      <uid>CHE229603605</uid>
+      <uidOrganisationId>229603605</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011245667</code13>
+      <seat>Dully</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Rémy Reboul</addressLine1>
+        <street>Rue Saint-Bonnet</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1195</swissZipCode>
+        <town>Dully</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toute activité de conseil et commerce dans tout domaine agricole (vin, huile d'olive, production céréalière et agroalimentaire en général), ainsi que toute activité de consulting industriel et en matière immobilière (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-03-23</lastFoscDate>
+    <lastFoscSequence>2057543</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>6aba19a6-e983-4d7e-a68c-6c3b029d7d7b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004795653</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Forchettando snc, Bellinzona</de>
+    <en>Change Forchettando snc, Bellinzona</en>
+    <it>Cambiamenti Forchettando snc, Bellinzona</it>
+    <fr>Mutation Forchettando snc, Bellinzona</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17634</journalNumber>
+  <journalDate>2019-12-23</journalDate>
+  <publicationText>Forchettando snc, in Bellinzona, CHE-432.909.454, società in nome collettivo (Nr. FUSC 183 del 21.09.2018, Pubbl. 1004460478). Trasferimento di patrimonio: secondo contratto del 19.12.2019 la società ha trasferito alla Artcucina Sagl, Bellinzona (CHE-311.178.135), attivi per CHF 20'000.00 e passivi verso terzi per CHF 0.00. Controprestazione: CHF 20'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Forchettando snc</name>
+      <uid>CHE-432.909.454</uid>
+      <uidOrganisationId>432909454</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50120152469</code13>
+      <seat>Bellinzona</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Forbo-Giubiasco SA</addressLine1>
+        <street>Via Industrie</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>6512</swissZipCode>
+        <town>Giubiasco</town>
+      </address>
+    </company>
+    <purpose>Preparazioni culinarie senza derivati animali. Confezionamento di pasti trasportati vegan e preparazioni di gastronomia vegana da asporto.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Forchettando snc</name>
+      <uid>CHE-432.909.454</uid>
+      <uidOrganisationId>432909454</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50120152469</code13>
+      <seat>Bellinzona</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Forbo-Giubiasco SA</addressLine1>
+        <street>Via Industrie</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>6512</swissZipCode>
+        <town>Giubiasco</town>
+      </address>
+    </company>
+    <purpose>Preparazioni culinarie senza derivati animali. Confezionamento di pasti trasportati vegan e preparazioni di gastronomia vegana da asporto.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-21</lastFoscDate>
+    <lastFoscNumber>183</lastFoscNumber>
+    <lastFoscSequence>1004460478</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

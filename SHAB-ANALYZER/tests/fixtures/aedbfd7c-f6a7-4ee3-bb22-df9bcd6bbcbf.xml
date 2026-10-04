@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.19/HR02-export.xsd">
+<meta>
+  <id>aeb6564c-c3a5-4593-bba3-531bae651364</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005884645</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-11-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Grutman Sàrl, Nyon</de>
+    <en>Change Grutman Sàrl, Nyon</en>
+    <it>Cambiamenti Grutman Sàrl, Nyon</it>
+    <fr>Mutation Grutman Sàrl, Nyon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19086</journalNumber>
+  <journalDate>2023-11-09</journalDate>
+  <publicationText>Grutman Sàrl, à Nyon, CHE-114.686.504 (FOSC du 17.01.2017, p. 0/3288525). Grutman Alexandre et Becart Sophie sont maintenant de Nyon.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Grutman Sàrl</name>
+      <uid>CHE-114.686.504</uid>
+      <uidOrganisationId>114686504</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010568403</code13>
+      <seat>Nyon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Marchandises</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>la prestation de tous services et la fourniture de tous conseils dans le domaine de la finance; l'achat et la vente de participations dans toutes sociétés; la gestion et l'administration de toutes sociétés; l'achat, la vente, la mise en valeur et la gestion de biens immobiliers, ainsi que toute activité de courtage (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Grutman Sàrl</name>
+      <uid>CHE-114.686.504</uid>
+      <uidOrganisationId>114686504</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010568403</code13>
+      <seat>Nyon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Marchandises</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>la prestation de tous services et la fourniture de tous conseils dans le domaine de la finance; l'achat et la vente de participations dans toutes sociétés; la gestion et l'administration de toutes sociétés; l'achat, la vente, la mise en valeur et la gestion de biens immobiliers, ainsi que toute activité de courtage (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-01-17</lastFoscDate>
+    <lastFoscNumber>11</lastFoscNumber>
+    <lastFoscSequence>3288525</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

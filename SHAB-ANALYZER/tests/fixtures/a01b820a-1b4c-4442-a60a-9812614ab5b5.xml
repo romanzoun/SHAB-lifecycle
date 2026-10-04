@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.15/HR02-export.xsd">
+<meta>
+  <id>a01b820a-1b4c-4442-a60a-9812614ab5b5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005521131</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-07-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <secondaryTenants>
+    <tenantCode>kabti</tenantCode>
+    <publicationDate>2022-07-14</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation Planzer Transport AG, Torricella-Taverne</de>
+    <en>Change Planzer Transport AG, Torricella-Taverne</en>
+    <it>Cambiamenti Planzer Transport AG, Torricella-Taverne</it>
+    <fr>Mutation Planzer Transport AG, Torricella-Taverne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9044</journalNumber>
+  <journalDate>2022-07-11</journalDate>
+  <publicationText>Planzer Transport AG, in Torricella-Taverne, CHE-136.659.504, succursale svizzera (Nr. FUSC 154 del 13.08.2013, p.0, Pubbl. 1025223), Sede principale a: Schwyz. Nuovo numero di identificazione della sede principale: CHE-149.541.792 [finora: Numero di identificazione della sede principale: CH-130.3.018.756-3]. Nuova sede principale: Dietikon [finora: Schwyz].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Planzer Transport AG</name>
+      <uid>CHE-136.659.504</uid>
+      <uidOrganisationId>136659504</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50190152518</code13>
+      <seat>Torricella-Taverne</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Brüsighell</street>
+        <swissZipCode>6807</swissZipCode>
+        <town>Taverne</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Planzer Transport AG</name>
+      <country>CH</country>
+      <uid>CHE-149.541.792</uid>
+      <uidOrganisationId>149541792</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Planzer Transport AG</name>
+      <uid>CHE-136.659.504</uid>
+      <uidOrganisationId>136659504</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50190152518</code13>
+      <seat>Torricella-Taverne</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Brüsighell</street>
+        <swissZipCode>6807</swissZipCode>
+        <town>Taverne</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-08-13</lastFoscDate>
+    <lastFoscNumber>154</lastFoscNumber>
+    <lastFoscSequence>1025223</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

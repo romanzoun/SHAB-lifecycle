@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>2cbb344d-e87b-482a-9d2d-abafaba84e56</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004853687</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation EVENTICA'S / Cordeiro Baptista Domingues, Vionnaz</de>
+    <en>Change EVENTICA'S / Cordeiro Baptista Domingues, Vionnaz</en>
+    <it>Cambiamenti EVENTICA'S / Cordeiro Baptista Domingues, Vionnaz</it>
+    <fr>Mutation EVENTICA'S / Cordeiro Baptista Domingues, Vionnaz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>801</journalNumber>
+  <journalDate>2020-03-11</journalDate>
+  <publicationText>EVENTICA'S / Cordeiro Baptista Domingues, à Vionnaz, CHE-275.515.588, entreprise individuelle (No. FOSC 230 du 27.11.2018, Publ. 1004507181). Autres adresses: Avenue de Savoie 35, 1896 Vouvry.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EVENTICA'S / Cordeiro Baptista Domingues</name>
+      <uid>CHE-275.515.588</uid>
+      <uidOrganisationId>275515588</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110101785</code13>
+      <seat>Vionnaz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ch. des Généroux</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1895</swissZipCode>
+        <town>Vionnaz</town>
+      </address>
+    </company>
+    <purpose>espace lié au mariage; wedding planner; entreprise événementielle, demande en mariage; son et lumière, conseils et coaching; traiteur, event designer; bureau d'architecte</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EVENTICA'S / Cordeiro Baptista Domingues</name>
+      <uid>CHE-275.515.588</uid>
+      <uidOrganisationId>275515588</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110101785</code13>
+      <seat>Vionnaz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ch. des Généroux</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1895</swissZipCode>
+        <town>Vionnaz</town>
+      </address>
+    </company>
+    <purpose>espace lié au mariage; wedding planner; entreprise événementielle, demande en mariage; son et lumière, conseils et coaching; traiteur, event designer; bureau d'architecte</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-27</lastFoscDate>
+    <lastFoscNumber>230</lastFoscNumber>
+    <lastFoscSequence>1004507181</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

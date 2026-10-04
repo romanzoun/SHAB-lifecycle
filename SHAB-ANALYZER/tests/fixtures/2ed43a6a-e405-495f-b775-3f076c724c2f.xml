@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>2e0b2a67-cfe0-4c43-9afc-374b4cf539ce</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004661345</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Conditorei Confiserie Brandl, Basel</de>
+    <en>Change Conditorei Confiserie Brandl, Basel</en>
+    <it>Cambiamenti Conditorei Confiserie Brandl, Basel</it>
+    <fr>Mutation Conditorei Confiserie Brandl, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3608</journalNumber>
+  <journalDate>2019-06-24</journalDate>
+  <publicationText>Conditorei Confiserie Brandl, in Basel, CHE-107.737.295, Einzelunternehmen (SHAB Nr. 116 vom 19.06.2019, Publ. 1004654811). Mit Entscheid vom 19.06.2019 hat das Appellationsgericht Basel-Stadt der Beschwerde gegen den Entscheid des Zivilgerichts Basel-Stadt vom 13.06.2019, mit dem über den Inhaber des Einzelunternehmens der Konkurs eröffnet wurde, die aufschiebende Wirkung gewährt. [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Entscheid des Zivilgerichts Basel-Stadt vom 13.06.2019 mit Wirkung ab dem 13.06.2019, 15.19 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Conditorei Confiserie Brandl</name>
+      <uid>CHE107737295</uid>
+      <uidOrganisationId>107737295</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27010007823</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wattstr.</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>4056</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Konditorei und Confiserie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Conditorei Confiserie Brandl</name>
+      <uid>CHE107737295</uid>
+      <uidOrganisationId>107737295</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27010007823</code13>
+      <seat>Basel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wattstr.</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>4056</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Konditorei und Confiserie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-19</lastFoscDate>
+    <lastFoscNumber>116</lastFoscNumber>
+    <lastFoscSequence>1004654811</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

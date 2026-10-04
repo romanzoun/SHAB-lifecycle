@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>74079417-bbfd-4cc4-a4e2-7d424c87d1f8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004471350</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation Dodax AG, Zug</de>
+    <en>Change Dodax AG, Zug</en>
+    <it>Cambiamenti Dodax AG, Zug</it>
+    <fr>Mutation Dodax AG, Zug</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14037</journalNumber>
+  <journalDate>2018-10-03</journalDate>
+  <publicationText>Dodax AG, in Zug, CHE-114.947.544, Aktiengesellschaft (SHAB Nr. 150 vom 07.08.2018, Publ. 4400941). Mit Entscheid vom 02.10.2018 hat der Einzelrichter am Kantonsgericht die provisorische Nachlassstundung widerrufen. [bisher: Mit Entscheid vom 05.06.2018 hat der Einzelrichter am Kantonsgericht eine provisorische Nachlassstundung bis 06.08.2018 gewährt.]. [gestrichen: Mit Entscheid vom 31.07.2018 hat der Einzelrichter am Kantonsgericht eine provisorische Nachlassstundung bis letztmals 05.10.2018 verlängert.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Dodax AG</name>
+      <uid>CHE114947544</uid>
+      <uidOrganisationId>114947544</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040090142</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o VISTA CONSULT AG</addressLine1>
+        <street>Postplatz</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6301</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Versand von Büchern, Bild- und Tonträgern sowie EDV-Artikeln aller Art; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>3110000.00</nominal>
+      <paid>3110000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Dodax AG</name>
+      <uid>CHE114947544</uid>
+      <uidOrganisationId>114947544</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17040090142</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o VISTA CONSULT AG</addressLine1>
+        <street>Postplatz</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6301</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Versand von Büchern, Bild- und Tonträgern sowie EDV-Artikeln aller Art; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>3110000.00</nominal>
+      <paid>3110000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-07</lastFoscDate>
+    <lastFoscNumber>150</lastFoscNumber>
+    <lastFoscSequence>4400941</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

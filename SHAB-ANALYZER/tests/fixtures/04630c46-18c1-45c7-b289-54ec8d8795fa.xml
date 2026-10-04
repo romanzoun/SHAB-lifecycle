@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+<meta>
+  <id>04434d57-3d03-46f6-a000-73a840843fe0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005422760</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-03-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Lombard Odier &amp; Partners SCm, Collonge-Bellerive</de>
+    <en>Change Lombard Odier &amp; Partners SCm, Collonge-Bellerive</en>
+    <it>Cambiamenti Lombard Odier &amp; Partners SCm, Collonge-Bellerive</it>
+    <fr>Mutation Lombard Odier &amp; Partners SCm, Collonge-Bellerive</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4244</journalNumber>
+  <journalDate>2022-03-03</journalDate>
+  <publicationText>Lombard Odier &amp; Partners SCm, à Collonge-Bellerive, CHE-356.369.536 (FOSC du 12.07.2021, p. 0/1005247210). Nouvel associé indéfiniment responsable : Porcherot Jean-Pascal, de France, à Cologny avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Lombard Odier &amp; Partners SCm</name>
+      <uid>CHE-356.369.536</uid>
+      <uidOrganisationId>356369536</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030960130</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Milieu</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1245</swissZipCode>
+        <town>Collonge-Bellerive</town>
+      </address>
+    </company>
+    <purpose>prise de participations directes ou indirectes à d'autres entreprises.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Lombard Odier &amp; Partners SCm</name>
+      <uid>CHE-356.369.536</uid>
+      <uidOrganisationId>356369536</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030960130</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Milieu</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1245</swissZipCode>
+        <town>Collonge-Bellerive</town>
+      </address>
+    </company>
+    <purpose>prise de participations directes ou indirectes à d'autres entreprises.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-07-12</lastFoscDate>
+    <lastFoscNumber>132</lastFoscNumber>
+    <lastFoscSequence>1005247210</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

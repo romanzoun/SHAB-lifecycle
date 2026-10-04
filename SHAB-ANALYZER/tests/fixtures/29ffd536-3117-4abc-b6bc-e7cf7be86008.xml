@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>29ee4a66-302e-45fa-ba0e-df364962741f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005190685</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation IG Immonova AG in Liquidation, Basel</de>
+    <en>Change IG Immonova AG in Liquidation, Basel</en>
+    <it>Cambiamenti IG Immonova AG in Liquidation, Basel</it>
+    <fr>Mutation IG Immonova AG in Liquidation, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3310</journalNumber>
+  <journalDate>2021-05-19</journalDate>
+  <publicationText>IG Immonova AG in Liquidation, in Basel, CHE-114.421.153, Aktiengesellschaft (SHAB Nr. 221 vom 12.11.2020, Publ. 1005021263). Aktien neu: 100'000 Namenaktien zu CHF 1.00 [bisher: 100'000 Inhaberaktien zu CHF 1.00]. Die Inhaberaktien sind am 01.05.2021 von Gesetzes wegen in Namenaktien umgewandelt worden. Die Statuten der Gesellschaft sind noch nicht an die Umwandlung angepasst; die Anpassung muss anlässlich der nächsten Statutenänderung erfolgen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>IG Immonova AG in Liquidation</name>
+      <uid>CHE-114.421.153</uid>
+      <uidOrganisationId>114421153</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030324285</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hegenheimerstr.</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>4055</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt Projektierung, Umbau, Renovation, Erwerb, Halten, Verwaltung sowie Vermittlung von Liegenschaften. Die Gesellschaft kann sich an anderen Unternehmungen beteiligen, gleichartige oder verwandte Unternehmungen erwerben oder errichten sowie Urheberrechte, Patente und Lizenzen aller Art erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IG Immonova AG in Liquidation</name>
+      <uid>CHE-114.421.153</uid>
+      <uidOrganisationId>114421153</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030324285</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hegenheimerstr.</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>4055</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt Projektierung, Umbau, Renovation, Erwerb, Halten, Verwaltung sowie Vermittlung von Liegenschaften. Die Gesellschaft kann sich an anderen Unternehmungen beteiligen, gleichartige oder verwandte Unternehmungen erwerben oder errichten sowie Urheberrechte, Patente und Lizenzen aller Art erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-12</lastFoscDate>
+    <lastFoscNumber>221</lastFoscNumber>
+    <lastFoscSequence>1005021263</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0bb6ac7c-26d4-436d-ac62-22766aee5008</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004454515</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>JU</cantons>
+  <title>
+    <de>Mutation PRECI-DIP SA, Delémont</de>
+    <en>Change PRECI-DIP SA, Delémont</en>
+    <it>Cambiamenti PRECI-DIP SA, Delémont</it>
+    <fr>Mutation PRECI-DIP SA, Delémont</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1041</journalNumber>
+  <journalDate>2018-09-07</journalDate>
+  <publicationText>PRECI-DIP SA, à Delémont, CHE-101.865.718, société anonyme (No. FOSC 115 du 18.06.2018, Publ. 4297101). Inscription ou modification de personne(s): Narcisi, Camillo, ressortissant italien, à La Chaux-de-Fonds, avec procuration collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>PRECI-DIP SA</name>
+      <uid>CHE101865718</uid>
+      <uidOrganisationId>101865718</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030017829</code13>
+      <seat>Delémont</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue St-Henri</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2800</swissZipCode>
+        <town>Delémont</town>
+      </address>
+    </company>
+    <purpose>Construction, fabrication, achat, vente, importation, exportation de contacts et de connecteurs pour l'électronique, ainsi que d'autres composants électro-mécaniques.</purpose>
+    <capital>
+      <nominal>1200000.00</nominal>
+      <paid>1200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PRECI-DIP SA</name>
+      <uid>CHE101865718</uid>
+      <uidOrganisationId>101865718</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030017829</code13>
+      <seat>Delémont</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue St-Henri</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2800</swissZipCode>
+        <town>Delémont</town>
+      </address>
+    </company>
+    <purpose>Construction, fabrication, achat, vente, importation, exportation de contacts et de connecteurs pour l'électronique, ainsi que d'autres composants électro-mécaniques.</purpose>
+    <capital>
+      <nominal>1200000.00</nominal>
+      <paid>1200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-18</lastFoscDate>
+    <lastFoscNumber>115</lastFoscNumber>
+    <lastFoscSequence>4297101</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton du Jura</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

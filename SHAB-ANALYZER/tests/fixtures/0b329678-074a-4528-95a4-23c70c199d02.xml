@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0afd8f91-c9b3-4fc8-8ce2-72ed0088d63b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004450715</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Institut capillaire, La Natur'elle coiffure et perruques médicales - Blanc, Martigny</de>
+    <en>Change Institut capillaire, La Natur'elle coiffure et perruques médicales - Blanc, Martigny</en>
+    <it>Cambiamenti Institut capillaire, La Natur'elle coiffure et perruques médicales - Blanc, Martigny</it>
+    <fr>Mutation Institut capillaire, La Natur'elle coiffure et perruques médicales - Blanc, Martigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2205</journalNumber>
+  <journalDate>2018-09-03</journalDate>
+  <publicationText>Institut capillaire, La Natur'elle coiffure et perruques médicales - Blanc, à Martigny, CHE-229.415.334, entreprise individuelle (No. FOSC 127 du 04.07.2018, Publ. 4336079). Nouveau numéro IDE: CHE-230.371.985 [précédemment: CHE-229.415.334].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Institut capillaire, La Natur'elle coiffure et perruques médicales - Blanc</name>
+      <uid>CHE230371985</uid>
+      <uidOrganisationId>230371985</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110100874</code13>
+      <seat>Martigny</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Av. de la Gare</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>soins capillaires aux huiles essentielles, coiffure, perruques médicales</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Institut capillaire, La Natur'elle coiffure et perruques médicales - Blanc</name>
+      <uid>CHE229415334</uid>
+      <uidOrganisationId>229415334</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110100874</code13>
+      <seat>Martigny</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Av. de la Gare</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>soins capillaires aux huiles essentielles, coiffure, perruques médicales</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-04</lastFoscDate>
+    <lastFoscNumber>127</lastFoscNumber>
+    <lastFoscSequence>4336079</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>true</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

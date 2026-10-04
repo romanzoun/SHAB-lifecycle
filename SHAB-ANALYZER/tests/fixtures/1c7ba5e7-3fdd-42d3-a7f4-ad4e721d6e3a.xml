@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>1c49fc8a-6261-4fa9-8901-99d074404858</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004789333</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>OW</cantons>
+  <title>
+    <de>Mutation Gastro Event Thomas Stäger, Alpnach</de>
+    <en>Change Gastro Event Thomas Stäger, Alpnach</en>
+    <it>Cambiamenti Gastro Event Thomas Stäger, Alpnach</it>
+    <fr>Mutation Gastro Event Thomas Stäger, Alpnach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1484</journalNumber>
+  <journalDate>2019-12-17</journalDate>
+  <publicationText>Gastro Event Thomas Stäger, in Alpnach, CHE-195.050.190, Einzelunternehmen (SHAB Nr. 131 vom 10.07.2019, Publ. 1004672288). Das Konkursverfahren ist mit Entscheid des Obergerichts des Kantons Obwalden vom 04.12.2019 als geschlossen erklärt worden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Gastro Event Thomas Stäger</name>
+      <uid>CHE-195.050.190</uid>
+      <uidOrganisationId>195050190</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH14014397019</code13>
+      <seat>Alpnach</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Baumgartenstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>6055</swissZipCode>
+        <town>Alpnach Dorf</town>
+      </address>
+    </company>
+    <purpose>Planung und Durchführung von gastronomischen Veranstaltungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Gastro Event Thomas Stäger</name>
+      <uid>CHE-195.050.190</uid>
+      <uidOrganisationId>195050190</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH14014397019</code13>
+      <seat>Alpnach</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Baumgartenstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>6055</swissZipCode>
+        <town>Alpnach Dorf</town>
+      </address>
+    </company>
+    <purpose>Planung und Durchführung von gastronomischen Veranstaltungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-10</lastFoscDate>
+    <lastFoscNumber>131</lastFoscNumber>
+    <lastFoscSequence>1004672288</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Obwalden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

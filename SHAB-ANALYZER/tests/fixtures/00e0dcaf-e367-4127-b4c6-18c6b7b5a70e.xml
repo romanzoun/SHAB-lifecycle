@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>00b9d2e7-c65f-48a0-ab28-cd3e6ca63a45</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004571199</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Swiss Building AS SNC, Crassier</de>
+    <en>Change Swiss Building AS SNC, Crassier</en>
+    <it>Cambiamenti Swiss Building AS SNC, Crassier</it>
+    <fr>Mutation Swiss Building AS SNC, Crassier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3277</journalNumber>
+  <journalDate>2019-02-15</journalDate>
+  <publicationText>Swiss Building AS SNC, à Crassier, CHE-249.858.025, Société en nom collectif (FOSC du 28.09.2018, p. 0/1004465349). Rectificatif: l'inscription no 16941 du 25.09.2018 (FOSC du 28.09.2018 p. 0/1004465349) est rectifiée en ce sens que la date de commencement de la société est le 24 septembre 2018 (et non le 24 septembre 2019 comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Swiss Building AS SNC</name>
+      <uid>CHE249858025</uid>
+      <uidOrganisationId>249858025</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011814661</code13>
+      <seat>Crassier</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Tour</street>
+        <houseNumber>28</houseNumber>
+        <swissZipCode>1263</swissZipCode>
+        <town>Crassier</town>
+      </address>
+    </company>
+    <purpose>conseils, gestion générale, commercialisation de produits aux entreprises dans le domaine des appareils médicaux et machinerie agricole notamment.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Swiss Building AS SNC</name>
+      <uid>CHE249858025</uid>
+      <uidOrganisationId>249858025</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011814661</code13>
+      <seat>Crassier</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Tour</street>
+        <houseNumber>28</houseNumber>
+        <swissZipCode>1263</swissZipCode>
+        <town>Crassier</town>
+      </address>
+    </company>
+    <purpose>conseils, gestion générale, commercialisation de produits aux entreprises dans le domaine des appareils médicaux et machinerie agricole notamment.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-28</lastFoscDate>
+    <lastFoscSequence>1004465349</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

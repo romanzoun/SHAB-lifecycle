@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>87679ab7-56cb-40fe-9bb7-653f345eeb27</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004783410</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Cuénod Constructions SA, Vernier</de>
+    <en>Change Cuénod Constructions SA, Vernier</en>
+    <it>Cambiamenti Cuénod Constructions SA, Vernier</it>
+    <fr>Mutation Cuénod Constructions SA, Vernier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23196</journalNumber>
+  <journalDate>2019-12-10</journalDate>
+  <publicationText>Cuénod Constructions SA, à Vernier, CHE-113.749.711 (FOSC du 01.04.2019, p. 0/1004600433). Transfert de patrimoine: selon contrat du 14.05.2019, la société a transféré des actifs pour EUR 900'143 et des passifs envers les tiers pour EUR 888'268 à la société CUENOD CONSTRUCTIONS SARLU (843 738 923 RCS Annecy), à Pringy, F. Contre-prestation: EUR 11'875.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cuénod Constructions SA</name>
+      <uid>CHE-113.749.711</uid>
+      <uidOrganisationId>113749711</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66018460070</code13>
+      <seat>Vernier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Sellières</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>1219</swissZipCode>
+        <town>Aïre</town>
+      </address>
+    </company>
+    <purpose>réaliser en entreprise générale toutes constructions dans les domaines du bâtiment et du génie civil, conclure, exécuter, sous-traiter et coordonner tous travaux.</purpose>
+    <capital>
+      <nominal>250000.00</nominal>
+      <paid>250000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cuénod Constructions SA</name>
+      <uid>CHE-113.749.711</uid>
+      <uidOrganisationId>113749711</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66018460070</code13>
+      <seat>Vernier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Sellières</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>1219</swissZipCode>
+        <town>Aïre</town>
+      </address>
+    </company>
+    <purpose>réaliser en entreprise générale toutes constructions dans les domaines du bâtiment et du génie civil, conclure, exécuter, sous-traiter et coordonner tous travaux.</purpose>
+    <capital>
+      <nominal>250000.00</nominal>
+      <paid>250000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-01</lastFoscDate>
+    <lastFoscNumber>63</lastFoscNumber>
+    <lastFoscSequence>1004600433</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

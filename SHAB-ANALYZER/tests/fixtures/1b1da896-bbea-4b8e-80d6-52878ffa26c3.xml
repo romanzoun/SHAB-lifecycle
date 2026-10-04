@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>1afa1a0d-7797-45b8-bcd8-355f2158373f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004633130</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation NASH AIRPORT SA, Meyrin</de>
+    <en>Change NASH AIRPORT SA, Meyrin</en>
+    <it>Cambiamenti NASH AIRPORT SA, Meyrin</it>
+    <fr>Mutation NASH AIRPORT SA, Meyrin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9235</journalNumber>
+  <journalDate>2019-05-14</journalDate>
+  <publicationText>NASH AIRPORT SA, à Meyrin, CHE-109.615.467 (FOSC du 13.02.2019, p. 0/1004566012). L'administrateur Buchs Jean-Bernard et le directeur Freh Ghazi, signent désormais collectivement à deux avec El Nasharty Ahmed; leurs pouvoirs sont modifiés en ce sens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>NASH AIRPORT SA</name>
+      <uid>CHE109615467</uid>
+      <uidOrganisationId>109615467</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010300475</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Violette</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1216</swissZipCode>
+        <town>Cointrin</town>
+      </address>
+    </company>
+    <purpose>détention et exploitation d'hôtels, notamment à proximité de l'Aéroport International de Genève, ainsi que toutes activités liées à ce but, à l'exception d'opérations soumises à la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>NASH AIRPORT SA</name>
+      <uid>CHE109615467</uid>
+      <uidOrganisationId>109615467</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010300475</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Violette</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1216</swissZipCode>
+        <town>Cointrin</town>
+      </address>
+    </company>
+    <purpose>détention et exploitation d'hôtels, notamment à proximité de l'Aéroport International de Genève, ainsi que toutes activités liées à ce but, à l'exception d'opérations soumises à la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-13</lastFoscDate>
+    <lastFoscSequence>1004566012</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

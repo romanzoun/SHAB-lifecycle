@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>c4909f70-c9f8-49f8-bd1a-82221dd6db52</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004549868</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Verniplast A.G., Bulle</de>
+    <en>Change Verniplast A.G., Bulle</en>
+    <it>Cambiamenti Verniplast A.G., Bulle</it>
+    <fr>Mutation Verniplast A.G., Bulle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>426</journalNumber>
+  <journalDate>2019-01-21</journalDate>
+  <publicationText>Verniplast A.G., à Bulle, CHE-102.539.285 (FOSC du 17.01.2019, p. 0/1004544087). Rectification de l'inscription n° 6487 du 07.12.2018 (FOSC du 12.12.2018, Id 1004518744) est rectifiée dans ce sens que Kerstens Yves Gaston, administrateur président, est originaire de Belgique (et non pas de Louvain) et Gast Klaus-Georg, administrateur, est originaire d'Allemagne (et non pas de Munich).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Verniplast A.G.</name>
+      <uid>CHE102539285</uid>
+      <uidOrganisationId>102539285</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21704310269</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue St-Joseph</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>1630</swissZipCode>
+        <town>Bulle</town>
+      </address>
+    </company>
+    <purpose>la fabrication et le commerce de produits chimiques et techniques en particulier de produits en matière synthétique.</purpose>
+    <capital>
+      <nominal>2500000.00</nominal>
+      <paid>2500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Verniplast A.G.</name>
+      <uid>CHE102539285</uid>
+      <uidOrganisationId>102539285</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21704310269</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue St-Joseph</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>1630</swissZipCode>
+        <town>Bulle</town>
+      </address>
+    </company>
+    <purpose>la fabrication et le commerce de produits chimiques et techniques en particulier de produits en matière synthétique.</purpose>
+    <capital>
+      <nominal>2500000.00</nominal>
+      <paid>2500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-17</lastFoscDate>
+    <lastFoscSequence>1004544087</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

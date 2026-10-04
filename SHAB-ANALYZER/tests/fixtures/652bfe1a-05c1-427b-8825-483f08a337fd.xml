@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>64e77c5c-1346-4603-89f6-6142e2bb2757</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004480985</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation CREATIV BOSSHARD FUGEN, Wald (ZH)</de>
+    <en>Change CREATIV BOSSHARD FUGEN, Wald (ZH)</en>
+    <it>Cambiamenti CREATIV BOSSHARD FUGEN, Wald (ZH)</it>
+    <fr>Mutation CREATIV BOSSHARD FUGEN, Wald (ZH)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>37261</journalNumber>
+  <journalDate>2018-10-17</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 202 vom 18.10.2018 publizierten TR-Eintrags Nr. 36'873 vom 15.10.2018 CREATIV BOSSHARD FUGEN, in Wald (ZH), CHE-459.906.974, Einzelunternehmen (SHAB Nr. 202 vom 18.10.2018, Publ. 1004479036). Bosshard, Jeannine, von Dürnten, in Wald (ZH), Inhaberin, mit Einzelunterschrift [bisher: in Maur] richtig sollte der Eintrag lauten: Bosshard, Jeannine, von Dürnten, in Wald (ZH), Inhaberin, mit Einzelunterschrift [bisher: in Egg].</publicationText>
+  <commonsNew>
+    <company>
+      <name>CREATIV BOSSHARD FUGEN</name>
+      <uid>CHE459906974</uid>
+      <uidOrganisationId>459906974</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02020071264</code13>
+      <seat>Wald (ZH)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Kanzleiweg</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>8636</swissZipCode>
+        <town>Wald ZH</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Fugenbereich.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CREATIV BOSSHARD FUGEN</name>
+      <uid>CHE459906974</uid>
+      <uidOrganisationId>459906974</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02020071264</code13>
+      <seat>Wald (ZH)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Kanzleiweg</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>8636</swissZipCode>
+        <town>Wald ZH</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Fugenbereich.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-18</lastFoscDate>
+    <lastFoscNumber>202</lastFoscNumber>
+    <lastFoscSequence>1004479036</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

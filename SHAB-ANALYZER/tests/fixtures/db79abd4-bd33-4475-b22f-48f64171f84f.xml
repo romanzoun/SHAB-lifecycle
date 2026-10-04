@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>db70c499-76d6-4a6f-bd7d-260aa86325cc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004727841</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Sambiagio Style S.A., Lignières</de>
+    <en>Change Sambiagio Style S.A., Lignières</en>
+    <it>Cambiamenti Sambiagio Style S.A., Lignières</it>
+    <fr>Mutation Sambiagio Style S.A., Lignières</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3091</journalNumber>
+  <journalDate>2019-09-26</journalDate>
+  <publicationText>Sambiagio Style S.A., à Lignières, CHE-107.440.814 (FOSC du 03.06.2019, p. 0/1004643395). La mention relative à la reprise de bien effectuée à la constitution est radiée. Statuts modifiés le 25.09.2019. Selon déclaration du 25.09.2019, la société n'est pas soumise à un contrôle ordinaire et a renoncé à un contrôle restreint.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Sambiagio Style S.A.</name>
+      <uid>CHE-107.440.814</uid>
+      <uidOrganisationId>107440814</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64504010446</code13>
+      <seat>Lignières</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Hugo Sambiagio</addressLine1>
+        <street>chemin des Alises</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>2523</swissZipCode>
+        <town>Lignières</town>
+      </address>
+    </company>
+    <purpose>fabrication, commercialisation et vente de cheminées de salon ainsi que de tous matériaux utilisés dans la construction.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Sambiagio Style S.A.</name>
+      <uid>CHE-107.440.814</uid>
+      <uidOrganisationId>107440814</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64504010446</code13>
+      <seat>Lignières</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Hugo Sambiagio</addressLine1>
+        <street>chemin des Alises</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>2523</swissZipCode>
+        <town>Lignières</town>
+      </address>
+    </company>
+    <purpose>fabrication, commercialisation et vente de cheminées de salon ainsi que de tous matériaux utilisés dans la construction.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-03</lastFoscDate>
+    <lastFoscNumber>105</lastFoscNumber>
+    <lastFoscSequence>1004643395</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

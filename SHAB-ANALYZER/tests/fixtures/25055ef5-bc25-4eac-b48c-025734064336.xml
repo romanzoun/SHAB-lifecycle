@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>24c3a6a8-9b2e-4454-9d13-5ec43f66ccc7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004764647</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation MOVING-2 James Anderson, Bätterkinden</de>
+    <en>Change MOVING-2 James Anderson, Bätterkinden</en>
+    <it>Cambiamenti MOVING-2 James Anderson, Bätterkinden</it>
+    <fr>Mutation MOVING-2 James Anderson, Bätterkinden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17571</journalNumber>
+  <journalDate>2019-11-18</journalDate>
+  <publicationText>MOVING-2 James Anderson, à Bätterkinden, CHE-108.557.198, entreprise individuelle (No. FOSC 224 du 19.11.2019, Publ. 1004762328). Selon ordonnance du 15.11.2019, la Chambre civile compétente de la Cour suprême du canton de Berne a accordé l'effet suspensif au recours du titulaire contre le jugement de faillite de première instance. [précédemment: Par décision du 13.11.2019, la juge unique compétente a prononcé la faillite du titulaire de l'entreprise individuelle avec effet au 13.11.2019, à 08.15 heures.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>MOVING-2 James Anderson</name>
+      <uid>CHE-108.557.198</uid>
+      <uidOrganisationId>108557198</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000106854</code13>
+      <seat>Bätterkinden</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zälgli</street>
+        <houseNumber>39</houseNumber>
+        <swissZipCode>3315</swissZipCode>
+        <town>Bätterkinden</town>
+      </address>
+    </company>
+    <purpose>Déménagements en Suisse, Europe et outre-mer; transports, emballages et garde-meubles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MOVING-2 James Anderson</name>
+      <uid>CHE-108.557.198</uid>
+      <uidOrganisationId>108557198</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000106854</code13>
+      <seat>Bätterkinden</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zälgli</street>
+        <houseNumber>39</houseNumber>
+        <swissZipCode>3315</swissZipCode>
+        <town>Bätterkinden</town>
+      </address>
+    </company>
+    <purpose>Déménagements en Suisse, Europe et outre-mer; transports, emballages et garde-meubles.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-19</lastFoscDate>
+    <lastFoscNumber>224</lastFoscNumber>
+    <lastFoscSequence>1004762328</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

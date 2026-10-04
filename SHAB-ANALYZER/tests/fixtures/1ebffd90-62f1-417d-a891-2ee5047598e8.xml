@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>1e7c55e3-25c6-47b9-841c-4ebbea781d4a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004450397</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Bono Platten GmbH, Schaffhausen</de>
+    <en>Change Bono Platten GmbH, Schaffhausen</en>
+    <it>Cambiamenti Bono Platten GmbH, Schaffhausen</it>
+    <fr>Mutation Bono Platten GmbH, Schaffhausen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1518</journalNumber>
+  <journalDate>2018-09-03</journalDate>
+  <publicationText>Bono Platten GmbH, in Schaffhausen, CHE-115.596.890, Gesellschaft mit beschränkter Haftung (SHAB Nr. 22 vom 02.02.2016, Publ. 2633913). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vermögensübertragungsvertrag vom 16.08.2018 Aktiven von CHF 487'701.00 auf die Condecta AG (CHE-105.936.665), in Winterthur. Gegenleistung: CHF 487'701.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bono Platten GmbH</name>
+      <uid>CHE115596890</uid>
+      <uidOrganisationId>115596890</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29040167782</code13>
+      <seat>Schaffhausen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>8231</swissZipCode>
+        <town>Hemmental</town>
+      </address>
+    </company>
+    <purpose>Vermieten und Verkaufen von Sechseckverbundplatten sowie Organisieren und Leiten von Events.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bono Platten GmbH</name>
+      <uid>CHE115596890</uid>
+      <uidOrganisationId>115596890</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29040167782</code13>
+      <seat>Schaffhausen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>8231</swissZipCode>
+        <town>Hemmental</town>
+      </address>
+    </company>
+    <purpose>Vermieten und Verkaufen von Sechseckverbundplatten sowie Organisieren und Leiten von Events.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-02-02</lastFoscDate>
+    <lastFoscNumber>22</lastFoscNumber>
+    <lastFoscSequence>2633913</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

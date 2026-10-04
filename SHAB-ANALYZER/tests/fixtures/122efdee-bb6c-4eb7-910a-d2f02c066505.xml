@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>119a01a6-85a5-4053-82b3-ec73059027ca</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004684674</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Praktikus Versand AG, Stäfa</de>
+    <en>Change Praktikus Versand AG, Stäfa</en>
+    <it>Cambiamenti Praktikus Versand AG, Stäfa</it>
+    <fr>Mutation Praktikus Versand AG, Stäfa</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>28964</journalNumber>
+  <journalDate>2019-07-23</journalDate>
+  <publicationText>Praktikus Versand AG, in Stäfa, CHE-105.785.283, Aktiengesellschaft (SHAB Nr. 51 vom 14.03.2019, Publ. 1004587318). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 20.06.2019 Aktiven von CHF 280'000.00 auf die Angela Bruderer AG, in Winterthur (CHE-113.466.526). Die Gegenleistung beträgt CHF 280'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Praktikus Versand AG</name>
+      <uid>CHE105785283</uid>
+      <uidOrganisationId>105785283</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039207928</code13>
+      <seat>Stäfa</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Laubisrütistrasse</street>
+        <houseNumber>72</houseNumber>
+        <swissZipCode>8712</swissZipCode>
+        <town>Stäfa</town>
+      </address>
+    </company>
+    <purpose>Verkauf, vorab auf dem Versandweg, von Waren aller Art, insbesondere von Büro-, Reise- und Geschenkartikeln; kann sich an anderen Unternehmungen beteiligen sowie Liegenschaften erwerben, belasten und veräussern.</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Praktikus Versand AG</name>
+      <uid>CHE105785283</uid>
+      <uidOrganisationId>105785283</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039207928</code13>
+      <seat>Stäfa</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Laubisrütistrasse</street>
+        <houseNumber>72</houseNumber>
+        <swissZipCode>8712</swissZipCode>
+        <town>Stäfa</town>
+      </address>
+    </company>
+    <purpose>Verkauf, vorab auf dem Versandweg, von Waren aller Art, insbesondere von Büro-, Reise- und Geschenkartikeln; kann sich an anderen Unternehmungen beteiligen sowie Liegenschaften erwerben, belasten und veräussern.</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-14</lastFoscDate>
+    <lastFoscNumber>51</lastFoscNumber>
+    <lastFoscSequence>1004587318</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>db0c7ab3-fec9-4e38-86ed-00652fc1b72a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004456902</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Coopérative d'habitation des cheminots, Renens, Renens (VD)</de>
+    <en>Change Coopérative d'habitation des cheminots, Renens, Renens (VD)</en>
+    <it>Cambiamenti Coopérative d'habitation des cheminots, Renens, Renens (VD)</it>
+    <fr>Mutation Coopérative d'habitation des cheminots, Renens, Renens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16238</journalNumber>
+  <journalDate>2018-09-12</journalDate>
+  <publicationText>Coopérative d'habitation des cheminots, Renens, à Renens (VD), CHE-101.727.418 (FOSC du 30.10.2017, p. 0/3839013). Nouveaux administrateurs sans signature: Freymond Jean François, de Donneloye, à Renens (VD), et Jacob Christophe, de France, à Renens (VD).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Coopérative d'habitation des cheminots, Renens</name>
+      <uid>CHE101727418</uid>
+      <uidOrganisationId>101727418</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001483004</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Sandrine Vuitel</addressLine1>
+        <street>avenue de la Poste</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>procurer à ses membres des logements sains à un prix raisonnable.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Coopérative d'habitation des cheminots, Renens</name>
+      <uid>CHE101727418</uid>
+      <uidOrganisationId>101727418</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001483004</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Sandrine Vuitel</addressLine1>
+        <street>avenue de la Poste</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>procurer à ses membres des logements sains à un prix raisonnable.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-10-30</lastFoscDate>
+    <lastFoscSequence>3839013</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

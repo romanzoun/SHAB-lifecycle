@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>7f1d1e00-47c5-4370-9954-f01f6cc7c4bf</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004477101</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Intertek (Suisse) SA, Branch Geneva, Grand-Saconnex, Le Grand-Saconnex</de>
+    <en>Change Intertek (Suisse) SA, Branch Geneva, Grand-Saconnex, Le Grand-Saconnex</en>
+    <it>Cambiamenti Intertek (Suisse) SA, Branch Geneva, Grand-Saconnex, Le Grand-Saconnex</it>
+    <fr>Mutation Intertek (Suisse) SA, Branch Geneva, Grand-Saconnex, Le Grand-Saconnex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18571</journalNumber>
+  <journalDate>2018-10-10</journalDate>
+  <publicationText>Intertek (Suisse) SA, Branch Geneva, Grand-Saconnex, à Le Grand-Saconnex, CHE-489.679.777 (FOSC du 08.10.2018, p. 0/1004472058). L'inscription 17971 du 03.10.2018 est rectifiée en ce sens que le nom de Gaspar Jérémy s'orthgraphie en réalité Gaspard.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Intertek (Suisse) SA, Branch Geneva, Grand-Saconnex</name>
+      <uid>CHE489679777</uid>
+      <uidOrganisationId>489679777</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007670145</code13>
+      <seat>Le Grand-Saconnex</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Ferney</street>
+        <houseNumber>211</houseNumber>
+        <swissZipCode>1218</swissZipCode>
+        <town>Le Grand-Saconnex</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Intertek (Schweiz) AG</name>
+      <country>CH</country>
+      <uid>CHE110352760</uid>
+      <uidOrganisationId>110352760</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Intertek (Suisse) SA, Branch Geneva, Grand-Saconnex</name>
+      <uid>CHE489679777</uid>
+      <uidOrganisationId>489679777</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007670145</code13>
+      <seat>Le Grand-Saconnex</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Ferney</street>
+        <houseNumber>211</houseNumber>
+        <swissZipCode>1218</swissZipCode>
+        <town>Le Grand-Saconnex</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-08</lastFoscDate>
+    <lastFoscSequence>1004472058</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

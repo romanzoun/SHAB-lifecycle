@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>163cc862-90a9-4fcb-b5ed-84d5bdfe959d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004792449</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Reifen- und Reparaturservice Tanner, Bargen (SH)</de>
+    <en>Change Reifen- und Reparaturservice Tanner, Bargen (SH)</en>
+    <it>Cambiamenti Reifen- und Reparaturservice Tanner, Bargen (SH)</it>
+    <fr>Mutation Reifen- und Reparaturservice Tanner, Bargen (SH)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2414</journalNumber>
+  <journalDate>2019-12-19</journalDate>
+  <publicationText>Reifen- und Reparaturservice Tanner, in Bargen (SH), CHE-111.167.811, Einzelunternehmen (SHAB Nr. 235 vom 04.12.2019, Publ. 1004774626). Mit Verfügung vom 17.12.2019 hat das Obergericht des Kantons Schaffhausen der Beschwerde gegen die Konkurseröffnung vom 27.11.2019 die aufschiebende Wirkung erteilt. Infolgedessen besteht das Einzelunternehmen entsprechend den bisherigen Eintragungen weiter. [bisher: Mit Verfügung vom 27.11.2019 hat das Kantonsgericht Schaffhausen über den Inhaber mit Wirkung ab dem 27.11.2019, 11.00 Uhr, den Konkurs eröffnet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Reifen- und Reparaturservice Tanner</name>
+      <uid>CHE-111.167.811</uid>
+      <uidOrganisationId>111167811</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29010191622</code13>
+      <seat>Bargen (SH)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hepsackerstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>8233</swissZipCode>
+        <town>Bargen SH</town>
+      </address>
+    </company>
+    <purpose>Reifen- und Reparaturservice von Motorfahrzeugen aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Reifen- und Reparaturservice Tanner</name>
+      <uid>CHE-111.167.811</uid>
+      <uidOrganisationId>111167811</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29010191622</code13>
+      <seat>Bargen (SH)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hepsackerstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>8233</swissZipCode>
+        <town>Bargen SH</town>
+      </address>
+    </company>
+    <purpose>Reifen- und Reparaturservice von Motorfahrzeugen aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-04</lastFoscDate>
+    <lastFoscNumber>235</lastFoscNumber>
+    <lastFoscSequence>1004774626</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

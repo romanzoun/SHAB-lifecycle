@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>2ca9aa11-8259-4681-8109-165ad625c783</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004719922</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation DigitArena SA, Martigny</de>
+    <en>Change DigitArena SA, Martigny</en>
+    <it>Cambiamenti DigitArena SA, Martigny</it>
+    <fr>Mutation DigitArena SA, Martigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2405</journalNumber>
+  <journalDate>2019-09-16</journalDate>
+  <publicationText>DigitArena SA, à Martigny, CHE-100.746.850, société anonyme (No. FOSC 153 du 12.08.2019, Publ. 1004694325). Modification des statuts: 10.09.2019. L'assemblée générale a introduit une clause statutaire relative à une augmentation autorisée du capital par décision du 10.09.2019: pour les détails, voir les statuts. L'assemblée générale a introduit une clause statutaire relative à une augmentation conditionnelle du capital par décision du 10.09.2019: pour les détails, voir les statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>DigitArena SA</name>
+      <uid>CHE-100.746.850</uid>
+      <uidOrganisationId>100746850</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002539980</code13>
+      <seat>Martigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o IdeArk SA</addressLine1>
+        <addressLine2>Centre du Parc</addressLine2>
+        <street>Rue Marconi</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>réalisation de systèmes informatiques, vente de hardware et de software, formation de ses utilisateurs, opérations commerciales s'y rapportant.</purpose>
+    <capital>
+      <nominal>465900.00</nominal>
+      <paid>465900.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>DigitArena SA</name>
+      <uid>CHE-100.746.850</uid>
+      <uidOrganisationId>100746850</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002539980</code13>
+      <seat>Martigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o IdeArk SA</addressLine1>
+        <addressLine2>Centre du Parc</addressLine2>
+        <street>Rue Marconi</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>réalisation de systèmes informatiques, vente de hardware et de software, formation de ses utilisateurs, opérations commerciales s'y rapportant.</purpose>
+    <capital>
+      <nominal>465900.00</nominal>
+      <paid>465900.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-12</lastFoscDate>
+    <lastFoscNumber>153</lastFoscNumber>
+    <lastFoscSequence>1004694325</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

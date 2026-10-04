@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>78be0f60-8b6f-4a30-9ab3-f4beef0564b3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004507127</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Arthur Maret - EMS La Châtelaine en liquidation, bisher Fondation Arthur Maret - EMS La Châtelaine, Moudon</de>
+    <en>Change Fondation Arthur Maret - EMS La Châtelaine en liquidation, to date Fondation Arthur Maret - EMS La Châtelaine, Moudon</en>
+    <it>Cambiamenti Fondation Arthur Maret - EMS La Châtelaine en liquidation, prima Fondation Arthur Maret - EMS La Châtelaine, Moudon</it>
+    <fr>Mutation Fondation Arthur Maret - EMS La Châtelaine en liquidation, Moudon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20852</journalNumber>
+  <journalDate>2018-11-22</journalDate>
+  <publicationText>Fondation Arthur Maret - EMS La Châtelaine, à Moudon, CHE-107.969.894 (FOSC du 28.03.2017, p. 0/3430667). L'Autorité de surveillance LPP et des fondations de Suisse occidentale a pris acte de la dissolution de la fondation par décision du 10 juillet 2018. La liquidation est opérée sous le nom: Fondation Arthur Maret - EMS La Châtelaine en liquidation. Vulliens Marc-Antoine, Aebi François, Contomanolis Lucas et Gaillet René Philippe sont nommés liquidateurs avec signature collective à deux. Transfert de patrimoine: selon contrat du 18 juin 2018 et selon décision de l'autorité de surveillance du 10 juillet 2018, la fondation a transféré des actifs de CHF 364'721.30 et des passifs envers les tiers de CHF 111'861.90, à Fondation Le Pérou - EMS - La Lembaz à Valbroye (CHE-110.383.795). Contre-prestation: aucune.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Arthur Maret - EMS La Châtelaine en liquidation</name>
+      <uid>CHE107969894</uid>
+      <uidOrganisationId>107969894</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001041807</code13>
+      <seat>Moudon</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Eugène-Burnand</street>
+        <houseNumber>26 A</houseNumber>
+        <swissZipCode>1510</swissZipCode>
+        <town>Moudon</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un établissement médico-social. Pour réaliser ce but, elle peut prendre à bail, acquérir ou construire tout immeuble sur la Commune de Moudon et affecté au même but.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Arthur Maret - EMS La Châtelaine</name>
+      <uid>CHE107969894</uid>
+      <uidOrganisationId>107969894</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001041807</code13>
+      <seat>Moudon</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Eugène-Burnand</street>
+        <houseNumber>26 A</houseNumber>
+        <swissZipCode>1510</swissZipCode>
+        <town>Moudon</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un établissement médico-social. Pour réaliser ce but, elle peut prendre à bail, acquérir ou construire tout immeuble sur la Commune de Moudon et affecté au même but.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-03-28</lastFoscDate>
+    <lastFoscSequence>3430667</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

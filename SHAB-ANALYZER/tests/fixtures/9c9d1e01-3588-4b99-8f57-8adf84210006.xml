@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>9be2d137-c87e-4dd0-b97d-3cda30d7ef7c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004619288</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Jaquier Immobilier Sàrl, Grandson</de>
+    <en>Change Jaquier Immobilier Sàrl, Grandson</en>
+    <it>Cambiamenti Jaquier Immobilier Sàrl, Grandson</it>
+    <fr>Mutation Jaquier Immobilier Sàrl, Grandson</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7536</journalNumber>
+  <journalDate>2019-04-24</journalDate>
+  <publicationText>Jaquier Immobilier Sàrl, à Grandson, CHE-113.494.586 (FOSC du 16.10.2017, p. 0/3812285). Jaquier Frédérique, dont la procuration est éteinte, est nommée gérante avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Jaquier Immobilier Sàrl</name>
+      <uid>CHE113494586</uid>
+      <uidOrganisationId>113494586</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010498697</code13>
+      <seat>Grandson</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Neuchâtel</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1422</swissZipCode>
+        <town>Grandson</town>
+      </address>
+    </company>
+    <purpose>achat, vente, gérance d'immeubles et courtage dans le domaine immobilier; travaux de rénovation, transformation et entretien d'immeubles.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Jaquier Immobilier Sàrl</name>
+      <uid>CHE113494586</uid>
+      <uidOrganisationId>113494586</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010498697</code13>
+      <seat>Grandson</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Neuchâtel</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1422</swissZipCode>
+        <town>Grandson</town>
+      </address>
+    </company>
+    <purpose>achat, vente, gérance d'immeubles et courtage dans le domaine immobilier; travaux de rénovation, transformation et entretien d'immeubles.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-10-16</lastFoscDate>
+    <lastFoscSequence>3812285</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>2c747f98-355b-46c6-958e-b33dfde7b0e1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004644178</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation GeNeuro SA, Plan-les-Ouates</de>
+    <en>Change GeNeuro SA, Plan-les-Ouates</en>
+    <it>Cambiamenti GeNeuro SA, Plan-les-Ouates</it>
+    <fr>Mutation GeNeuro SA, Plan-les-Ouates</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10353</journalNumber>
+  <journalDate>2019-05-29</journalDate>
+  <publicationText>GeNeuro SA, à Plan-les-Ouates, CHE-112.754.833 (FOSC du 04.06.2018, p. 0/4267553). Suppression de la clause statutaire relative à l'augmentation conditionnelle du capital-actions, fondée sur la décision relative à l'octroi de droits du 14.04.2016, aucun droit n'ayant été accordé. L'assemblée générale a introduit une clause statutaire relative à une augmentation conditionnelle du capital-actions par décision du 24.05.2019; pour les détails, voir les statuts. Statuts modifiés le 24.05.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>GeNeuro SA</name>
+      <uid>CHE112754833</uid>
+      <uidOrganisationId>112754833</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003070063</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Pré-Fleuri</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>recherche, développement, fabrication et commercialisation de produits utilisés, en particulier, à des fins de thérapie, notamment dans le domaine de la santé (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>732905.90</nominal>
+      <paid>732905.90</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GeNeuro SA</name>
+      <uid>CHE112754833</uid>
+      <uidOrganisationId>112754833</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003070063</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Pré-Fleuri</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>recherche, développement, fabrication et commercialisation de produits utilisés, en particulier, à des fins de thérapie, notamment dans le domaine de la santé (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>732905.90</nominal>
+      <paid>732905.90</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-04</lastFoscDate>
+    <lastFoscSequence>4267553</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

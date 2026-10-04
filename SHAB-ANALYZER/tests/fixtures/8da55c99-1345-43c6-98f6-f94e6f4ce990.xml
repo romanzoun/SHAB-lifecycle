@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8d6ee447-4399-4c7c-89b2-dd5ccdaa8f7d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004554812</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Celgene Switzerland Sàrl, Boudry</de>
+    <en>Change Celgene Switzerland Sàrl, Boudry</en>
+    <it>Cambiamenti Celgene Switzerland Sàrl, Boudry</it>
+    <fr>Mutation Celgene Switzerland Sàrl, Boudry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>348</journalNumber>
+  <journalDate>2019-01-25</journalDate>
+  <publicationText>Celgene Switzerland Sàrl, à Boudry, CHE-300.457.080 (FOSC du 22.01.2019, p. 0/1004548144). Pignolet David Walter, gérant, nommé président, signe désormais collectivement à deux. Pätsi Tuomo Tapani, de Finlande, à Blonay, et Serry Nakisa, des Etats-Unis, à Saint-Prex, sont gérants avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Celgene Switzerland Sàrl</name>
+      <translations>[en] Celgene Switzerland LLC [de] Celgene Switzerland GmbH</translations>
+      <uid>CHE300457080</uid>
+      <uidOrganisationId>300457080</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541177124</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Perreux</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2017</swissZipCode>
+        <town>Boudry</town>
+      </address>
+    </company>
+    <purpose>acquisition, administration et vente de participations de tous genres, en Suisse et à l'étranger, à l'exclusion des opérations prohibées par la LFAIE; acquérir, vendre et gérer des licences, brevets, ainsi que tous autres droits (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Celgene Switzerland Sàrl</name>
+      <translations>[en] Celgene Switzerland LLC [de] Celgene Switzerland GmbH</translations>
+      <uid>CHE300457080</uid>
+      <uidOrganisationId>300457080</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541177124</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Perreux</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2017</swissZipCode>
+        <town>Boudry</town>
+      </address>
+    </company>
+    <purpose>acquisition, administration et vente de participations de tous genres, en Suisse et à l'étranger, à l'exclusion des opérations prohibées par la LFAIE; acquérir, vendre et gérer des licences, brevets, ainsi que tous autres droits (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-22</lastFoscDate>
+    <lastFoscSequence>1004548144</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

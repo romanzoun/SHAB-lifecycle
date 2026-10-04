@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>a8b6b3fd-27aa-47fb-812d-85d5909909d2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004514612</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation GreenTime Sàrl, Bellevue</de>
+    <en>Change GreenTime Sàrl, Bellevue</en>
+    <it>Cambiamenti GreenTime Sàrl, Bellevue</it>
+    <fr>Mutation GreenTime Sàrl, Bellevue</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22487</journalNumber>
+  <journalDate>2018-12-03</journalDate>
+  <publicationText>GreenTime Sàrl, à Bellevue, CHE-290.150.896 (FOSC du 20.03.2018, p. 0/4123763). Jusqu'ici chacun titulaire de 120 parts de CHF 100, les associés-gérants Simao Guilherme, Gönczy Sacha Gabor Paolo et Owczarek Bartosz Krzysztof détiennent chacun 117 parts de CHF 100 par suite de cession de 3 parts de CHF 100 chacun à Hoffmann Stéphanie, de Bâle, à Versoix, nouvelle associée pour 9 parts de CHF 100, qui n'exerce pas la signature sociale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>GreenTime Sàrl</name>
+      <translations>[de] GreenTime GmbH [it] GreenTime Sagl [en] GreenTime Ltd liab Co</translations>
+      <uid>CHE290150896</uid>
+      <uidOrganisationId>290150896</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007010187</code13>
+      <seat>Bellevue</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Lochette</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1293</swissZipCode>
+        <town>Bellevue</town>
+      </address>
+    </company>
+    <purpose>préparation, commerce et distribution de repas équilibrés (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>36000.00</nominal>
+      <paid>36000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GreenTime Sàrl</name>
+      <translations>[de] GreenTime GmbH [it] GreenTime Sagl [en] GreenTime Ltd liab Co</translations>
+      <uid>CHE290150896</uid>
+      <uidOrganisationId>290150896</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007010187</code13>
+      <seat>Bellevue</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Lochette</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1293</swissZipCode>
+        <town>Bellevue</town>
+      </address>
+    </company>
+    <purpose>préparation, commerce et distribution de repas équilibrés (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>36000.00</nominal>
+      <paid>36000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-03-20</lastFoscDate>
+    <lastFoscSequence>4123763</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

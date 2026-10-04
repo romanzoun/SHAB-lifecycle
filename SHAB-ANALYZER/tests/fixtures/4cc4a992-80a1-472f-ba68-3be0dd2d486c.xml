@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>4cc0aeb9-218d-4340-880a-422f075a8f5e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004775018</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Divine Cuisine Sàrl, Boudry</de>
+    <en>Change Divine Cuisine Sàrl, Boudry</en>
+    <it>Cambiamenti Divine Cuisine Sàrl, Boudry</it>
+    <fr>Mutation Divine Cuisine Sàrl, Boudry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3803</journalNumber>
+  <journalDate>2019-11-29</journalDate>
+  <publicationText>Divine Cuisine Sàrl, à Boudry, CHE-282.703.221 (FOSC du 13.12.2013, p. 0/1235873). L'associée Szwek Sonia Josiane a cédé 220 de ses 400 parts sociales de CHF 100 à l'associée Toffolon Laure, laquelle devient ainsi titulaire de 820 parts sociales de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Divine Cuisine Sàrl</name>
+      <uid>CHE-282.703.221</uid>
+      <uidOrganisationId>282703221</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541105180</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue du Collège</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>2017</swissZipCode>
+        <town>Boudry</town>
+      </address>
+    </company>
+    <purpose>dessin, commerce, montage, pose et agencement de cuisine et de mobilier ainsi que toutes activités s'y rapportant (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Divine Cuisine Sàrl</name>
+      <uid>CHE-282.703.221</uid>
+      <uidOrganisationId>282703221</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541105180</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue du Collège</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>2017</swissZipCode>
+        <town>Boudry</town>
+      </address>
+    </company>
+    <purpose>dessin, commerce, montage, pose et agencement de cuisine et de mobilier ainsi que toutes activités s'y rapportant (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-13</lastFoscDate>
+    <lastFoscNumber>242</lastFoscNumber>
+    <lastFoscSequence>1235873</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

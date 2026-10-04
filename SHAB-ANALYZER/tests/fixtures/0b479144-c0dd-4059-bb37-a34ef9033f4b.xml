@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>0a29c779-cbe2-4953-a775-4c684ead8b21</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004686644</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation B. Steinmann AG in Liquidation, Zürich</de>
+    <en>Change B. Steinmann AG in Liquidation, Zürich</en>
+    <it>Cambiamenti B. Steinmann AG in Liquidation, Zürich</it>
+    <fr>Mutation B. Steinmann AG in Liquidation, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>29288</journalNumber>
+  <journalDate>2019-07-25</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 132 vom 11.07.2019 publizierten TR-Eintrags Nr. 26'473 vom 08.07.2019 B. Steinmann AG in Liquidation, in Zürich, CHE-107.995.578, Aktiengesellschaft (SHAB Nr. 132 vom 11.07.2019, Publ. 1004673006). Die Liste der Belege wurde ergänzt. Die hiermit in die Belegliste aufgenommene Öffentliche Urkunde vom 12.06.2019 über die Auflösung der B. Steinmann AG ersetzt diejenige Öffentliche Urkunde vom 12.06.2019 über die Auflösung der BREBAU Holding AG.</publicationText>
+  <commonsNew>
+    <company>
+      <name>B. Steinmann AG in Liquidation</name>
+      <uid>CHE107995578</uid>
+      <uidOrganisationId>107995578</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039248858</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ueberlandstrasse</street>
+        <houseNumber>440</houseNumber>
+        <swissZipCode>8051</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Hoch- und Tiefbauunternehmung sowie Durchführung aller damit zusammenhängenden Geschäfte.</purpose>
+    <capital>
+      <nominal>180000.00</nominal>
+      <paid>180000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>B. Steinmann AG in Liquidation</name>
+      <uid>CHE107995578</uid>
+      <uidOrganisationId>107995578</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039248858</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ueberlandstrasse</street>
+        <houseNumber>440</houseNumber>
+        <swissZipCode>8051</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Hoch- und Tiefbauunternehmung sowie Durchführung aller damit zusammenhängenden Geschäfte.</purpose>
+    <capital>
+      <nominal>180000.00</nominal>
+      <paid>180000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-11</lastFoscDate>
+    <lastFoscNumber>132</lastFoscNumber>
+    <lastFoscSequence>1004673006</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

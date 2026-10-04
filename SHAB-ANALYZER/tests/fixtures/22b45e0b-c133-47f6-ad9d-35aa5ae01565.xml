@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>21a69232-3df8-4e53-bd0b-e3681e93c1fa</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004538587</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Rui &amp; Candeias Sàrl en liquidation, bisher Rui &amp; Candeias Sàrl, Le Locle</de>
+    <en>Change Rui &amp; Candeias Sàrl en liquidation, to date Rui &amp; Candeias Sàrl, Le Locle</en>
+    <it>Cambiamenti Rui &amp; Candeias Sàrl en liquidation, prima Rui &amp; Candeias Sàrl, Le Locle</it>
+    <fr>Mutation Rui &amp; Candeias Sàrl en liquidation, Le Locle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>71</journalNumber>
+  <journalDate>2019-01-07</journalDate>
+  <publicationText>Rui &amp; Candeias Sàrl, Le Locle, CHE-207.096.367 (FOSC du 05.12.2017, p. 0/3911191). La société est dissoute par décision de son assemblée générale du 20.12.2018. Sa liquidation est opérée sous la raison sociale: Rui &amp; Candeias Sàrl en liquidation. Liquidateurs: Candeias Joaquim Rui Manuel, nommé président, et Combe Philip Laurent, jusqu'ici directeur, tous deux gérants, lesquels continuent de signer individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Rui &amp; Candeias Sàrl en liquidation</name>
+      <uid>CHE207096367</uid>
+      <uidOrganisationId>207096367</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541133844</code13>
+      <seat>Le Locle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Marie-Anne-Calame</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2400</swissZipCode>
+        <town>Le Locle</town>
+      </address>
+    </company>
+    <purpose>conception, réalisation et entretien de toutes installations électriques à courant fort et faible.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Rui &amp; Candeias Sàrl</name>
+      <translations>[de] Rui &amp; Candeias GmbH</translations>
+      <uid>CHE207096367</uid>
+      <uidOrganisationId>207096367</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541133844</code13>
+      <seat>Le Locle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Marie-Anne-Calame</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2400</swissZipCode>
+        <town>Le Locle</town>
+      </address>
+    </company>
+    <purpose>conception, réalisation et entretien de toutes installations électriques à courant fort et faible.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-12-05</lastFoscDate>
+    <lastFoscSequence>3911191</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

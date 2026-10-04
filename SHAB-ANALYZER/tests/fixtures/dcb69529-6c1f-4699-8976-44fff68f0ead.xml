@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>dcb64149-c22a-4b6b-b553-b7deb574edd3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004458817</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation MDA'Concept Sàrl en liquidation, Eysins</de>
+    <en>Change MDA'Concept Sàrl en liquidation, Eysins</en>
+    <it>Cambiamenti MDA'Concept Sàrl en liquidation, Eysins</it>
+    <fr>Mutation MDA'Concept Sàrl en liquidation, Eysins</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16465</journalNumber>
+  <journalDate>2018-09-14</journalDate>
+  <publicationText>MDA'Concept Sàrl , succursale à Eysins, CHE-382.093.699 (FOSC du 12.04.2016, p. 0/2774153). Siège principal: Martigny. La société a été dissoute au siège principal par décision de l'assemblée générale du 7 septembre 2018. Nouvelle raison sociale du siège principal: MDA'Concept Sàrl en liquidation (CHE-385.262.260). Nouvelle raison de commerce de la succursale: MDA'Concept Sàrl en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MDA'Concept Sàrl en liquidation</name>
+      <uid>CHE382093699</uid>
+      <uidOrganisationId>382093699</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011665873</code13>
+      <seat>Eysins</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Aiselet</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1262</swissZipCode>
+        <town>Eysins</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>MDA'Concept Sàrl en liquidation</name>
+      <country>CH</country>
+      <uid>CHE385262260</uid>
+      <uidOrganisationId>385262260</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MDA'Concept Sàrl</name>
+      <uid>CHE382093699</uid>
+      <uidOrganisationId>382093699</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011665873</code13>
+      <seat>Eysins</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Aiselet</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1262</swissZipCode>
+        <town>Eysins</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-04-12</lastFoscDate>
+    <lastFoscSequence>2774153</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>4f32d429-2911-4afd-aed7-e493d6810ee4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004534726</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Idéa-Constructions SA, bisher Idéa-Constructions SA in Liquidation, Savièse</de>
+    <en>Change Idéa-Constructions SA, to date Idéa-Constructions SA in Liquidation, Savièse</en>
+    <it>Cambiamenti Idéa-Constructions SA, prima Idéa-Constructions SA in Liquidation, Savièse</it>
+    <fr>Mutation Idéa-Constructions SA, Savièse</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3318</journalNumber>
+  <journalDate>2018-12-28</journalDate>
+  <publicationText>Idéa-Constructions SA in Liquidation, in Savièse, CHE-282.242.510, Aktiengesellschaft (SHAB Nr. 240 vom 11.12.2018, Publ. 1004518111). Firma neu: Idéa-Constructions SA. Mit Verfügung vom 20.12.2018 hat der Kantonsgericht des Kantons Wallis der Beschwerde der Gesellschaft gegen das erstinstanzliche Konkurserkenntnis die aufschiebende Wirkung erteilt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Idéa-Constructions SA</name>
+      <uid>CHE282242510</uid>
+      <uidOrganisationId>282242510</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630163385</code13>
+      <seat>Savièse</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Belvédère</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>1965</swissZipCode>
+        <town>Savièse</town>
+      </address>
+    </company>
+    <purpose>Architekturbüros (siehe Statuten bezüglich kompleten Zweck)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Idéa-Constructions SA in Liquidation</name>
+      <uid>CHE282242510</uid>
+      <uidOrganisationId>282242510</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630163385</code13>
+      <seat>Savièse</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Belvédère</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>1965</swissZipCode>
+        <town>Savièse</town>
+      </address>
+    </company>
+    <purpose>Architekturbüros (siehe Statuten bezüglich kompleten Zweck)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-11</lastFoscDate>
+    <lastFoscNumber>240</lastFoscNumber>
+    <lastFoscSequence>1004518111</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

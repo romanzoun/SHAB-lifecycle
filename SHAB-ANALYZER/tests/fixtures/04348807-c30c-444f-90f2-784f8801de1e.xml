@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>041b1208-2b49-4580-bf53-d4c57d02de09</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004665384</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Applicolor SA, Lugano</de>
+    <en>Change Applicolor SA, Lugano</en>
+    <it>Cambiamenti Applicolor SA, Lugano</it>
+    <fr>Mutation Applicolor SA, Lugano</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9425</journalNumber>
+  <journalDate>2019-06-27</journalDate>
+  <publicationText>Applicolor SA, in Lugano, CHE-106.017.270, società anonima (Nr. FUSC 217 del 08.11.2016, p.0, Pubbl. 3150005). Trasferimento di patrimonio: secondo contratto del 19.06.2019 la società ha trasferito alla D.Biasca SA (nuova: Applicolor Pittura SA) , in Lugano (CHE-102.052.451), attivi per CHF 12'000.00 e passivi verso terzi per CHF 0.00. Contro prestazione: nessuna.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Applicolor SA</name>
+      <uid>CHE106017270</uid>
+      <uidOrganisationId>106017270</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430017507</code13>
+      <seat>Lugano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>Via ai Prée 8</addressLine1>
+        <street>CP</street>
+        <houseNumber>123</houseNumber>
+        <swissZipCode>6915</swissZipCode>
+        <town>Pambio-Noranco</town>
+      </address>
+    </company>
+    <purpose>La gestione di un'impresa di pittura, isolazioni; la fabbricazione, l'acquisto e la vendita di colori e generi affini.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Applicolor SA</name>
+      <uid>CHE106017270</uid>
+      <uidOrganisationId>106017270</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430017507</code13>
+      <seat>Lugano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>Via ai Prée 8</addressLine1>
+        <street>CP</street>
+        <houseNumber>123</houseNumber>
+        <swissZipCode>6915</swissZipCode>
+        <town>Pambio-Noranco</town>
+      </address>
+    </company>
+    <purpose>La gestione di un'impresa di pittura, isolazioni; la fabbricazione, l'acquisto e la vendita di colori e generi affini.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-11-08</lastFoscDate>
+    <lastFoscNumber>217</lastFoscNumber>
+    <lastFoscSequence>3150005</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

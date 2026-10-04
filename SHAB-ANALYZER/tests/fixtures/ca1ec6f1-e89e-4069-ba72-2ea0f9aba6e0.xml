@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>ca0e9cf7-d4d3-49df-a1cb-70282a2e7a58</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004459383</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation preenTec AG, Marly</de>
+    <en>Change preenTec AG, Marly</en>
+    <it>Cambiamenti preenTec AG, Marly</it>
+    <fr>Mutation preenTec AG, Marly</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4938</journalNumber>
+  <journalDate>2018-09-17</journalDate>
+  <publicationText>preenTec AG, in Marly, CHE-110.628.910 (SHAB vom 06.07.2018, s. 0/4343225). Gelösche Person: Regenass Peter, Verwaltungsratsmitglied, Einzelunterschrift. Eingetragene Person geändert: Gehri Martin Christian Adrian, Verwaltungsratsmitglied Präsident, Einzelunterschrift, neu Verwaltungsratsmitglied, Einzelunterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>preenTec AG</name>
+      <uid>CHE110628910</uid>
+      <uidOrganisationId>110628910</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735311607</code13>
+      <seat>Marly</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de l'Ancienne Papeterie</street>
+        <swissZipCode>1723</swissZipCode>
+        <town>Marly</town>
+      </address>
+    </company>
+    <purpose>Entwicklung von Materialien aller Art, von materialwissenschaftlichen Produkten und die Ausführung von damit zusammenhängenden Entwicklungs- und Problemlösungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>preenTec AG</name>
+      <uid>CHE110628910</uid>
+      <uidOrganisationId>110628910</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735311607</code13>
+      <seat>Marly</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de l'Ancienne Papeterie</street>
+        <swissZipCode>1723</swissZipCode>
+        <town>Marly</town>
+      </address>
+    </company>
+    <purpose>Entwicklung von Materialien aller Art, von materialwissenschaftlichen Produkten und die Ausführung von damit zusammenhängenden Entwicklungs- und Problemlösungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-06</lastFoscDate>
+    <lastFoscSequence>4343225</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

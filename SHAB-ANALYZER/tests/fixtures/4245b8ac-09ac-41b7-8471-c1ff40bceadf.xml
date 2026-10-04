@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>42017733-5df2-4dd9-b519-c4d896156b4f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004767822</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Stipendienstiftung der IWW AG, Wetzikon (ZH)</de>
+    <en>Change Stipendienstiftung der IWW AG, Wetzikon (ZH)</en>
+    <it>Cambiamenti Stipendienstiftung der IWW AG, Wetzikon (ZH)</it>
+    <fr>Mutation Stipendienstiftung der IWW AG, Wetzikon (ZH)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>45398</journalNumber>
+  <journalDate>2019-11-21</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 227 vom 22.11.2019 publizierten TR-Eintrag Nr. 44'989 vom 19.11.2019 Stipendienstiftung der IWW AG, in Wetzikon (ZH), CHE-110.402.470, Stiftung (SHAB Nr. 227 vom 22.11.2019, Publ. 1004765677). Unter der TR-Nr. 44'989 vom 19.11.2019 im SHAB Nr. 227 vom 22.11.2019 wurde bei der Revisionsstelle die bisherige Firmennummer CH-400.3.022.575-0 nicht aufgeführt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stipendienstiftung der IWW AG</name>
+      <uid>CHE-110.402.470</uid>
+      <uidOrganisationId>110402470</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02070004837</code13>
+      <seat>Wetzikon (ZH)</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zürcherstrasse</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>8620</swissZipCode>
+        <town>Wetzikon ZH</town>
+      </address>
+    </company>
+    <purpose>Die Stiftung bezweckt die Unterstützung von bedürftigen Schülern der IWW AG.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Rocky Treuhand AG</name>
+        <country>CH</country>
+        <uid>CHE109084676</uid>
+        <uidOrganisationId>109084676</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stipendienstiftung der IWW AG</name>
+      <uid>CHE-110.402.470</uid>
+      <uidOrganisationId>110402470</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02070004837</code13>
+      <seat>Wetzikon (ZH)</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zürcherstrasse</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>8620</swissZipCode>
+        <town>Wetzikon ZH</town>
+      </address>
+    </company>
+    <purpose>Die Stiftung bezweckt die Unterstützung von bedürftigen Schülern der IWW AG.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-22</lastFoscDate>
+    <lastFoscNumber>227</lastFoscNumber>
+    <lastFoscSequence>1004765677</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>c8c504d8-e11d-4d2a-99aa-fb4f46f3317e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004717034</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation K&amp;S Sàrl, Essertines-sur-Rolle, neu K&amp;S Sàrl en liquidation</de>
+    <en>Change K&amp;S Sàrl, Essertines-sur-Rolle, new K&amp;S Sàrl en liquidation</en>
+    <it>Cambiamenti K&amp;S Sàrl, Essertines-sur-Rolle, nuovo K&amp;S Sàrl en liquidation</it>
+    <fr>Mutation K&amp;S Sàrl, Essertines-sur-Rolle, nouveau K&amp;S Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16396</journalNumber>
+  <journalDate>2019-09-11</journalDate>
+  <publicationText>K&amp;S Sàrl, à Essertines-sur-Rolle, CHE-213.091.817 (FOSC du 18.07.2019, p. 0/1004679256). Par décision du 9 septembre 2019, la présidente du Tribunal d'arrondissement de La Côte a pris acte du retrait de la requête de restitution de délai, révoqué l'effet suspensif et dit que le prononcé de faillite du 1er juillet 2019 prend effet le 9 septembre 2019, à 9h00. La raison de commerce devient: K&amp;S Sàrl en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>K&amp;S Sàrl en liquidation</name>
+      <uid>CHE-213.091.817</uid>
+      <uidOrganisationId>213091817</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011705421</code13>
+      <seat>Essertines-sur-Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de l'Eglise</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1186</swissZipCode>
+        <town>Essertines-Rolle</town>
+      </address>
+    </company>
+    <purpose>la société a le but suivant: gestion d'hôtels et de restaurants; services de restauration dans le cadre de banquets, de séminaires et d'autres événements (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>K&amp;S Sàrl</name>
+      <uid>CHE-213.091.817</uid>
+      <uidOrganisationId>213091817</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011705421</code13>
+      <seat>Essertines-sur-Rolle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de l'Eglise</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1186</swissZipCode>
+        <town>Essertines-Rolle</town>
+      </address>
+    </company>
+    <purpose>la société a le but suivant: gestion d'hôtels et de restaurants; services de restauration dans le cadre de banquets, de séminaires et d'autres événements (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-18</lastFoscDate>
+    <lastFoscNumber>137</lastFoscNumber>
+    <lastFoscSequence>1004679256</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>4fb8763a-06f8-4403-985a-4bb1a9b2065c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004551475</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Auto Marner AG, Visp</de>
+    <en>Change Auto Marner AG, Visp</en>
+    <it>Cambiamenti Auto Marner AG, Visp</it>
+    <fr>Mutation Auto Marner AG, Visp</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>73</journalNumber>
+  <journalDate>2019-01-22</journalDate>
+  <publicationText>Auto Marner AG, in Visp, CHE-112.318.202, Aktiengesellschaft (SHAB Nr. 42 vom 03.03.2014, Publ. 1375507). Vermögensübertragung. Die Gesellschaft überträgt gemäss Vertrag vom 21.01.2019 und Inventar vom 01.01.2019 Aktiven von CHF 625'000.00 und Passiven (Fremdkapital) von CHF 60'000.00 auf die Garage St. Christophe AG, in Visp (CHE-114.535.213). Gegenleistung: CHF 565'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Auto Marner AG</name>
+      <uid>CHE112318202</uid>
+      <uidOrganisationId>112318202</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH60030123389</code13>
+      <seat>Visp</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Walligrundstrasse</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>3930</swissZipCode>
+        <town>Eyholz</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Garage, Autoreparaturen und Fahrzeughandel sowie alle damit zusammenhängenden Tätigkeiten. Kann Rechte, Lizenzen und Patente erwerben, veräussern und vermitteln. Kann Zweigniederlassungen errichten und sich an anderen Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Auto Marner AG</name>
+      <uid>CHE112318202</uid>
+      <uidOrganisationId>112318202</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH60030123389</code13>
+      <seat>Visp</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Walligrundstrasse</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>3930</swissZipCode>
+        <town>Eyholz</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Garage, Autoreparaturen und Fahrzeughandel sowie alle damit zusammenhängenden Tätigkeiten. Kann Rechte, Lizenzen und Patente erwerben, veräussern und vermitteln. Kann Zweigniederlassungen errichten und sich an anderen Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-03-03</lastFoscDate>
+    <lastFoscNumber>42</lastFoscNumber>
+    <lastFoscSequence>1375507</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt Oberwallis</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.16/HR02-export.xsd">
+<meta>
+  <id>84ec62f5-55a7-4a0e-ae06-e1c49218aa87</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005575004</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-10-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation CHIABERTO Gipserei GmbH, Grabs, neu CHIABERTO Gipserei GmbH in Liquidation</de>
+    <en>Change CHIABERTO Gipserei GmbH, Grabs, new CHIABERTO Gipserei GmbH in Liquidation</en>
+    <it>Cambiamenti CHIABERTO Gipserei GmbH, Grabs, nuovo CHIABERTO Gipserei GmbH in Liquidation</it>
+    <fr>Mutation CHIABERTO Gipserei GmbH, Grabs, nouveau CHIABERTO Gipserei GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9460</journalNumber>
+  <journalDate>2022-09-29</journalDate>
+  <publicationText>CHIABERTO Gipserei GmbH, in Grabs, CHE-162.090.030, Gesellschaft mit beschränkter Haftung (SHAB Nr. 112 vom 14.06.2021, Publ. 1005216285). Firma neu: CHIABERTO Gipserei GmbH in Liquidation. Auflösung der Rechtseinheit durch Konkurs gemäss Konkurserkenntnis der Konkursrichterin des Kreisgerichts Werdenberg-Sarganserland vom 27.09.2022 mit Wirkung ab dem 27.09.2022, 18.00 Uhr.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CHIABERTO Gipserei GmbH in Liquidation</name>
+      <uid>CHE-162.090.030</uid>
+      <uidOrganisationId>162090030</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32040719719</code13>
+      <seat>Grabs</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mädliweg</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>9470</swissZipCode>
+        <town>Werdenberg</town>
+      </address>
+    </company>
+    <purpose>Durchführung von Gipserarbeiten aller Art sowie Erbringung damit zusammenhängender Dienstleistungen. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen, Grundstücke, Urheberrechte, Patente und Lizenzen aller Art erwerben, verwalten, belasten und veräussern.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CHIABERTO Gipserei GmbH</name>
+      <uid>CHE-162.090.030</uid>
+      <uidOrganisationId>162090030</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32040719719</code13>
+      <seat>Grabs</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mädliweg</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>9470</swissZipCode>
+        <town>Werdenberg</town>
+      </address>
+    </company>
+    <purpose>Durchführung von Gipserarbeiten aller Art sowie Erbringung damit zusammenhängender Dienstleistungen. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen, Grundstücke, Urheberrechte, Patente und Lizenzen aller Art erwerben, verwalten, belasten und veräussern.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-06-14</lastFoscDate>
+    <lastFoscNumber>112</lastFoscNumber>
+    <lastFoscSequence>1005216285</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

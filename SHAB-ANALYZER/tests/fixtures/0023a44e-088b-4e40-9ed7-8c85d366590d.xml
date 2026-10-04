@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>001c8549-7eb3-426c-aaa5-e9412698478e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005104567</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Swiss-Scandinavian Management and Support GmbH, Klosters</de>
+    <en>Change Swiss-Scandinavian Management and Support GmbH, Klosters</en>
+    <it>Cambiamenti Swiss-Scandinavian Management and Support GmbH, Klosters</it>
+    <fr>Mutation Swiss-Scandinavian Management and Support GmbH, Klosters</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1123</journalNumber>
+  <journalDate>2021-02-15</journalDate>
+  <publicationText>Swiss-Scandinavian Management and Support GmbH, in Klosters-Serneus, CHE-333.160.095, Gesellschaft mit beschränkter Haftung (SHAB Nr. 241 vom 12.12.2016, Publ. 3216107). Sitz neu: Klosters. [Anpassung des Sitzes infolge Namensänderung der Gemeinde].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Swiss-Scandinavian Management and Support GmbH</name>
+      <translations>(Swiss-Scandinavian Management and Support LLC)</translations>
+      <uid>CHE-333.160.095</uid>
+      <uidOrganisationId>333160095</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35040046689</code13>
+      <seat>Klosters</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Büelweg</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>7252</swissZipCode>
+        <town>Klosters Dorf</town>
+      </address>
+    </company>
+    <purpose>Die Erbringung von Dienstleistungen im Bereiche des Managements und der Entwicklung von Firmen, Grundstücken und Vermögen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Swiss-Scandinavian Management and Support GmbH</name>
+      <translations>(Swiss-Scandinavian Management and Support LLC)</translations>
+      <uid>CHE-333.160.095</uid>
+      <uidOrganisationId>333160095</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35040046689</code13>
+      <seat>Klosters</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Büelweg</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>7252</swissZipCode>
+        <town>Klosters Dorf</town>
+      </address>
+    </company>
+    <purpose>Die Erbringung von Dienstleistungen im Bereiche des Managements und der Entwicklung von Firmen, Grundstücken und Vermögen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-12-12</lastFoscDate>
+    <lastFoscNumber>241</lastFoscNumber>
+    <lastFoscSequence>3216107</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

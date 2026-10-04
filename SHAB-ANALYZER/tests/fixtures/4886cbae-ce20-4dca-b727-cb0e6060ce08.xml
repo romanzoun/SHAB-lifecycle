@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>48634286-d3f6-46e4-90bb-8e7474bb5644</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004782009</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Medos Sàrl, Le Locle</de>
+    <en>Change Medos Sàrl, Le Locle</en>
+    <it>Cambiamenti Medos Sàrl, Le Locle</it>
+    <fr>Mutation Medos Sàrl, Le Locle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3932</journalNumber>
+  <journalDate>2019-12-09</journalDate>
+  <publicationText>Medos Sàrl, Le Locle, CHE-108.119.941 (FOSC du 23.09.2019, p. 0/1004721979). Les procurations de Borkenhagen Markus Dieter Joachim et Cattin Jean Roger sont radiées.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Medos Sàrl</name>
+      <translations>(Medos GmbH) (Medos Ltd liab. Co)</translations>
+      <uid>CHE-108.119.941</uid>
+      <uidOrganisationId>108119941</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510009564</code13>
+      <seat>Le Locle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin-Blanc</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>2400</swissZipCode>
+        <town>Le Locle</town>
+      </address>
+    </company>
+    <purpose>fabriquer des produits dans le domaine médical ou dans celui de la biotechnologie, en particulier des implants et autres appareils et instruments médicaux; exploiter des immeubles.</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Medos Sàrl</name>
+      <translations>(Medos GmbH) (Medos Ltd liab. Co)</translations>
+      <uid>CHE-108.119.941</uid>
+      <uidOrganisationId>108119941</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510009564</code13>
+      <seat>Le Locle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin-Blanc</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>2400</swissZipCode>
+        <town>Le Locle</town>
+      </address>
+    </company>
+    <purpose>fabriquer des produits dans le domaine médical ou dans celui de la biotechnologie, en particulier des implants et autres appareils et instruments médicaux; exploiter des immeubles.</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-23</lastFoscDate>
+    <lastFoscNumber>183</lastFoscNumber>
+    <lastFoscSequence>1004721979</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

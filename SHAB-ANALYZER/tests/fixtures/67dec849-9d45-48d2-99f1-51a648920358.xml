@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>6789b6f9-73e6-4e9c-8f04-6bb03608eb88</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004688914</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation J.L.J. SA in liquidazione, Savosa</de>
+    <en>Change J.L.J. SA in liquidazione, Savosa</en>
+    <it>Cambiamenti J.L.J. SA in liquidazione, Savosa</it>
+    <fr>Mutation J.L.J. SA in liquidazione, Savosa</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10864</journalNumber>
+  <journalDate>2019-07-29</journalDate>
+  <publicationText>J.L.J. SA in liquidazione, in Savosa, CHE-103.701.737, società anonima (Nr. FUSC 126 del 03.07.2019, Pubbl. 1004666791). Con decreto del 26.07.2019 la Camera di esecuzione e fallimenti del Tribunale d'appello del Cantone Ticino ha accordato effetto sospensivo al reclamo inoltrato contro la decisione di apertura del fallimento della Pretura del Distretto di Lugano del 27.06.2019. L'iscrizione nel registro di commercio relativa al fallimento viene pertanto cancellata. [radiati: La società è stata dichiarata in fallimento con decreto della Pretura del Distretto di Lugano del 27.06.2019 a far tempo dal 28.06.2019 alle ore 10:00.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>J.L.J. SA in liquidazione</name>
+      <uid>CHE103701737</uid>
+      <uidOrganisationId>103701737</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430031277</code13>
+      <seat>Savosa</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>L'acquisto, la vendita e la progettazione di software, in particolare nel campo dei giochi elettronici; l'acquisto, la vendita e la rappresentanza di giochi elettronici; la partecipazione a società aventi analoghi scopi.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>J.L.J. SA in liquidazione</name>
+      <uid>CHE103701737</uid>
+      <uidOrganisationId>103701737</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430031277</code13>
+      <seat>Savosa</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>L'acquisto, la vendita e la progettazione di software, in particolare nel campo dei giochi elettronici; l'acquisto, la vendita e la rappresentanza di giochi elettronici; la partecipazione a società aventi analoghi scopi.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-03</lastFoscDate>
+    <lastFoscNumber>126</lastFoscNumber>
+    <lastFoscSequence>1004666791</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

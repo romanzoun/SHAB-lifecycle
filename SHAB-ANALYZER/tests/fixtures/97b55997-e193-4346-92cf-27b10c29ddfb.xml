@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.20/HR02-export.xsd">
+<meta>
+  <id>97789dbc-c547-424b-9ca0-8f8ced09c728</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005947661</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-01-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Coiffeur ARIN, Inhaber Hasan, St. Gallen</de>
+    <en>Change Coiffeur ARIN, Inhaber Hasan, St. Gallen</en>
+    <it>Cambiamenti Coiffeur ARIN, Inhaber Hasan, St. Gallen</it>
+    <fr>Mutation Coiffeur ARIN, Inhaber Hasan, St. Gallen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>968</journalNumber>
+  <journalDate>2024-01-25</journalDate>
+  <publicationText>Coiffeur ARIN, Inhaber Hasan, in St. Gallen, CHE-301.370.760, Einzelunternehmen (SHAB Nr. 10 vom 16.01.2024, Publ. 1005935524). Mit Entscheid vom 23.01.2024 hat das Kantonsgericht des Kantons St. Gallen der Beschwerde gegen den Entscheid des Konkursrichters des Kreisgerichts See-Gaster vom 09.01.2024 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen. [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Entscheid des Konkursrichters des Kreisgerichts See-Gaster vom 09.01.2024 mit Wirkung ab dem 09.01.2024, 09.00 Uhr der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Coiffeur ARIN, Inhaber Hasan</name>
+      <uid>CHE-301.370.760</uid>
+      <uidOrganisationId>301370760</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010967301</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schmiedgasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>9000</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Führen eines Coiffeursalons sowie Handel mit entsprechenden Pflegeprodukten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Coiffeur ARIN, Inhaber Hasan</name>
+      <uid>CHE-301.370.760</uid>
+      <uidOrganisationId>301370760</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010967301</code13>
+      <seat>St. Gallen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schmiedgasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>9000</swissZipCode>
+        <town>St. Gallen</town>
+      </address>
+    </company>
+    <purpose>Führen eines Coiffeursalons sowie Handel mit entsprechenden Pflegeprodukten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2024-01-16</lastFoscDate>
+    <lastFoscNumber>10</lastFoscNumber>
+    <lastFoscSequence>1005935524</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

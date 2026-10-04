@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>2b9264b7-a1b1-4a3d-a3ce-3624ad27d14f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004473632</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation KMU Treuhand und Revisions AG, Fribourg</de>
+    <en>Change KMU Treuhand und Revisions AG, Fribourg</en>
+    <it>Cambiamenti KMU Treuhand und Revisions AG, Fribourg</it>
+    <fr>Mutation KMU Treuhand und Revisions AG, Fribourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5292</journalNumber>
+  <journalDate>2018-10-05</journalDate>
+  <publicationText>KMU Treuhand und Revisions AG, in Fribourg, CHE-373.745.706 (FOSC du 02.02.2015, p. 0/1965343). Gelöschte Personen: Rossier Joseph, Kollektivunterschrift zu zweien; Risse Evelyne, Kollektivprokura zu zweien. Neu eingetragene Person: Clément Nicolas Emile, von Romont FR, in Avenches, Kollektivprokura zu zweien.</publicationText>
+  <commonsNew>
+    <company>
+      <name>KMU Treuhand und Revisions AG</name>
+      <translations>[fr] PME Fiduciaire et Révisions SA [it] PMI Fiduciaria e Revisioni SA</translations>
+      <uid>CHE373745706</uid>
+      <uidOrganisationId>373745706</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735503349</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Primevères</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>(Siehe Zweck des Hauptsitzes gemäss Art. 110 Abs 1 Bst. d HRegV)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>KMU Treuhand und Revisions AG</name>
+      <country>CH</country>
+      <uid>CHE106837971</uid>
+      <uidOrganisationId>106837971</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>KMU Treuhand und Revisions AG</name>
+      <translations>[fr] PME Fiduciaire et Révisions SA [it] PMI Fiduciaria e Revisioni SA</translations>
+      <uid>CHE373745706</uid>
+      <uidOrganisationId>373745706</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735503349</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Primevères</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>(Siehe Zweck des Hauptsitzes gemäss Art. 110 Abs 1 Bst. d HRegV)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-02-02</lastFoscDate>
+    <lastFoscSequence>1965343</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

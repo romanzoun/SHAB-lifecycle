@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>ef324060-0ee4-4b10-95ea-506da5e70b6d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005182778</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Carus Real Estate AG, Châtillon (FR)</de>
+    <en>Change Carus Real Estate AG, Châtillon (FR)</en>
+    <it>Cambiamenti Carus Real Estate AG, Châtillon (FR)</it>
+    <fr>Mutation Carus Real Estate AG, Châtillon (FR)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3675</journalNumber>
+  <journalDate>2021-05-11</journalDate>
+  <publicationText>Carus Real Estate AG, in Châtillon (FR), CHE-113.854.650 (SHAB vom 19.12.2013, s. 0/7225828). Die Inhaberaktien sind am 01.05.2021 von Gesetzes wegen in Namenaktien umgewandelt worden. Die Statuten der Gesellschaft sind noch nicht an die Umwandlung angepasst worden; die Anpassung muss anlässlich der nächsten Statutenänderung erfolgen. Aktienkapital: CHF 100'000, liberiert mit CHF 50'000, eingeteilt in 100 Namenaktien zu CHF 1'000 (bisher: 100 Inhaberaktien zu CHF 1'000).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Carus Real Estate AG</name>
+      <uid>CHE-113.854.650</uid>
+      <uidOrganisationId>113854650</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030312858</code13>
+      <seat>Châtillon (FR)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Drussy</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>1473</swissZipCode>
+        <town>Châtillon FR</town>
+      </address>
+    </company>
+    <purpose>Entwicklung, Realisierung und Nutzung von Immobilien- und Bauprojekten; Projektmanagement sowie Beratung und Betreuungsdienstleistungen insbesondere im Immobilienbereich. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Carus Real Estate AG</name>
+      <uid>CHE-113.854.650</uid>
+      <uidOrganisationId>113854650</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030312858</code13>
+      <seat>Châtillon (FR)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Drussy</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>1473</swissZipCode>
+        <town>Châtillon FR</town>
+      </address>
+    </company>
+    <purpose>Entwicklung, Realisierung und Nutzung von Immobilien- und Bauprojekten; Projektmanagement sowie Beratung und Betreuungsdienstleistungen insbesondere im Immobilienbereich. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>true</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

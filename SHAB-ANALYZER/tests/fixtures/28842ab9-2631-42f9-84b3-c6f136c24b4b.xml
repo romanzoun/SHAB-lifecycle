@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>287f7fe9-4113-4801-ad32-73934b4b42c6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004648380</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation malera.com Christian Malera, Vevey</de>
+    <en>Change malera.com Christian Malera, Vevey</en>
+    <it>Cambiamenti malera.com Christian Malera, Vevey</it>
+    <fr>Mutation malera.com Christian Malera, Vevey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10131</journalNumber>
+  <journalDate>2019-06-05</journalDate>
+  <publicationText>malera.com Christian Malera, à Vevey, CHE-101.097.907 (FOSC du 19.12.2013, p. 0/7225834). Transfert de patrimoine: selon contrat du 27 mai 2019, le titulaire a transféré des actifs pour CHF 76'174.16 et des passifs envers les tiers pour CHF 38'167.22, à Malera.com Sàrl à Vevey (CHE-438.380.859). Contre-prestation: 200 parts de CHF 100, créance de CHF 18'006.94.</publicationText>
+  <commonsNew>
+    <company>
+      <name>malera.com Christian Malera</name>
+      <uid>CHE101097907</uid>
+      <uidOrganisationId>101097907</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110060627</code13>
+      <seat>Vevey</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard de Charmontey</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1800</swissZipCode>
+        <town>Vevey</town>
+      </address>
+    </company>
+    <purpose>conseils, commerce et développement dans le domaine de l'informatique; services relatifs à l'Internet.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>malera.com Christian Malera</name>
+      <uid>CHE101097907</uid>
+      <uidOrganisationId>101097907</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110060627</code13>
+      <seat>Vevey</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard de Charmontey</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1800</swissZipCode>
+        <town>Vevey</town>
+      </address>
+    </company>
+    <purpose>conseils, commerce et développement dans le domaine de l'informatique; services relatifs à l'Internet.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

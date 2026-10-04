@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8e73f75a-05f0-41a6-9063-3b3a857d2a05</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004511057</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Marzolo Piscines Sàrl, Gland</de>
+    <en>Change Marzolo Piscines Sàrl, Gland</en>
+    <it>Cambiamenti Marzolo Piscines Sàrl, Gland</it>
+    <fr>Mutation Marzolo Piscines Sàrl, Gland</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21207</journalNumber>
+  <journalDate>2018-11-28</journalDate>
+  <publicationText>Marzolo Piscines Sàrl, à Gland, CHE-110.622.267 (FOSC du 30.06.2017, p. 0/3615015). Par suite de restructuration, les 16 parts de CHF 1'000 de Gerofid, Société Fiduciaire SA (CHE-107.909.627) sont transférées à Berney Associés SA (CHE-359.590.155), à Genève, nouvelle associée avec 16 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Marzolo Piscines Sàrl</name>
+      <uid>CHE110622267</uid>
+      <uidOrganisationId>110622267</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010391510</code13>
+      <seat>Gland</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Alpes</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>commerce, représentation et installation de piscines et de matériels et produits y relatifs.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Marzolo Piscines Sàrl</name>
+      <uid>CHE110622267</uid>
+      <uidOrganisationId>110622267</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010391510</code13>
+      <seat>Gland</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Alpes</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>commerce, représentation et installation de piscines et de matériels et produits y relatifs.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-06-30</lastFoscDate>
+    <lastFoscSequence>3615015</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

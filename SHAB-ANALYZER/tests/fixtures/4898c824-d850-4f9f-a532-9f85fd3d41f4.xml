@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>48914dd7-5046-4bb1-a8e3-f65fcef4f514</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004519161</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation CIMENT SWISS DESIGN SARL, bisher CIMENT SWISS DESIGN SARL en liquidation, Lausanne</de>
+    <en>Change CIMENT SWISS DESIGN SARL, to date CIMENT SWISS DESIGN SARL en liquidation, Lausanne</en>
+    <it>Cambiamenti CIMENT SWISS DESIGN SARL, prima CIMENT SWISS DESIGN SARL en liquidation, Lausanne</it>
+    <fr>Mutation CIMENT SWISS DESIGN SARL, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21895</journalNumber>
+  <journalDate>2018-12-07</journalDate>
+  <publicationText>CIMENT SWISS DESIGN SARL en liquidation, à Lausanne, CHE-496.207.863 (FOSC du 13.11.2018, p. 0/1004496844). Le président du Tribunal de l'arrondissement de Lausanne a prononcé le 4 décembre 2018 l'effet suspensif de la dissolution prononcée le 15 octobre 2018. La raison de commerce redevient CIMENT SWISS DESIGN SARL.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CIMENT SWISS DESIGN SARL</name>
+      <uid>CHE496207863</uid>
+      <uidOrganisationId>496207863</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011436507</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Datanova S.A.</addressLine1>
+        <street>Chemin du Martinet</street>
+        <houseNumber>28</houseNumber>
+        <swissZipCode>1000</swissZipCode>
+        <town>Lausanne 16</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la fourniture de prestations en matière de conception et de réalisation d'aménagements intérieurs et extérieurs, ébénisterie et menuiserie et commercialisation de tous produits nécessaires à ces aménagements (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CIMENT SWISS DESIGN SARL en liquidation</name>
+      <uid>CHE496207863</uid>
+      <uidOrganisationId>496207863</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011436507</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Datanova S.A.</addressLine1>
+        <street>Chemin du Martinet</street>
+        <houseNumber>28</houseNumber>
+        <swissZipCode>1000</swissZipCode>
+        <town>Lausanne 16</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la fourniture de prestations en matière de conception et de réalisation d'aménagements intérieurs et extérieurs, ébénisterie et menuiserie et commercialisation de tous produits nécessaires à ces aménagements (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-13</lastFoscDate>
+    <lastFoscSequence>1004496844</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

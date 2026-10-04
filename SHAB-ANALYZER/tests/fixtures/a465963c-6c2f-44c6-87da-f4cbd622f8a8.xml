@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>a3eec944-9a90-4b8a-9bec-a1036940edc9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004712395</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Marché Flag Aubonne S.à r.l., Aubonne</de>
+    <en>Change Marché Flag Aubonne S.à r.l., Aubonne</en>
+    <it>Cambiamenti Marché Flag Aubonne S.à r.l., Aubonne</it>
+    <fr>Mutation Marché Flag Aubonne S.à r.l., Aubonne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16003</journalNumber>
+  <journalDate>2019-09-04</journalDate>
+  <publicationText>Marché Flag Aubonne S.à r.l., à Aubonne, CHE-105.260.425 (FOSC du 18.01.2017, p. 0/3291447). SYNERGESTION SA (CHE-113.031.861) cède 10 de ses 90 parts de CHF 1'000 à Sandri Claudio, de Frutigen, à Collonge-Bellerive, nouvel associé avec 10 parts de CHF 1'000, sans signature. SYNERGESTION SA (CHE-113.031.861) reste titulaire de 80 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Marché Flag Aubonne S.à r.l.</name>
+      <uid>CHE-105.260.425</uid>
+      <uidOrganisationId>105260425</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001724743</code13>
+      <seat>Aubonne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Les Fossés-Dessous</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1170</swissZipCode>
+        <town>Aubonne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une épicerie à Aubonne, fabrication et commercialisation de denrées alimentaires, commercialisation de boissons avec ou sans alcool.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Marché Flag Aubonne S.à r.l.</name>
+      <uid>CHE-105.260.425</uid>
+      <uidOrganisationId>105260425</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001724743</code13>
+      <seat>Aubonne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Les Fossés-Dessous</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1170</swissZipCode>
+        <town>Aubonne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une épicerie à Aubonne, fabrication et commercialisation de denrées alimentaires, commercialisation de boissons avec ou sans alcool.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-01-18</lastFoscDate>
+    <lastFoscNumber>12</lastFoscNumber>
+    <lastFoscSequence>3291447</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

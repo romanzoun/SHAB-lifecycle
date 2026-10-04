@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>2c187045-b9f6-4092-ac5e-bbcc68b48188</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004495870</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation MP Peinture Sàrl, Luins</de>
+    <en>Change MP Peinture Sàrl, Luins</en>
+    <it>Cambiamenti MP Peinture Sàrl, Luins</it>
+    <fr>Mutation MP Peinture Sàrl, Luins</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19884</journalNumber>
+  <journalDate>2018-11-07</journalDate>
+  <publicationText>MP Peinture Sàrl, à Luins, CHE-332.745.554 (FOSC du 17.12.2015, p. 0/2546417). L'associé-gérant Pareja Bianchi Marcos cède 3 de ses 20 parts de CHF 1'000 à Stocchetti Gregorio, d'Italie, à Gland, nouvel associé avec 3 parts de CHF 1'000, sans signature. Pareja Bianchi Marcos reste titulaire de 17 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MP Peinture Sàrl</name>
+      <uid>CHE332745554</uid>
+      <uidOrganisationId>332745554</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011644347</code13>
+      <seat>Luins</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Le Vernay</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1184</swissZipCode>
+        <town>Luins</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une entreprise de peinture, plâtrerie et papiers peints (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MP Peinture Sàrl</name>
+      <uid>CHE332745554</uid>
+      <uidOrganisationId>332745554</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011644347</code13>
+      <seat>Luins</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Le Vernay</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1184</swissZipCode>
+        <town>Luins</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une entreprise de peinture, plâtrerie et papiers peints (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-12-17</lastFoscDate>
+    <lastFoscSequence>2546417</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

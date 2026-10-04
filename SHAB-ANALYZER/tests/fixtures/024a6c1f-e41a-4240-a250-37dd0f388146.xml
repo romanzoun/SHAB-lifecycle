@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>020e2486-bbed-430b-9e09-a484cbfadb4b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004590114</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Fondation de secours du Groupe Mutuel, Martigny</de>
+    <en>Change Fondation de secours du Groupe Mutuel, Martigny</en>
+    <it>Cambiamenti Fondation de secours du Groupe Mutuel, Martigny</it>
+    <fr>Mutation Fondation de secours du Groupe Mutuel, Martigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>737</journalNumber>
+  <journalDate>2019-03-13</journalDate>
+  <publicationText>Fondation de secours du Groupe Mutuel, à Martigny, CHE-110.407.800, fondation (No. FOSC 51 du 14.03.2018, Publ. 4112145). Nouvelle dénomination de l'autorité de surveillance: Département de la sécurité, des institutions et du sport du canton du Valais.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation de secours du Groupe Mutuel</name>
+      <uid>CHE110407800</uid>
+      <uidOrganisationId>110407800</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62170036187</code13>
+      <seat>Martigny</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Cèdres</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>venir en aide et accorder des prestations de secours à toute personne domiciliée en Suisse; priorité sera donnée aux assurés des caisses-maladie membres du "Groupe Mutuel", (association de siège à Sion) et plus particulièrement à ceux des anciennes sociétés de secours mutuels (SSM) ; elle pourra procéder à toutes actions et opérations convergentes à ses buts ou en vue de financer ceux-ci</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation de secours du Groupe Mutuel</name>
+      <uid>CHE110407800</uid>
+      <uidOrganisationId>110407800</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62170036187</code13>
+      <seat>Martigny</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Cèdres</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1920</swissZipCode>
+        <town>Martigny</town>
+      </address>
+    </company>
+    <purpose>venir en aide et accorder des prestations de secours à toute personne domiciliée en Suisse; priorité sera donnée aux assurés des caisses-maladie membres du "Groupe Mutuel", (association de siège à Sion) et plus particulièrement à ceux des anciennes sociétés de secours mutuels (SSM) ; elle pourra procéder à toutes actions et opérations convergentes à ses buts ou en vue de financer ceux-ci</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-03-14</lastFoscDate>
+    <lastFoscNumber>51</lastFoscNumber>
+    <lastFoscSequence>4112145</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

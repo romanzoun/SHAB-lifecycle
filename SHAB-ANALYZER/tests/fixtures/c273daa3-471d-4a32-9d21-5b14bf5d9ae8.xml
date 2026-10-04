@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>c1797abf-4064-4ee2-a2c0-1a50c224216b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004674984</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Cedec SA, Le Grand-Saconnex</de>
+    <en>Change Cedec SA, Le Grand-Saconnex</en>
+    <it>Cambiamenti Cedec SA, Le Grand-Saconnex</it>
+    <fr>Mutation Cedec SA, Le Grand-Saconnex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13083</journalNumber>
+  <journalDate>2019-07-09</journalDate>
+  <publicationText>Cedec SA, à Le Grand-Saconnex, CHE-107.023.830 (FOSC du 04.10.2018, p. 0/1004469914). Capital-actions réduit d'un montant de CHF 1'176'218, par réduction de la valeur nominale des 1'260 actions, nominatives, de CHF 1'000 à CHF 66.4936508, et simultanément augmenté d'un montant de CHF 1'176'218, par augmentation de la valeur nominale des 1'260 actions, nominatives, de CHF 66.4936508 à CHF 1'000. Capital-actions: CHF 1'260'000, entièrement libéré, divisé en 1'260 actions de CHF 1'000, nominatives.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cedec SA</name>
+      <uid>CHE107023830</uid>
+      <uidOrganisationId>107023830</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000209683</code13>
+      <seat>Le Grand-Saconnex</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Voie-de-Moëns</street>
+        <houseNumber>28</houseNumber>
+        <swissZipCode>1218</swissZipCode>
+        <town>Le Grand-Saconnex</town>
+      </address>
+    </company>
+    <purpose>étude et exécution des plannings de réorganisation rationnelle de toutes entreprises privées ou publiques.</purpose>
+    <capital>
+      <nominal>1260000.00</nominal>
+      <paid>1260000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cedec SA</name>
+      <uid>CHE107023830</uid>
+      <uidOrganisationId>107023830</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000209683</code13>
+      <seat>Le Grand-Saconnex</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Voie-de-Moëns</street>
+        <houseNumber>28</houseNumber>
+        <town>Le Grand-Saconnex</town>
+      </address>
+    </company>
+    <purpose>étude et exécution des plannings de réorganisation rationnelle de toutes entreprises privées ou publiques.</purpose>
+    <capital>
+      <nominal>1260000.00</nominal>
+      <paid>1260000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-04</lastFoscDate>
+    <lastFoscSequence>1004469914</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

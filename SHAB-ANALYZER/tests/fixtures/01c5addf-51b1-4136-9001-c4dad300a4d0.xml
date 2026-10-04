@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>01c5addf-51b1-4136-9001-c4dad300a4d0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005174745</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation LKF Software Company GmbH, Bern, neu LKF Software Company GmbH in Liquidation</de>
+    <en>Change LKF Software Company GmbH, Bern, new LKF Software Company GmbH in Liquidation</en>
+    <it>Cambiamenti LKF Software Company GmbH, Bern, nuovo LKF Software Company GmbH in Liquidation</it>
+    <fr>Mutation LKF Software Company GmbH, Bern, nouveau LKF Software Company GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7330</journalNumber>
+  <journalDate>2021-05-05</journalDate>
+  <publicationText>LKF Software Company GmbH, in Bern, CHE-346.904.474, schweizerische Zweigniederlassung (SHAB Nr. 70 vom 13.04.2021, Publ. 1005147511), Hauptsitz in: Bern. Firma neu: LKF Software Company GmbH in Liquidation. Firma Hauptsitz neu: LKF Software Company GmbH in Liquidation [bisher: LKF Software Company GmbH]. Bemerkungen zum Hauptsitz neu: Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 30.04.2021 aufgelöst.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LKF Software Company GmbH in Liquidation</name>
+      <uid>CHE-346.904.474</uid>
+      <uidOrganisationId>346904474</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03690786959</code13>
+      <seat>Bern</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Spitalgasse</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>LKF Software Company GmbH</name>
+      <country>CH</country>
+      <uid>CHE-257.037.763</uid>
+      <uidOrganisationId>257037763</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LKF Software Company GmbH</name>
+      <uid>CHE-346.904.474</uid>
+      <uidOrganisationId>346904474</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03690786959</code13>
+      <seat>Bern</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Spitalgasse</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>LKF Software Company GmbH</name>
+      <country>CH</country>
+      <uid>CHE-257.037.763</uid>
+      <uidOrganisationId>257037763</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-04-13</lastFoscDate>
+    <lastFoscNumber>70</lastFoscNumber>
+    <lastFoscSequence>1005147511</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

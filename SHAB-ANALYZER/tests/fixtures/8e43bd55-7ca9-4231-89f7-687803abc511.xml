@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>8e375b28-7b9e-4dee-a6b2-cc6fdb3c8757</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004779833</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Fondation Chats des Rues, Port-Valais</de>
+    <en>Change Fondation Chats des Rues, Port-Valais</en>
+    <it>Cambiamenti Fondation Chats des Rues, Port-Valais</it>
+    <fr>Mutation Fondation Chats des Rues, Port-Valais</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3193</journalNumber>
+  <journalDate>2019-12-05</journalDate>
+  <publicationText>Fondation Chats des Rues, à Port-Valais, CHE-111.736.413, fondation (No. FOSC 97 du 21.05.2019, Publ. 1004635155). Par décision du 11.10.2019, l'autorité de surveillance a révoqué la dispense de l'obligation de désigner un organe de révision.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Chats des Rues</name>
+      <uid>CHE-111.736.413</uid>
+      <uidOrganisationId>111736413</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62170067050</code13>
+      <seat>Port-Valais</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>aux fins d'intérêt public et sans but lucratif, exploiter et maintenir un refuge pour recueillir, soigner, nourrir les chats abandonnés, les castrer ou les stériliser à la demande des autorités ou des particuliers et ce, pour toutes les communes du Haut-Lac</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Chats des Rues</name>
+      <uid>CHE-111.736.413</uid>
+      <uidOrganisationId>111736413</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62170067050</code13>
+      <seat>Port-Valais</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>aux fins d'intérêt public et sans but lucratif, exploiter et maintenir un refuge pour recueillir, soigner, nourrir les chats abandonnés, les castrer ou les stériliser à la demande des autorités ou des particuliers et ce, pour toutes les communes du Haut-Lac</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-21</lastFoscDate>
+    <lastFoscNumber>97</lastFoscNumber>
+    <lastFoscSequence>1004635155</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

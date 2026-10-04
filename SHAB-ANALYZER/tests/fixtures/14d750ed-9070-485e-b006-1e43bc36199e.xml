@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>14a94073-f8f6-4df8-90a7-e27fe031b1d7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004537449</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Bäckerei-Konditorei Studler AG, Seengen</de>
+    <en>Change Bäckerei-Konditorei Studler AG, Seengen</en>
+    <it>Cambiamenti Bäckerei-Konditorei Studler AG, Seengen</it>
+    <fr>Mutation Bäckerei-Konditorei Studler AG, Seengen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>201</journalNumber>
+  <journalDate>2019-01-04</journalDate>
+  <publicationText>Bäckerei-Konditorei Studler AG, in Seengen, CHE-107.109.839, Aktiengesellschaft (SHAB Nr. 95 vom 18.05.2018, Publ. 4237487). Zweigniederlassung neu: [Folgende Zweigniederlassungen sind aufgehoben worden:] [gestrichen: Suhr (HR AG)].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bäckerei-Konditorei Studler AG</name>
+      <uid>CHE107109839</uid>
+      <uidOrganisationId>107109839</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030162651</code13>
+      <seat>Seengen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Unterdorfstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>5707</swissZipCode>
+        <town>Seengen</town>
+      </address>
+    </company>
+    <purpose>Herstellung und Verkauf von Bäckerei- und Konditoreiwaren; die Gesellschaft kann sich an anderen Unternehmungen beteiligen, solche Unternehmungen erwerben sowie Grundstücke kaufen, belasten, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bäckerei-Konditorei Studler AG</name>
+      <uid>CHE107109839</uid>
+      <uidOrganisationId>107109839</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030162651</code13>
+      <seat>Seengen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Unterdorfstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>5707</swissZipCode>
+        <town>Seengen</town>
+      </address>
+    </company>
+    <purpose>Herstellung und Verkauf von Bäckerei- und Konditoreiwaren; die Gesellschaft kann sich an anderen Unternehmungen beteiligen, solche Unternehmungen erwerben sowie Grundstücke kaufen, belasten, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-18</lastFoscDate>
+    <lastFoscNumber>95</lastFoscNumber>
+    <lastFoscSequence>4237487</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>45acd57b-9a9e-4ca1-b0aa-493427cfeb76</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004748296</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Kiebitz, Verein zur Förderung beruflicher Neuorientierung, Basel</de>
+    <en>Change Kiebitz, Verein zur Förderung beruflicher Neuorientierung, Basel</en>
+    <it>Cambiamenti Kiebitz, Verein zur Förderung beruflicher Neuorientierung, Basel</it>
+    <fr>Mutation Kiebitz, Verein zur Förderung beruflicher Neuorientierung, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6189</journalNumber>
+  <journalDate>2019-10-25</journalDate>
+  <publicationText>Kiebitz, Verein zur Förderung beruflicher Neuorientierung, in Basel, CHE-108.459.756, Verein (SHAB Nr. 104 vom 31.05.2019, Publ. 1004641769). Eingetragene Personen neu oder mutierend: Buess, Patrik, von Lausen, in Lausen, Mitglied des Vorstandes, mit Kollektivunterschrift zu zweien; Zulji, Alen, von Liestal, in Münchenstein, Mitglied des Vorstandes, mit Kollektivunterschrift zu zweien.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kiebitz, Verein zur Förderung beruflicher Neuorientierung</name>
+      <uid>CHE-108.459.756</uid>
+      <uidOrganisationId>108459756</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27060004401</code13>
+      <seat>Basel</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Auf dem Wolf</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>4052</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Ristorazione - Tea Room.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kiebitz, Verein zur Förderung beruflicher Neuorientierung</name>
+      <uid>CHE-108.459.756</uid>
+      <uidOrganisationId>108459756</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27060004401</code13>
+      <seat>Basel</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Auf dem Wolf</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>4052</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Initiierung und Realisierung arbeitsmarktlicher Massnahmen zur Bekämpfung der Arbeitslosigkeit, insbesondere als Träger des Projektes KIEBITZ. Der Verein verfolgt ausschliesslich gemeinnützige Ziele.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-31</lastFoscDate>
+    <lastFoscNumber>104</lastFoscNumber>
+    <lastFoscSequence>1004641769</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

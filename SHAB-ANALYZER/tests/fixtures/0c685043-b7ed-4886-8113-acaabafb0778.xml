@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>0ba3f3da-dd80-4377-9880-caa398f7f5b0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004694976</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Rud. Senn AG, Besenbüren</de>
+    <en>Change Rud. Senn AG, Besenbüren</en>
+    <it>Cambiamenti Rud. Senn AG, Besenbüren</it>
+    <fr>Mutation Rud. Senn AG, Besenbüren</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8731</journalNumber>
+  <journalDate>2019-08-08</journalDate>
+  <publicationText>Rud. Senn AG, in Besenbüren, CHE-107.115.024, Aktiengesellschaft (SHAB Nr. 120 vom 25.06.2019, Publ. 1004659166). Bei der Kapitalherabsetzung vom 05.08.2019 wird das Aktienkapital von CHF 100'000.00 durch Vernichtung von 50 Namenaktien zu CHF 1'000.00 um CHF 50'000.00 auf CHF 50'000.00 herabgesetzt. Gleichzeitig wird das Aktienkapital um CHF 50'000.00 auf CHF 100'000.00 durch Ausgabe von 50 Namenaktien zu CHF 1'000.00 ordentlich erhöht.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Rud. Senn AG</name>
+      <uid>CHE107115024</uid>
+      <uidOrganisationId>107115024</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40039230311</code13>
+      <seat>Besenbüren</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Steinermoos</street>
+        <houseNumber>120</houseNumber>
+        <swissZipCode>5627</swissZipCode>
+        <town>Besenbüren</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Autoverwertung sowie Handel mit Autos und Ersatzteilen; die Gesellschaft kann sich an gleichartigen oder verwandten Unternehmungen im In- und Ausland beteiligen oder solche erwerben, im In- und Ausland Zweigniederlassungen errichten sowie im In- und Ausland Liegenschaften und sonstige Vermögenswerte erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Rud. Senn AG</name>
+      <uid>CHE107115024</uid>
+      <uidOrganisationId>107115024</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40039230311</code13>
+      <seat>Besenbüren</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Steinermoos</street>
+        <houseNumber>120</houseNumber>
+        <swissZipCode>5627</swissZipCode>
+        <town>Besenbüren</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Autoverwertung sowie Handel mit Autos und Ersatzteilen; die Gesellschaft kann sich an gleichartigen oder verwandten Unternehmungen im In- und Ausland beteiligen oder solche erwerben, im In- und Ausland Zweigniederlassungen errichten sowie im In- und Ausland Liegenschaften und sonstige Vermögenswerte erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-25</lastFoscDate>
+    <lastFoscNumber>120</lastFoscNumber>
+    <lastFoscSequence>1004659166</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>true</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

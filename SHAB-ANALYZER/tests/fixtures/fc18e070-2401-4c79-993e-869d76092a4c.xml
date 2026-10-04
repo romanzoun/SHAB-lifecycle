@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>fc1324a8-71ef-4478-b255-fbff3b4d785e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004687344</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Salt Mobile SA, Renens (VD)</de>
+    <en>Change Salt Mobile SA, Renens (VD)</en>
+    <it>Cambiamenti Salt Mobile SA, Renens (VD)</it>
+    <fr>Mutation Salt Mobile SA, Renens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13590</journalNumber>
+  <journalDate>2019-07-25</journalDate>
+  <publicationText>Salt Mobile SA, à Renens (VD), CHE-106.836.776 (FOSC du 25.06.2019, p. 0/1004659243). Transfert de patrimoine: selon contrat du 17 juillet 2019, la société a transféré des actifs pour CHF 87'050'000 et des passifs envers les tiers pour CHF 41'966'000 à Swiss Infra Services SA, à Renens (VD) (CHE-368.030.027). Contre-prestation: CHF 45'084'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Salt Mobile SA</name>
+      <translations>[de] Salt Mobile AG [en] Salt Mobile Ltd</translations>
+      <uid>CHE106836776</uid>
+      <uidOrganisationId>106836776</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000570190</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Caudray</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>le but de la société consiste en la prestation de services de tout genre dans le domaine de la télécommunication en Suisse, notamment en la création et l'exploitation d'un réseau de téléphonie mobile (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>268000000.00</nominal>
+      <paid>268000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Salt Mobile SA</name>
+      <translations>[de] Salt Mobile AG [en] Salt Mobile Ltd</translations>
+      <uid>CHE106836776</uid>
+      <uidOrganisationId>106836776</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000570190</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Caudray</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>le but de la société consiste en la prestation de services de tout genre dans le domaine de la télécommunication en Suisse, notamment en la création et l'exploitation d'un réseau de téléphonie mobile (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>268000000.00</nominal>
+      <paid>268000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-25</lastFoscDate>
+    <lastFoscSequence>1004659243</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

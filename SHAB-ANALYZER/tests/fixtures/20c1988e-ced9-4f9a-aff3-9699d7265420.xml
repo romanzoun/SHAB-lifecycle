@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>20bb43d4-2d40-49aa-97e1-daa1b36c601e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004670617</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Moren Frères SA, Vétroz</de>
+    <en>Change Moren Frères SA, Vétroz</en>
+    <it>Cambiamenti Moren Frères SA, Vétroz</it>
+    <fr>Mutation Moren Frères SA, Vétroz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1776</journalNumber>
+  <journalDate>2019-07-03</journalDate>
+  <publicationText>Moren Frères SA, à Vétroz, CHE-105.762.365, société anonyme (No. FOSC 81 du 27.04.2017, p.0, Publ. 3490521). Transfert de patrimoine: Selon contrat du 04.06.2019 la société a transféré certains actifs pour CHF 186'667.20 et certains passifs envers les tiers pour CHF 80'289.10, soit un actif net de CHF 106'378.10 à la société anonyme "Valbéton SA", à Grône (CHE-280.799.919). Contre-prestation: 602 actions nominatives de CHF 100.00, liées selon statuts, entièrement libérées et une créance de CHF 46'178.10.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Moren Frères SA</name>
+      <uid>CHE105762365</uid>
+      <uidOrganisationId>105762365</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630036148</code13>
+      <seat>Vétroz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <swissZipCode>1963</swissZipCode>
+        <town>Vétroz</town>
+      </address>
+    </company>
+    <purpose>Construction de bâtiments et exécution de travaux de génie civil, maçonnerie, terrassements, transports et aménagements, ainsi que toutes opérations s'y rapportant; activité d'entreprise générale "clefs en mains" et toute autre activité proche</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Moren Frères SA</name>
+      <uid>CHE105762365</uid>
+      <uidOrganisationId>105762365</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630036148</code13>
+      <seat>Vétroz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <swissZipCode>1963</swissZipCode>
+        <town>Vétroz</town>
+      </address>
+    </company>
+    <purpose>Construction de bâtiments et exécution de travaux de génie civil, maçonnerie, terrassements, transports et aménagements, ainsi que toutes opérations s'y rapportant; activité d'entreprise générale "clefs en mains" et toute autre activité proche</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-04-27</lastFoscDate>
+    <lastFoscNumber>81</lastFoscNumber>
+    <lastFoscSequence>3490521</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

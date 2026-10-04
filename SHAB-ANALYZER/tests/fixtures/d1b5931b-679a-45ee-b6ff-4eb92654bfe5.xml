@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>d1b0dd11-1573-489c-9553-6195ff97b696</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004463827</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Zivile Sicherheit GmbH, Rümlang</de>
+    <en>Change Zivile Sicherheit GmbH, Rümlang</en>
+    <it>Cambiamenti Zivile Sicherheit GmbH, Rümlang</it>
+    <fr>Mutation Zivile Sicherheit GmbH, Rümlang</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>34143</journalNumber>
+  <journalDate>2018-09-24</journalDate>
+  <publicationText>Zivile Sicherheit GmbH, in Rümlang, CHE-264.905.991, schweizerische Zweigniederlassung (SHAB Nr. 132 vom 11.07.2018, Publ. 4350591), Hauptsitz in: Chur. Neue Identifikationsnummer Hauptsitz: CHE-113.216.461 [bisher: Identifikationsnummer Hauptsitz: CH-350.4.001.971-7]. Firma Hauptsitz neu: Zivile Sicherheit AG [bisher: Zivile Sicherheit GmbH]. Rechtsform Hauptsitz neu: Aktiengesellschaft [bisher: Rechtsform Hauptsitz: Gesellschaft mit beschränkter Haftung].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Zivile Sicherheit GmbH</name>
+      <uid>CHE264905991</uid>
+      <uidOrganisationId>264905991</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090028739</code13>
+      <seat>Rümlang</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Riedackerstrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>8153</swissZipCode>
+        <town>Rümlang</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Zivile Sicherheit AG</name>
+      <country>CH</country>
+      <uid>CHE113216461</uid>
+      <uidOrganisationId>113216461</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Zivile Sicherheit GmbH</name>
+      <uid>CHE264905991</uid>
+      <uidOrganisationId>264905991</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090028739</code13>
+      <seat>Rümlang</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Riedackerstrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>8153</swissZipCode>
+        <town>Rümlang</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-11</lastFoscDate>
+    <lastFoscNumber>132</lastFoscNumber>
+    <lastFoscSequence>4350591</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

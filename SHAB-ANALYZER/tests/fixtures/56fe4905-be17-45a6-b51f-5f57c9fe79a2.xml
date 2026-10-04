@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.15/HR02-export.xsd">
+<meta>
+  <id>56edcd98-474c-453e-a9de-8a2bd4427718</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005526358</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-07-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <secondaryTenants>
+    <tenantCode>kabti</tenantCode>
+    <publicationDate>2022-07-21</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation Planzer Transport AG, Bioggio</de>
+    <en>Change Planzer Transport AG, Bioggio</en>
+    <it>Cambiamenti Planzer Transport AG, Bioggio</it>
+    <fr>Mutation Planzer Transport AG, Bioggio</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9350</journalNumber>
+  <journalDate>2022-07-18</journalDate>
+  <publicationText>Planzer Transport AG, in Bioggio, CHE-315.240.684, succursale svizzera (Nr. FUSC 135 del 14.07.2022, Pubbl. 1005521130), Sede principale a: Dietikon. Nuovo nome della ditta della sede principale: Planzer Transport AG (Planzer Transports SA) (Planzer Trasporti SA) [finora: Ditta della sede principale: Planzer Transport AG].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Planzer Transport AG</name>
+      <uid>CHE-315.240.684</uid>
+      <uidOrganisationId>315240684</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50190152502</code13>
+      <seat>Bioggio</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Industrie</street>
+        <swissZipCode>6934</swissZipCode>
+        <town>Bioggio</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Planzer Transport AG</name>
+      <country>CH</country>
+      <uid>CHE-149.541.792</uid>
+      <uidOrganisationId>149541792</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Planzer Transport AG</name>
+      <uid>CHE-315.240.684</uid>
+      <uidOrganisationId>315240684</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50190152502</code13>
+      <seat>Bioggio</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Industrie</street>
+        <swissZipCode>6934</swissZipCode>
+        <town>Bioggio</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2022-07-14</lastFoscDate>
+    <lastFoscNumber>135</lastFoscNumber>
+    <lastFoscSequence>1005521130</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

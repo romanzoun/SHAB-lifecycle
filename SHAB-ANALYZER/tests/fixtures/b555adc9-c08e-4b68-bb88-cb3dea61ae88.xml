@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>b532c448-913e-4c5a-9dbd-af3b76e0efa2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004645425</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Primapen KGK, Zürich</de>
+    <en>Change Primapen KGK, Zürich</en>
+    <it>Cambiamenti Primapen KGK, Zürich</it>
+    <fr>Mutation Primapen KGK, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21420</journalNumber>
+  <journalDate>2019-06-03</journalDate>
+  <publicationText>Primapen KGK, in Zürich, CHE-467.336.754, Kommanditgesellschaft für kollektive Kapitalanlagen (SHAB Nr. 8 vom 14.01.2019, Publ. 1004539944). Änderung Gesellschaftsvertrag: 25.04.2019. Dauer der Gesellschaft neu: Bis 2035 mit unbeschränkter Verlängerungsmöglichkeit um jeweils höchstens drei Jahre.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Primapen KGK</name>
+      <translations>[fr] Primapen Limited Partnership for Collective Investment Schemes</translations>
+      <uid>CHE467336754</uid>
+      <uidOrganisationId>467336754</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02080000657</code13>
+      <seat>Zürich</seat>
+      <legalForm>0114</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Talstrasse</street>
+        <houseNumber>80</houseNumber>
+        <swissZipCode>8001</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Der ausschliessliche Zweck der KGK ist die Kapitalanlage in kollektive Kapitalanlagen (Portfolio-Funds) aus dem Bereich Privatmarktanlagen (vor allem Private Equity und Infrastruktur) als Einanleger-Dachfonds. Die KGK ist berechtigt, sämtliche Handlungen und Rechtsgeschäfte vorzunehmen, die der Erreichung des Gesellschaftszwecks dienlich sind.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Primapen KGK</name>
+      <translations>[fr] Primapen Limited Partnership for Collective Investment Schemes</translations>
+      <uid>CHE467336754</uid>
+      <uidOrganisationId>467336754</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02080000657</code13>
+      <seat>Zürich</seat>
+      <legalForm>0114</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Talstrasse</street>
+        <houseNumber>80</houseNumber>
+        <swissZipCode>8001</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Der ausschliessliche Zweck der KGK ist die Kapitalanlage in kollektive Kapitalanlagen (Portfolio-Funds) aus dem Bereich Privatmarktanlagen (vor allem Private Equity und Infrastruktur) als Einanleger-Dachfonds. Die KGK ist berechtigt, sämtliche Handlungen und Rechtsgeschäfte vorzunehmen, die der Erreichung des Gesellschaftszwecks dienlich sind.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-14</lastFoscDate>
+    <lastFoscNumber>8</lastFoscNumber>
+    <lastFoscSequence>1004539944</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

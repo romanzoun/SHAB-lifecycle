@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>479c5269-a4ba-46c3-a054-a75deec5e036</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004650146</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Marianne Schmutz GmbH in Liquidation, bisher Marianne Schmutz GmbH, Düdingen</de>
+    <en>Change Marianne Schmutz GmbH in Liquidation, to date Marianne Schmutz GmbH, Düdingen</en>
+    <it>Cambiamenti Marianne Schmutz GmbH in Liquidation, prima Marianne Schmutz GmbH, Düdingen</it>
+    <fr>Mutation Marianne Schmutz GmbH in Liquidation, Düdingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3239</journalNumber>
+  <journalDate>2019-06-07</journalDate>
+  <publicationText>Marianne Schmutz GmbH, in Düdingen, CHE-170.765.048 (SHAB vom 19.12.2013, s. 0/7225828). Die Gesellschaft wird gemäss Beschluss der Gesellschafterversammlung vom 23.05.2019 aufgelöst. Die Liquidation wird unter der Firma: Marianne Schmutz GmbH in Liquidation durchgeführt. Eingetragene Person geändert: Schmutz Marianne, korrekterweise Schmutz Marianna, Gesellschafterin, 20 Stammanteile zu CHF 1'000, Geschäftsführerin, Einzelunterschrift, neu Gesellschafterin, 20 Stammanteile zu CHF 1'000, Geschäftsführerin, Liquidatorin, Einzelunterschrift. Liquidationsadresse: Gänsebergstrasse 4A, 3186 Düdingen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Marianne Schmutz GmbH in Liquidation</name>
+      <uid>CHE170765048</uid>
+      <uidOrganisationId>170765048</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735487288</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gänsebergstrasse</street>
+        <houseNumber>4 a</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+      <liqAddress>
+        <street>Gänsebergstrasse</street>
+        <houseNumber>4 A</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </liqAddress>
+    </company>
+    <purpose>Betrieb eines Kiosks. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Marianne Schmutz GmbH</name>
+      <uid>CHE170765048</uid>
+      <uidOrganisationId>170765048</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735487288</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gänsebergstrasse</street>
+        <houseNumber>4 a</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Kiosks. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

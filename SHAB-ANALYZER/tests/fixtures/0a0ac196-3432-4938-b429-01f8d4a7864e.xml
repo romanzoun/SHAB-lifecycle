@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>09e2b13b-8abe-4eae-9ebf-494aeeed12fd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005200614</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-06-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation ST.C.M. Europe AG, Bösingen</de>
+    <en>Change ST.C.M. Europe AG, Bösingen</en>
+    <it>Cambiamenti ST.C.M. Europe AG, Bösingen</it>
+    <fr>Mutation ST.C.M. Europe AG, Bösingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4852</journalNumber>
+  <journalDate>2021-05-27</journalDate>
+  <publicationText>ST.C.M. Europe AG, in Bösingen, CHE-100.159.517 (SHAB vom 07.08.2018, s. 0/4401071). Die Inhaberaktien sind am 01.05.2021 von Gesetzes wegen in Namenaktien umgewandelt worden. Die Statuten der Gesellschaft sind noch nicht an die Umwandlung angepasst worden; die Anpassung muss anlässlich der nächsten Statutenänderung erfolgen. Aktienkapital neu: CHF 50'000, vollständig liberiert, eingeteilt in 5'000 Namenaktien zu CHF 10 (bischer: 5'000 Inhaberaktien zu CHF 10).</publicationText>
+  <commonsNew>
+    <company>
+      <name>ST.C.M. Europe AG</name>
+      <uid>CHE-100.159.517</uid>
+      <uidOrganisationId>100159517</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44030046350</code13>
+      <seat>Bösingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>177</houseNumber>
+        <swissZipCode>3178</swissZipCode>
+        <town>Bösingen</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt: Entwicklung und Vertrieb von Computersoftware; Vergabe von Lizenzen und Vermietung von Software; Erwerb, Verkauf, Haltung und Verwaltung von Beteiligungen an Unternehmen aller Art. Die Gesellschaft kann Grundeigentum im In- und Ausland erwerben, veräussern, vermitteln und verwalten.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ST.C.M. Europe AG</name>
+      <uid>CHE-100.159.517</uid>
+      <uidOrganisationId>100159517</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44030046350</code13>
+      <seat>Bösingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>177</houseNumber>
+        <swissZipCode>3178</swissZipCode>
+        <town>Bösingen</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt: Entwicklung und Vertrieb von Computersoftware; Vergabe von Lizenzen und Vermietung von Software; Erwerb, Verkauf, Haltung und Verwaltung von Beteiligungen an Unternehmen aller Art. Die Gesellschaft kann Grundeigentum im In- und Ausland erwerben, veräussern, vermitteln und verwalten.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-07</lastFoscDate>
+    <lastFoscNumber>150</lastFoscNumber>
+    <lastFoscSequence>4401071</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

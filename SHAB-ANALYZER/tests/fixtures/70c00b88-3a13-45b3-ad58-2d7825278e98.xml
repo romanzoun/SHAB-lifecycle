@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>709bc5e7-848e-4770-9c80-8644bbcf88fc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004498904</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Dixi Polytool SA, Le Locle</de>
+    <en>Change Dixi Polytool SA, Le Locle</en>
+    <it>Cambiamenti Dixi Polytool SA, Le Locle</it>
+    <fr>Mutation Dixi Polytool SA, Le Locle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4269</journalNumber>
+  <journalDate>2018-11-12</journalDate>
+  <publicationText>Dixi Polytool SA, Le Locle, CHE-106.831.017 (FOSC du 09.11.2018, p. 0/1004494876). L'inscription N° 4225 du 06.11.2018 étant erronée, la situation antérieure est restaurée en ce sens que Alev Baris et Koehn Frédéric Edouard n'ont pas été nommés directeur (leurs pouvoirs sont radiés), et que Castella Thibaut Olivier Paul, membre et secrétaire du conseil d'administration, n'a pas été nommé directeur général; il continue de signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Dixi Polytool SA</name>
+      <uid>CHE106831017</uid>
+      <uidOrganisationId>106831017</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510004634</code13>
+      <seat>Le Locle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue Technicum</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>2400</swissZipCode>
+        <town>Le Locle</town>
+      </address>
+    </company>
+    <purpose>achat, vente, production, sous-traitance, importation, exportation et commercialisation d'outillages et d'instruments de mesures.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Dixi Polytool SA</name>
+      <uid>CHE106831017</uid>
+      <uidOrganisationId>106831017</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510004634</code13>
+      <seat>Le Locle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue Technicum</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>2400</swissZipCode>
+        <town>Le Locle</town>
+      </address>
+    </company>
+    <purpose>achat, vente, production, sous-traitance, importation, exportation et commercialisation d'outillages et d'instruments de mesures.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-09</lastFoscDate>
+    <lastFoscSequence>1004494876</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

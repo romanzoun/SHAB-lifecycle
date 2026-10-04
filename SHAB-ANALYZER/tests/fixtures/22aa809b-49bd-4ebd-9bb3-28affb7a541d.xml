@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>22a208b1-b736-477a-8b29-c43a328117ea</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004683056</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation SenTec AG, Therwil</de>
+    <en>Change SenTec AG, Therwil</en>
+    <it>Cambiamenti SenTec AG, Therwil</it>
+    <fr>Mutation SenTec AG, Therwil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3563</journalNumber>
+  <journalDate>2019-07-19</journalDate>
+  <publicationText>SenTec AG, in Therwil, CHE-105.218.340, Aktiengesellschaft (SHAB Nr. 80 vom 26.04.2019, Publ. 1004618007). Statutenänderung: 12.06.2019. Die Gesellschaft hat mit Beschluss vom 12.06.2019 eine Erhöhung des bedingten Kapitals gemäss näherer Umschreibung in den Statuten beschlossen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SenTec AG</name>
+      <translations>[fr] SenTec SA [it] SenTec Inc.</translations>
+      <uid>CHE105218340</uid>
+      <uidOrganisationId>105218340</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030025671</code13>
+      <seat>Therwil</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ringstrasse</street>
+        <houseNumber>39</houseNumber>
+        <swissZipCode>4106</swissZipCode>
+        <town>Therwil</town>
+      </address>
+    </company>
+    <purpose>Anbieten von Dienstleistungen im Gesundheitswesen. Die Gesellschaft kann sich an gleichartigen oder verwandten Unternehmungen beteiligen, Liegenschaften kaufen und verkaufen sowie gewerbliche Schutzrechte und Know-how erwerben und verwerten.</purpose>
+    <capital>
+      <nominal>4634907.00</nominal>
+      <paid>4634907.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SenTec AG</name>
+      <translations>[fr] SenTec SA [it] SenTec Inc.</translations>
+      <uid>CHE105218340</uid>
+      <uidOrganisationId>105218340</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28030025671</code13>
+      <seat>Therwil</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ringstrasse</street>
+        <houseNumber>39</houseNumber>
+        <swissZipCode>4106</swissZipCode>
+        <town>Therwil</town>
+      </address>
+    </company>
+    <purpose>Anbieten von Dienstleistungen im Gesundheitswesen. Die Gesellschaft kann sich an gleichartigen oder verwandten Unternehmungen beteiligen, Liegenschaften kaufen und verkaufen sowie gewerbliche Schutzrechte und Know-how erwerben und verwerten.</purpose>
+    <capital>
+      <nominal>4634907.00</nominal>
+      <paid>4634907.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-26</lastFoscDate>
+    <lastFoscNumber>80</lastFoscNumber>
+    <lastFoscSequence>1004618007</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>ec00498d-78a0-40e0-9e9c-152d411c4d60</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004700994</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation IGLA Immobilier Sàrl, en liquidation, bisher IGLA Immobilier Sàrl, Genève</de>
+    <en>Change IGLA Immobilier Sàrl, en liquidation, to date IGLA Immobilier Sàrl, Genève</en>
+    <it>Cambiamenti IGLA Immobilier Sàrl, en liquidation, prima IGLA Immobilier Sàrl, Genève</it>
+    <fr>Mutation IGLA Immobilier Sàrl, en liquidation, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15612</journalNumber>
+  <journalDate>2019-08-19</journalDate>
+  <publicationText>IGLA Immobilier Sàrl, à Genève, CHE-112.937.090 (FOSC du 16.08.2019, p. 0/1004697714). La faillite de la société a été prononcée par décision du Tribunal régional Jura bernois-Seeland du 12.08.2019, avec effet à partir du 12.08.2019 à 11:15. Par conséquent, sa raison sociale devient: IGLA Immobilier Sàrl, en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>IGLA Immobilier Sàrl, en liquidation</name>
+      <uid>CHE112937090</uid>
+      <uidOrganisationId>112937090</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67040039886</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Amococadiz Sàrl</addressLine1>
+        <street>route des Jeunes</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>La société a pour but le conseil d'entreprises et le courtage d'immeubles; elle peut accomplir toutes opérations et conclure tous contrats propres à atteindre son but ou s'y rapportant directement ou indirectement; elle peut acquérir d'autres entreprises semblables ou similaires ou y participer; elle peut acquérir, gérer et vendre des immeubles.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IGLA Immobilier Sàrl</name>
+      <uid>CHE112937090</uid>
+      <uidOrganisationId>112937090</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67040039886</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Amococadiz Sàrl</addressLine1>
+        <street>route des Jeunes</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>La société a pour but le conseil d'entreprises et le courtage d'immeubles; elle peut accomplir toutes opérations et conclure tous contrats propres à atteindre son but ou s'y rapportant directement ou indirectement; elle peut acquérir d'autres entreprises semblables ou similaires ou y participer; elle peut acquérir, gérer et vendre des immeubles.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-16</lastFoscDate>
+    <lastFoscNumber>157</lastFoscNumber>
+    <lastFoscSequence>1004697714</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0b329678-074a-4528-95a4-23c70c199d02</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004450149</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Stiftung PALUN pro parteilose und unabhängige Politiker und Richter und für Transparenz, Luzern</de>
+    <en>Change Stiftung PALUN pro parteilose und unabhängige Politiker und Richter und für Transparenz, Luzern</en>
+    <it>Cambiamenti Stiftung PALUN pro parteilose und unabhängige Politiker und Richter und für Transparenz, Luzern</it>
+    <fr>Mutation Stiftung PALUN pro parteilose und unabhängige Politiker und Richter und für Transparenz, Luzern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7117</journalNumber>
+  <journalDate>2018-09-03</journalDate>
+  <publicationText>Stiftung PALUN pro parteilose und unabhängige Politiker und Richter und für Transparenz, in Luzern, CHE-109.994.331, Stiftung (SHAB Nr. 161 vom 20.08.2010, Publ. 5779224). [gestrichen: Es besteht ein Zweckänderungsvorbehalt zugunsten des Stifters gemäss ZGB 86a.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stiftung PALUN pro parteilose und unabhängige Politiker und Richter und für Transparenz</name>
+      <uid>CHE109994331</uid>
+      <uidOrganisationId>109994331</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10070262641</code13>
+      <seat>Luzern</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Habsburgerstrasse</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>6003</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Förderung und Unterstützung von parteilosen und unabhängigen Politiker (Mitglieder der Exekutive und der Legislative in Bund, Kantonen und Gemeinden) und Richter in der ganzen Schweiz.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stiftung PALUN pro parteilose und unabhängige Politiker und Richter und für Transparenz</name>
+      <uid>CHE109994331</uid>
+      <uidOrganisationId>109994331</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10070262641</code13>
+      <seat>Luzern</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Habsburgerstrasse</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>6003</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Förderung und Unterstützung von parteilosen und unabhängigen Politiker (Mitglieder der Exekutive und der Legislative in Bund, Kantonen und Gemeinden) und Richter in der ganzen Schweiz.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2010-08-20</lastFoscDate>
+    <lastFoscNumber>161</lastFoscNumber>
+    <lastFoscSequence>5779224</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

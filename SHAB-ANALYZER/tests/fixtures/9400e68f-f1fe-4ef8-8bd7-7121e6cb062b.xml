@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>937244ba-9c8a-42c7-b090-306b8b9152f0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004774256</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation VR AG, Schlieren</de>
+    <en>Change VR AG, Schlieren</en>
+    <it>Cambiamenti VR AG, Schlieren</it>
+    <fr>Mutation VR AG, Schlieren</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>46565</journalNumber>
+  <journalDate>2019-11-29</journalDate>
+  <publicationText>VR AG, in Schlieren, CHE-106.064.513, Aktiengesellschaft (SHAB Nr. 118 vom 21.06.2019, Publ. 1004656606). Ausgeschiedene Personen und erloschene Unterschriften: Santangelo, Claudio, von Wynigen, in Schlieren, mit Kollektivprokura zu zweien. Eingetragene Personen neu oder mutierend: Guler, André, von Zürich, in Zürich, Präsident des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien]; Hunkeler, Peter, von Pfäfers, in Schlieren, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: Präsident des Verwaltungsrates, mit Kollektivunterschrift zu zweien].</publicationText>
+  <commonsNew>
+    <company>
+      <name>VR AG</name>
+      <uid>CHE-106.064.513</uid>
+      <uidOrganisationId>106064513</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039280567</code13>
+      <seat>Schlieren</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rütistrasse</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>8952</swissZipCode>
+        <town>Schlieren</town>
+      </address>
+    </company>
+    <purpose>Construction, achat et exploitation d'immeubles ainsi que l'administration de biens, participation à toutes opérations financières et à toutes transactions s'y rapportant</purpose>
+    <capital>
+      <nominal>225000.00</nominal>
+      <paid>225000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>VR AG</name>
+      <uid>CHE-106.064.513</uid>
+      <uidOrganisationId>106064513</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039280567</code13>
+      <seat>Schlieren</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rütistrasse</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>8952</swissZipCode>
+        <town>Schlieren</town>
+      </address>
+    </company>
+    <purpose>Engineering, Produktion, Installation und Handel im Bereich Elektro-, Verkehrs- und Kommunikationstechnik.</purpose>
+    <capital>
+      <nominal>225000.00</nominal>
+      <paid>225000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-21</lastFoscDate>
+    <lastFoscNumber>118</lastFoscNumber>
+    <lastFoscSequence>1004656606</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

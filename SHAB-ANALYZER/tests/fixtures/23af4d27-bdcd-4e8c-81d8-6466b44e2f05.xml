@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+<meta>
+  <id>23af4d27-bdcd-4e8c-81d8-6466b44e2f05</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005427688</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-03-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Binggeli Advisory Enterprises (BAE), Lausanne</de>
+    <en>Change Binggeli Advisory Enterprises (BAE), Lausanne</en>
+    <it>Cambiamenti Binggeli Advisory Enterprises (BAE), Lausanne</it>
+    <fr>Mutation Binggeli Advisory Enterprises (BAE), Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4921</journalNumber>
+  <journalDate>2022-03-10</journalDate>
+  <publicationText>Binggeli Advisory Enterprises (BAE), à Lausanne, CHE-289.213.248 (FOSC du 18.10.2021, p. 0/1005314804). Rectificatif: l'inscription n° 21067 du 13.10.2021 (FOSC du 18.10.2021, p. 1005314804) est rectifiée en ce sens que l'effet suspensif ne se rapporte qu'aux mesures d'exécution et ne doit de ce fait pas être inscrit. La faillite subsiste comme ci-devant (FOSC du 07.09.2021, p. 0/1005286233).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Binggeli Advisory Enterprises (BAE)</name>
+      <uid>CHE-289.213.248</uid>
+      <uidOrganisationId>289213248</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011867711</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route d'Oron</street>
+        <houseNumber>16A</houseNumber>
+        <swissZipCode>1010</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de conseil, notamment dans les domaines juridiques, fiscaux et comptables.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Binggeli Advisory Enterprises (BAE)</name>
+      <uid>CHE-289.213.248</uid>
+      <uidOrganisationId>289213248</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011867711</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route d'Oron</street>
+        <houseNumber>16A</houseNumber>
+        <swissZipCode>1010</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de conseil, notamment dans les domaines juridiques, fiscaux et comptables.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-10-18</lastFoscDate>
+    <lastFoscNumber>202</lastFoscNumber>
+    <lastFoscSequence>1005314804</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

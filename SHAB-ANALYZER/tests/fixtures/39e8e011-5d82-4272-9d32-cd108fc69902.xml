@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>39deac63-2ee7-4653-adcb-55083dafada6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005278464</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-08-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Ballon Invest Grp SA, Château-d'Oex, neu Ballon Invest Grp SA en liquidation</de>
+    <en>Change Ballon Invest Grp SA, Château-d'Oex, new Ballon Invest Grp SA en liquidation</en>
+    <it>Cambiamenti Ballon Invest Grp SA, Château-d'Oex, nuovo Ballon Invest Grp SA en liquidation</it>
+    <fr>Mutation Ballon Invest Grp SA, Château-d'Oex, nouveau Ballon Invest Grp SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17990</journalNumber>
+  <journalDate>2021-08-23</journalDate>
+  <publicationText>Ballon Invest Grp SA, à Château-d'Oex, CHE-114.642.346 (FOSC du 12.05.2021, p. 0/1005179898). Par décision du président du Tribunal de l'arrondissement de l'Est vaudois du 21.07.2021, la société a été déclarée dissoute conformément à l'article 939 CO; sa liquidation a été ordonnée selon les dispositions applicables à la faillite. La raison de commerce devient: Ballon Invest Grp SA en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Ballon Invest Grp SA en liquidation</name>
+      <uid>CHE-114.642.346</uid>
+      <uidOrganisationId>114642346</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010561683</code13>
+      <seat>Château-d'Oex</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>la prise de participations en Suisse et à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Ballon Invest Grp SA</name>
+      <uid>CHE-114.642.346</uid>
+      <uidOrganisationId>114642346</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010561683</code13>
+      <seat>Château-d'Oex</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>la prise de participations en Suisse et à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-05-12</lastFoscDate>
+    <lastFoscNumber>91</lastFoscNumber>
+    <lastFoscSequence>1005179898</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

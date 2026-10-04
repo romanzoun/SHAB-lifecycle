@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>1f534bd7-4ab0-4f23-872f-2358a500af3f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004661417</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Werner Betz &amp; Co., Schaffhausen</de>
+    <en>Change Werner Betz &amp; Co., Schaffhausen</en>
+    <it>Cambiamenti Werner Betz &amp; Co., Schaffhausen</it>
+    <fr>Mutation Werner Betz &amp; Co., Schaffhausen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1165</journalNumber>
+  <journalDate>2019-06-24</journalDate>
+  <publicationText>Werner Betz &amp; Co., in Schaffhausen, CHE-105.938.167, Kommanditgesellschaft (SHAB Nr. 239 vom 08.12.1995, S.6695). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 24.06.2019 mit Inventar per 31.12.2018 Aktiven von CHF 5'127'233.96, darunter die Grundstücke Grundbuch Schaffhausen/460, Vordergasse 53/Schönmaiengässchen 4 und Grundbuch Schaffhausen/16131 und Fremdkapital von CHF 4'355'782.25 auf die Peyerhof AG (CHE-177.221.298), in Schaffhausen. Gegenleistung: 80 Namenaktien zu CHF 1'000.00 und Gutschrift von CHF 691'451.71.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Werner Betz &amp; Co.</name>
+      <uid>CHE105938167</uid>
+      <uidOrganisationId>105938167</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29020046232</code13>
+      <seat>Schaffhausen</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vordergasse</street>
+        <houseNumber>53</houseNumber>
+        <swissZipCode>8200</swissZipCode>
+        <town>Schaffhausen</town>
+      </address>
+    </company>
+    <purpose>Herstellung von und Handel mit Möbeln; Dekorationsgeschäft.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Werner Betz &amp; Co.</name>
+      <uid>CHE105938167</uid>
+      <uidOrganisationId>105938167</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29020046232</code13>
+      <seat>Schaffhausen</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vordergasse</street>
+        <houseNumber>53</houseNumber>
+        <swissZipCode>8200</swissZipCode>
+        <town>Schaffhausen</town>
+      </address>
+    </company>
+    <purpose>Herstellung von und Handel mit Möbeln; Dekorationsgeschäft.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>1995-12-08</lastFoscDate>
+    <lastFoscNumber>239</lastFoscNumber>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

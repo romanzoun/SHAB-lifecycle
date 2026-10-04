@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+<meta>
+  <id>c52c9f02-f899-4608-b5e3-e6027829f133</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005389973</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-01-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation JP. BOATS SERVICES FERNANDES PINTO, Gletterens</de>
+    <en>Change JP. BOATS SERVICES FERNANDES PINTO, Gletterens</en>
+    <it>Cambiamenti JP. BOATS SERVICES FERNANDES PINTO, Gletterens</it>
+    <fr>Mutation JP. BOATS SERVICES FERNANDES PINTO, Gletterens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>541</journalNumber>
+  <journalDate>2022-01-21</journalDate>
+  <publicationText>JP. BOATS SERVICES FERNANDES PINTO, à Gletterens, CHE-459.541.140 (FOSC du 12.01.2022, p. 0/1005379141). Une opposition motivée a été présentée contre la radiation de cette entité juridique. Le titulaire continue l'exploitation de son commerce. L'inscription subsiste (art. 159a al. 2 let. b ORC).</publicationText>
+  <commonsNew>
+    <company>
+      <name>JP. BOATS SERVICES FERNANDES PINTO</name>
+      <uid>CHE-459.541.140</uid>
+      <uidOrganisationId>459541140</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735774246</code13>
+      <seat>Gletterens</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Champs Allemands</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>1544</swissZipCode>
+        <town>Gletterens</town>
+      </address>
+    </company>
+    <purpose>atelier naval.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>JP. BOATS SERVICES FERNANDES PINTO</name>
+      <uid>CHE-459.541.140</uid>
+      <uidOrganisationId>459541140</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735774246</code13>
+      <seat>Gletterens</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Champs Allemands</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>1544</swissZipCode>
+        <town>Gletterens</town>
+      </address>
+    </company>
+    <purpose>atelier naval.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2022-01-12</lastFoscDate>
+    <lastFoscNumber>8</lastFoscNumber>
+    <lastFoscSequence>1005379141</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+<meta>
+  <id>0a09af86-5500-403f-ae4b-a8b1fa76bfec</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005371725</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-12-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AR</cantons>
+  <secondaryTenants>
+    <tenantCode>kabar</tenantCode>
+    <publicationDate>2021-12-31</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation halti immobilien gmbh, Herisau</de>
+    <en>Change halti immobilien gmbh, Herisau</en>
+    <it>Cambiamenti halti immobilien gmbh, Herisau</it>
+    <fr>Mutation halti immobilien gmbh, Herisau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2719</journalNumber>
+  <journalDate>2021-12-28</journalDate>
+  <publicationText>halti immobilien gmbh, in Herisau, CHE-431.528.799, Gesellschaft mit beschränkter Haftung (SHAB Nr. 218 vom 09.11.2017, Publ. 3859823). Das Verfahren gemäss Art. 934 OR wurde durchgeführt, weil die Gesellschaft keine Geschäftstätigkeit mehr aufweist, keine verwertbaren Aktiven mehr hat und kein Interesse an der Aufrechterhaltung der Eintragung innert angesetzter Frist geltend gemacht wurde. Die Gesellschaft kann mangels Zustimmung der kantonalen und der eidgenössischen Steuerverwaltung noch nicht gelöscht werden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>halti immobilien gmbh</name>
+      <uid>CHE-431.528.799</uid>
+      <uidOrganisationId>431528799</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30040191575</code13>
+      <seat>Herisau</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schützenstrasse</street>
+        <houseNumber>38b</houseNumber>
+        <swissZipCode>9100</swissZipCode>
+        <town>Herisau</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Erbringung von Dienstleistungen im Bereich Immobilien. Die Gesellschaft kann Grundstücke und Beteiligungen erwerben, halten und veräussern sowie andere kommerzielle und finanzielle Tätigkeiten ausüben, die mit ihrem Zweck im Zusammenhang stehen. Die Gesellschaft kann Zweigniederlassungen im In- und Ausland errichten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>halti immobilien gmbh</name>
+      <uid>CHE-431.528.799</uid>
+      <uidOrganisationId>431528799</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30040191575</code13>
+      <seat>Herisau</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schützenstrasse</street>
+        <houseNumber>38b</houseNumber>
+        <swissZipCode>9100</swissZipCode>
+        <town>Herisau</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Erbringung von Dienstleistungen im Bereich Immobilien. Die Gesellschaft kann Grundstücke und Beteiligungen erwerben, halten und veräussern sowie andere kommerzielle und finanzielle Tätigkeiten ausüben, die mit ihrem Zweck im Zusammenhang stehen. Die Gesellschaft kann Zweigniederlassungen im In- und Ausland errichten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-09</lastFoscDate>
+    <lastFoscNumber>218</lastFoscNumber>
+    <lastFoscSequence>3859823</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Appenzell A.Rh.</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

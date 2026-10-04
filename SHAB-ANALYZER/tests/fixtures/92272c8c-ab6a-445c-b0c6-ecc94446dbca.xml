@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.17/HR02-export.xsd">
+<meta>
+  <id>91a818b5-8eb2-4e15-9bc6-d4532ace6006</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005659538</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-01-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Jaeger et Bosshard SA, Lancy</de>
+    <en>Change Jaeger et Bosshard SA, Lancy</en>
+    <it>Cambiamenti Jaeger et Bosshard SA, Lancy</it>
+    <fr>Mutation Jaeger et Bosshard SA, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1157</journalNumber>
+  <journalDate>2023-01-18</journalDate>
+  <publicationText>Jaeger et Bosshard SA, à Lancy, CHE-107.858.237 (FOSC du 12.12.2022, p. 0/1005626567). L'inscription no 22525 du 07.12.2022 est rectifiée en ce sens que Kaiser Sandro Fabian est originaire de Lohn-Ammannsegg (et non pas de Lenzburg).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Jaeger et Bosshard SA</name>
+      <uid>CHE-107.858.237</uid>
+      <uidOrganisationId>107858237</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003409770</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Lancy, La Praille, route des Jeunes</street>
+        <houseNumber>32</houseNumber>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>achat, vente, préparation et transformation de vieux fers, métaux et papier, de chiffons et autres déchets recyclables et produits dérivés, importation et exportation de ces matières, ainsi que courtage dans ces domaines.</purpose>
+    <capital>
+      <nominal>1175000.00</nominal>
+      <paid>1175000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Ernst &amp; Young AG</name>
+        <country>CH</country>
+        <uid>CHE105932265</uid>
+        <uidOrganisationId>105932265</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Jaeger et Bosshard SA</name>
+      <uid>CHE-107.858.237</uid>
+      <uidOrganisationId>107858237</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003409770</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Lancy, La Praille, route des Jeunes</street>
+        <houseNumber>32</houseNumber>
+        <town>Lancy</town>
+      </address>
+    </company>
+    <purpose>achat, vente, préparation et transformation de vieux fers, métaux et papier, de chiffons et autres déchets recyclables et produits dérivés, importation et exportation de ces matières, ainsi que courtage dans ces domaines.</purpose>
+    <capital>
+      <nominal>1175000.00</nominal>
+      <paid>1175000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2022-12-12</lastFoscDate>
+    <lastFoscNumber>241</lastFoscNumber>
+    <lastFoscSequence>1005626567</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

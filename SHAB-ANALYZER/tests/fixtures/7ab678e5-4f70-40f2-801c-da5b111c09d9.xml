@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>7a65aed4-9f02-4146-ad42-be2e54c51caf</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004577534</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation C3H5N3O9 SA en liquidation, Neuchâtel</de>
+    <en>Change C3H5N3O9 SA en liquidation, Neuchâtel</en>
+    <it>Cambiamenti C3H5N3O9 SA en liquidation, Neuchâtel</it>
+    <fr>Mutation C3H5N3O9 SA en liquidation, Neuchâtel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>680</journalNumber>
+  <journalDate>2019-02-25</journalDate>
+  <publicationText>C3H5N3O9 SA en liquidation, à Neuchâtel, CHE-440.974.927 (FOSC du 10.12.2018, p. 0/1004516894). Selon décision du 31.01.2019, le Tribunal régional du Littoral et du Val-de-Travers a ordonné la réinscription de la société au registre du commerce.</publicationText>
+  <commonsNew>
+    <company>
+      <name>C3H5N3O9 SA en liquidation</name>
+      <uid>CHE440974927</uid>
+      <uidOrganisationId>440974927</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541082822</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o BF Fiduciaire SA</addressLine1>
+        <street>rue de Lausanne</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>création, fabrication et commerce de tous produits d'horlogerie et de luxe, ainsi que le conseil dans ces domaines (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>C3H5N3O9 SA en liquidation</name>
+      <uid>CHE440974927</uid>
+      <uidOrganisationId>440974927</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541082822</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o BF Fiduciaire SA</addressLine1>
+        <street>rue de Lausanne</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>création, fabrication et commerce de tous produits d'horlogerie et de luxe, ainsi que le conseil dans ces domaines (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-10</lastFoscDate>
+    <lastFoscSequence>1004516894</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

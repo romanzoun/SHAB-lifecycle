@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>33d9f7a5-b40b-44c2-bc17-b9c5c755ebe2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004475548</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-10-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Azurit Holding AG, Mont-Vully</de>
+    <en>Change Azurit Holding AG, Mont-Vully</en>
+    <it>Cambiamenti Azurit Holding AG, Mont-Vully</it>
+    <fr>Mutation Azurit Holding AG, Mont-Vully</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5351</journalNumber>
+  <journalDate>2018-10-09</journalDate>
+  <publicationText>Azurit Holding AG, in Mont-Vully, CHE-116.102.262 (FOSC du 12.07.2017, p. 0/3640011). Gelöschte Person: Binder Thomas, Verwaltungsratsmitglied, Präsident, Einzelunterschrift. Wälchli &amp; Steiner Treuhand AG (CH-053-3008407-6), Revisionsstelle. Neu eingetragene Person: Consulta Bern GmbH Allg. Wirtschaftsprüfung (CHE-100.776.360), in Bern, Revisionsstelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Azurit Holding AG</name>
+      <uid>CHE116102262</uid>
+      <uidOrganisationId>116102262</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735458842</code13>
+      <seat>Mont-Vully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>(ohne Adresse)</street>
+        <swissZipCode>1789</swissZipCode>
+        <town>ohne Domizil-sans adresse-senza recapito</town>
+      </address>
+    </company>
+    <purpose>Halten und Verwalten von Beteiligungen an Gesellschaften im In- und Ausland. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Consulta Bern GmbH Allg. Wirtschaftsprüfung</name>
+        <country>CH</country>
+        <uid>CHE100776360</uid>
+        <uidOrganisationId>100776360</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Azurit Holding AG</name>
+      <uid>CHE116102262</uid>
+      <uidOrganisationId>116102262</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735458842</code13>
+      <seat>Mont-Vully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>(ohne Adresse)</street>
+        <swissZipCode>1789</swissZipCode>
+        <town>ohne Domizil-sans adresse-senza recapito</town>
+      </address>
+    </company>
+    <purpose>Halten und Verwalten von Beteiligungen an Gesellschaften im In- und Ausland. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-07-12</lastFoscDate>
+    <lastFoscSequence>3640011</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>90d9b5c8-2dd3-4583-b688-25e58aa10712</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004509053</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation LEGEND PERFORMING ARTS FOUNDATION, Gland</de>
+    <en>Change LEGEND PERFORMING ARTS FOUNDATION, Gland</en>
+    <it>Cambiamenti LEGEND PERFORMING ARTS FOUNDATION, Gland</it>
+    <fr>Mutation LEGEND PERFORMING ARTS FOUNDATION, Gland</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21047</journalNumber>
+  <journalDate>2018-11-26</journalDate>
+  <publicationText>LEGEND PERFORMING ARTS FOUNDATION, à Gland, CHE-115.185.280 (FOSC du 30.05.2018, p. 0/4258879). Selon décision de l'autorité de surveillance du 3 octobre 2018, la fondation est dispensée de désigner un organe de révision, conformément à l'article 83b, al. 2 CC.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LEGEND PERFORMING ARTS FOUNDATION</name>
+      <translations>[fr] FONDATION LEGEND POUR LES ARTS DE LA SCENE</translations>
+      <uid>CHE115185280</uid>
+      <uidOrganisationId>115185280</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010624328</code13>
+      <seat>Gland</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Paix</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>la fondation a pour but d'apporter une aide à de jeunes talents dans le développement d'un don musical ou artistique en général, en vue de leur permettre de faire carrière dans le domaine artistique (pour but complet cf. acte de fondation).</purpose>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LEGEND PERFORMING ARTS FOUNDATION</name>
+      <translations>[fr] FONDATION LEGEND POUR LES ARTS DE LA SCENE</translations>
+      <uid>CHE115185280</uid>
+      <uidOrganisationId>115185280</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010624328</code13>
+      <seat>Gland</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Paix</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>la fondation a pour but d'apporter une aide à de jeunes talents dans le développement d'un don musical ou artistique en général, en vue de leur permettre de faire carrière dans le domaine artistique (pour but complet cf. acte de fondation).</purpose>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-30</lastFoscDate>
+    <lastFoscSequence>4258879</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

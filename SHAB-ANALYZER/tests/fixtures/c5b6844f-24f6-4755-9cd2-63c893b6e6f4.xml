@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>c55ae763-c1ee-4818-8aba-dc0bb6ddd30b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004543419</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-01-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation L'O piscine &amp; spa - Imbaud Concept, Enges</de>
+    <en>Change L'O piscine &amp; spa - Imbaud Concept, Enges</en>
+    <it>Cambiamenti L'O piscine &amp; spa - Imbaud Concept, Enges</it>
+    <fr>Mutation L'O piscine &amp; spa - Imbaud Concept, Enges</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>152</journalNumber>
+  <journalDate>2019-01-11</journalDate>
+  <publicationText>L'O piscine &amp; spa - Imbaud Concept, à Enges, CHE-351.319.459 (FOSC du 05.12.2017, p. 0/3911183). Par décision du 01.12.2017, le Tribunal régional du Littoral et du Val-de-Travers a prononcé une restitution du défaut qui a eu pour effet de mettre à néant le jugement de faillite.</publicationText>
+  <commonsNew>
+    <company>
+      <name>L'O piscine &amp; spa - Imbaud Concept</name>
+      <uid>CHE351319459</uid>
+      <uidOrganisationId>351319459</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541112505</code13>
+      <seat>Enges</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Brisecou</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>2073</swissZipCode>
+        <town>Enges</town>
+      </address>
+    </company>
+    <purpose>vente et construction de piscines et SPA; entretien et assistance technique; exploitation d'une plateforme e-commerce pour vente de consommables.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>L'O piscine &amp; spa - Imbaud Concept</name>
+      <uid>CHE351319459</uid>
+      <uidOrganisationId>351319459</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541112505</code13>
+      <seat>Enges</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Brisecou</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>2073</swissZipCode>
+        <town>Enges</town>
+      </address>
+    </company>
+    <purpose>vente et construction de piscines et SPA; entretien et assistance technique; exploitation d'une plateforme e-commerce pour vente de consommables.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-12-05</lastFoscDate>
+    <lastFoscSequence>3911183</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

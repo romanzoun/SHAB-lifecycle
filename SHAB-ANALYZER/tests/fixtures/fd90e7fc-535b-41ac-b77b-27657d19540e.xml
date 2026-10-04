@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>fd6585a1-e94e-4c90-b84d-c5185bad68ff</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004465140</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-09-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Winterhalter AT Holding GmbH, Dornbirn (AT), Zweigniederlassung Rüthi SG, Rüthi (SG)</de>
+    <en>Change Winterhalter AT Holding GmbH, Dornbirn (AT), Zweigniederlassung Rüthi SG, Rüthi (SG)</en>
+    <it>Cambiamenti Winterhalter AT Holding GmbH, Dornbirn (AT), Zweigniederlassung Rüthi SG, Rüthi (SG)</it>
+    <fr>Mutation Winterhalter AT Holding GmbH, Dornbirn (AT), Zweigniederlassung Rüthi SG, Rüthi (SG)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8718</journalNumber>
+  <journalDate>2018-09-25</journalDate>
+  <publicationText>Winterhalter AT Holding GmbH, Dornbirn (AT), Zweigniederlassung Rüthi SG, in Rüthi SG, CHE-236.812.999, Ausländische Zweigniederlassung (SHAB Nr. 169 vom 03.09.2018, Publ. 4447617), mit :. UID neu: CHE-301.232.655.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Winterhalter AT Holding GmbH, Dornbirn (AT), Zweigniederlassung Rüthi SG</name>
+      <uid>CHE301232655</uid>
+      <uidOrganisationId>301232655</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32090849316</code13>
+      <seat>Rüthi (SG)</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hirschensprungstrasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>9464</swissZipCode>
+        <town>Rüthi</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Winterhalter AT Holding GmbH, Dornbirn (AT), Zweigniederlassung Rüthi SG</name>
+      <uid>CHE236812999</uid>
+      <uidOrganisationId>236812999</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32090849316</code13>
+      <seat>Rüthi (SG)</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hirschensprungstrasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>9464</swissZipCode>
+        <town>Rüthi</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-03</lastFoscDate>
+    <lastFoscNumber>169</lastFoscNumber>
+    <lastFoscSequence>4447617</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>true</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

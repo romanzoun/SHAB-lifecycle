@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>0022c050-5c38-4cb2-8405-57e288812bbc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004532310</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation Goetschy Haustechnik GmbH, Laufen</de>
+    <en>Change Goetschy Haustechnik GmbH, Laufen</en>
+    <it>Cambiamenti Goetschy Haustechnik GmbH, Laufen</it>
+    <fr>Mutation Goetschy Haustechnik GmbH, Laufen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6383</journalNumber>
+  <journalDate>2018-12-21</journalDate>
+  <publicationText>Goetschy Haustechnik GmbH, in Laufen, CHE-110.333.863, Gesellschaft mit beschränkter Haftung (SHAB Nr. 8 vom 12.01.2018, Publ. 3985827). Zweigniederlassung neu: [Sitz] Reinach BL (CHE-315.928.533) HR BL.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Goetschy Haustechnik GmbH</name>
+      <uid>CHE110333863</uid>
+      <uidOrganisationId>110333863</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28040071013</code13>
+      <seat>Laufen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Breitenbachstrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>4242</swissZipCode>
+        <town>Laufen</town>
+      </address>
+    </company>
+    <purpose>Planung, Ausführung, Renovation und Reparatur von Sanitär- sowie Heizungsinstallationen und Handel mit Haushaltgeräten. Die Gesellschaft kann Grundstücke erwerben, belasten und verkaufen sowie andere Unternehmungen erwerben und sich an solchen beteiligen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Goetschy Haustechnik GmbH</name>
+      <uid>CHE110333863</uid>
+      <uidOrganisationId>110333863</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28040071013</code13>
+      <seat>Laufen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Breitenbachstrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>4242</swissZipCode>
+        <town>Laufen</town>
+      </address>
+    </company>
+    <purpose>Planung, Ausführung, Renovation und Reparatur von Sanitär- sowie Heizungsinstallationen und Handel mit Haushaltgeräten. Die Gesellschaft kann Grundstücke erwerben, belasten und verkaufen sowie andere Unternehmungen erwerben und sich an solchen beteiligen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-01-12</lastFoscDate>
+    <lastFoscNumber>8</lastFoscNumber>
+    <lastFoscSequence>3985827</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

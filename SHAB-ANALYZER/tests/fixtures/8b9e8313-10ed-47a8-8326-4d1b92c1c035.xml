@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>8b6d8233-a986-4227-a152-c5a3429c1752</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004734228</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Hôtel Pierre-François S.A., en liquidation, La Chaux-de-Fonds</de>
+    <en>Change Hôtel Pierre-François S.A., en liquidation, La Chaux-de-Fonds</en>
+    <it>Cambiamenti Hôtel Pierre-François S.A., en liquidation, La Chaux-de-Fonds</it>
+    <fr>Mutation Hôtel Pierre-François S.A., en liquidation, La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3194</journalNumber>
+  <journalDate>2019-10-04</journalDate>
+  <publicationText>Hôtel Pierre-François S.A., en liquidation, à La Chaux-de-Fonds, CHE-102.696.140 (FOSC du 21.05.2019, p. 0/1004635176). L'inscription n° 1569 du 16.05.2019 est rectifiée en ce sens que la société a été dissoute par décision de son assemblée générale du 15.05.2019 (et non pas du 15.05.2018).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hôtel Pierre-François S.A., en liquidation</name>
+      <uid>CHE-102.696.140</uid>
+      <uidOrganisationId>102696140</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510083123</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Service financier de la Ville de La Chaux-de-Fonds</addressLine1>
+        <street>rue de la Serre</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>achat, vente et construction d'immeubles locatifs et leur exploitation.</purpose>
+    <capital>
+      <nominal>240500.00</nominal>
+      <paid>240500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hôtel Pierre-François S.A., en liquidation</name>
+      <uid>CHE-102.696.140</uid>
+      <uidOrganisationId>102696140</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510083123</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Service financier de la Ville de La Chaux-de-Fonds</addressLine1>
+        <street>rue de la Serre</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>achat, vente et construction d'immeubles locatifs et leur exploitation.</purpose>
+    <capital>
+      <nominal>240500.00</nominal>
+      <paid>240500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-21</lastFoscDate>
+    <lastFoscNumber>97</lastFoscNumber>
+    <lastFoscSequence>1004635176</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

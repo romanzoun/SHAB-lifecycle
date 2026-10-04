@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>25eccc43-34ff-4d5c-8603-5328c35a1a09</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004631616</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Peter Florin AG, Maienfeld</de>
+    <en>Change Peter Florin AG, Maienfeld</en>
+    <it>Cambiamenti Peter Florin AG, Maienfeld</it>
+    <fr>Mutation Peter Florin AG, Maienfeld</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2465</journalNumber>
+  <journalDate>2019-05-13</journalDate>
+  <publicationText>Peter Florin AG, in Maienfeld, CHE-115.875.195, Aktiengesellschaft (SHAB Nr. 151 vom 06.08.2010, S.6, Publ. 5760738). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 10.05.2019 und Bilanz per 01.01.2019 Teilaktiven von CHF 360'012.79 und Teilpassiven (Fremdkapital) von CHF 211'260.23 auf die Metallflorin AG (CHE-297.970.771), in Maienfeld. Gegenleistung: 100 Namenaktien zu CHF 1'000.00 und Gutschrift einer Forderung von CHF 48'752.56.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Peter Florin AG</name>
+      <uid>CHE115875195</uid>
+      <uidOrganisationId>115875195</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030109178</code13>
+      <seat>Maienfeld</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Kanalstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>7304</swissZipCode>
+        <town>Maienfeld</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Schmiede und Schlosserei; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Peter Florin AG</name>
+      <uid>CHE115875195</uid>
+      <uidOrganisationId>115875195</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030109178</code13>
+      <seat>Maienfeld</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Kanalstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>7304</swissZipCode>
+        <town>Maienfeld</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Schmiede und Schlosserei; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2010-08-06</lastFoscDate>
+    <lastFoscNumber>151</lastFoscNumber>
+    <lastFoscSequence>5760738</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

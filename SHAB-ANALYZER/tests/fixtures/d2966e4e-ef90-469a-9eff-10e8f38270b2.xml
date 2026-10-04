@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>d2966e4e-ef90-469a-9eff-10e8f38270b2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004630734</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>TG</cantons>
+  <title>
+    <de>Mutation Tauscher Keramik, Horn</de>
+    <en>Change Tauscher Keramik, Horn</en>
+    <it>Cambiamenti Tauscher Keramik, Horn</it>
+    <fr>Mutation Tauscher Keramik, Horn</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2233</journalNumber>
+  <journalDate>2019-05-10</journalDate>
+  <publicationText>Tauscher Keramik, in Horn, CHE-153.855.816, Einzelunternehmen (SHAB Nr. 75 vom 17.04.2019, Publ. 1004612939). Mit Entscheid vom 08.05.2019 ist der Beschwerde aufschiebende Wirkung zuerkannt worden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Tauscher Keramik</name>
+      <uid>CHE153855816</uid>
+      <uidOrganisationId>153855816</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44010279904</code13>
+      <seat>Horn</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grünaustrasse</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>9326</swissZipCode>
+        <town>Horn</town>
+      </address>
+    </company>
+    <purpose>Angebot von Handwerksarbeiten, Bauabdichtungen und Silikonfugen, kann als Generalunternehmung, Projektleitung, Bauleitung ebenfalls planerische und ausführungstechnische Arbeiten durchführen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Tauscher Keramik</name>
+      <uid>CHE153855816</uid>
+      <uidOrganisationId>153855816</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH44010279904</code13>
+      <seat>Horn</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grünaustrasse</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>9326</swissZipCode>
+        <town>Horn</town>
+      </address>
+    </company>
+    <purpose>Angebot von Handwerksarbeiten, Bauabdichtungen und Silikonfugen, kann als Generalunternehmung, Projektleitung, Bauleitung ebenfalls planerische und ausführungstechnische Arbeiten durchführen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-17</lastFoscDate>
+    <lastFoscNumber>75</lastFoscNumber>
+    <lastFoscSequence>1004612939</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Thurgau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

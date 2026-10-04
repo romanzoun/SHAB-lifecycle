@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>7460263f-e59c-498a-8ede-f209a46d33a0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004657530</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation FISHEY SA, Meyrin</de>
+    <en>Change FISHEY SA, Meyrin</en>
+    <it>Cambiamenti FISHEY SA, Meyrin</it>
+    <fr>Mutation FISHEY SA, Meyrin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11523</journalNumber>
+  <journalDate>2019-06-18</journalDate>
+  <publicationText>FISHEY SA, à Meyrin, CHE-108.745.624 (FOSC du 10.10.2018, p. 0/1004474134). L'assemblée générale a introduit une clause statutaire relative à une augmentation autorisée du capital-actions par décision du 06.12.2018; pour les détails, voir les statuts. Statuts modifiés les 06.12.2018 et 13.06.2019 ainsi que sur des points non soumis à publication.</publicationText>
+  <commonsNew>
+    <company>
+      <name>FISHEY SA</name>
+      <uid>CHE108745624</uid>
+      <uidOrganisationId>108745624</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007290006</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Pré-Bois</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1215</swissZipCode>
+        <town>Genève 15 Aéroport</town>
+      </address>
+    </company>
+    <purpose>achats et gestion d'établissements publics (hôtels, restaurants, magasins, etc.), importation et distribution de produits de la mer.</purpose>
+    <capital>
+      <nominal>1550500.00</nominal>
+      <paid>1110100.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FISHEY SA</name>
+      <uid>CHE108745624</uid>
+      <uidOrganisationId>108745624</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007290006</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Pré-Bois</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1215</swissZipCode>
+        <town>Genève 15 Aéroport</town>
+      </address>
+    </company>
+    <purpose>achats et gestion d'établissements publics (hôtels, restaurants, magasins, etc.), importation et distribution de produits de la mer.</purpose>
+    <capital>
+      <nominal>1550500.00</nominal>
+      <paid>1110100.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-10</lastFoscDate>
+    <lastFoscSequence>1004474134</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

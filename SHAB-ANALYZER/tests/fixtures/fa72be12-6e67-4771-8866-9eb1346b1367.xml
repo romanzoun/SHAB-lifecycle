@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>fa682703-86c9-4946-9a37-888fdda72492</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004526328</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation PIRELLI Tyre S.p.A, Milan, Swiss Branch Basel, Basel</de>
+    <en>Change PIRELLI Tyre S.p.A, Milan, Swiss Branch Basel, Basel</en>
+    <it>Cambiamenti PIRELLI Tyre S.p.A, Milan, Swiss Branch Basel, Basel</it>
+    <fr>Mutation PIRELLI Tyre S.p.A, Milan, Swiss Branch Basel, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7137</journalNumber>
+  <journalDate>2018-12-17</journalDate>
+  <publicationText>PIRELLI Tyre S.p.A, Milan, Swiss Branch Basel, in Basel, CHE-115.253.214, ausländische Zweigniederlassung (SHAB Nr. 221 vom 14.11.2014, Publ. 1822727), Hauptsitz in: Mailand (IT). Kapital Hauptsitz neu: EUR 558'154'000.00, voll liberiert [bisher: Kapital Hauptsitz: EUR 756'820'000.00, voll liberiert].</publicationText>
+  <commonsNew>
+    <company>
+      <name>PIRELLI Tyre S.p.A, Milan, Swiss Branch Basel</name>
+      <uid>CHE115253214</uid>
+      <uidOrganisationId>115253214</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27090014119</code13>
+      <seat>Basel</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>St.Jakobs-Str.</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>4052</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PIRELLI Tyre S.p.A, Milan, Swiss Branch Basel</name>
+      <uid>CHE115253214</uid>
+      <uidOrganisationId>115253214</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27090014119</code13>
+      <seat>Basel</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>St.Jakobs-Str.</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>4052</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-11-14</lastFoscDate>
+    <lastFoscNumber>221</lastFoscNumber>
+    <lastFoscSequence>1822727</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

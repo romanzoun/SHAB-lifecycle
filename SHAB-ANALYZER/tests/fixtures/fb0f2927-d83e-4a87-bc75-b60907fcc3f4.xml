@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>faee5ec8-a3c6-43b1-808d-723eebb6107f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004500528</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation CR Innovations Holding AG in Liquidation, Baar</de>
+    <en>Change CR Innovations Holding AG in Liquidation, Baar</en>
+    <it>Cambiamenti CR Innovations Holding AG in Liquidation, Baar</it>
+    <fr>Mutation CR Innovations Holding AG in Liquidation, Baar</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16119</journalNumber>
+  <journalDate>2018-11-14</journalDate>
+  <publicationText>CR Innovations Holding AG in Liquidation, in Baar, CHE-111.645.727, Aktiengesellschaft (SHAB Nr. 132 vom 11.07.2018, Publ. 4350757). Diese Gesellschaft, welche am 06.07.2018 infolge Konkurses im Sinne von Art. 159 HRegV gelöscht wurde, wird gemäss Entscheid des Einzelrichters am Kantonsgericht vom 08.11.2018 wieder als durch Konkurs aufgelöst in das Handelsregister eingetragen. Datum der Konkurseröffnung: 08.11.2018.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CR Innovations Holding AG in Liquidation</name>
+      <translations>[fr] CR Innovations Holding SA en liquidation [it] CR Innovations Holding Ltd in liquidation</translations>
+      <uid>CHE111645727</uid>
+      <uidOrganisationId>111645727</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030272160</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Blegistrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Erwerb, dauernde Verwaltung und Veräusserung von Beteiligungen an in- und ausländischen Unternehmen aller Art, im besonderen auf dem Gebiet des Handels und der Dienstleistungen; kann Grundstücke erwerben, halten und veräussern</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CR Innovations Holding AG in Liquidation</name>
+      <translations>[fr] CR Innovations Holding SA en liquidation [it] CR Innovations Holding Ltd in liquidation</translations>
+      <uid>CHE111645727</uid>
+      <uidOrganisationId>111645727</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030272160</code13>
+      <seat>Baar</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Blegistrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6340</swissZipCode>
+        <town>Baar</town>
+      </address>
+    </company>
+    <purpose>Erwerb, dauernde Verwaltung und Veräusserung von Beteiligungen an in- und ausländischen Unternehmen aller Art, im besonderen auf dem Gebiet des Handels und der Dienstleistungen; kann Grundstücke erwerben, halten und veräussern</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-11</lastFoscDate>
+    <lastFoscNumber>132</lastFoscNumber>
+    <lastFoscSequence>4350757</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

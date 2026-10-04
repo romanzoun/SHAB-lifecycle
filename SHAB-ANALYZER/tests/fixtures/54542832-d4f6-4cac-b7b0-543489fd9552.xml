@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>54506707-4bba-4f3f-bd3f-9688310084e8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005220765</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-06-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Karyza S.A., Ollon</de>
+    <en>Change Karyza S.A., Ollon</en>
+    <it>Cambiamenti Karyza S.A., Ollon</it>
+    <fr>Mutation Karyza S.A., Ollon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13698</journalNumber>
+  <journalDate>2021-06-14</journalDate>
+  <publicationText>Karyza S.A., à Ollon, CHE-100.432.009 (FOSC du 18.05.2021, p. 0/1005185088). Par décision de l'assemblée générale du 08.06.2021 les statuts de la société ont été adaptés à la conversion de par la loi des actions au porteur en actions nominatives du 1er mai 2021. Statuts modifiés le 08.06.2021. Nouveau capital-actions: CHF 50'000, entièrement libéré, divisé en 50 actions nominatives de CHF 1'000, avec restrictions quant à la transmissibilité selon statuts. Nouvelles communications aux actionnaires: par écrit ou par courriel.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Karyza S.A.</name>
+      <uid>CHE-100.432.009</uid>
+      <uidOrganisationId>100432009</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001687246</code13>
+      <seat>Ollon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Mélèzes, Domaine de la Forêt, chalet Nant-d'Or</street>
+        <swissZipCode>1884</swissZipCode>
+        <town>Villars-sur-Ollon</town>
+      </address>
+    </company>
+    <purpose>toute opération de placements, de financement, d'études de marchés et de gestion, notamment le courtage, l'achat et la vente de toutes valeurs mobilières et immobilières pour son propre compte ou pour le compte de tiers.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Karyza S.A.</name>
+      <uid>CHE-100.432.009</uid>
+      <uidOrganisationId>100432009</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001687246</code13>
+      <seat>Ollon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Mélèzes, Domaine de la Forêt, chalet Nant-d'Or</street>
+        <swissZipCode>1884</swissZipCode>
+        <town>Villars-sur-Ollon</town>
+      </address>
+    </company>
+    <purpose>toute opération de placements, de financement, d'études de marchés et de gestion, notamment le courtage, l'achat et la vente de toutes valeurs mobilières et immobilières pour son propre compte ou pour le compte de tiers.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-05-18</lastFoscDate>
+    <lastFoscNumber>94</lastFoscNumber>
+    <lastFoscSequence>1005185088</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

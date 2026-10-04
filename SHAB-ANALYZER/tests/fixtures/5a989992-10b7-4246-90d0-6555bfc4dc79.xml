@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>5a2558ec-3689-49b3-a966-54f16220afa1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004783339</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Cave des Saint-Martin SA, Cressier (NE)</de>
+    <en>Change Cave des Saint-Martin SA, Cressier (NE)</en>
+    <it>Cambiamenti Cave des Saint-Martin SA, Cressier (NE)</it>
+    <fr>Mutation Cave des Saint-Martin SA, Cressier (NE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3948</journalNumber>
+  <journalDate>2019-12-10</journalDate>
+  <publicationText>Cave des Saint-Martin SA, à Cressier NE, CHE-345.359.025 (FOSC du 25.11.2019, p. 0/1004767563). Keller Boris, maintenant domicilié à La Grande Béroche, jusqu'ici président, désormais administrateur unique, continue de signer individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cave des Saint-Martin SA</name>
+      <uid>CHE-345.359.025</uid>
+      <uidOrganisationId>345359025</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541121004</code13>
+      <seat>Cressier (NE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Saint-Martin</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>2088</swissZipCode>
+        <town>Cressier NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une cave vinicole, notamment la vinification de la récolte, son encavage, ainsi que le commerce de vins et de spiritueux; installation et aménagement de caves et de cuisines ainsi que la fabrication, la vente et l'installation de matériels et d'appareils de cave et de cuisine (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cave des Saint-Martin SA</name>
+      <uid>CHE-345.359.025</uid>
+      <uidOrganisationId>345359025</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541121004</code13>
+      <seat>Cressier (NE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Saint-Martin</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>2088</swissZipCode>
+        <town>Cressier NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une cave vinicole, notamment la vinification de la récolte, son encavage, ainsi que le commerce de vins et de spiritueux; installation et aménagement de caves et de cuisines ainsi que la fabrication, la vente et l'installation de matériels et d'appareils de cave et de cuisine (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-25</lastFoscDate>
+    <lastFoscNumber>228</lastFoscNumber>
+    <lastFoscSequence>1004767563</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

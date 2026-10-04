@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>59e67a70-01f2-4322-a765-2723cf22c2a6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004729910</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation Force Nouvelle, Perly-Certoux</de>
+    <en>Change Fondation Force Nouvelle, Perly-Certoux</en>
+    <it>Cambiamenti Fondation Force Nouvelle, Perly-Certoux</it>
+    <fr>Mutation Fondation Force Nouvelle, Perly-Certoux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18160</journalNumber>
+  <journalDate>2019-09-30</journalDate>
+  <publicationText>Fondation Force Nouvelle, à Perly-Certoux, CHE-103.781.274 (FOSC du 07.02.2019, p. 0/1004561534). Radiation de la rubrique relative à l'organisation de la fondation, plus soumise à inscription. Statuts modifiés en conséquence le 25.09.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Force Nouvelle</name>
+      <uid>CHE-103.781.274</uid>
+      <uidOrganisationId>103781274</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002099941</code13>
+      <seat>Perly-Certoux</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Saint-Julien</street>
+        <houseNumber>304</houseNumber>
+        <swissZipCode>1258</swissZipCode>
+        <town>Perly</town>
+      </address>
+    </company>
+    <purpose>assurer la formation et l'information des futurs retraités en vue de développer dans leur esprit la conscience de leurs responsabilités civiques et sociales; organiser des cours, séminaires et conférences destinés à dispenser des informations et des conseils facilitant le passage à la retraite et l'organisation harmonieuse d'une retraite active (cf. statuts pour but complet)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Force Nouvelle</name>
+      <uid>CHE-103.781.274</uid>
+      <uidOrganisationId>103781274</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002099941</code13>
+      <seat>Perly-Certoux</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Saint-Julien</street>
+        <houseNumber>304</houseNumber>
+        <swissZipCode>1258</swissZipCode>
+        <town>Perly</town>
+      </address>
+    </company>
+    <purpose>assurer la formation et l'information des futurs retraités en vue de développer dans leur esprit la conscience de leurs responsabilités civiques et sociales; organiser des cours, séminaires et conférences destinés à dispenser des informations et des conseils facilitant le passage à la retraite et l'organisation harmonieuse d'une retraite active (cf. statuts pour but complet)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-07</lastFoscDate>
+    <lastFoscNumber>26</lastFoscNumber>
+    <lastFoscSequence>1004561534</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>2233fe88-5eb9-4cfc-80b6-3f68837f6c09</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004607527</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation ueltschi solutions GmbH, Schmitten (FR)</de>
+    <en>Change ueltschi solutions GmbH, Schmitten (FR)</en>
+    <it>Cambiamenti ueltschi solutions GmbH, Schmitten (FR)</it>
+    <fr>Mutation ueltschi solutions GmbH, Schmitten (FR)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2036</journalNumber>
+  <journalDate>2019-04-05</journalDate>
+  <publicationText>ueltschi solutions GmbH, in Schmitten (FR), CHE-110.136.452 (SHAB vom 19.12.2013, s. 0/7225828). Vollständige Adresse: Gwattstrasse 8, 3185 Schmitten FR. Neue zusätzliche Adressen: Carolinestrasse 5, 3185 Schmitten FR; Postfach 85, 3185 Schmitten FR.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ueltschi solutions GmbH</name>
+      <uid>CHE110136452</uid>
+      <uidOrganisationId>110136452</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710023529</code13>
+      <seat>Schmitten (FR)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>0</addressLine2>
+        <street>Gwattstrasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>3185</swissZipCode>
+        <town>Schmitten FR</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen in den Bereichen Treuhand, Unternehmens- und Steuerberatung sowie der Informatik. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ueltschi solutions GmbH</name>
+      <uid>CHE110136452</uid>
+      <uidOrganisationId>110136452</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710023529</code13>
+      <seat>Schmitten (FR)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gwattstrasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>3185</swissZipCode>
+        <town>Schmitten FR</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen in den Bereichen Treuhand, Unternehmens- und Steuerberatung sowie der Informatik. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

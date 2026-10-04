@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>cf6998a8-c5b2-484f-99ed-e956175d9c9e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004563455</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Khiva SA in liquidazione, Poschiavo</de>
+    <en>Change Khiva SA in liquidazione, Poschiavo</en>
+    <it>Cambiamenti Khiva SA in liquidazione, Poschiavo</it>
+    <fr>Mutation Khiva SA in liquidazione, Poschiavo</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>653</journalNumber>
+  <journalDate>2019-02-06</journalDate>
+  <publicationText>Khiva SA in liquidazione, in Poschiavo, CHE-102.902.055, società anonima (Nr. FUSC 205 del 21.10.2016, Pubbl. 3121399). La liquidazione è terminata. Ma la cancellazione anticipata con conferma di un perito revisore abilitato del 18.10.2018 non può ancora essere effettuata mancando il consenso dell'autorità fiscale cantonale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Khiva SA in liquidazione</name>
+      <uid>CHE102902055</uid>
+      <uidOrganisationId>102902055</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030034582</code13>
+      <seat>Poschiavo</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vial da la Stazion</street>
+        <houseNumber>282A</houseNumber>
+        <swissZipCode>7742</swissZipCode>
+        <town>Poschiavo</town>
+      </address>
+    </company>
+    <purpose>Tutte le operazioni relative all'amministrazione, all'acquisizione e alla vendita di partecipazioni a qualsiasi impresa, in rappresentanza e gestione di diritti o interessi di terzi; scopo completo a norma degli statuti.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Khiva SA in liquidazione</name>
+      <uid>CHE102902055</uid>
+      <uidOrganisationId>102902055</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030034582</code13>
+      <seat>Poschiavo</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vial da la Stazion</street>
+        <houseNumber>282A</houseNumber>
+        <swissZipCode>7742</swissZipCode>
+        <town>Poschiavo</town>
+      </address>
+    </company>
+    <purpose>Tutte le operazioni relative all'amministrazione, all'acquisizione e alla vendita di partecipazioni a qualsiasi impresa, in rappresentanza e gestione di diritti o interessi di terzi; scopo completo a norma degli statuti.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-10-21</lastFoscDate>
+    <lastFoscNumber>205</lastFoscNumber>
+    <lastFoscSequence>3121399</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

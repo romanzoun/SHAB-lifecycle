@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>7b645f2c-ee6e-4361-bf8b-ea03906ee6e9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004596254</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-03-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Tigen Pharma SA, Lausanne</de>
+    <en>Change Tigen Pharma SA, Lausanne</en>
+    <it>Cambiamenti Tigen Pharma SA, Lausanne</it>
+    <fr>Mutation Tigen Pharma SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5571</journalNumber>
+  <journalDate>2019-03-21</journalDate>
+  <publicationText>Tigen Pharma SA, à Lausanne, CHE-466.922.843 (FOSC du 26.09.2018, p. 0/1004463486). Nouveaux administrateurs avec signature collective à deux: Strigini Dr. Bruno Didier, de France, à Bâle, vice-président, et Morrison Dr. Briggs William, des USA, à Summit (USA). Gericke Dieter, administrateur, porte le titre de docteur.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Tigen Pharma SA</name>
+      <uid>CHE466922843</uid>
+      <uidOrganisationId>466922843</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011766159</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>voie du Chariot</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la recherche, le développement, la production et la vente de produits dans les domaines de la biotechnologie, de la pharmaceutique, de la technologie médicale, du diagnostic et de la thérapie ainsi que l'acquisition, la vente et l'utilisation de brevets et de licences dans ces domaines (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>106833.10</nominal>
+      <paid>106833.10</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Tigen Pharma SA</name>
+      <uid>CHE466922843</uid>
+      <uidOrganisationId>466922843</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011766159</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>voie du Chariot</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la recherche, le développement, la production et la vente de produits dans les domaines de la biotechnologie, de la pharmaceutique, de la technologie médicale, du diagnostic et de la thérapie ainsi que l'acquisition, la vente et l'utilisation de brevets et de licences dans ces domaines (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>106833.10</nominal>
+      <paid>106833.10</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-26</lastFoscDate>
+    <lastFoscSequence>1004463486</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

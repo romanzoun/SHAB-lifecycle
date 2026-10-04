@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>31a71cf7-7788-429a-bffc-fdbf800e8803</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004680559</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-07-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>JU</cantons>
+  <title>
+    <de>Mutation Montres Louis Erard SA, Le Noirmont</de>
+    <en>Change Montres Louis Erard SA, Le Noirmont</en>
+    <it>Cambiamenti Montres Louis Erard SA, Le Noirmont</it>
+    <fr>Mutation Montres Louis Erard SA, Le Noirmont</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>931</journalNumber>
+  <journalDate>2019-07-16</journalDate>
+  <publicationText>Montres Louis Erard SA, à Le Noirmont, CHE-110.028.325, société anonyme (No. FOSC 115 du 18.06.2019, Publ. 1004654234). Nouveaux faits qualifiés: Capital-actions réduit de CHF 4'016'745.00 à CHF 1'891'745.00 par suite de pertes et destruction de 425'000 actions au porteur de CHF 5.00. Capital-actions reporté simultanément à CHF 4'016'745.00 par l'émission de 425'000 actions au porteur de CHF 5.00, entièrement libérées par compensation d'une créance de CHF 2'215'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Montres Louis Erard SA</name>
+      <uid>CHE110028325</uid>
+      <uidOrganisationId>110028325</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030030344</code13>
+      <seat>Le Noirmont</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Ouest</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>2340</swissZipCode>
+        <town>Le Noirmont</town>
+      </address>
+    </company>
+    <purpose>Création, fabrication et commerce de tous produits d'horlogerie, de bijouterie et de joaillerie (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>4016745.00</nominal>
+      <paid>4016745.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Montres Louis Erard SA</name>
+      <uid>CHE110028325</uid>
+      <uidOrganisationId>110028325</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030030344</code13>
+      <seat>Le Noirmont</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de l'Ouest</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>2340</swissZipCode>
+        <town>Le Noirmont</town>
+      </address>
+    </company>
+    <purpose>Création, fabrication et commerce de tous produits d'horlogerie, de bijouterie et de joaillerie (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>4016745.00</nominal>
+      <paid>4016745.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-18</lastFoscDate>
+    <lastFoscNumber>115</lastFoscNumber>
+    <lastFoscSequence>1004654234</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton du Jura</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

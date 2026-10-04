@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>450e53de-5d3f-4b81-b88f-3bc18740639a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004742712</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Pharma Tech Holding SA, Lugano</de>
+    <en>Change Pharma Tech Holding SA, Lugano</en>
+    <it>Cambiamenti Pharma Tech Holding SA, Lugano</it>
+    <fr>Mutation Pharma Tech Holding SA, Lugano</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14136</journalNumber>
+  <journalDate>2019-10-17</journalDate>
+  <publicationText>Pharma Tech Holding SA, in Lugano, CHE-370.298.384, società anonima (Nr. FUSC 185 del 25.09.2019, Pubbl. 1004723765). Statuti modificati: 16.10.2019. L'assemblea generale ha introdotto una disposizione statutaria relativa all'aumento autorizzato del capitale azionario mediante decisione del 16.10.2019. Per i dettagli vedi statuti.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pharma Tech Holding SA</name>
+      <uid>CHE-370.298.384</uid>
+      <uidOrganisationId>370298384</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130220708</code13>
+      <seat>Lugano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Piazzetta San Carlo</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>6900</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>L'acquisizione e la detenzione di partecipazioni societarie, in particolare nel settore farmaceutico.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pharma Tech Holding SA</name>
+      <uid>CHE-370.298.384</uid>
+      <uidOrganisationId>370298384</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130220708</code13>
+      <seat>Lugano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Piazzetta San Carlo</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>6900</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>L'acquisizione e la detenzione di partecipazioni societarie, in particolare nel settore farmaceutico.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-25</lastFoscDate>
+    <lastFoscNumber>185</lastFoscNumber>
+    <lastFoscSequence>1004723765</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

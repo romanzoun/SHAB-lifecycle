@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>68788740-e93b-4288-9286-26b18a758189</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004504557</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Tavares A. Carrosserie - de Oliveira Tavares, Avry</de>
+    <en>Change Tavares A. Carrosserie - de Oliveira Tavares, Avry</en>
+    <it>Cambiamenti Tavares A. Carrosserie - de Oliveira Tavares, Avry</it>
+    <fr>Mutation Tavares A. Carrosserie - de Oliveira Tavares, Avry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6112</journalNumber>
+  <journalDate>2018-11-20</journalDate>
+  <publicationText>Tavares A. Carrosserie - de Oliveira Tavares, à Avry, CHE-404.921.036 (SHAB vom 16.11.2018, s. 0/1004499509). Rectification de l'inscription n° 5914 du 13.11.2018 (FOSC du 16.11.2018, Id 1004499509): le numéro IDE correct est CHE 441.029.322 (et non pas CHE-404.921.036).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Tavares A. Carrosserie - de Oliveira Tavares</name>
+      <uid>CHE441029322</uid>
+      <uidOrganisationId>441029322</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735685347</code13>
+      <seat>Avry</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>La Maison Rouge</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1754</swissZipCode>
+        <town>Corjolens</town>
+      </address>
+    </company>
+    <purpose>Exploitation d'un garage et carrosserie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Tavares A. Carrosserie - de Oliveira Tavares</name>
+      <uid>CHE404921036</uid>
+      <uidOrganisationId>404921036</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735685347</code13>
+      <seat>Avry</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>La Maison Rouge</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1754</swissZipCode>
+        <town>Corjolens</town>
+      </address>
+    </company>
+    <purpose>Exploitation d'un garage et carrosserie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-16</lastFoscDate>
+    <lastFoscSequence>1004499509</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>true</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

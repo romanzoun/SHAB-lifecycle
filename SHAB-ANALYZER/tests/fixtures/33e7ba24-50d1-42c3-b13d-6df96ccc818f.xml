@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>33e2c634-8d36-4927-b283-ecc4a8974cc8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004624080</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-05-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Skript-X GmbH in Liquidation, bisher Skript-X GmbH, Uster</de>
+    <en>Change Skript-X GmbH in Liquidation, to date Skript-X GmbH, Uster</en>
+    <it>Cambiamenti Skript-X GmbH in Liquidation, prima Skript-X GmbH, Uster</it>
+    <fr>Mutation Skript-X GmbH in Liquidation, Uster</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17327</journalNumber>
+  <journalDate>2019-05-02</journalDate>
+  <publicationText>Skript-X GmbH, in Uster, CHE-270.720.572, schweizerische Zweigniederlassung (SHAB Nr. 200 vom 14.10.2010, S.19, Publ. 5852510), Hauptsitz in: Urtenen-Schönbühl. Firma neu: Skript-X GmbH in Liquidation. Neue Identifikationsnummer Hauptsitz: CHE-115.992.004) [bisher: Identifikationsnummer Hauptsitz: CH-036.4.048.631-2]. Firma Hauptsitz neu: Skript-X GmbH in Liquidation [bisher: Firma Hauptsitz: Skript-X GmbH].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Skript-X GmbH in Liquidation</name>
+      <uid>CHE270720572</uid>
+      <uidOrganisationId>270720572</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090033363</code13>
+      <seat>Uster</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Burgstrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>8610</swissZipCode>
+        <town>Uster</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Skript-X GmbH in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE115992004</uid>
+      <uidOrganisationId>115992004</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Skript-X GmbH</name>
+      <uid>CHE270720572</uid>
+      <uidOrganisationId>270720572</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090033363</code13>
+      <seat>Uster</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Burgstrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>8610</swissZipCode>
+        <town>Uster</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Skript-X GmbH in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE115992004</uid>
+      <uidOrganisationId>115992004</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2010-10-14</lastFoscDate>
+    <lastFoscNumber>200</lastFoscNumber>
+    <lastFoscSequence>5852510</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

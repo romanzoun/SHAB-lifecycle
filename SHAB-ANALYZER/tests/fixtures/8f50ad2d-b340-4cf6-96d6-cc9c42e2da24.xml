@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8ed7ab1c-0e38-41d2-a409-2e7b4436f3d4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004499302</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Imolog AG, Luzern</de>
+    <en>Change Imolog AG, Luzern</en>
+    <it>Cambiamenti Imolog AG, Luzern</it>
+    <fr>Mutation Imolog AG, Luzern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9013</journalNumber>
+  <journalDate>2018-11-13</journalDate>
+  <publicationText>Imolog AG, in Luzern, CHE-105.942.192, Aktiengesellschaft (SHAB Nr. 100 vom 26.05.2014, Publ. 1522415). Bei der Kapitalherabsetzung vom 26.10.2018 wird der Nennwert der 11'300 Namenaktien zu CHF 400.00 auf CHF 160.00 herabgesetzt. Gleichzeitig wird bei der ordentlichen Kapitalerhöhung vom 26.10.2018 der Nennwert dieser Aktien durch Umwandlung von frei verwendbarem Eigenkapital auf CHF 400.00 erhöht.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Imolog AG</name>
+      <uid>CHE105942192</uid>
+      <uidOrganisationId>105942192</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030204796</code13>
+      <seat>Luzern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pilatusstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6002</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Logistikdienstleistungen und Handel mit Textilien; Erwerb, Verkauf, Überbauung und Verwaltung von Liegenschaften und Grundstücken; Beteiligungen.</purpose>
+    <capital>
+      <nominal>4520000.00</nominal>
+      <paid>4520000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Imolog AG</name>
+      <uid>CHE105942192</uid>
+      <uidOrganisationId>105942192</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030204796</code13>
+      <seat>Luzern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pilatusstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6002</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Logistikdienstleistungen und Handel mit Textilien; Erwerb, Verkauf, Überbauung und Verwaltung von Liegenschaften und Grundstücken; Beteiligungen.</purpose>
+    <capital>
+      <nominal>4520000.00</nominal>
+      <paid>4520000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-05-26</lastFoscDate>
+    <lastFoscNumber>100</lastFoscNumber>
+    <lastFoscSequence>1522415</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>true</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>14764715-c629-44ca-af3c-f9cd475423f0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004694412</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-08-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Société Immobilière Champel Arve A SA, Chêne-Bougeries</de>
+    <en>Change Société Immobilière Champel Arve A SA, Chêne-Bougeries</en>
+    <it>Cambiamenti Société Immobilière Champel Arve A SA, Chêne-Bougeries</it>
+    <fr>Mutation Société Immobilière Champel Arve A SA, Chêne-Bougeries</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14973</journalNumber>
+  <journalDate>2019-08-07</journalDate>
+  <publicationText>Société Immobilière Champel Arve A SA, à Chêne-Bougeries, CHE-100.418.104 (FOSC du 19.12.2013, p. 0/7225832). Thaler Georges est maintenant originaire de Chêne-Bougeries.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Société Immobilière Champel Arve A SA</name>
+      <uid>CHE100418104</uid>
+      <uidOrganisationId>100418104</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000659335</code13>
+      <seat>Chêne-Bougeries</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Georges et Pascale Thaler</addressLine1>
+        <street>chemin des Bougeries</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1231</swissZipCode>
+        <town>Conches</town>
+      </address>
+    </company>
+    <purpose>acquisition, vente, construction, location et gérance de tous immeubles en Suisse (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Société Immobilière Champel Arve A SA</name>
+      <uid>CHE100418104</uid>
+      <uidOrganisationId>100418104</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000659335</code13>
+      <seat>Chêne-Bougeries</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Georges et Pascale Thaler</addressLine1>
+        <street>chemin des Bougeries</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1231</swissZipCode>
+        <town>Conches</town>
+      </address>
+    </company>
+    <purpose>acquisition, vente, construction, location et gérance de tous immeubles en Suisse (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225832</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

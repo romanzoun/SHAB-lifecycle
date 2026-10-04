@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>25f0ea1b-66d0-4510-967f-450c571f44cc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004791012</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AR</cantons>
+  <title>
+    <de>Mutation Belco AG in Liquidation, Herisau</de>
+    <en>Change Belco AG in Liquidation, Herisau</en>
+    <it>Cambiamenti Belco AG in Liquidation, Herisau</it>
+    <fr>Mutation Belco AG in Liquidation, Herisau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1996</journalNumber>
+  <journalDate>2019-12-18</journalDate>
+  <publicationText>Belco AG in Liquidation, in Herisau, CHE-112.096.378, Aktiengesellschaft (SHAB Nr. 175 vom 11.09.2018, Publ. 1004453260). Die Gesellschaft weist keine Geschäftstätigkeit mehr auf und hat keine verwertbaren Aktiven mehr. Das Verfahren gemäss Art. 155 HRegV wurde durchgeführt und es wurde kein Interesse an der Aufrechterhaltung der Eintragung innert angesetzter Frist geltend gemacht. Die Gesellschaft kann aber mangels Zustimmung der kantonalen Steuerverwaltung noch nicht gelöscht werden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Belco AG in Liquidation</name>
+      <uid>CHE-112.096.378</uid>
+      <uidOrganisationId>112096378</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030277736</code13>
+      <seat>Herisau</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Erwerb, Halten und Verwalten sowie Veräussern von Beteiligungen an in- und ausländischen Gesellschaften; die Gesellschaft kann im In- und Ausland Zweigniederlassungen errichten, sich an anderen Unternehmen im In- und Ausland beteiligen oder derartige Unternehmen errichten, erwerben oder finanzieren; die Gesellschaft kann Immobilien erwerben, verwalten, belasten und veräussern; Ferner kann die Gesellschaft Patente, Lizenzen, Marken sowie andere Schutzrechte anmelden, erwerben, verwerten, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Belco AG in Liquidation</name>
+      <uid>CHE-112.096.378</uid>
+      <uidOrganisationId>112096378</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030277736</code13>
+      <seat>Herisau</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Erwerb, Halten und Verwalten sowie Veräussern von Beteiligungen an in- und ausländischen Gesellschaften; die Gesellschaft kann im In- und Ausland Zweigniederlassungen errichten, sich an anderen Unternehmen im In- und Ausland beteiligen oder derartige Unternehmen errichten, erwerben oder finanzieren; die Gesellschaft kann Immobilien erwerben, verwalten, belasten und veräussern; Ferner kann die Gesellschaft Patente, Lizenzen, Marken sowie andere Schutzrechte anmelden, erwerben, verwerten, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-11</lastFoscDate>
+    <lastFoscNumber>175</lastFoscNumber>
+    <lastFoscSequence>1004453260</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Appenzell A.Rh.</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>261565d5-c6d1-4e07-8977-5284e764b612</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004756952</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation SOCIETE IMMOBILIERE CRESSY A SA, Genève</de>
+    <en>Change SOCIETE IMMOBILIERE CRESSY A SA, Genève</en>
+    <it>Cambiamenti SOCIETE IMMOBILIERE CRESSY A SA, Genève</it>
+    <fr>Mutation SOCIETE IMMOBILIERE CRESSY A SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20825</journalNumber>
+  <journalDate>2019-11-06</journalDate>
+  <publicationText>SOCIETE IMMOBILIERE CRESSY A SA, à Genève, CHE-102.993.856 (FOSC du 19.12.2013, p. 0/7225832). Administration: Rüfli Jean-Marc, nommé président, et Nigri Albert, de France, à Cologny, lesquels signent collectivement à deux; les pouvoirs du premier sont modifiés en ce sens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SOCIETE IMMOBILIERE CRESSY A SA</name>
+      <uid>CHE-102.993.856</uid>
+      <uidOrganisationId>102993856</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001059670</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Chêne 36, c/Société Privée de Gérance</street>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>achat, construction, exploitation et vente d'un immeuble sis à Onex, route de Loëx 31 et 33; location à ses propres actionnaires des appartements et garages existant dans ledit immeuble.</purpose>
+    <capital>
+      <nominal>52500.00</nominal>
+      <paid>52500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SOCIETE IMMOBILIERE CRESSY A SA</name>
+      <uid>CHE-102.993.856</uid>
+      <uidOrganisationId>102993856</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001059670</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Chêne 36, c/Société Privée de Gérance</street>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>achat, construction, exploitation et vente d'un immeuble sis à Onex, route de Loëx 31 et 33; location à ses propres actionnaires des appartements et garages existant dans ledit immeuble.</purpose>
+    <capital>
+      <nominal>52500.00</nominal>
+      <paid>52500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225832</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

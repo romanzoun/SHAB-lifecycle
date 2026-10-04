@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.14/HR02-export.xsd">
+<meta>
+  <id>3313328a-e31d-47ce-848f-f91b6bf30ca0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005430004</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2022-03-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation WEED GmbH in Liquidation, Zürich</de>
+    <en>Change WEED GmbH in Liquidation, Zürich</en>
+    <it>Cambiamenti WEED GmbH in Liquidation, Zürich</it>
+    <fr>Mutation WEED GmbH in Liquidation, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11217</journalNumber>
+  <journalDate>2022-03-15</journalDate>
+  <publicationText>WEED GmbH in Liquidation, in Zürich, CHE-363.040.018, Gesellschaft mit beschränkter Haftung (SHAB Nr. 201 vom 15.10.2020, Publ. 1005000339). Das amtliche Verfahren zur Löschung der Rechtseinheit gemäss Art. 934 OR i.V.m. Art. 153 HRegV ist gemäss rechtskräftiger Verfügung vom 28. Januar 2022 abgeschlossen. Die Rechtseinheit kann mangels Zustimmung der eidgenössischen und kantonalen Steuerverwaltungen noch nicht gelöscht werden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>WEED GmbH in Liquidation</name>
+      <uid>CHE-363.040.018</uid>
+      <uidOrganisationId>363040018</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02040608667</code13>
+      <seat>Zürich</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Die Gesellschaft bezweckt den Verkauf von Waren aller Art, insbesondere Tabakwaren, Raucherzubehör, Tabakzubehör und alles was direkt und indirekt mit Rauchen zu tun hat. Die Gesellschaft kann in der Schweiz oder im Ausland Tochtergesellschaften gründen, Zweigniederlassungen im ln- und Ausland eröffnen sowie sich an anderen Gesellschaften beteiligen sowie Liegenschaften erwerben, überbauen, veräussern und verwalten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>WEED GmbH in Liquidation</name>
+      <uid>CHE-363.040.018</uid>
+      <uidOrganisationId>363040018</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02040608667</code13>
+      <seat>Zürich</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Die Gesellschaft bezweckt den Verkauf von Waren aller Art, insbesondere Tabakwaren, Raucherzubehör, Tabakzubehör und alles was direkt und indirekt mit Rauchen zu tun hat. Die Gesellschaft kann in der Schweiz oder im Ausland Tochtergesellschaften gründen, Zweigniederlassungen im ln- und Ausland eröffnen sowie sich an anderen Gesellschaften beteiligen sowie Liegenschaften erwerben, überbauen, veräussern und verwalten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-15</lastFoscDate>
+    <lastFoscNumber>201</lastFoscNumber>
+    <lastFoscSequence>1005000339</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

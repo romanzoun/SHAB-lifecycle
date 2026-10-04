@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>3824001b-17bc-42e9-ba15-bb76d4c757ba</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004565433</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-02-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation TR Invest AG, Tafers</de>
+    <en>Change TR Invest AG, Tafers</en>
+    <it>Cambiamenti TR Invest AG, Tafers</it>
+    <fr>Mutation TR Invest AG, Tafers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>888</journalNumber>
+  <journalDate>2019-02-08</journalDate>
+  <publicationText>TR Invest AG, in Tafers, CHE-115.867.758 (SHAB vom 19.12.2013, s. 0/7225828). Die Eintragung betreffend die Erklärung vom 26.07.2010 über den Verzicht auf die eingeschränkte Revision ist gelöscht. Revisionsstelle neu: CORE Revision AG (CHE-230.955.198), in Düdingen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>TR Invest AG</name>
+      <uid>CHE115867758</uid>
+      <uidOrganisationId>115867758</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735453984</code13>
+      <seat>Tafers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Thomas Rauber</addressLine1>
+        <street>Windhaltastrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1712</swissZipCode>
+        <town>Tafers</town>
+      </address>
+    </company>
+    <purpose>Beteiligung an anderen Unternehmen. Erbringen von Dienstleistungen für Management und Umstrukturierung von Unternehmungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>CORE Revision AG</name>
+        <country>CH</country>
+        <uid>CHE230955198</uid>
+        <uidOrganisationId>230955198</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TR Invest AG</name>
+      <uid>CHE115867758</uid>
+      <uidOrganisationId>115867758</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735453984</code13>
+      <seat>Tafers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Thomas Rauber</addressLine1>
+        <street>Windhaltastrasse</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1712</swissZipCode>
+        <town>Tafers</town>
+      </address>
+    </company>
+    <purpose>Beteiligung an anderen Unternehmen. Erbringen von Dienstleistungen für Management und Umstrukturierung von Unternehmungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

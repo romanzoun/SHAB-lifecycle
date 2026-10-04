@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>2a6b4306-5cfe-4b7a-b50c-32294891a839</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005210951</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-06-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Baumotec Mescheder, Luzern</de>
+    <en>Change Baumotec Mescheder, Luzern</en>
+    <it>Cambiamenti Baumotec Mescheder, Luzern</it>
+    <fr>Mutation Baumotec Mescheder, Luzern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5577</journalNumber>
+  <journalDate>2021-06-04</journalDate>
+  <publicationText>Baumotec Mescheder, in Luzern, CHE-203.567.592, Einzelunternehmen (SHAB Nr. 90 vom 11.05.2021, Publ. 1005176793). Mit Mitteilung des Kantonsgerichts Luzern vom 02.06.2021 ist dem Rekurs gegen den Entscheid des Bezirksgerichts Luzern vom 05.05.2021 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt worden. Demnach wird die Eintragung betreffend Konkurseröffnung über den Inhaber im Handelsregister gestrichen. [bisher: Mit Entscheid des Einzelrichters des Bezirksgerichts Luzern, Abteilung 3, vom 05.05.2021 ist über den Inhaber mit Wirkung ab dem 05.05.2021, 14.00 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Baumotec Mescheder</name>
+      <uid>CHE-203.567.592</uid>
+      <uidOrganisationId>203567592</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10018040675</code13>
+      <seat>Luzern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>An der kleinen Emme</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>6014</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Baumotec Mescheder</name>
+      <uid>CHE-203.567.592</uid>
+      <uidOrganisationId>203567592</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10018040675</code13>
+      <seat>Luzern</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>An der kleinen Emme</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>6014</swissZipCode>
+        <town>Luzern</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-05-11</lastFoscDate>
+    <lastFoscNumber>90</lastFoscNumber>
+    <lastFoscSequence>1005176793</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

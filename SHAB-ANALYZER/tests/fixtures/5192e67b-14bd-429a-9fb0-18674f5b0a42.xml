@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>5188d69b-bd66-465a-9f4c-eb25ebeee29b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004709214</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-09-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation nuvolaB architectes SA, Lausanne, neu nuvolaB architectes SA, en liquidation</de>
+    <en>Change nuvolaB architectes SA, Lausanne, new nuvolaB architectes SA, en liquidation</en>
+    <it>Cambiamenti nuvolaB architectes SA, Lausanne, nuovo nuvolaB architectes SA, en liquidation</it>
+    <fr>Mutation nuvolaB architectes SA, Lausanne, nouveau nuvolaB architectes SA, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15720</journalNumber>
+  <journalDate>2019-08-30</journalDate>
+  <publicationText>nuvolaB architectes SA, à Lausanne, CHE-286.263.876 (FOSC du 11.09.2017, p. 0/3744909). Selon décision de son assemblée générale du 23 août 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: nuvolaB architectes SA, en liquidation. Les 100 actions nominatives de CHF 1'000 ne sont désormais plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO). D'Oria Donato, administrateur dont la signature est radiée, est nommé liquidateur avec signature individuelle. La signature des administrateurs De Clercq Jan, Benedetti David, Ferrari Angelo, Furter Giorgio et Lariccia Nicola est radiée. Adresse de liquidation: Avenue Mon-Repos 14, c/o dideo fiduciaire sa, 1005 Lausanne.</publicationText>
+  <commonsNew>
+    <company>
+      <name>nuvolaB architectes SA, en liquidation</name>
+      <uid>CHE-286.263.876</uid>
+      <uidOrganisationId>286263876</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011759589</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue Mon-Repos</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o dideo fiduciaire sa</addressLine1>
+        <street>Avenue Mon-Repos</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </liqAddress>
+    </company>
+    <purpose>la société a pour but: l'exploitation d'un bureau d'achitectes (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>nuvolaB architectes SA</name>
+      <uid>CHE-286.263.876</uid>
+      <uidOrganisationId>286263876</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011759589</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue Mon-Repos</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: l'exploitation d'un bureau d'achitectes (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-09-11</lastFoscDate>
+    <lastFoscNumber>175</lastFoscNumber>
+    <lastFoscSequence>3744909</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

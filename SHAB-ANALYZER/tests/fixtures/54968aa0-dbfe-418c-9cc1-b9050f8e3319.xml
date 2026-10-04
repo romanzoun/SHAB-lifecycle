@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>54902600-65ed-49c2-8025-8c64791f245d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004750543</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-11-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation Central Apotheke, Sissach, Dr. Günter Tscheulin, Sissach</de>
+    <en>Change Central Apotheke, Sissach, Dr. Günter Tscheulin, Sissach</en>
+    <it>Cambiamenti Central Apotheke, Sissach, Dr. Günter Tscheulin, Sissach</it>
+    <fr>Mutation Central Apotheke, Sissach, Dr. Günter Tscheulin, Sissach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5149</journalNumber>
+  <journalDate>2019-10-29</journalDate>
+  <publicationText>Central Apotheke, Sissach, Dr. Günter Tscheulin, in Sissach, CHE-172.038.120, Einzelunternehmen (SHAB Nr. 68 vom 05.04.2012, S.0, Publ. 6628660). Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vertrag vom 14.10.2019 Aktiven von CHF 202'550.34 und Passiven (Fremdkapital) von CHF 0.00 auf die "Dr. Tscheulin AG" (CHE-113.708.623), in Frick. Gegenleistung: Eine bestehende Schuld in gleicher Höhe wird getilgt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Central Apotheke, Sissach, Dr. Günter Tscheulin</name>
+      <uid>CHE-172.038.120</uid>
+      <uidOrganisationId>172038120</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010156921</code13>
+      <seat>Sissach</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>4450</swissZipCode>
+        <town>Sissach</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Apotheke.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Central Apotheke, Sissach, Dr. Günter Tscheulin</name>
+      <uid>CHE-172.038.120</uid>
+      <uidOrganisationId>172038120</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010156921</code13>
+      <seat>Sissach</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>4450</swissZipCode>
+        <town>Sissach</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Apotheke.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2012-04-05</lastFoscDate>
+    <lastFoscNumber>68</lastFoscNumber>
+    <lastFoscSequence>6628660</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

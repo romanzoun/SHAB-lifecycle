@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.18/HR02-export.xsd">
+<meta>
+  <id>83c5f784-4d83-4d37-9f92-7ec8355def34</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005779662</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2023-06-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Zopico Sàrl, Le Landeron</de>
+    <en>Change Zopico Sàrl, Le Landeron</en>
+    <it>Cambiamenti Zopico Sàrl, Le Landeron</it>
+    <fr>Mutation Zopico Sàrl, Le Landeron</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2059</journalNumber>
+  <journalDate>2023-06-22</journalDate>
+  <publicationText>Zopico Sàrl, Le Landeron, CHE-274.188.831 (FOSC du 17.12.2021, p. 0/1005360684). Nouvelle raison sociale et nouveau siège de l'associée "S&amp;F Holding Sàrl" (CHE-180.537.885): "Madexo Holding Sàrl", Le Landeron.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Zopico Sàrl</name>
+      <uid>CHE-274.188.831</uid>
+      <uidOrganisationId>274188831</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541099628</code13>
+      <seat>Le Landeron</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Vincent Flück</addressLine1>
+        <street>Les Côtes</street>
+        <houseNumber>53</houseNumber>
+        <swissZipCode>2525</swissZipCode>
+        <town>Le Landeron</town>
+      </address>
+    </company>
+    <purpose>minage de crypto-monnaies, ainsi que la gestion et le courtage immobilier et financier.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Zopico Sàrl</name>
+      <uid>CHE-274.188.831</uid>
+      <uidOrganisationId>274188831</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541099628</code13>
+      <seat>Le Landeron</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Vincent Flück</addressLine1>
+        <street>Les Côtes</street>
+        <houseNumber>53</houseNumber>
+        <swissZipCode>2525</swissZipCode>
+        <town>Le Landeron</town>
+      </address>
+    </company>
+    <purpose>minage de crypto-monnaies, ainsi que la gestion et le courtage immobilier et financier.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-12-17</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>1005360684</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

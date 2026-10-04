@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>597ea3c8-af13-4f26-a229-1e5ced67b05f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004517997</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Artmyn SA, Saint-Sulpice (VD)</de>
+    <en>Change Artmyn SA, Saint-Sulpice (VD)</en>
+    <it>Cambiamenti Artmyn SA, Saint-Sulpice (VD)</it>
+    <fr>Mutation Artmyn SA, Saint-Sulpice (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21782</journalNumber>
+  <journalDate>2018-12-06</journalDate>
+  <publicationText>Artmyn SA, à Saint-Sulpice (VD), CHE-331.287.804 (FOSC du 12.04.2018, p. 0/4167591). Statuts modifiés le 14 novembre 2018. L'assemblée générale a introduit une clause statutaire relative à une augmentation conditionnelle du capital-participation par décision du 14 novembre 2018. Pour les détails, voir les statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Artmyn SA</name>
+      <translations>[de] Artmyn AG [en] Artmyn Ltd</translations>
+      <uid>CHE331287804</uid>
+      <uidOrganisationId>331287804</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011674915</code13>
+      <seat>Saint-Sulpice (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Jordils</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>1025</swissZipCode>
+        <town>St-Sulpice VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la numérisation d'oeuvres d'art, de biens culturels, et d'autres objets de collection, et leur rendu interactif sur des appareils mobiles et en ligne (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>156240.00</nominal>
+      <paid>156240.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Artmyn SA</name>
+      <translations>[de] Artmyn AG [en] Artmyn Ltd</translations>
+      <uid>CHE331287804</uid>
+      <uidOrganisationId>331287804</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011674915</code13>
+      <seat>Saint-Sulpice (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Jordils</street>
+        <houseNumber>40</houseNumber>
+        <swissZipCode>1025</swissZipCode>
+        <town>St-Sulpice VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la numérisation d'oeuvres d'art, de biens culturels, et d'autres objets de collection, et leur rendu interactif sur des appareils mobiles et en ligne (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>156240.00</nominal>
+      <paid>156240.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-12</lastFoscDate>
+    <lastFoscSequence>4167591</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

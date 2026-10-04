@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>8c16234a-f72e-47e7-bbf0-4421c8cda4ff</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004529413</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation VERWYLE Sabine Eze, Oltingen</de>
+    <en>Change VERWYLE Sabine Eze, Oltingen</en>
+    <it>Cambiamenti VERWYLE Sabine Eze, Oltingen</it>
+    <fr>Mutation VERWYLE Sabine Eze, Oltingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6346</journalNumber>
+  <journalDate>2018-12-19</journalDate>
+  <publicationText>VERWYLE Sabine Eze, in Oltingen, CHE-392.741.896, Einzelunternehmen (SHAB Nr. 243 vom 14.12.2018, Publ. 1004521341). Da die Inhaberin den Geschäftsbetrieb weiterführt, sind die Voraussetzungen für eine Löschung gemäss Art. 159 Abs. 5 lit. a HRegV nicht erfüllt. Die Eintragung bleibt bestehen. [bisher: Über die Inhaberin dieses Einzelunternehmens ist mit Verfügung der Konkursrichterin des Zivilkreisgerichts Basel-Landschaft Ost vom 22.11.2018 mit Wirkung ab dem 22.11.2018, 11:00 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>VERWYLE Sabine Eze</name>
+      <uid>CHE392741896</uid>
+      <uidOrganisationId>392741896</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610640309</code13>
+      <seat>Oltingen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>4494</swissZipCode>
+        <town>Oltingen</town>
+      </address>
+    </company>
+    <purpose>Verkauf, Handel und Auffrischung von Möbeln und Deko unterschiedlicher Art; Gesangsunterricht, Kreativ Workshop und Lektorat.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>VERWYLE Sabine Eze</name>
+      <uid>CHE392741896</uid>
+      <uidOrganisationId>392741896</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610640309</code13>
+      <seat>Oltingen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>4494</swissZipCode>
+        <town>Oltingen</town>
+      </address>
+    </company>
+    <purpose>Verkauf, Handel und Auffrischung von Möbeln und Deko unterschiedlicher Art; Gesangsunterricht, Kreativ Workshop und Lektorat.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-14</lastFoscDate>
+    <lastFoscNumber>243</lastFoscNumber>
+    <lastFoscSequence>1004521341</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

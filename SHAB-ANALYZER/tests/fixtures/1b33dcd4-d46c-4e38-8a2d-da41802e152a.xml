@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>1b268cad-d132-4891-881f-024bf1c6b6d3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004613738</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Kilchör Metallbau GmbH, Gurmels</de>
+    <en>Change Kilchör Metallbau GmbH, Gurmels</en>
+    <it>Cambiamenti Kilchör Metallbau GmbH, Gurmels</it>
+    <fr>Mutation Kilchör Metallbau GmbH, Gurmels</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2212</journalNumber>
+  <journalDate>2019-04-15</journalDate>
+  <publicationText>Kilchör Metallbau GmbH, in Gurmels, CHE-295.672.110 (SHAB vom 31.01.2018, s. 0/4026201). Neue Zweigniederlassung: Muntelier (CHE-149.684.316), eingetragen am 08.04.2019 (SHAB vom 11.04.2019, Id 100460861).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kilchör Metallbau GmbH</name>
+      <uid>CHE295672110</uid>
+      <uidOrganisationId>295672110</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735477908</code13>
+      <seat>Gurmels</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Allmendstrasse</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>3212</swissZipCode>
+        <town>Gurmels</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Unternehmens im Bereich Metallbau- und Bauschlosserei sowie Verrichtung aller damit im Zusammenhang stehender Tätigkeiten. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>70000.00</nominal>
+      <paid>70000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kilchör Metallbau GmbH</name>
+      <uid>CHE295672110</uid>
+      <uidOrganisationId>295672110</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735477908</code13>
+      <seat>Gurmels</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Allmendstrasse</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>3212</swissZipCode>
+        <town>Gurmels</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Unternehmens im Bereich Metallbau- und Bauschlosserei sowie Verrichtung aller damit im Zusammenhang stehender Tätigkeiten. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>70000.00</nominal>
+      <paid>70000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-01-31</lastFoscDate>
+    <lastFoscSequence>4026201</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

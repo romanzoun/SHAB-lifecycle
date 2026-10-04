@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>c5fa0ce8-846f-479f-9870-266fb8ccf04b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004503021</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation MTF Quadra SA, succursale de Satigny, Satigny</de>
+    <en>Change MTF Quadra SA, succursale de Satigny, Satigny</en>
+    <it>Cambiamenti MTF Quadra SA, succursale de Satigny, Satigny</it>
+    <fr>Mutation MTF Quadra SA, succursale de Satigny, Satigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21354</journalNumber>
+  <journalDate>2018-11-16</journalDate>
+  <publicationText>MTF Quadra SA, succursale de Satigny, à Satigny, CHE-226.504.763, entreprise ayant son siège à Ecublens VD (FOSC du 19.12.2013, p. 0/7225832). Suite à la modification du droit du registre du commerce et en application de l'art. 110, al. 1 ORC, les informations relatives aux personnes disposant d'un pouvoir de représentation pour toute l'entreprise sont radiées. Par conséquent, l'inscription de Hoog Dick est supprimée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MTF Quadra SA, succursale de Satigny</name>
+      <uid>CHE226504763</uid>
+      <uidOrganisationId>226504763</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010119991</code13>
+      <seat>Satigny</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Pré-de-la-Fontaine</street>
+        <houseNumber>15</houseNumber>
+        <town>Satigny</town>
+      </address>
+    </company>
+    <purpose>commerce de hardware et software et produits accessoires; services dans le domaine du traitement électronique des données, location de services, ainsi que le placement privé.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>MTF Quadra SA</name>
+      <country>CH</country>
+      <uid>CHE106822828</uid>
+      <uidOrganisationId>106822828</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MTF Quadra SA, succursale de Satigny</name>
+      <uid>CHE226504763</uid>
+      <uidOrganisationId>226504763</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010119991</code13>
+      <seat>Satigny</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Pré-de-la-Fontaine</street>
+        <houseNumber>15</houseNumber>
+        <town>Satigny</town>
+      </address>
+    </company>
+    <purpose>commerce de hardware et software et produits accessoires; services dans le domaine du traitement électronique des données, location de services, ainsi que le placement privé.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225832</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

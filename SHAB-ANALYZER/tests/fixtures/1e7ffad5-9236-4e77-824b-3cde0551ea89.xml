@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>1e65dd91-a0ec-42a3-8f88-8bc685a0a351</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004490722</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-11-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation Urus Maler, Birsfelden</de>
+    <en>Change Urus Maler, Birsfelden</en>
+    <it>Cambiamenti Urus Maler, Birsfelden</it>
+    <fr>Mutation Urus Maler, Birsfelden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5489</journalNumber>
+  <journalDate>2018-10-31</journalDate>
+  <publicationText>Urus Maler, in Birsfelden, CHE-190.970.999, Einzelunternehmen (SHAB Nr. 206 vom 24.10.2018, Publ. 1004483131). Da der Inhaber den Geschäftsbetrieb weiterführt, sind die Voraussetzungen für eine Löschung gemäss Art. 159 Abs. 5 lit. a HRegV nicht erfüllt. Die Eintragung bleibt bestehen. [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Verfügung des Konkursrichters des Zivilkreisgerichts Basel-Landschaft West vom 11.09.2018 mit Wirkung ab dem 11.09.2018, 10:30 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Urus Maler</name>
+      <uid>CHE190970999</uid>
+      <uidOrganisationId>190970999</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010179231</code13>
+      <seat>Birsfelden</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rüttihardstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>4127</swissZipCode>
+        <town>Birsfelden</town>
+      </address>
+    </company>
+    <purpose>Allgemeine Malerarbeiten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Urus Maler</name>
+      <uid>CHE190970999</uid>
+      <uidOrganisationId>190970999</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH28010179231</code13>
+      <seat>Birsfelden</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rüttihardstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>4127</swissZipCode>
+        <town>Birsfelden</town>
+      </address>
+    </company>
+    <purpose>Allgemeine Malerarbeiten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-24</lastFoscDate>
+    <lastFoscNumber>206</lastFoscNumber>
+    <lastFoscSequence>1004483131</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

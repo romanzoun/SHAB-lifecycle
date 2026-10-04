@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.22/HR02-export.xsd">
+<meta>
+  <id>24ca42dd-41ea-4abc-afe7-0c5564a5b374</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1006118696</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2024-08-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Les Nettoyeurs MCC SA, Puidoux</de>
+    <en>Change Les Nettoyeurs MCC SA, Puidoux</en>
+    <it>Cambiamenti Les Nettoyeurs MCC SA, Puidoux</it>
+    <fr>Mutation Les Nettoyeurs MCC SA, Puidoux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16957</journalNumber>
+  <journalDate>2024-08-27</journalDate>
+  <publicationText>Les Nettoyeurs MCC SA, à Puidoux, CHE-374.544.731 (FOSC du 28.02.2024, p. 0/1005973145). Par prononcé rendu le 23.08.2024, le président du Tribunal de l'arrondissement de l'Est vaudois a prolongé le sursis concordataire définitif accordé à la société jusqu'au 27.02.2025.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Les Nettoyeurs MCC SA</name>
+      <uid>CHE-374.544.731</uid>
+      <uidOrganisationId>374544731</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011825419</code13>
+      <seat>Puidoux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Z. I. du Verney</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1070</swissZipCode>
+        <town>Puidoux</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la création et l'exploitation de pressings écologiques (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100200.00</nominal>
+      <paid>100200.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Les Nettoyeurs MCC SA</name>
+      <uid>CHE-374.544.731</uid>
+      <uidOrganisationId>374544731</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011825419</code13>
+      <seat>Puidoux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Z. I. du Verney</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1070</swissZipCode>
+        <town>Puidoux</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la création et l'exploitation de pressings écologiques (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100200.00</nominal>
+      <paid>100200.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2024-02-28</lastFoscDate>
+    <lastFoscNumber>41</lastFoscNumber>
+    <lastFoscSequence>1005973145</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

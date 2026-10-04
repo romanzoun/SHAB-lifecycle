@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>55ea3ace-96ec-4140-8276-192cbd536607</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004609004</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation SOS TOLERANCE ASSOCIATION, Thônex, bisher Genève</de>
+    <en>Change SOS TOLERANCE ASSOCIATION, Thônex, to date Genève</en>
+    <it>Cambiamenti SOS TOLERANCE ASSOCIATION, Thônex, prima Genève</it>
+    <fr>Mutation SOS TOLERANCE ASSOCIATION, Thônex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6993</journalNumber>
+  <journalDate>2019-04-08</journalDate>
+  <publicationText>SOS TOLERANCE ASSOCIATION, à Genève, CHE-269.052.203 (FOSC du 23.07.2018, p. 0/4376211). Nouveau siège: Thônex, Rue de Genève 142, 1226 Thônex.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SOS TOLERANCE ASSOCIATION</name>
+      <uid>CHE269052203</uid>
+      <uidOrganisationId>269052203</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66006810171</code13>
+      <seat>Thônex</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>0</addressLine2>
+        <street>Rue de Genève</street>
+        <houseNumber>142</houseNumber>
+        <swissZipCode>1226</swissZipCode>
+        <town>Thônex</town>
+      </address>
+    </company>
+    <purpose>dénoncer les discriminations à l'encontre des minorités menacées, martyrisées, emprisonnées ou exécutées pour leur seule différence; créer, fédérer et gérer une structure apte à informer, fédérer, représenter, assister et soutenir des populations d'exclus qui, isolés ou vulnérables, se trouvent, géographiquement ou physiquement, dans l'impossibilité de se protéger ou de s'exprimer (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SOS TOLERANCE ASSOCIATION</name>
+      <uid>CHE269052203</uid>
+      <uidOrganisationId>269052203</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66006810171</code13>
+      <seat>Genève</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard Carl-Vogt</street>
+        <houseNumber>47</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>dénoncer les discriminations à l'encontre des minorités menacées, martyrisées, emprisonnées ou exécutées pour leur seule différence; créer, fédérer et gérer une structure apte à informer, fédérer, représenter, assister et soutenir des populations d'exclus qui, isolés ou vulnérables, se trouvent, géographiquement ou physiquement, dans l'impossibilité de se protéger ou de s'exprimer (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-23</lastFoscDate>
+    <lastFoscSequence>4376211</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

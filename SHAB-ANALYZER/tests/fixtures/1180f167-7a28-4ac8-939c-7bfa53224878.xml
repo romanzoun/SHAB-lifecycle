@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>112a210a-1a7b-4352-b54d-9b6de099bfa3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004748288</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-10-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Dr. Paul Bohny-In Albon Stiftung, Basel</de>
+    <en>Change Dr. Paul Bohny-In Albon Stiftung, Basel</en>
+    <it>Cambiamenti Dr. Paul Bohny-In Albon Stiftung, Basel</it>
+    <fr>Mutation Dr. Paul Bohny-In Albon Stiftung, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6181</journalNumber>
+  <journalDate>2019-10-25</journalDate>
+  <publicationText>Dr. Paul Bohny-In Albon Stiftung, in Basel, CHE-355.294.120, Stiftung (SHAB Nr. 197 vom 11.10.2019, Publ. 1004735846). Urkundenänderung: 30.09.2019. Organisation neu: [Gestrichene Angaben zur Organisation aufgrund geänderter Eintragungsvorschriften gemäss Art. 95 HRegV.]. [Die publikationspflichtigen Tatsachen haben keine Änderung erfahren.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Dr. Paul Bohny-In Albon Stiftung</name>
+      <uid>CHE-355.294.120</uid>
+      <uidOrganisationId>355294120</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27070030995</code13>
+      <seat>Basel</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Balance Audit AG</addressLine1>
+        <street>Sternengasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>4051</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Die Stiftung bezweckt, die Bestrebungen der Römisch-Katholischen Kirche Basel-Stadt zu fördern.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Dr. Paul Bohny-In Albon Stiftung</name>
+      <uid>CHE-355.294.120</uid>
+      <uidOrganisationId>355294120</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27070030995</code13>
+      <seat>Basel</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Balance Audit AG</addressLine1>
+        <street>Sternengasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>4051</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Die Stiftung bezweckt, die Bestrebungen der Römisch-Katholischen Kirche Basel-Stadt zu fördern.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-11</lastFoscDate>
+    <lastFoscNumber>197</lastFoscNumber>
+    <lastFoscSequence>1004735846</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

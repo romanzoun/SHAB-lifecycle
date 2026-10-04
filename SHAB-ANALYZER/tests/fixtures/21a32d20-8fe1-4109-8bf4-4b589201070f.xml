@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>21707244-139c-4dbe-8a4b-01936c0e06e2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004525403</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2018-12-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation EGT Construction S.A., Montreux</de>
+    <en>Change EGT Construction S.A., Montreux</en>
+    <it>Cambiamenti EGT Construction S.A., Montreux</it>
+    <fr>Mutation EGT Construction S.A., Montreux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>22434</journalNumber>
+  <journalDate>2018-12-14</journalDate>
+  <publicationText>EGT Construction S.A., succursale de Montreux, CHE-439.553.602 (FOSC du 19.12.2013, p. 0/7225834). Siège principal: Saint-Maurice. Les informations relatives aux personnes disposant d'un pouvoir de représentation pour toute l'entreprise sont radiées conformément à l'art. 110, al. 1, let. e ORC, suite à la modification du droit du registre du commerce. Est concerné: Dionisotti Juan.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EGT Construction S.A.</name>
+      <uid>CHE439553602</uid>
+      <uidOrganisationId>439553602</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001740969</code13>
+      <seat>Montreux</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Clarens, chemin de Baugy</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>1815</swissZipCode>
+        <town>Clarens</town>
+      </address>
+    </company>
+    <purpose>entreprise de tous travaux de génie civil et de bâtiments, entreprise de tous transports par voies quelconques, exploitation de carrières, gravières.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>EGT Construction SA</name>
+      <country>CH</country>
+      <uid>CHE106060320</uid>
+      <uidOrganisationId>106060320</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EGT Construction S.A.</name>
+      <uid>CHE439553602</uid>
+      <uidOrganisationId>439553602</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001740969</code13>
+      <seat>Montreux</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Clarens, chemin de Baugy</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>1815</swissZipCode>
+        <town>Clarens</town>
+      </address>
+    </company>
+    <purpose>entreprise de tous travaux de génie civil et de bâtiments, entreprise de tous transports par voies quelconques, exploitation de carrières, gravières.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

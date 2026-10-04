@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>106a43bb-e2ac-4914-b503-6884bd0e54cb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005196114</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-05-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Plumtree Investments AG, Attalens</de>
+    <en>Change Plumtree Investments AG, Attalens</en>
+    <it>Cambiamenti Plumtree Investments AG, Attalens</it>
+    <fr>Mutation Plumtree Investments AG, Attalens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4631</journalNumber>
+  <journalDate>2021-05-25</journalDate>
+  <publicationText>Plumtree Investments AG, in Attalens, CHE-294.757.927 (SHAB vom 19.12.2013, s. 0/7225828). Die Inhaberaktien sind am 01.05.2021 von Gesetzes wegen in Namenaktien umgewandelt worden. Die Statuten der Gesellschaft sind noch nicht an die Umwandlung angepasst worden; die Anpassung muss anlässlich der nächsten Statutenänderung erfolgen. Aktienkapital neu: CHF 100'000, vollständig liberiert, eingeteilt in 100 Namenaktien zu CHF 1'000 (bisher 100 Inhaberaktien zu CHF 1'000).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Plumtree Investments AG</name>
+      <translations>(Plumtree Investments SA) (Plumtree Investments Ltd)</translations>
+      <uid>CHE-294.757.927</uid>
+      <uidOrganisationId>294757927</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735511621</code13>
+      <seat>Attalens</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Remaufens</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1617</swissZipCode>
+        <town>Tatroz</town>
+      </address>
+    </company>
+    <purpose>Hauptsächlich Vermögensverwaltung und Anlageberatung an private und institutionelle Kunden mit Sitz in der Schweiz und/oder im Ausland (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Plumtree Investments AG</name>
+      <translations>(Plumtree Investments SA) (Plumtree Investments Ltd)</translations>
+      <uid>CHE-294.757.927</uid>
+      <uidOrganisationId>294757927</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735511621</code13>
+      <seat>Attalens</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Remaufens</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1617</swissZipCode>
+        <town>Tatroz</town>
+      </address>
+    </company>
+    <purpose>Hauptsächlich Vermögensverwaltung und Anlageberatung an private und institutionelle Kunden mit Sitz in der Schweiz und/oder im Ausland (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>true</paid>
+          <other>true</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.5/HR02-export.xsd">
+<meta>
+  <id>88e107c3-0715-4fd7-8d7e-3e7a02be2952</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004654564</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-06-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Mech. Werkstatt Josef Keller, Hildisrieden</de>
+    <en>Change Mech. Werkstatt Josef Keller, Hildisrieden</en>
+    <it>Cambiamenti Mech. Werkstatt Josef Keller, Hildisrieden</it>
+    <fr>Mutation Mech. Werkstatt Josef Keller, Hildisrieden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4838</journalNumber>
+  <journalDate>2019-06-14</journalDate>
+  <publicationText>Mech. Werkstatt Josef Keller, in Hildisrieden, CHE-106.715.687, Einzelunternehmen (SHAB Nr. 99 vom 23.05.2019, Publ. 1004636550). [gestrichen: Mit Mitteilung des Kantonsgerichts Luzern vom 17.05.2019 ist dem Rekurs gegen den Entscheid des Bezirksgerichts Willisau vom 07.05.2019 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt worden. Demnach wird die Eintragung betreffend Konkurseröffnung über den Inhaber im Handelsregister gestrichen.]. In Gutheissung des Rekurses hat das Kantonsgericht Luzern mit Entscheid vom 07.06.2019 den Entscheid des Bezirksgerichts Willisau vom 07.05.2019, mit dem über den Inhaber der Konkurs eröffnet wurde, aufgehoben.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mech. Werkstatt Josef Keller</name>
+      <uid>CHE106715687</uid>
+      <uidOrganisationId>106715687</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10010183316</code13>
+      <seat>Hildisrieden</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schopfe-Gige</street>
+        <swissZipCode>6024</swissZipCode>
+        <town>Hildisrieden</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer mechanischen Werkstatt.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mech. Werkstatt Josef Keller</name>
+      <uid>CHE106715687</uid>
+      <uidOrganisationId>106715687</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10010183316</code13>
+      <seat>Hildisrieden</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schopfe-Gige</street>
+        <swissZipCode>6024</swissZipCode>
+        <town>Hildisrieden</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer mechanischen Werkstatt.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-23</lastFoscDate>
+    <lastFoscNumber>99</lastFoscNumber>
+    <lastFoscSequence>1004636550</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

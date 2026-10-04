@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.4/HR02-export.xsd">
+<meta>
+  <id>72c1b47f-ae46-43d9-bbc1-3c8f0b8b830d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004613378</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-04-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Luculi AG, Zürich</de>
+    <en>Change Luculi AG, Zürich</en>
+    <it>Cambiamenti Luculi AG, Zürich</it>
+    <fr>Mutation Luculi AG, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15236</journalNumber>
+  <journalDate>2019-04-15</journalDate>
+  <publicationText>Luculi AG, in Zürich, CHE-101.497.922, Aktiengesellschaft (SHAB Nr. 112 vom 13.06.2018, Publ. 4286173). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 31.03.2019 Aktiven von CHF 1'380'490.15und Passiven (Fremdkapital) von CHF 1'174'828.36auf die Fred Tschanz AG, in Zürich (CHE-100.498.126). Gegenleistung: keine.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Luculi AG</name>
+      <uid>CHE101497922</uid>
+      <uidOrganisationId>101497922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039163045</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Limmatquai</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8001</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Führung, Erwerb, Verkauf von Gastronomiebetrieben, Hotels, Ladengeschäften und Kochschulen; kann sich an anderen Unternehmen im In- und Ausland beteiligen sowie Liegenschaften erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Luculi AG</name>
+      <uid>CHE101497922</uid>
+      <uidOrganisationId>101497922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039163045</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Limmatquai</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8001</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Führung, Erwerb, Verkauf von Gastronomiebetrieben, Hotels, Ladengeschäften und Kochschulen; kann sich an anderen Unternehmen im In- und Ausland beteiligen sowie Liegenschaften erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-13</lastFoscDate>
+    <lastFoscNumber>112</lastFoscNumber>
+    <lastFoscSequence>4286173</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
