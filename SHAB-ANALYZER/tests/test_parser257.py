@@ -47,7 +47,7 @@ def residual(prefix):
 @pytest.mark.parametrize('prefix,rule,count', CASES)
 def test_fixture_complete(prefix, rule, count):
     result = parse_publication_xml(path(prefix))
-    assert PARSER_VERSION == 257
+    assert PARSER_VERSION >= 257
     assert result.status == 'FULLY_PARSED' and result.leftover_text == ''
     events = selected(prefix)
     assert len(events) == count

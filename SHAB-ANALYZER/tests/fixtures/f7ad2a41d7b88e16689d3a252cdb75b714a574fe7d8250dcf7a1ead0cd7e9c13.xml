@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>47ff7c30-3aef-495d-a185-a566639eb9d8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004808194</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Solstis SA, Lausanne</de>
+    <en>Change Solstis SA, Lausanne</en>
+    <it>Cambiamenti Solstis SA, Lausanne</it>
+    <fr>Mutation Solstis SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>946</journalNumber>
+  <journalDate>2020-01-14</journalDate>
+  <publicationText>Solstis SA, à Lausanne, CHE-108.474.715 (FOSC du 21.02.2019, p. 0/1004572216). Affolter Pascal et Bonvin Jacques continuent à signer collectivement à deux, toutefois désormais pas entre eux. Nouveaux administrateurs avec signature collective à deux, toutefois pas entre eux: Krattinger Stéphane, de Düdingen, à Sullens, et Parera Raphaël, de et à Rolle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Solstis SA</name>
+      <uid>CHE-108.474.715</uid>
+      <uidOrganisationId>108474715</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001501014</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Sébeillon</street>
+        <houseNumber>9 B</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>diffusion et vente de composants et de systèmes en relation avec les économies d'énergies et les énergies renouvelables; étude, expertises, conseils, organisation de cours et mise sur pied des programmes de post-formation dans ces domaines.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Solstis SA</name>
+      <uid>CHE-108.474.715</uid>
+      <uidOrganisationId>108474715</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001501014</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Sébeillon</street>
+        <houseNumber>9 B</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>diffusion et vente de composants et de systèmes en relation avec les économies d'énergies et les énergies renouvelables; étude, expertises, conseils, organisation de cours et mise sur pied des programmes de post-formation dans ces domaines.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-21</lastFoscDate>
+    <lastFoscNumber>36</lastFoscNumber>
+    <lastFoscSequence>1004572216</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
