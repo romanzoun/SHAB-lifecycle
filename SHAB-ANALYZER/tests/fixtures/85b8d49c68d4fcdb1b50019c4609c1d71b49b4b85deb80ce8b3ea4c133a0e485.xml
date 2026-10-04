@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>37872d42-f8b8-4ffb-995e-68023f994d72</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004811457</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Wermas AG, Möhlin</de>
+    <en>Change Wermas AG, Möhlin</en>
+    <it>Cambiamenti Wermas AG, Möhlin</it>
+    <fr>Mutation Wermas AG, Möhlin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>635</journalNumber>
+  <journalDate>2020-01-17</journalDate>
+  <publicationText>Wermas AG, in Möhlin, CHE-107.103.529, Aktiengesellschaft (SHAB Nr. 7 vom 13.01.2020, Publ. 1004802823). Mit Verfügung vom 13.01.2020 hat das Gerichtspräsidium Rheinfelden im summarischen Verfahren eine Nachlassstundung von 6 Monaten bewilligt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Wermas AG</name>
+      <uid>CHE-107.103.529</uid>
+      <uidOrganisationId>107103529</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40039161247</code13>
+      <seat>Möhlin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gewerbepark Bata</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>4313</swissZipCode>
+        <town>Möhlin</town>
+      </address>
+    </company>
+    <purpose>Herstellung und Vertrieb von Werkzeugen und Maschinen; die Gesellschaft kann Zweigniederlassungen errichten, sich bei anderen Unternehmungen beteiligen, gleichartige oder verwandte Unternehmen erwerben oder errichten, sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die damit in Zusammenhang stehen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Wermas AG</name>
+      <uid>CHE-107.103.529</uid>
+      <uidOrganisationId>107103529</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40039161247</code13>
+      <seat>Möhlin</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gewerbepark Bata</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>4313</swissZipCode>
+        <town>Möhlin</town>
+      </address>
+    </company>
+    <purpose>Herstellung und Vertrieb von Werkzeugen und Maschinen; die Gesellschaft kann Zweigniederlassungen errichten, sich bei anderen Unternehmungen beteiligen, gleichartige oder verwandte Unternehmen erwerben oder errichten, sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die damit in Zusammenhang stehen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-13</lastFoscDate>
+    <lastFoscNumber>7</lastFoscNumber>
+    <lastFoscSequence>1004802823</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

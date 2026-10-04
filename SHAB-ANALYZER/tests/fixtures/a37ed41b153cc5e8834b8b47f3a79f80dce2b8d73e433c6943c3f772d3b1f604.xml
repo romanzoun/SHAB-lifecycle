@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>44946088-22a2-4841-ab0c-01e20d458188</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004808198</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation TEA4YOU SA, Lausanne, neu TEA4YOU SA en liquidation</de>
+    <en>Change TEA4YOU SA, Lausanne, new TEA4YOU SA en liquidation</en>
+    <it>Cambiamenti TEA4YOU SA, Lausanne, nuovo TEA4YOU SA en liquidation</it>
+    <fr>Mutation TEA4YOU SA, Lausanne, nouveau TEA4YOU SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>950</journalNumber>
+  <journalDate>2020-01-14</journalDate>
+  <publicationText>TEA4YOU SA, à Lausanne, CHE-409.229.597 (FOSC du 28.08.2017, p. 0/3718369). Selon décision de son assemblée générale du 6 janvier 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: TEA4YOU SA en liquidation. Antolinos-Chanteperdrix Grégory, administrateur président, est nommé liquidateur avec signature individuelle. Les 2'000 actions nominatives de CHF 100 ne sont plus restreintes quant à leur transmissibilité (art. 685a, al. 3 CO).</publicationText>
+  <commonsNew>
+    <company>
+      <name>TEA4YOU SA en liquidation</name>
+      <uid>CHE-409.229.597</uid>
+      <uidOrganisationId>409229597</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66016670160</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de la Gare</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>le développement d'une enseigne de distribution, ainsi que le commerce (achat, vente, import, export, représentation, distribution) de tous produits, notamment dans le domaine du thé; l'acquisition, la vente, l'administration et la gestion de participations à toute entreprise commerciale, financière, industrielle et immobilière (à l'exclusion des participations immobilières non admissibles au regard de la LFAIE); l'achat, la vente, la gestion et l'administration de biens immobiliers, à l'exception des opérations prohibées par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TEA4YOU SA</name>
+      <uid>CHE-409.229.597</uid>
+      <uidOrganisationId>409229597</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66016670160</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de la Gare</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>le développement d'une enseigne de distribution, ainsi que le commerce (achat, vente, import, export, représentation, distribution) de tous produits, notamment dans le domaine du thé; l'acquisition, la vente, l'administration et la gestion de participations à toute entreprise commerciale, financière, industrielle et immobilière (à l'exclusion des participations immobilières non admissibles au regard de la LFAIE); l'achat, la vente, la gestion et l'administration de biens immobiliers, à l'exception des opérations prohibées par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-08-28</lastFoscDate>
+    <lastFoscNumber>165</lastFoscNumber>
+    <lastFoscSequence>3718369</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

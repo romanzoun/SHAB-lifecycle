@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>3d8b3cf4-7f36-455e-952c-fecb407a0eed</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004809558</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Ollivier SAVEO SARL, Thônex, neu Ollivier SAVEO SARL, en liquidation</de>
+    <en>Change Ollivier SAVEO SARL, Thônex, new Ollivier SAVEO SARL, en liquidation</en>
+    <it>Cambiamenti Ollivier SAVEO SARL, Thônex, nuovo Ollivier SAVEO SARL, en liquidation</it>
+    <fr>Mutation Ollivier SAVEO SARL, Thônex, nouveau Ollivier SAVEO SARL, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>996</journalNumber>
+  <journalDate>2020-01-15</journalDate>
+  <publicationText>Ollivier SAVEO SARL, à Thônex, CHE-199.852.633 (FOSC du 30.07.2019, p. 0/1004687492). La société est dissoute par décision de l'assemblée des associés du 19.12.2019. La liquidation est opérée sous la raison sociale: Ollivier SAVEO SARL, en liquidation. Liquidateurs: Le gérant Savelli Ollivier, lequel continue de signer individuellement, et EUREX GE SA (CHE-331.113.877), à Chêne-Bourg.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Ollivier SAVEO SARL, en liquidation</name>
+      <uid>CHE-199.852.633</uid>
+      <uidOrganisationId>199852633</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66024930141</code13>
+      <seat>Thônex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o ABACO Fiduciaire Sàrl</addressLine1>
+        <street>Rue de Genève</street>
+        <houseNumber>148 B</houseNumber>
+        <swissZipCode>1226</swissZipCode>
+        <town>Thônex</town>
+      </address>
+    </company>
+    <purpose>étude, création, réalisation, négoce de montres, de bijoux ainsi que tous objets précieux ou de luxe; prestations de service dans le secteur du luxe; courtage, négoce, vente et achat de biens immobiliers, à l'exclusion des opérations par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Ollivier SAVEO SARL</name>
+      <uid>CHE-199.852.633</uid>
+      <uidOrganisationId>199852633</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66024930141</code13>
+      <seat>Thônex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o ABACO Fiduciaire Sàrl</addressLine1>
+        <street>Rue de Genève</street>
+        <houseNumber>148 B</houseNumber>
+        <swissZipCode>1226</swissZipCode>
+        <town>Thônex</town>
+      </address>
+    </company>
+    <purpose>étude, création, réalisation, négoce de montres, de bijoux ainsi que tous objets précieux ou de luxe; prestations de service dans le secteur du luxe; courtage, négoce, vente et achat de biens immobiliers, à l'exclusion des opérations par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-30</lastFoscDate>
+    <lastFoscNumber>145</lastFoscNumber>
+    <lastFoscSequence>1004687492</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

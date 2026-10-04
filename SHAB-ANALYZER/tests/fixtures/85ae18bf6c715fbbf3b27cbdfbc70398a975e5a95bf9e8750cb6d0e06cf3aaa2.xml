@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>477ef6ae-f554-48e0-b637-d583bde00b0e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004800001</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Frutiger SA Fribourg, Fribourg</de>
+    <en>Change Frutiger SA Fribourg, Fribourg</en>
+    <it>Cambiamenti Frutiger SA Fribourg, Fribourg</it>
+    <fr>Mutation Frutiger SA Fribourg, Fribourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>97</journalNumber>
+  <journalDate>2020-01-06</journalDate>
+  <publicationText>Frutiger SA Fribourg, in Fribourg, CHE-107.773.724 (FOSC du 27.12.2019, p. /1004793699). Die Zweigniederlassung in Riaz (CHE-441.228.962) ist gelöscht.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Frutiger SA Fribourg</name>
+      <uid>CHE-107.773.724</uid>
+      <uidOrganisationId>107773724</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701302049</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Daillettes</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>Führung einer Unternehmung für Hoch-, Tief- und Strassenbau sowie die Planung und Erstellung von Bauten auf eigene und fremde Rechnung (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Frutiger SA Fribourg</name>
+      <uid>CHE-107.773.724</uid>
+      <uidOrganisationId>107773724</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701302049</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Daillettes</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>Führung einer Unternehmung für Hoch-, Tief- und Strassenbau sowie die Planung und Erstellung von Bauten auf eigene und fremde Rechnung (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-27</lastFoscDate>
+    <lastFoscNumber>250</lastFoscNumber>
+    <lastFoscSequence>1004793699</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

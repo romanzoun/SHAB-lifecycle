@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>3a8c3d4c-99e5-4b5b-b4fc-c81cc18055fb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004815119</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Sen-Sanitaire Hasani Enes, Le Mont-sur-Lausanne</de>
+    <en>Change Sen-Sanitaire Hasani Enes, Le Mont-sur-Lausanne</en>
+    <it>Cambiamenti Sen-Sanitaire Hasani Enes, Le Mont-sur-Lausanne</it>
+    <fr>Mutation Sen-Sanitaire Hasani Enes, Le Mont-sur-Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1569</journalNumber>
+  <journalDate>2020-01-22</journalDate>
+  <publicationText>Sen-Sanitaire Hasani Enes, à Le Mont-sur-Lausanne, CHE-179.093.410 (FOSC du 29.11.2019, p. 0/1004771547). Le président de la Cour des poursuites et faillites du Tribunal cantonal a admis la requête d'effet suspensif de la procédure de faillite le 16 janvier 2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Sen-Sanitaire Hasani Enes</name>
+      <uid>CHE-179.093.410</uid>
+      <uidOrganisationId>179093410</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011658125</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>Box 49</addressLine2>
+        <street>Chemin de Budron H</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Le Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de pose de chauffages et sanitaires.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Sen-Sanitaire Hasani Enes</name>
+      <uid>CHE-179.093.410</uid>
+      <uidOrganisationId>179093410</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011658125</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>Box 49</addressLine2>
+        <street>Chemin de Budron H</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Le Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de pose de chauffages et sanitaires.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-29</lastFoscDate>
+    <lastFoscNumber>232</lastFoscNumber>
+    <lastFoscSequence>1004771547</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

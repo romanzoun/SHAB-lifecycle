@@ -210,6 +210,7 @@ from .parser253 import extract_parser253_leftovers
 from .parser254 import extract_parser254_leftovers
 from .parser255 import extract_parser255_leftovers
 from .parser256 import extract_parser256_leftovers
+from .parser257 import extract_parser257_leftovers
 from .persons import extract_persons
 from .text_extras import extract_text_extras
 from .xml_map import map_hr_xml
@@ -238,6 +239,12 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         meta.get("canton"),
         {e.event_type for e in xml_events + person_events},
     )
+    parser257_events, leftover = extract_parser257_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
+    )
+    if any(e.signing for e in parser257_events):
+        person_events = [e for e in person_events if e.rule_id != "fr.persons.group_signing.v1"]
     parser256_events, leftover = extract_parser256_leftovers(
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
         meta.get("org_uid"), meta.get("plz"), meta.get("canton"),
@@ -250,7 +257,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
     )
     if any(e.signing for e in parser255_events):
         person_events = [e for e in person_events if e.rule_id != "fr.persons.group_signing.v1"]
-    # Parsers 179-256 contain complete families that broad historical search rules
+    # Parsers 179-257 contain complete families that broad historical search rules
     # would otherwise consume only in fragments.
     parser254_events, leftover = extract_parser254_leftovers(
         leftover,
@@ -2350,6 +2357,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser250_followup_events
         + parser251_events
         + parser252_events
+        + parser257_events
         + parser256_events
         + parser255_events
         + parser254_events
