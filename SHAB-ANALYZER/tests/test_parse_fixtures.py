@@ -52352,7 +52352,7 @@ def test_parser_253_leftover_samples_are_fully_parsed_with_events(
     stem, rule_id, event_count
 ):
     result = _parse(stem)
-    assert PARSER_VERSION == 253
+    assert PARSER_VERSION >= 253
     assert result.sub_rubric == "HR02"
     assert result.status == "FULLY_PARSED"
     assert result.leftover_text == ""

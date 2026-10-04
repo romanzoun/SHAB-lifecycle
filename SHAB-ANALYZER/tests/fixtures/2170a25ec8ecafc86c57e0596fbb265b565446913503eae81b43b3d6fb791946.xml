@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>075f7c53-4071-41a8-a373-76dbd505c75e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004817581</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation BETONCOUPE, OLIVEIRA DOS ANJOS, Thônex</de>
+    <en>Change BETONCOUPE, OLIVEIRA DOS ANJOS, Thônex</en>
+    <it>Cambiamenti BETONCOUPE, OLIVEIRA DOS ANJOS, Thônex</it>
+    <fr>Mutation BETONCOUPE, OLIVEIRA DOS ANJOS, Thônex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1649</journalNumber>
+  <journalDate>2020-01-24</journalDate>
+  <publicationText>BETONCOUPE, OLIVEIRA DOS ANJOS, à Thônex, CHE-390.701.845 (FOSC du 28.11.2019, p. 0/1004770599). Par décision du 17.01.2020, la Cour de justice a accordé l'effet suspensif au recours contre le jugement de faillite du 14.11.2019.</publicationText>
+  <commonsNew>
+    <company>
+      <name>BETONCOUPE, OLIVEIRA DOS ANJOS</name>
+      <uid>CHE-390.701.845</uid>
+      <uidOrganisationId>390701845</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012850167</code13>
+      <seat>Thônex</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Edouard-Olivet</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1226</swissZipCode>
+        <town>Thônex</town>
+      </address>
+    </company>
+    <purpose>sciage et carottage du béton, rénovations, transformations et démolitions.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BETONCOUPE, OLIVEIRA DOS ANJOS</name>
+      <uid>CHE-390.701.845</uid>
+      <uidOrganisationId>390701845</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012850167</code13>
+      <seat>Thônex</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Edouard-Olivet</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1226</swissZipCode>
+        <town>Thônex</town>
+      </address>
+    </company>
+    <purpose>sciage et carottage du béton, rénovations, transformations et démolitions.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-28</lastFoscDate>
+    <lastFoscNumber>231</lastFoscNumber>
+    <lastFoscSequence>1004770599</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

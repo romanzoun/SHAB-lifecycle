@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>f43757bc-735e-452a-9905-2ecee3007cac</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004793003</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation coopérative d'habitation vingt-quatre, Genève, neu coopérative d'habitation vingt-quatre, en liquidation</de>
+    <en>Change coopérative d'habitation vingt-quatre, Genève, new coopérative d'habitation vingt-quatre, en liquidation</en>
+    <it>Cambiamenti coopérative d'habitation vingt-quatre, Genève, nuovo coopérative d'habitation vingt-quatre, en liquidation</it>
+    <fr>Mutation coopérative d'habitation vingt-quatre, Genève, nouveau coopérative d'habitation vingt-quatre, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23986</journalNumber>
+  <journalDate>2019-12-19</journalDate>
+  <publicationText>coopérative d'habitation vingt-quatre, à Genève, CHE-115.695.405 (FOSC du 19.12.2013, p. 0/7225832). La société est dissoute par décision de l'assemblée générale du 04.09.2017. Sa liquidation est opérée sous la raison sociale: coopérative d'habitation vingt-quatre, en liquidation. Liquidatrices: les administratrices Perrot Sophie, Müller Andréa, et Vuilleumier Freymond Florence; lesquelles signent désormais individuellement. Liquidateurs: Plantevin Xavier et Freymond Pierre-Philippe; lesquels signent désormais individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>coopérative d'habitation vingt-quatre, en liquidation</name>
+      <uid>CHE-115.695.405</uid>
+      <uidOrganisationId>115695405</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66025660090</code13>
+      <seat>Genève</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Montbrillant</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>fournir à ses membres des logements à des loyers modérés et des espaces collectifs, soustraits durablement à la spéculation et les conserver; par l'action commune et la corresponsabilité de ses membres, elle favorise la vie et la gestion collective.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>coopérative d'habitation vingt-quatre</name>
+      <uid>CHE-115.695.405</uid>
+      <uidOrganisationId>115695405</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66025660090</code13>
+      <seat>Genève</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Montbrillant</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>fournir à ses membres des logements à des loyers modérés et des espaces collectifs, soustraits durablement à la spéculation et les conserver; par l'action commune et la corresponsabilité de ses membres, elle favorise la vie et la gestion collective.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225832</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

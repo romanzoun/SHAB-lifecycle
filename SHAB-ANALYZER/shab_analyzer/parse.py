@@ -207,6 +207,7 @@ from .parser250 import extract_parser250_leftovers
 from .parser251 import extract_parser251_leftovers
 from .parser252 import extract_parser252_leftovers
 from .parser253 import extract_parser253_leftovers
+from .parser254 import extract_parser254_leftovers
 from .persons import extract_persons
 from .text_extras import extract_text_extras
 from .xml_map import map_hr_xml
@@ -235,8 +236,26 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         meta.get("canton"),
         {e.event_type for e in xml_events + person_events},
     )
-    # Parsers 179-253 contain complete families that broad historical search rules
+    # Parsers 179-254 contain complete families that broad historical search rules
     # would otherwise consume only in fragments.
+    parser254_events, leftover = extract_parser254_leftovers(
+        leftover,
+        meta.get("language"),
+        pub_id,
+        meta.get("published_at") or "",
+        meta.get("org_uid"),
+        meta.get("plz"),
+        meta.get("canton"),
+    )
+    # The historical extras rule reads the negated published reservation as added.
+    # A complete parser254 correction supersedes that event for this family only.
+    if any(
+        e.rule_id == "de.text.foundation_deed_date_purpose_reservation_corrected.v1"
+        for e in parser254_events
+    ):
+        extra_events = [
+            e for e in extra_events if e.rule_id != "de.text.purpose_reservation.v1"
+        ]
     parser253_events, leftover = extract_parser253_leftovers(
         leftover,
         meta.get("language"),
@@ -2317,6 +2336,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser250_followup_events
         + parser251_events
         + parser252_events
+        + parser254_events
         + parser253_events
     )
     others = bool(meta.get("others"))

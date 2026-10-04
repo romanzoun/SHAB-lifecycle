@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.6/HR02-export.xsd">
+<meta>
+  <id>f73fa7cb-f5ee-4b1f-b386-fff72f2f2291</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004773241</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2019-12-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Fondation Contact Jura bernois en liquidation, Tavannes</de>
+    <en>Change Fondation Contact Jura bernois en liquidation, Tavannes</en>
+    <it>Cambiamenti Fondation Contact Jura bernois en liquidation, Tavannes</it>
+    <fr>Mutation Fondation Contact Jura bernois en liquidation, Tavannes</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18234</journalNumber>
+  <journalDate>2019-11-28</journalDate>
+  <publicationText>Fondation Contact Jura bernois en liquidation, à Tavannes, CHE-109.117.040, fondation (No. FOSC 48 du 11.03.2019, Publ. 1004584261). Transfert de patrimoine: selon contrat du 21.05.2019 et décision de l'autorité de surveillance du 01.10.2019, la fondation a transféré des actifs de CHF 127'977.75 et des passifs envers les tiers de CHF 56'177.75 à la fondation "Stiftung Contact", à Bern (CHE-106.080.021). Contre-prestation: aucune.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Contact Jura bernois en liquidation</name>
+      <uid>CHE-109.117.040</uid>
+      <uidOrganisationId>109117040</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07370103770</code13>
+      <seat>Tavannes</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue H.-F. Sandoz</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>2710</swissZipCode>
+        <town>Tavannes</town>
+      </address>
+    </company>
+    <purpose>Fournir conseils et assistance aux personnes qui connaissent des difficultés en relation avec des problèmes de toxicomanie; développer et promouvoir des mesures visant à améliorer les conditions de vie de ces personnes et de leur entourage; conseiller et soutenir les communes et autres corporations publiques ou privées dans leurs efforts en vue de mieux faire face aux problèmes liés à la toxicomanie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Contact Jura bernois en liquidation</name>
+      <uid>CHE-109.117.040</uid>
+      <uidOrganisationId>109117040</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07370103770</code13>
+      <seat>Tavannes</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue H.-F. Sandoz</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>2710</swissZipCode>
+        <town>Tavannes</town>
+      </address>
+    </company>
+    <purpose>Fournir conseils et assistance aux personnes qui connaissent des difficultés en relation avec des problèmes de toxicomanie; développer et promouvoir des mesures visant à améliorer les conditions de vie de ces personnes et de leur entourage; conseiller et soutenir les communes et autres corporations publiques ou privées dans leurs efforts en vue de mieux faire face aux problèmes liés à la toxicomanie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-11</lastFoscDate>
+    <lastFoscNumber>48</lastFoscNumber>
+    <lastFoscSequence>1004584261</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
