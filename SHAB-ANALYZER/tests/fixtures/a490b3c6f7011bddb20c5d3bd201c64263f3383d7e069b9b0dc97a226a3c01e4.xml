@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>37a81751-4741-439e-b1bc-13c5e0d14a94</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004812379</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Suisse BioHemp AG, Ried bei Kerzers</de>
+    <en>Change Suisse BioHemp AG, Ried bei Kerzers</en>
+    <it>Cambiamenti Suisse BioHemp AG, Ried bei Kerzers</it>
+    <fr>Mutation Suisse BioHemp AG, Ried bei Kerzers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>565</journalNumber>
+  <journalDate>2020-01-20</journalDate>
+  <publicationText>Suisse BioHemp AG, in Ried bei Kerzers, CHE-246.884.546 (FOSC du 11.06.2018, p. 0/4281345). Neu eingetragene Person: Gebert Treuhand (CHE-107.424.608), in Wil SG, Revisionsstelle. Der Eintrag betreffend die Erklärung vom 17.03.2017 über den Verzicht auf die eingeschränkte Revision ist gelöscht worden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Suisse BioHemp AG</name>
+      <uid>CHE-246.884.546</uid>
+      <uidOrganisationId>246884546</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030411750</code13>
+      <seat>Ried bei Kerzers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Manfred Wolf</addressLine1>
+        <street>Dorfstrasse</street>
+        <houseNumber>78</houseNumber>
+        <swissZipCode>3216</swissZipCode>
+        <town>Ried bei Kerzers</town>
+      </address>
+    </company>
+    <purpose>Anbau sowie Handel von CBD-Hanf und CBD-Hanfprodukten; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Gebert Treuhand</name>
+        <country>CH</country>
+        <uid>CHE107424608</uid>
+        <uidOrganisationId>107424608</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Suisse BioHemp AG</name>
+      <uid>CHE-246.884.546</uid>
+      <uidOrganisationId>246884546</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030411750</code13>
+      <seat>Ried bei Kerzers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Manfred Wolf</addressLine1>
+        <street>Dorfstrasse</street>
+        <houseNumber>78</houseNumber>
+        <swissZipCode>3216</swissZipCode>
+        <town>Ried bei Kerzers</town>
+      </address>
+    </company>
+    <purpose>Anbau sowie Handel von CBD-Hanf und CBD-Hanfprodukten; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-11</lastFoscDate>
+    <lastFoscNumber>110</lastFoscNumber>
+    <lastFoscSequence>4281345</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

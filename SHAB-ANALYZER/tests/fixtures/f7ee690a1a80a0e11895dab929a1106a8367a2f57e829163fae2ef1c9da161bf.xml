@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>2d6fb35b-402c-4101-a3f3-33e99f90da67</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004803225</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Mirabaud Aigues-Vives Participation &amp; Cie, Genève</de>
+    <en>Change Mirabaud Aigues-Vives Participation &amp; Cie, Genève</en>
+    <it>Cambiamenti Mirabaud Aigues-Vives Participation &amp; Cie, Genève</it>
+    <fr>Mutation Mirabaud Aigues-Vives Participation &amp; Cie, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>473</journalNumber>
+  <journalDate>2020-01-08</journalDate>
+  <publicationText>Mirabaud Aigues-Vives Participation &amp; Cie, à Genève, CHE-104.139.689, société en commandite (FOSC du 18.01.2019, p. 0/1004545923). La commandite de Boissier Antoine a été portée de CHF 10'000'000 à CHF 7'500'000. La commandite de Fauchier-Magnan Thierry a été portée de CHF 13'000'000 à CHF 9'000'000. Palma Antonio jusqu'ici associé indéfiniment responsable a été nommé associé commanditaire, avec une commandite de CHF 15'000'000; ses pouvoirs sont radiés.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mirabaud Aigues-Vives Participation &amp; Cie</name>
+      <uid>CHE-104.139.689</uid>
+      <uidOrganisationId>104139689</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000329956</code13>
+      <seat>Genève</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard Georges-Favon</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>réalisation d'opérations financières, notamment la prise de détention d'une participation en commandite comme associée commanditaire de Mirabaud Partners &amp; Cie, à Genève.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mirabaud Aigues-Vives Participation &amp; Cie</name>
+      <uid>CHE-104.139.689</uid>
+      <uidOrganisationId>104139689</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000329956</code13>
+      <seat>Genève</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard Georges-Favon</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>réalisation d'opérations financières, notamment la prise de détention d'une participation en commandite comme associée commanditaire de Mirabaud Partners &amp; Cie, à Genève.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-01-18</lastFoscDate>
+    <lastFoscNumber>12</lastFoscNumber>
+    <lastFoscSequence>1004545923</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
