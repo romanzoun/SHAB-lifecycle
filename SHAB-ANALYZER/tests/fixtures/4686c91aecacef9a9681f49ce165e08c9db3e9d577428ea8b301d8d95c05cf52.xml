@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>31a706dc-684a-44a6-87e9-621c22974146</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004842852</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Bordier &amp; Cie, Genève</de>
+    <en>Change Bordier &amp; Cie, Genève</en>
+    <it>Cambiamenti Bordier &amp; Cie, Genève</it>
+    <fr>Mutation Bordier &amp; Cie, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4057</journalNumber>
+  <journalDate>2020-02-26</journalDate>
+  <publicationText>Bordier &amp; Cie, à Genève, CHE-102.616.388, société en commandite (FOSC du 08.01.2020, p. 0/1004799115). La commandite de l'associée Bordier VA et Associés (CHE-239.753.548) a été réduite de CHF 7'000'000 à CHF 2'000'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bordier &amp; Cie</name>
+      <uid>CHE-102.616.388</uid>
+      <uidOrganisationId>102616388</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000068987</code13>
+      <seat>Genève</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Hollande</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>banque.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bordier &amp; Cie</name>
+      <uid>CHE-102.616.388</uid>
+      <uidOrganisationId>102616388</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000068987</code13>
+      <seat>Genève</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Hollande</street>
+        <houseNumber>16</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>banque.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-08</lastFoscDate>
+    <lastFoscNumber>4</lastFoscNumber>
+    <lastFoscSequence>1004799115</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

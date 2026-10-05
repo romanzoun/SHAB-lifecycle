@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>2dc23c66-c6d3-484f-8bc3-8c3ec1d1bb60</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004843599</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation G. Icboyun GmbH, Brugg</de>
+    <en>Change G. Icboyun GmbH, Brugg</en>
+    <it>Cambiamenti G. Icboyun GmbH, Brugg</it>
+    <fr>Mutation G. Icboyun GmbH, Brugg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2466</journalNumber>
+  <journalDate>2020-02-27</journalDate>
+  <publicationText>G. Icboyun GmbH, in Brugg, CHE-389.101.822, schweizerische Zweigniederlassung (SHAB Nr. 27 vom 10.02.2020, Publ. 1004826331), Hauptsitz in: Suhr. Angaben zur Zweigniederlassung neu: Mit Verfügung des Obergerichts des Kantons Aargau vom 20.02.2020 wurde das Konkursbegehren am Hauptsitz abgewiesen. Infolgedessen besteht die Gesellschaft entsprechend den früheren Eintragungen weiter. [bisher: Mit Verfügung des Obergerichtes des Kantons Aargau vom 29.01.2020 ist der Beschwerde gegen die Verfügung des Konkursrichters des Bezirksgerichts Aarau vom 14.01.2020 betreffend Konkurseröffnung am Hauptsitz aufschiebende Wirkung zuerkannt worden. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>G. Icboyun GmbH</name>
+      <uid>CHE-389.101.822</uid>
+      <uidOrganisationId>389101822</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40090365972</code13>
+      <seat>Brugg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neumarkt</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>5200</swissZipCode>
+        <town>Brugg AG</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>G. Icboyun GmbH</name>
+      <country>CH</country>
+      <uid>CHE-283.936.905</uid>
+      <uidOrganisationId>283936905</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>G. Icboyun GmbH</name>
+      <uid>CHE-389.101.822</uid>
+      <uidOrganisationId>389101822</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40090365972</code13>
+      <seat>Brugg</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neumarkt</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>5200</swissZipCode>
+        <town>Brugg AG</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>G. Icboyun GmbH</name>
+      <country>CH</country>
+      <uid>CHE-283.936.905</uid>
+      <uidOrganisationId>283936905</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-10</lastFoscDate>
+    <lastFoscNumber>27</lastFoscNumber>
+    <lastFoscSequence>1004826331</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
