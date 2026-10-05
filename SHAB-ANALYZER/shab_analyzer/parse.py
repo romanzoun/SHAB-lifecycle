@@ -215,6 +215,7 @@ from .parser258 import extract_parser258_leftovers
 from .parser259 import extract_parser259_leftovers
 from .parser260 import extract_parser260_leftovers
 from .parser261 import extract_parser261_leftovers
+from .parser263 import extract_parser263_leftovers
 from .parser262 import extract_parser262_leftovers
 from .persons import extract_persons
 from .text_extras import extract_text_extras
@@ -244,6 +245,16 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         meta.get("canton"),
         {e.event_type for e in xml_events + person_events},
     )
+    parser263_events, leftover = extract_parser263_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
+    )
+    if any(e.rule_id == "de.text.branch_places_replaced_uid.v1" for e in parser263_events):
+        extra_events = [e for e in extra_events if e.rule_id != "de.text.branch_added.v1"]
+    if any(e.rule_id == "it.text.registration_maintained_deletion_clause_removed.v1" for e in parser263_events):
+        extra_events = [e for e in extra_events if e.rule_id != "it.text.liquidation_ended.v1"]
+    if any(e.rule_id == "fr.persons.partial_share_transfer_president_communications.v1" for e in parser263_events):
+        extra_events = [e for e in extra_events if e.rule_id != "fr.text.communications.v1"]
     parser262_events, leftover = extract_parser262_leftovers(
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
         meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
@@ -2406,6 +2417,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser250_followup_events
         + parser251_events
         + parser252_events
+        + parser263_events
         + parser262_events
         + parser261_events
         + parser261_followup_events
@@ -2418,7 +2430,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser254_events
         + parser253_events
     )
-    if any(e.signing for e in parser262_events + parser261_events + parser261_followup_events):
+    if any(e.signing for e in parser263_events + parser262_events + parser261_events + parser261_followup_events):
         events = [e for e in events if e.rule_id != "fr.persons.group_signing.v1"]
     others = bool(meta.get("others"))
     leftover = leftover.strip(" .")

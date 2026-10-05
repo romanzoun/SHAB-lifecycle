@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>ae3e4e82-0929-43ef-b278-e32879902645</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004804609</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Bernard Janin, Perly-Certoux</de>
+    <en>Change Bernard Janin, Perly-Certoux</en>
+    <it>Cambiamenti Bernard Janin, Perly-Certoux</it>
+    <fr>Mutation Bernard Janin, Perly-Certoux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>546</journalNumber>
+  <journalDate>2020-01-09</journalDate>
+  <publicationText>Bernard Janin, à Perly-Certoux, CHE-111.239.623 (FOSC du 29.05.2019, p. 0/1004641260). Transfert de patrimoine: selon contrat du 10.12.2019, le titulaire a transféré des actifs pour CHF 7'222'623.79 et des passifs envers les tiers pour CHF 5'386'222.78, à Terre et Serre Genevoises SA, à Perly-Certoux (CHE-418.000.295). Contre-prestation: 100 actions de CHF 1'000, nominatives, liées selon statuts, et une créance de CHF 1'736'401.01.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bernard Janin</name>
+      <uid>CHE-111.239.623</uid>
+      <uidOrganisationId>111239623</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66015420196</code13>
+      <seat>Perly-Certoux</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Crues</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1258</swissZipCode>
+        <town>Perly-Certoux</town>
+      </address>
+    </company>
+    <purpose>culture maraîchère, production et commercialisation de tous produits maraîchers et alimentaires.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bernard Janin</name>
+      <uid>CHE-111.239.623</uid>
+      <uidOrganisationId>111239623</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66015420196</code13>
+      <seat>Perly-Certoux</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Crues</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1258</swissZipCode>
+        <town>Perly-Certoux</town>
+      </address>
+    </company>
+    <purpose>culture maraîchère, production et commercialisation de tous produits maraîchers et alimentaires.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-29</lastFoscDate>
+    <lastFoscNumber>103</lastFoscNumber>
+    <lastFoscSequence>1004641260</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
