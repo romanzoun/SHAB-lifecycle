@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>55975daf-8a0d-4628-8f97-94ee38b187e9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004827548</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation BLETA Sàrl, Gland</de>
+    <en>Change BLETA Sàrl, Gland</en>
+    <it>Cambiamenti BLETA Sàrl, Gland</it>
+    <fr>Mutation BLETA Sàrl, Gland</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2557</journalNumber>
+  <journalDate>2020-02-06</journalDate>
+  <publicationText>BLETA Sàrl, à Gland, CHE-446.568.572 (FOSC du 13.10.2014, p. 0/1765147). Bleta Enver cède 20 de ses 200 parts de CHF 100 à Bleta Astrit, de Montreux, à Rolle, nouvel associé sans signature, titulaire de 20 parts de CHF 100. Bleta Enver reste titulaire de 180 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>BLETA Sàrl</name>
+      <uid>CHE-446.568.572</uid>
+      <uidOrganisationId>446568572</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011570449</code13>
+      <seat>Gland</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Cité-Ouest</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: maçonnerie; paysagisme (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BLETA Sàrl</name>
+      <uid>CHE-446.568.572</uid>
+      <uidOrganisationId>446568572</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011570449</code13>
+      <seat>Gland</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Cité-Ouest</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>1196</swissZipCode>
+        <town>Gland</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: maçonnerie; paysagisme (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-10-13</lastFoscDate>
+    <lastFoscNumber>197</lastFoscNumber>
+    <lastFoscSequence>1765147</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

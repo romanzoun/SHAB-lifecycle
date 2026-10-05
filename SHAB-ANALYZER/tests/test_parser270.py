@@ -54,7 +54,7 @@ def test_fixture_complete(prefix, rule, count):
     p = path(prefix)
     assert hashlib.sha256(p.read_bytes()).hexdigest() == p.stem
     result = parse_publication_xml(p)
-    assert PARSER_VERSION == 270
+    assert PARSER_VERSION == 271
     assert result.status == 'FULLY_PARSED' and result.leftover_text == ''
     events = [e for e in result.events if e.rule_id == rule]
     assert len(events) == count

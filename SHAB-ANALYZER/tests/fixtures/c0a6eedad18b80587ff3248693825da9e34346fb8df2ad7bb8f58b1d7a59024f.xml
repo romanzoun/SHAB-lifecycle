@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>640eda7f-5e82-499d-882d-ea5a5230665f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004841650</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation troisième bureau sàrl, Pully, neu troisième bureau sàrl en liquidation</de>
+    <en>Change troisième bureau sàrl, Pully, new troisième bureau sàrl en liquidation</en>
+    <it>Cambiamenti troisième bureau sàrl, Pully, nuovo troisième bureau sàrl en liquidation</it>
+    <fr>Mutation troisième bureau sàrl, Pully, nouveau troisième bureau sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3894</journalNumber>
+  <journalDate>2020-02-25</journalDate>
+  <publicationText>troisième bureau sàrl, à Pully, CHE-151.030.213 (FOSC du 15.03.2018, p. 0/4115165). Selon décision de son assemblée des associés du 14 janvier 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: troisième bureau sàrl en liquidation par Burkhalter et partenaires S.A. (CHE-107.034.555), à Pully, nommée liquidatrice.</publicationText>
+  <commonsNew>
+    <company>
+      <name>troisième bureau sàrl en liquidation</name>
+      <uid>CHE-151.030.213</uid>
+      <uidOrganisationId>151030213</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011625862</code13>
+      <seat>Pully</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Burkhalter et partenaires S.A.</addressLine1>
+        <street>Chemin du Montillier</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le conseil et la réalisation dans le domaine évènementiel et artistique (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>troisième bureau sàrl</name>
+      <uid>CHE-151.030.213</uid>
+      <uidOrganisationId>151030213</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011625862</code13>
+      <seat>Pully</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Burkhalter et partenaires S.A.</addressLine1>
+        <street>Chemin du Montillier</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le conseil et la réalisation dans le domaine évènementiel et artistique (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-03-15</lastFoscDate>
+    <lastFoscNumber>52</lastFoscNumber>
+    <lastFoscSequence>4115165</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

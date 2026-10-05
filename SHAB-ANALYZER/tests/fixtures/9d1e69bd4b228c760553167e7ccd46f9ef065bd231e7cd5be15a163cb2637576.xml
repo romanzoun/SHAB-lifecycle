@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>634bc344-0af3-46f0-a8e0-0a9eca2719dd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004822169</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Alma CH SA, Genève</de>
+    <en>Change Alma CH SA, Genève</en>
+    <it>Cambiamenti Alma CH SA, Genève</it>
+    <fr>Mutation Alma CH SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2111</journalNumber>
+  <journalDate>2020-01-30</journalDate>
+  <publicationText>Alma CH SA, à Genève, CHE-395.415.186 (FOSC du 14.10.2019, p. 0/1004737326). de Bavier Cyril, nommé président, et Said Adam, jusqu'ici président, continuent à signer collectivement à deux. Felisa Alexis, de France, à Collonge-Bellerive, et Liess Omar, de et à Cologny, sont membres du conseil d'administration avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Alma CH SA</name>
+      <uid>CHE-395.415.186</uid>
+      <uidOrganisationId>395415186</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66018650142</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Canonica Valticos de Preux &amp; Associés</addressLine1>
+        <street>rue Pierre-Fatio</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>activités dans le domaine de la restauration, notamment exploitation de cafés, restaurants et bars (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>602000.00</nominal>
+      <paid>602000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Alma CH SA</name>
+      <uid>CHE-395.415.186</uid>
+      <uidOrganisationId>395415186</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66018650142</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Canonica Valticos de Preux &amp; Associés</addressLine1>
+        <street>rue Pierre-Fatio</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>activités dans le domaine de la restauration, notamment exploitation de cafés, restaurants et bars (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>602000.00</nominal>
+      <paid>602000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-14</lastFoscDate>
+    <lastFoscNumber>198</lastFoscNumber>
+    <lastFoscSequence>1004737326</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
