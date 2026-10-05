@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>be799ff4-3e82-4de4-a2ed-430796a60c86</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004835281</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Agence Merulla Sàrl, Epalinges</de>
+    <en>Change Agence Merulla Sàrl, Epalinges</en>
+    <it>Cambiamenti Agence Merulla Sàrl, Epalinges</it>
+    <fr>Mutation Agence Merulla Sàrl, Epalinges</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3262</journalNumber>
+  <journalDate>2020-02-17</journalDate>
+  <publicationText>Agence Merulla Sàrl, à Epalinges, CHE-456.397.125 (FOSC du 07.04.2014, p. 0/1438357). Merulla Marco, associé-gérant, cède 1 de ses 14 parts de CHF 1'000, et Voirol Boris, associé, cède 1 de ses 6 parts de CHF 1'000 à Siouani Leïla, de France, à Epalinges, nouvelle associée 2 parts de CHF 1'000, sans signature. Merulla Marco reste titulaire de 13 parts de CHF 1'000 et Voirol Boris, de 5 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Agence Merulla Sàrl</name>
+      <uid>CHE-456.397.125</uid>
+      <uidOrganisationId>456397125</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011488560</code13>
+      <seat>Epalinges</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Croix-Blanche</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>1066</swissZipCode>
+        <town>Epalinges</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le conseil et toutes activités de service dans les domaines des assurances, de l'immobilier et de la gestion administrative (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Agence Merulla Sàrl</name>
+      <uid>CHE-456.397.125</uid>
+      <uidOrganisationId>456397125</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011488560</code13>
+      <seat>Epalinges</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Croix-Blanche</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>1066</swissZipCode>
+        <town>Epalinges</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le conseil et toutes activités de service dans les domaines des assurances, de l'immobilier et de la gestion administrative (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-04-07</lastFoscDate>
+    <lastFoscNumber>67</lastFoscNumber>
+    <lastFoscSequence>1438357</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
