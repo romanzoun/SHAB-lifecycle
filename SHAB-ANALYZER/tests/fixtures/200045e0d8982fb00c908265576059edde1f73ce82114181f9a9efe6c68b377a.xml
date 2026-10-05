@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>d6bd0bc2-4bb1-4abb-979a-60bd9c7c6243</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004808652</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Galerie Krebs GmbH in Liquidation, Bern</de>
+    <en>Change Galerie Krebs GmbH in Liquidation, Bern</en>
+    <it>Cambiamenti Galerie Krebs GmbH in Liquidation, Bern</it>
+    <fr>Mutation Galerie Krebs GmbH in Liquidation, Bern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>818</journalNumber>
+  <journalDate>2020-01-15</journalDate>
+  <publicationText>Galerie Krebs GmbH in Liquidation, in Bern, CHE-107.806.909, Gesellschaft mit beschränkter Haftung (SHAB Nr. 249 vom 24.12.2019, Publ. 1004792022). Liquidationsadresse: c/o Barbara Krebs, Haldenau 16, 3074 Muri b. Bern.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Galerie Krebs GmbH in Liquidation</name>
+      <uid>CHE-107.806.909</uid>
+      <uidOrganisationId>107806909</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03540093426</code13>
+      <seat>Bern</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Münstergasse</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Handel mit Kunstgegenständen aller Art sowie Betrieb einer Galerie.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Galerie Krebs GmbH in Liquidation</name>
+      <uid>CHE-107.806.909</uid>
+      <uidOrganisationId>107806909</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03540093426</code13>
+      <seat>Bern</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Münstergasse</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Handel mit Kunstgegenständen aller Art sowie Betrieb einer Galerie.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-24</lastFoscDate>
+    <lastFoscNumber>249</lastFoscNumber>
+    <lastFoscSequence>1004792022</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
