@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>d20d2105-d982-42b5-9693-703b6a5aab77</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004828504</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Kewa-Rad Walter Keller, Endingen</de>
+    <en>Change Kewa-Rad Walter Keller, Endingen</en>
+    <it>Cambiamenti Kewa-Rad Walter Keller, Endingen</it>
+    <fr>Mutation Kewa-Rad Walter Keller, Endingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1633</journalNumber>
+  <journalDate>2020-02-07</journalDate>
+  <publicationText>Kewa-Rad Walter Keller, in Endingen, CHE-105.990.392, Einzelunternehmen (SHAB Nr. 26 vom 07.02.2020, Publ. 1004825321). Mit Verfügung des Gerichtspräsidiums Zurzach vom 05.02.2020 wurde die Konkurseröffnung aufgehoben. Infolgedessen besteht die Firma entsprechend den früheren Eintragungen weiter. [bisher: Mit Verfügung des Gerichtspräsidiums Zurzach vom 31.01.2020 ist über den Inhaber dieses Einzelunternehmens mit Wirkung ab dem 31.01.2020, 10.55 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kewa-Rad Walter Keller</name>
+      <uid>CHE-105.990.392</uid>
+      <uidOrganisationId>105990392</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40010097548</code13>
+      <seat>Endingen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Winkelstrasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>5304</swissZipCode>
+        <town>Endingen</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Reparatur von Zweirad-Fahrzeugen, Handel mit Sportbeklei-dung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kewa-Rad Walter Keller</name>
+      <uid>CHE-105.990.392</uid>
+      <uidOrganisationId>105990392</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40010097548</code13>
+      <seat>Endingen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Winkelstrasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>5304</swissZipCode>
+        <town>Endingen</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Reparatur von Zweirad-Fahrzeugen, Handel mit Sportbeklei-dung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-07</lastFoscDate>
+    <lastFoscNumber>26</lastFoscNumber>
+    <lastFoscSequence>1004825321</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>cbf3be7a-927d-4f96-9054-6fd8b8e350f7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004840631</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Valotel SA, Morges</de>
+    <en>Change Valotel SA, Morges</en>
+    <it>Cambiamenti Valotel SA, Morges</it>
+    <fr>Mutation Valotel SA, Morges</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3822</journalNumber>
+  <journalDate>2020-02-24</journalDate>
+  <publicationText>Valotel SA, à Morges, CHE-106.023.543 (FOSC du 02.10.2019, p. 0/1004728755). Rectificatif: l'inscription n° 15393 du 26.08.2019 (FOSC du 29.08.2019, p. 0/1004705523) est rectifée en ce sens que Treyvaud François et Vitali Lorenzo signent collectivement à deux, toutefois avec Fornerod Arjun Aaron, Hiltermann Sophie (et non Hitermann Sophie comme publié) ou Buchs Jean-Bernard.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Valotel SA</name>
+      <uid>CHE-106.023.543</uid>
+      <uidOrganisationId>106023543</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630020871</code13>
+      <seat>Morges</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Investis Properties SA</addressLine1>
+        <addressLine2>OurPlace</addressLine2>
+        <street>Rue de Lausanne</street>
+        <houseNumber>35 A</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>achat, construction, exploitation, mise en valeur, gérance et vente d'immeubles et de droits immobiliers; toutes autres opérations immobilières, financières et commerciales convergentes</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Valotel SA</name>
+      <uid>CHE-106.023.543</uid>
+      <uidOrganisationId>106023543</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630020871</code13>
+      <seat>Morges</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Investis Properties SA</addressLine1>
+        <addressLine2>OurPlace</addressLine2>
+        <street>Rue de Lausanne</street>
+        <houseNumber>35 A</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>achat, construction, exploitation, mise en valeur, gérance et vente d'immeubles et de droits immobiliers; toutes autres opérations immobilières, financières et commerciales convergentes</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-02</lastFoscDate>
+    <lastFoscNumber>190</lastFoscNumber>
+    <lastFoscSequence>1004728755</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
