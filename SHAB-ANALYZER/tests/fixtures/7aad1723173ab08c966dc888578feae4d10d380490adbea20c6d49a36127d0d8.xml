@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>5b10600a-f5d9-488d-97be-ddf2fdc20b02</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004816956</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation D-Bee SA, Murten</de>
+    <en>Change D-Bee SA, Murten</en>
+    <it>Cambiamenti D-Bee SA, Murten</it>
+    <fr>Mutation D-Bee SA, Murten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>695</journalNumber>
+  <journalDate>2020-01-24</journalDate>
+  <publicationText>D-Bee SA, in Murten, CHE-106.139.200 (SHAB vom 19.12.2013, s. 0/7225828). Vollständige Adresse: Beaulieu 11, 3280 Murten. Neue andere Adresse: Chemin du Village 20, 3280 Meyriez.</publicationText>
+  <commonsNew>
+    <company>
+      <name>D-Bee SA</name>
+      <uid>CHE-106.139.200</uid>
+      <uidOrganisationId>106139200</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705303358</code13>
+      <seat>Murten</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Beaulieu</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Entwicklung, Produktion und Vertrieb inklusive Schulung von elektronischen (Hard- u. Software) sowie elektromechanischen Systemen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Zurkinden Treuhand</name>
+        <country>CH</country>
+        <uid>CHE108257804</uid>
+        <uidOrganisationId>108257804</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>D-Bee SA</name>
+      <uid>CHE-106.139.200</uid>
+      <uidOrganisationId>106139200</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705303358</code13>
+      <seat>Murten</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Beaulieu</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Entwicklung, Produktion und Vertrieb inklusive Schulung von elektronischen (Hard- u. Software) sowie elektromechanischen Systemen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Zurkinden Treuhand</name>
+        <country>CH</country>
+        <uid>CHE108257804</uid>
+        <uidOrganisationId>108257804</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

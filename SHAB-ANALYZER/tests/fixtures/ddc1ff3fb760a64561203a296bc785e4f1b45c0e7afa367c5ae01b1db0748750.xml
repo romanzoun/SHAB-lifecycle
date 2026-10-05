@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>69e885fd-98e3-4ea9-a247-7405c60a47a9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004798978</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation BISCIONE 22 SA, Genève</de>
+    <en>Change BISCIONE 22 SA, Genève</en>
+    <it>Cambiamenti BISCIONE 22 SA, Genève</it>
+    <fr>Mutation BISCIONE 22 SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>160</journalNumber>
+  <journalDate>2020-01-03</journalDate>
+  <publicationText>BISCIONE 22 SA, à Genève, CHE-213.117.256 (FOSC du 29.11.2019, p. 0/1004771653). Administrsation: Piras Cardona Patrick, nommé président, et Pederzini Cristian, d'Italie, à Valsamoggia, I, vice-président, lesquels signent individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>BISCIONE 22 SA</name>
+      <uid>CHE-213.117.256</uid>
+      <uidOrganisationId>213117256</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66036400198</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Pedro-Meylan</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>conseils dans le domaine de l'agroalimentaire (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BISCIONE 22 SA</name>
+      <uid>CHE-213.117.256</uid>
+      <uidOrganisationId>213117256</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66036400198</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Pedro-Meylan</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>conseils dans le domaine de l'agroalimentaire (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-29</lastFoscDate>
+    <lastFoscNumber>232</lastFoscNumber>
+    <lastFoscSequence>1004771653</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

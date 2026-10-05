@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>64d56761-6f1f-4c5c-8af7-219cf82eaaee</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004798106</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Lavage des Bergerettes SA, Villaz-Saint-Pierre, neu Villaz</de>
+    <en>Change Lavage des Bergerettes SA, Villaz-Saint-Pierre, new Villaz</en>
+    <it>Cambiamenti Lavage des Bergerettes SA, Villaz-Saint-Pierre, nuovo Villaz</it>
+    <fr>Mutation Lavage des Bergerettes SA, Villaz-Saint-Pierre, nouveau Villaz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>55</journalNumber>
+  <journalDate>2020-01-03</journalDate>
+  <publicationText>Lavage des Bergerettes SA, à Villaz-Saint-Pierre, CHE-168.429.368 (FOSC du 04.10.2018, p. 0/1004469240). Inscription d'office par suite de la fusion des communes de La Folliaz et Villaz-Saint-Pierre entrée en vigueur le 01.01.2020. Nouvelle dénomination du siège: Villaz.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Lavage des Bergerettes SA</name>
+      <uid>CHE-168.429.368</uid>
+      <uidOrganisationId>168429368</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735476461</code13>
+      <seat>Villaz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Gare</street>
+        <houseNumber>60</houseNumber>
+        <swissZipCode>1690</swissZipCode>
+        <town>Villaz-St-Pierre</town>
+      </address>
+    </company>
+    <purpose>Exploitation d'une installation de lavage automobile. La société peut notamment constituer des filiales en Suisse et à l'étranger et participer à d'autres entreprises en Suisse et à l'étranger. La société peut acquérir, détenir et aliéner des immeubles. La société peut exercer toutes les activités commerciales, financières et autres en rapport avec son but.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Lavage des Bergerettes SA</name>
+      <uid>CHE-168.429.368</uid>
+      <uidOrganisationId>168429368</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735476461</code13>
+      <seat>Villaz-Saint-Pierre</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Gare</street>
+        <houseNumber>60</houseNumber>
+        <swissZipCode>1690</swissZipCode>
+        <town>Villaz-St-Pierre</town>
+      </address>
+    </company>
+    <purpose>Exploitation d'une installation de lavage automobile. La société peut notamment constituer des filiales en Suisse et à l'étranger et participer à d'autres entreprises en Suisse et à l'étranger. La société peut acquérir, détenir et aliéner des immeubles. La société peut exercer toutes les activités commerciales, financières et autres en rapport avec son but.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-04</lastFoscDate>
+    <lastFoscNumber>192</lastFoscNumber>
+    <lastFoscSequence>1004469240</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

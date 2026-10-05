@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>64c515b9-bd67-4401-91d0-4e5c76a1b7c6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004807759</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Fondation d'Amman-Philippossian, Fribourg</de>
+    <en>Change Fondation d'Amman-Philippossian, Fribourg</en>
+    <it>Cambiamenti Fondation d'Amman-Philippossian, Fribourg</it>
+    <fr>Mutation Fondation d'Amman-Philippossian, Fribourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>438</journalNumber>
+  <journalDate>2020-01-14</journalDate>
+  <publicationText>Fondation d'Amman-Philippossian, à Fribourg, CHE-109.836.100 (SHAB vom 25.10.2016, s. 0/3125685). Fiduciaire Daniel Heiz SA (CHE-106.397.400) n'est plus organe de révision. Nouvel organe de révision: GF Audit SA, succursale d'Yverdon les Bains (CHE-396.702.286), à Yverdon-les-Bains.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation d'Amman-Philippossian</name>
+      <uid>CHE-109.836.100</uid>
+      <uidOrganisationId>109836100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701703522</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard de Pérolles</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>apporter une assistance financière dans leurs activités aux personnes privées, religieuses ou laïques, exerçant sur le front dans le tiers monde ou d'autres régions démunies du monde, des activités caritatives. Ce soutien sera apporté de préférence aux personnes privées, religieuses ou laïques, exerçant ces activités, qui sont d'origine fribourgeoise ainsi qu'à celles exerçant leurs activités en Arménie. La fondation ne poursuit aucun but lucratif.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>GF Audit SA, succursale d'Yverdon les Bains</name>
+        <country>CH</country>
+        <uid>CHE396702286</uid>
+        <uidOrganisationId>396702286</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation d'Amman-Philippossian</name>
+      <uid>CHE-109.836.100</uid>
+      <uidOrganisationId>109836100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701703522</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard de Pérolles</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>apporter une assistance financière dans leurs activités aux personnes privées, religieuses ou laïques, exerçant sur le front dans le tiers monde ou d'autres régions démunies du monde, des activités caritatives. Ce soutien sera apporté de préférence aux personnes privées, religieuses ou laïques, exerçant ces activités, qui sont d'origine fribourgeoise ainsi qu'à celles exerçant leurs activités en Arménie. La fondation ne poursuit aucun but lucratif.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-10-25</lastFoscDate>
+    <lastFoscNumber>207</lastFoscNumber>
+    <lastFoscSequence>3125685</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
