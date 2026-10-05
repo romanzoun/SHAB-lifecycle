@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>99b4bf84-8384-4257-a77e-5cc43df8f02c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004829386</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Ferreira Martins Menuiserie, Prez</de>
+    <en>Change Ferreira Martins Menuiserie, Prez</en>
+    <it>Cambiamenti Ferreira Martins Menuiserie, Prez</it>
+    <fr>Mutation Ferreira Martins Menuiserie, Prez</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1068</journalNumber>
+  <journalDate>2020-02-10</journalDate>
+  <publicationText>Ferreira Martins Menuiserie, à Prez, CHE-238.718.383 (FOSC du 28.01.2020, p. 0/1004815825). Par arrêt du 07.02.2020, le Tribunal cantonal de Fribourg a accordé l'effet suspensif au recours interjeté le 03.02.2020 contre la décision du 20.01.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Ferreira Martins Menuiserie</name>
+      <uid>CHE-238.718.383</uid>
+      <uidOrganisationId>238718383</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735578364</code13>
+      <seat>Prez</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin St-Jacques</street>
+        <houseNumber>35</houseNumber>
+        <swissZipCode>1757</swissZipCode>
+        <town>Noréaz</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une menuiserie, prestation de service et rénovation.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Ferreira Martins Menuiserie</name>
+      <uid>CHE-238.718.383</uid>
+      <uidOrganisationId>238718383</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735578364</code13>
+      <seat>Prez</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin St-Jacques</street>
+        <houseNumber>35</houseNumber>
+        <swissZipCode>1757</swissZipCode>
+        <town>Noréaz</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une menuiserie, prestation de service et rénovation.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-28</lastFoscDate>
+    <lastFoscNumber>18</lastFoscNumber>
+    <lastFoscSequence>1004815825</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>9837549e-6206-4156-89de-0823acc5e3f7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004827720</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Edmond de Rothschild (Suisse) S.A., Genève</de>
+    <en>Change Edmond de Rothschild (Suisse) S.A., Genève</en>
+    <it>Cambiamenti Edmond de Rothschild (Suisse) S.A., Genève</it>
+    <fr>Mutation Edmond de Rothschild (Suisse) S.A., Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2660</journalNumber>
+  <journalDate>2020-02-06</journalDate>
+  <publicationText>Edmond de Rothschild (Suisse) S.A., à Genève, CHE-105.978.847 (FOSC du 30.01.2020, p. 0/1004818753). L'inscription no 9671 du 28.05.2018 est rectifiée en ce sens que par suite de changement d'état civil, Baumann Clara porte désormais le nom de Baumann ép. Rouillat Clara (et non pas procuration collective à deux a été conférée à Baumann ép. Rouillat Clara). L'inscription no 375 du 04.01.2018 est rectifiée en ce sens qu'une signature collective à deux a été conférée à Bérenger Bobb (et non pas Bobb Bérenger).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Edmond de Rothschild (Suisse) S.A.</name>
+      <uid>CHE-105.978.847</uid>
+      <uidOrganisationId>105978847</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000119243</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Hesse</street>
+        <houseNumber>18</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque. La banque exerce principalement son activité en Suisse et également dans le rayon d'action de ses succursales étrangères.</purpose>
+    <capital>
+      <nominal>58693500.00</nominal>
+      <paid>58693500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Edmond de Rothschild (Suisse) S.A.</name>
+      <uid>CHE-105.978.847</uid>
+      <uidOrganisationId>105978847</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000119243</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Hesse</street>
+        <houseNumber>18</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque. La banque exerce principalement son activité en Suisse et également dans le rayon d'action de ses succursales étrangères.</purpose>
+    <capital>
+      <nominal>58693500.00</nominal>
+      <paid>58693500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-30</lastFoscDate>
+    <lastFoscNumber>20</lastFoscNumber>
+    <lastFoscSequence>1004818753</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
