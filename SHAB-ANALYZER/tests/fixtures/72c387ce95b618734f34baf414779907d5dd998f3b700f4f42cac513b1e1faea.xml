@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>c4dfb9f1-6609-4938-b906-a8414452cc05</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004819861</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Cercle diplomatique de Genève, Genève</de>
+    <en>Change Cercle diplomatique de Genève, Genève</en>
+    <it>Cambiamenti Cercle diplomatique de Genève, Genève</it>
+    <fr>Mutation Cercle diplomatique de Genève, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1895</journalNumber>
+  <journalDate>2020-01-28</journalDate>
+  <publicationText>Cercle diplomatique de Genève, à Genève, CHE-152.971.526 (FOSC du 30.12.2019, p. 0/1004795947). Les membres du comité exécutif Blum Robert F. et Blum Monique, signent désormais individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cercle diplomatique de Genève</name>
+      <uid>CHE-152.971.526</uid>
+      <uidOrganisationId>152971526</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008330139</code13>
+      <seat>Genève</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard Helvétique</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>être le lien privilégié entre les diplomates et la société civile, permettre le dialogue sans aucune discrimination, renforcer les liens entre les différentes civilisations, contribuer à la paix dans le monde, favoriser les échanges culturels, inciter les rencontres entre les autorités politiques et la société civile, mettre à disposition de ses membres un office de conciliation en cas de différend (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cercle diplomatique de Genève</name>
+      <uid>CHE-152.971.526</uid>
+      <uidOrganisationId>152971526</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008330139</code13>
+      <seat>Genève</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>boulevard Helvétique</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>être le lien privilégié entre les diplomates et la société civile, permettre le dialogue sans aucune discrimination, renforcer les liens entre les différentes civilisations, contribuer à la paix dans le monde, favoriser les échanges culturels, inciter les rencontres entre les autorités politiques et la société civile, mettre à disposition de ses membres un office de conciliation en cas de différend (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-30</lastFoscDate>
+    <lastFoscNumber>251</lastFoscNumber>
+    <lastFoscSequence>1004795947</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

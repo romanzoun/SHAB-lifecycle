@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>bde28af7-4e68-4be3-882b-9e8271190e6a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004810860</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Genossenschaft Alterssiedlung Wetzikon, Wetzikon (ZH)</de>
+    <en>Change Genossenschaft Alterssiedlung Wetzikon, Wetzikon (ZH)</en>
+    <it>Cambiamenti Genossenschaft Alterssiedlung Wetzikon, Wetzikon (ZH)</it>
+    <fr>Mutation Genossenschaft Alterssiedlung Wetzikon, Wetzikon (ZH)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2866</journalNumber>
+  <journalDate>2020-01-17</journalDate>
+  <publicationText>Genossenschaft Alterssiedlung Wetzikon, in Wetzikon (ZH), CHE-105.895.894, Genossenschaft (SHAB Nr. 241 vom 12.12.2019, Publ. 1004781174). Statutenänderung: 25.05.2018. Anteilscheine neu: CHF 500.00 [bisher: CHF 100.--].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Genossenschaft Alterssiedlung Wetzikon</name>
+      <uid>CHE-105.895.894</uid>
+      <uidOrganisationId>105895894</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02059005064</code13>
+      <seat>Wetzikon (ZH)</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>256</houseNumber>
+        <swissZipCode>8623</swissZipCode>
+        <town>Wetzikon ZH</town>
+      </address>
+    </company>
+    <purpose>Die Genossenschaft ist politisch und konfessionell neutral und erstrebt keinen Gewinn. Sie bezweckt, in gemeinnütziger Weise betagten Einwohnern von Wetzikon und Seegräben preiswerte Kleinwohnungen zu verschaffen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Genossenschaft Alterssiedlung Wetzikon</name>
+      <uid>CHE-105.895.894</uid>
+      <uidOrganisationId>105895894</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02059005064</code13>
+      <seat>Wetzikon (ZH)</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>256</houseNumber>
+        <swissZipCode>8623</swissZipCode>
+        <town>Wetzikon ZH</town>
+      </address>
+    </company>
+    <purpose>Die Genossenschaft ist politisch und konfessionell neutral und erstrebt keinen Gewinn. Sie bezweckt, in gemeinnütziger Weise betagten Einwohnern von Wetzikon und Seegräben preiswerte Kleinwohnungen zu verschaffen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-12</lastFoscDate>
+    <lastFoscNumber>241</lastFoscNumber>
+    <lastFoscSequence>1004781174</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

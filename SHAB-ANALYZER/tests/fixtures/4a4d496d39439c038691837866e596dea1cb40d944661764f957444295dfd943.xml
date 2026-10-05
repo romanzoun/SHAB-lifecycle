@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>c88eb41f-450e-4a69-9cf8-db367860559a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004815588</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Elite Mauerwerk und Schalungs AG, Bern, neu Elite Mauerwerk und Schalungs AG in Liquidation</de>
+    <en>Change Elite Mauerwerk und Schalungs AG, Bern, new Elite Mauerwerk und Schalungs AG in Liquidation</en>
+    <it>Cambiamenti Elite Mauerwerk und Schalungs AG, Bern, nuovo Elite Mauerwerk und Schalungs AG in Liquidation</it>
+    <fr>Mutation Elite Mauerwerk und Schalungs AG, Bern, nouveau Elite Mauerwerk und Schalungs AG in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1333</journalNumber>
+  <journalDate>2020-01-23</journalDate>
+  <publicationText>Elite Mauerwerk und Schalungs AG, in Bern, CHE-444.795.128, schweizerische Zweigniederlassung (SHAB Nr. 65 vom 05.04.2018, Publ. 4151419), Hauptsitz in: Luzern. Firma neu: Elite Mauerwerk und Schalungs AG in Liquidation. Firma Hauptsitz neu: Elite Mauerwerk und Schalungs AG in Liquidation [bisher: Elite Mauerwerk und Schalungs AG]. Bemerkungen zum Hauptsitz neu: Mit Entscheid des Einzelrichters des Bezirksgerichts Luzern, Abteilung 3, vom 15.01.2020 ist über den Hauptsitz mit Wirkung ab dem 15.01.2020, 14.30 Uhr, der Konkurs eröffnet worden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Elite Mauerwerk und Schalungs AG in Liquidation</name>
+      <uid>CHE-444.795.128</uid>
+      <uidOrganisationId>444795128</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03690736060</code13>
+      <seat>Bern</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Spitalgasse</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Elite Mauerwerk und Schalungs AG in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE-112.699.080</uid>
+      <uidOrganisationId>112699080</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Elite Mauerwerk und Schalungs AG</name>
+      <uid>CHE-444.795.128</uid>
+      <uidOrganisationId>444795128</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03690736060</code13>
+      <seat>Bern</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Spitalgasse</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Elite Mauerwerk und Schalungs AG in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE-112.699.080</uid>
+      <uidOrganisationId>112699080</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-05</lastFoscDate>
+    <lastFoscNumber>65</lastFoscNumber>
+    <lastFoscSequence>4151419</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
