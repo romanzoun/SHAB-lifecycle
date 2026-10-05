@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>924d561b-d9bd-4b51-9238-ab29ba87d3fe</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004805758</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation de l'Ecole Pestalozzi, Echichens</de>
+    <en>Change Fondation de l'Ecole Pestalozzi, Echichens</en>
+    <it>Cambiamenti Fondation de l'Ecole Pestalozzi, Echichens</it>
+    <fr>Mutation Fondation de l'Ecole Pestalozzi, Echichens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>686</journalNumber>
+  <journalDate>2020-01-10</journalDate>
+  <publicationText>Fondation de l'Ecole Pestalozzi, à Echichens, CHE-160.140.616 (FOSC du 21.11.2017, p. 0/3882925). Nouveaux membres du conseil de fondation avec signature collective à deux: Crausaz Jean Paul, de Lutry, au Mont-sur-Lausanne, Reymond Mireille, de L'Abbaye, à Epalinges, Rouyet Dominique, de Carouge (GE), à Lausanne, et Vermot-Petit-Outhenin Nicolas Pierre, du Cerneux-Péquignot, à L'Isle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation de l'Ecole Pestalozzi</name>
+      <uid>CHE-160.140.616</uid>
+      <uidOrganisationId>160140616</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010958183</code13>
+      <seat>Echichens</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin Pestalozzi</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1112</swissZipCode>
+        <town>Echichens</town>
+      </address>
+    </company>
+    <purpose>la fondation a pour but de prendre en charge des enfants et adolescents qui souffrent de difficultés d'adaptation à la vie scolaire, familiale ou sociale (pour but complet cf. acte de fondation)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation de l'Ecole Pestalozzi</name>
+      <uid>CHE-160.140.616</uid>
+      <uidOrganisationId>160140616</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010958183</code13>
+      <seat>Echichens</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin Pestalozzi</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1112</swissZipCode>
+        <town>Echichens</town>
+      </address>
+    </company>
+    <purpose>la fondation a pour but de prendre en charge des enfants et adolescents qui souffrent de difficultés d'adaptation à la vie scolaire, familiale ou sociale (pour but complet cf. acte de fondation)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-21</lastFoscDate>
+    <lastFoscNumber>226</lastFoscNumber>
+    <lastFoscSequence>3882925</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
