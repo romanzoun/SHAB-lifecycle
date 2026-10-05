@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>6e236c4a-718b-4597-b30f-0d439f0e2e36</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004854892</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation TruckF. Sàrl, Anières</de>
+    <en>Change TruckF. Sàrl, Anières</en>
+    <it>Cambiamenti TruckF. Sàrl, Anières</it>
+    <fr>Mutation TruckF. Sàrl, Anières</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5241</journalNumber>
+  <journalDate>2020-03-12</journalDate>
+  <publicationText>TruckF. Sàrl, à Anières, CHE-278.215.409 (FOSC du 29.09.2017, p. 0/3781629). Par suite de cession de 35 parts de CHF 200, Legras Inès est maintenant associée pour 35 parts de CHF 200, et Legras Claude, de France, à Genève, nouvel associé pour 35 parts de CHF 200. Nouveau gérant: l'associé Legras Claude avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>TruckF. Sàrl</name>
+      <uid>CHE-278.215.409</uid>
+      <uidOrganisationId>278215409</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66051440156</code13>
+      <seat>Anières</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route d'Hermance</street>
+        <houseNumber>287</houseNumber>
+        <swissZipCode>1247</swissZipCode>
+        <town>Anières</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un restaurant ambulant (truck), service traiteur, organisation de banquets, ainsi que toute activité en rapport avec la restauration en général (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TruckF. Sàrl</name>
+      <uid>CHE-278.215.409</uid>
+      <uidOrganisationId>278215409</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66051440156</code13>
+      <seat>Anières</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route d'Hermance</street>
+        <houseNumber>287</houseNumber>
+        <swissZipCode>1247</swissZipCode>
+        <town>Anières</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un restaurant ambulant (truck), service traiteur, organisation de banquets, ainsi que toute activité en rapport avec la restauration en général (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-09-29</lastFoscDate>
+    <lastFoscNumber>189</lastFoscNumber>
+    <lastFoscSequence>3781629</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

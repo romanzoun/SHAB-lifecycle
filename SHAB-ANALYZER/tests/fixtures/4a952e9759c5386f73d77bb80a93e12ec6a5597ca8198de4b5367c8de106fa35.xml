@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>6aedf5be-6dbb-49d7-9487-5192ab51eda6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004859248</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Alpian SA, Carouge (GE)</de>
+    <en>Change Alpian SA, Carouge (GE)</en>
+    <it>Cambiamenti Alpian SA, Carouge (GE)</it>
+    <fr>Mutation Alpian SA, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5657</journalNumber>
+  <journalDate>2020-03-19</journalDate>
+  <publicationText>Alpian SA, à Carouge (GE), CHE-469.335.062 (FOSC du 19.03.2020, p. 0/1004856930). L'inscription no 5425 du 16.03.2020 est rectifiée en ce sens que le nouveau capital-actions de CHF 140'770 est formé de 14'077 actions de CHF 10 (et non de 14'770 actions de CHF 10).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Alpian SA</name>
+      <translations>(Alpian Ltd) (Alpian AG) (Alpian SA)</translations>
+      <uid>CHE-469.335.062</uid>
+      <uidOrganisationId>469335062</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66031070192</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jeunes</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>de fournir des services dans le domaine financier, notamment grâce à l'utilisation de systèmes électroniques, ainsi que dans le domaine informatique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>140770.00</nominal>
+      <paid>140770.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Alpian SA</name>
+      <translations>(Alpian Ltd) (Alpian AG) (Alpian SA)</translations>
+      <uid>CHE-469.335.062</uid>
+      <uidOrganisationId>469335062</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66031070192</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jeunes</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>de fournir des services dans le domaine financier, notamment grâce à l'utilisation de systèmes électroniques, ainsi que dans le domaine informatique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>140770.00</nominal>
+      <paid>140770.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-19</lastFoscDate>
+    <lastFoscNumber>55</lastFoscNumber>
+    <lastFoscSequence>1004856930</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

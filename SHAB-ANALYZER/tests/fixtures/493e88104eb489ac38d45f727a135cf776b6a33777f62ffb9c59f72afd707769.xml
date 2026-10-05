@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>6423579e-ed14-4a69-83f1-82209d9b433f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004850179</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Les Jardins de la Fontaine SA, Saint-George, neu Les Jardins de la Fontaine SA en liquidation</de>
+    <en>Change Les Jardins de la Fontaine SA, Saint-George, new Les Jardins de la Fontaine SA en liquidation</en>
+    <it>Cambiamenti Les Jardins de la Fontaine SA, Saint-George, nuovo Les Jardins de la Fontaine SA en liquidation</it>
+    <fr>Mutation Les Jardins de la Fontaine SA, Saint-George, nouveau Les Jardins de la Fontaine SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4645</journalNumber>
+  <journalDate>2020-03-06</journalDate>
+  <publicationText>Les Jardins de la Fontaine SA, à Saint-George, CHE-330.925.737 (FOSC du 11.07.2014, p. 0/1609723). Selon décision de son assemblée générale du 4 mars 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Les Jardins de la Fontaine SA en liquidation. Les administrateurs Büschi Philippe et Carrupt Silas, qui est désormais à Chamoson, sont nommés liquidateurs avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Les Jardins de la Fontaine SA en liquidation</name>
+      <uid>CHE-330.925.737</uid>
+      <uidOrganisationId>330925737</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011283654</code13>
+      <seat>Saint-George</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Ihab Zogib</addressLine1>
+        <street>Chemin de la Roche-du-Ciel</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1188</swissZipCode>
+        <town>St-George</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'achat, la vente, l'expertise, le courtage, la promotion, la construction et la gérance en matière mobilière et immobilière sur le territoire suisse, dans les limites de la Loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger; la prise de participations à des entreprises commerciales, financières, industrielles et autres, en particulier dans le secteur de l'immobilier (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Les Jardins de la Fontaine SA</name>
+      <uid>CHE-330.925.737</uid>
+      <uidOrganisationId>330925737</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011283654</code13>
+      <seat>Saint-George</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Ihab Zogib</addressLine1>
+        <street>Chemin de la Roche-du-Ciel</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1188</swissZipCode>
+        <town>St-George</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'achat, la vente, l'expertise, le courtage, la promotion, la construction et la gérance en matière mobilière et immobilière sur le territoire suisse, dans les limites de la Loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger; la prise de participations à des entreprises commerciales, financières, industrielles et autres, en particulier dans le secteur de l'immobilier (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-07-11</lastFoscDate>
+    <lastFoscNumber>132</lastFoscNumber>
+    <lastFoscSequence>1609723</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
