@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>13f2844d-acb5-40f4-87b9-1ce5073e0c5c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004848025</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SOFIDIM SA, Lausanne, neu SOFIDIM SA, en liquidation</de>
+    <en>Change SOFIDIM SA, Lausanne, new SOFIDIM SA, en liquidation</en>
+    <it>Cambiamenti SOFIDIM SA, Lausanne, nuovo SOFIDIM SA, en liquidation</it>
+    <fr>Mutation SOFIDIM SA, Lausanne, nouveau SOFIDIM SA, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4451</journalNumber>
+  <journalDate>2020-03-04</journalDate>
+  <publicationText>SOFIDIM SA, à Lausanne, CHE-451.259.510 (FOSC du 26.08.2015, p. 0/2340053). Selon décision de son assemblée générale du 18 février 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: SOFIDIM SA, en liquidation. Les 100 actions nominatives de CHF 1'000 formant l'entier du capital-actions ne sont plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO). Les administrateurs Fragnière Olivier et Wurlod Daniel, dont la signature est radiée, sont nommés liquidateurs avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SOFIDIM SA, en liquidation</name>
+      <uid>CHE-451.259.510</uid>
+      <uidOrganisationId>451259510</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010867789</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Benjamin-Constant</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>toutes opérations immobilières hormis celles prohibées par la loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SOFIDIM SA</name>
+      <uid>CHE-451.259.510</uid>
+      <uidOrganisationId>451259510</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010867789</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Benjamin-Constant</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>toutes opérations immobilières hormis celles prohibées par la loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-08-26</lastFoscDate>
+    <lastFoscNumber>164</lastFoscNumber>
+    <lastFoscSequence>2340053</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

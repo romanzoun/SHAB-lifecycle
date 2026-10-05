@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>00f4cb88-dbbe-4d92-94e5-b24078b62266</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004844997</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation UNION BANCAIRE PRIVEE, UBP SA, Genève</de>
+    <en>Change UNION BANCAIRE PRIVEE, UBP SA, Genève</en>
+    <it>Cambiamenti UNION BANCAIRE PRIVEE, UBP SA, Genève</it>
+    <fr>Mutation UNION BANCAIRE PRIVEE, UBP SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4340</journalNumber>
+  <journalDate>2020-02-28</journalDate>
+  <publicationText>UNION BANCAIRE PRIVEE, UBP SA, à Genève, CHE-105.923.869 (FOSC du 19.02.2020, p. 0/1004834427). Radiation de la mention relative à l'exploitation d'autres établissements à Zurich, Gartenstrasse 14-16 et à Lugano, viale S. Franscini 5. Nouveau numéro d'identification des succursales à Bâle (CHE-375.271.435), Lugano (CHE-198.712.283), et Zurich (CHE-195.381.876).</publicationText>
+  <commonsNew>
+    <company>
+      <name>UNION BANCAIRE PRIVEE, UBP SA</name>
+      <translations>(UNITED PRIVATE BANK, UBP LTD)</translations>
+      <uid>CHE-105.923.869</uid>
+      <uidOrganisationId>105923869</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000719561</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Rhône 96-98</street>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque ainsi qu'exercice d'une activité de négociant en valeurs mobilières, de même que représentation et distribution de placements collectifs de capitaux étrangers et distribution de placements collectifs de capitaux (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>300000000.00</nominal>
+      <paid>300000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>UNION BANCAIRE PRIVEE, UBP SA</name>
+      <translations>(UNITED PRIVATE BANK, UBP LTD)</translations>
+      <uid>CHE-105.923.869</uid>
+      <uidOrganisationId>105923869</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000719561</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Rhône 96-98</street>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque ainsi qu'exercice d'une activité de négociant en valeurs mobilières, de même que représentation et distribution de placements collectifs de capitaux étrangers et distribution de placements collectifs de capitaux (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>300000000.00</nominal>
+      <paid>300000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-19</lastFoscDate>
+    <lastFoscNumber>34</lastFoscNumber>
+    <lastFoscSequence>1004834427</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

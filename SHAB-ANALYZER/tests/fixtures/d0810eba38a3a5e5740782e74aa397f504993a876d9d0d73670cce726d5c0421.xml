@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>05e727ab-34c6-4fb4-883a-675e491cd781</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004852464</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fusion Conseils Sàrl, Sullens</de>
+    <en>Change Fusion Conseils Sàrl, Sullens</en>
+    <it>Cambiamenti Fusion Conseils Sàrl, Sullens</it>
+    <fr>Mutation Fusion Conseils Sàrl, Sullens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4814</journalNumber>
+  <journalDate>2020-03-10</journalDate>
+  <publicationText>Fusion Conseils Sàrl, à Sullens, CHE-111.999.059 (FOSC du 13.08.2015, p. 0/2320267). Parenteau Olivier, Wirz Rolf, Wirz Stephan, lesquels ne sont plus associés et dont la signature est radiée, cèdent 34, respectivement 33, respectivement 33 parts de CHF 100 à l'associé-gérant Colombo Vincenzo, désormais titulaire de 200 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fusion Conseils Sàrl</name>
+      <uid>CHE-111.999.059</uid>
+      <uidOrganisationId>111999059</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66092310040</code13>
+      <seat>Sullens</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Mex</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1036</swissZipCode>
+        <town>Sullens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la prestation de tous services, la vente et le courtage de produits financiers, de produits d'assurance et d'objets immobiliers, ainsi que la prospection de clients dans tous les domaines, notamment par télémarketing (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fusion Conseils Sàrl</name>
+      <uid>CHE-111.999.059</uid>
+      <uidOrganisationId>111999059</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66092310040</code13>
+      <seat>Sullens</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Mex</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1036</swissZipCode>
+        <town>Sullens</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la prestation de tous services, la vente et le courtage de produits financiers, de produits d'assurance et d'objets immobiliers, ainsi que la prospection de clients dans tous les domaines, notamment par télémarketing (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-08-13</lastFoscDate>
+    <lastFoscNumber>155</lastFoscNumber>
+    <lastFoscSequence>2320267</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
