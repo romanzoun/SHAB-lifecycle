@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>36848ead-7e09-4c5a-9c80-b7ed1f3de6d5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004828773</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation PRO MDC SERVICES SA, Satigny</de>
+    <en>Change PRO MDC SERVICES SA, Satigny</en>
+    <it>Cambiamenti PRO MDC SERVICES SA, Satigny</it>
+    <fr>Mutation PRO MDC SERVICES SA, Satigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2826</journalNumber>
+  <journalDate>2020-02-07</journalDate>
+  <publicationText>PRO MDC SERVICES SA, à Satigny, CHE-115.517.264 (FOSC du 24.01.2020, p. 0/1004814117). L'inscription N°1366 du 21.01.2020 a été rectifiée comme suit : Communication aux actionnaires: par n'importe quel moyen de transmission écrit ou imprimable (par ex. courrier écrit, télécopie, courrier électronique).</publicationText>
+  <commonsNew>
+    <company>
+      <name>PRO MDC SERVICES SA</name>
+      <uid>CHE-115.517.264</uid>
+      <uidOrganisationId>115517264</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007120105</code13>
+      <seat>Satigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Pré-Bouvier</street>
+        <houseNumber>27-29</houseNumber>
+        <swissZipCode>1242</swissZipCode>
+        <town>Satigny</town>
+      </address>
+    </company>
+    <purpose>toutes activités dans le domaine du bâtiment, notamment jardinage, aménagements extérieurs, peinture, parquets et tous autres travaux d'entretien et de rénovation (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PRO MDC SERVICES SA</name>
+      <uid>CHE-115.517.264</uid>
+      <uidOrganisationId>115517264</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007120105</code13>
+      <seat>Satigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Pré-Bouvier</street>
+        <houseNumber>27-29</houseNumber>
+        <swissZipCode>1242</swissZipCode>
+        <town>Satigny</town>
+      </address>
+    </company>
+    <purpose>toutes activités dans le domaine du bâtiment, notamment jardinage, aménagements extérieurs, peinture, parquets et tous autres travaux d'entretien et de rénovation (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-24</lastFoscDate>
+    <lastFoscNumber>16</lastFoscNumber>
+    <lastFoscSequence>1004814117</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
