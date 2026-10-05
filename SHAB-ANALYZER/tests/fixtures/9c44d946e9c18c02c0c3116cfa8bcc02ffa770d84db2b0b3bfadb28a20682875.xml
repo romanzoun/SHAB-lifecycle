@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>25b18252-119a-4bcc-be24-15b0b47863ae</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004836965</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Sitta Management AG in Liquidation, Luzern</de>
+    <en>Change Sitta Management AG in Liquidation, Luzern</en>
+    <it>Cambiamenti Sitta Management AG in Liquidation, Luzern</it>
+    <fr>Mutation Sitta Management AG in Liquidation, Luzern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1664</journalNumber>
+  <journalDate>2020-02-19</journalDate>
+  <publicationText>Sitta Management AG in Liquidation, in Luzern, CHE-185.608.363, Aktiengesellschaft (SHAB Nr. 11 vom 17.01.2020, Publ. 1004807598). Die Gesellschaft wurde irrtümlich gelöscht, obwohl die Voraussetzungen dafür nicht gegeben waren. Der Eintrag besteht entsprechend den bisherigen Tatsachen weiter. [bisher: Nachdem kein begründeter Einspruch gegen die Löschung erhoben wurde, wird die Gesellschaft im Sinne von Art. 159 Abs. 5 lit. a. HRegV von Amtes wegen gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Sitta Management AG in Liquidation</name>
+      <uid>CHE-185.608.363</uid>
+      <uidOrganisationId>185608363</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10038038654</code13>
+      <seat>Luzern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Immobiliengeschäfte aller Art, insbesondere Entwicklung, Erwerb, Verwaltung, Vermietung, Vermittlung und Veräusserung von Immobilien; Dienstleistungen in den Bereichen Unternehmensberatung, Treuhand und Finanzen, Schulungen, Research und Marktabklärungen; Handel mit Waren und Gütern sowie deren Im- und Export; Beteiligungen; Vornahme von Finanzierungen sowie Eingehung von Garantien und Bürgschaften für Tochtergesellschaften und Dritte.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Sitta Management AG in Liquidation</name>
+      <uid>CHE-185.608.363</uid>
+      <uidOrganisationId>185608363</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10038038654</code13>
+      <seat>Luzern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Immobiliengeschäfte aller Art, insbesondere Entwicklung, Erwerb, Verwaltung, Vermietung, Vermittlung und Veräusserung von Immobilien; Dienstleistungen in den Bereichen Unternehmensberatung, Treuhand und Finanzen, Schulungen, Research und Marktabklärungen; Handel mit Waren und Gütern sowie deren Im- und Export; Beteiligungen; Vornahme von Finanzierungen sowie Eingehung von Garantien und Bürgschaften für Tochtergesellschaften und Dritte.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-17</lastFoscDate>
+    <lastFoscNumber>11</lastFoscNumber>
+    <lastFoscSequence>1004807598</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

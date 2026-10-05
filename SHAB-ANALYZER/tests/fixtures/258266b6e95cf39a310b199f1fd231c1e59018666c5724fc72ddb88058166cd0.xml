@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>2b4b6ebc-e0c4-4232-9592-f377b6f79bbd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004825518</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation LS TRANSPORT MULTISERVICES L. Perey, Jorat-Menthue</de>
+    <en>Change LS TRANSPORT MULTISERVICES L. Perey, Jorat-Menthue</en>
+    <it>Cambiamenti LS TRANSPORT MULTISERVICES L. Perey, Jorat-Menthue</it>
+    <fr>Mutation LS TRANSPORT MULTISERVICES L. Perey, Jorat-Menthue</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2452</journalNumber>
+  <journalDate>2020-02-04</journalDate>
+  <publicationText>LS TRANSPORT MULTISERVICES L. Perey, à Jorat-Menthue, CHE-338.887.566 (FOSC du 08.05.2018, p. 0/4218163). Rectificatif: l'inscription no 8086 du 03.05.2018 (FOSC du 08.05.2018, p. 0/4218163) est rectifiée en ce sens que le titulaire se nomme Perey Lauric (et non Peret Lauric, comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>LS TRANSPORT MULTISERVICES L. Perey</name>
+      <uid>CHE-338.887.566</uid>
+      <uidOrganisationId>338887566</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011795428</code13>
+      <seat>Jorat-Menthue</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Montmeillan</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1059</swissZipCode>
+        <town>Peney-le-Jorat</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de transport de marchandises, ainsi que la prestation de services notamment dans le domaine du bâtiment.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LS TRANSPORT MULTISERVICES L. Perey</name>
+      <uid>CHE-338.887.566</uid>
+      <uidOrganisationId>338887566</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011795428</code13>
+      <seat>Jorat-Menthue</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Montmeillan</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1059</swissZipCode>
+        <town>Peney-le-Jorat</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de transport de marchandises, ainsi que la prestation de services notamment dans le domaine du bâtiment.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-08</lastFoscDate>
+    <lastFoscNumber>88</lastFoscNumber>
+    <lastFoscSequence>4218163</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
