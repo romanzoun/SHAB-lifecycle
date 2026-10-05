@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>dec96b01-aace-48a8-9026-4f3dfab4ff73</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004802985</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Swiss-OTC SA, Montreux, neu Swiss-OTC SA en liquidation</de>
+    <en>Change Swiss-OTC SA, Montreux, new Swiss-OTC SA en liquidation</en>
+    <it>Cambiamenti Swiss-OTC SA, Montreux, nuovo Swiss-OTC SA en liquidation</it>
+    <fr>Mutation Swiss-OTC SA, Montreux, nouveau Swiss-OTC SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>447</journalNumber>
+  <journalDate>2020-01-08</journalDate>
+  <publicationText>Swiss-OTC SA, à Montreux, CHE-193.154.358 (FOSC du 26.10.2018, p. 0/1004485197). Selon décision de son assemblée générale du 24 décembre 2019, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Swiss-OTC SA en liquidation. L'administrateur de Deugd Nicolaas est élu liquidateur avec signature individuelle. Les 100 actions nominatives de CHF 1'000, formant l'entier du capital-actions, ne sont plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Swiss-OTC SA en liquidation</name>
+      <uid>CHE-193.154.358</uid>
+      <uidOrganisationId>193154358</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011776654</code13>
+      <seat>Montreux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o VICORUS SA</addressLine1>
+        <street>rue Industrielle</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1820</swissZipCode>
+        <town>Montreux</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes opérations de courtage de contrats à terme sur les marchés financiers ("futures broker") (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Fiduciaire du Commerce et de l'Industrie S.A.</name>
+        <country>CH</country>
+        <uid>CHE107039239</uid>
+        <uidOrganisationId>107039239</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Swiss-OTC SA</name>
+      <uid>CHE-193.154.358</uid>
+      <uidOrganisationId>193154358</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011776654</code13>
+      <seat>Montreux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o VICORUS SA</addressLine1>
+        <street>rue Industrielle</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1820</swissZipCode>
+        <town>Montreux</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes opérations de courtage de contrats à terme sur les marchés financiers ("futures broker") (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-26</lastFoscDate>
+    <lastFoscNumber>208</lastFoscNumber>
+    <lastFoscSequence>1004485197</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
