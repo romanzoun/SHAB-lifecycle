@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>53fbb428-26af-4407-8e98-a3d11b283f51</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004823900</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Drogerie Chrütterhäx AG, Plaffeien</de>
+    <en>Change Drogerie Chrütterhäx AG, Plaffeien</en>
+    <it>Cambiamenti Drogerie Chrütterhäx AG, Plaffeien</it>
+    <fr>Mutation Drogerie Chrütterhäx AG, Plaffeien</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>912</journalNumber>
+  <journalDate>2020-02-03</journalDate>
+  <publicationText>Drogerie Chrütterhäx AG, in Plaffeien, CHE-108.001.920 (SHAB vom 22.12.2014, s. 0/1895131). Eingetragene Person geändert: Moser Patricia, Verwaltungsratsmitglied, Einzelunterschrift, nun mit dem Namen Spring Patricia, neu in Plaffeien.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Drogerie Chrütterhäx AG</name>
+      <uid>CHE-108.001.920</uid>
+      <uidOrganisationId>108001920</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706303081</code13>
+      <seat>Plaffeien</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1716</swissZipCode>
+        <town>Plaffeien</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Drogerie. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Drogerie Chrütterhäx AG</name>
+      <uid>CHE-108.001.920</uid>
+      <uidOrganisationId>108001920</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706303081</code13>
+      <seat>Plaffeien</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1716</swissZipCode>
+        <town>Plaffeien</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Drogerie. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-12-22</lastFoscDate>
+    <lastFoscNumber>247</lastFoscNumber>
+    <lastFoscSequence>1895131</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

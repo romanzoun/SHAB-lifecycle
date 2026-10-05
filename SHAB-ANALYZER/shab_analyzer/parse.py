@@ -215,6 +215,7 @@ from .parser258 import extract_parser258_leftovers
 from .parser259 import extract_parser259_leftovers
 from .parser260 import extract_parser260_leftovers
 from .parser261 import extract_parser261_leftovers
+from .parser270 import extract_parser270_leftovers
 from .parser269 import extract_parser269_leftovers
 from .parser268 import extract_parser268_leftovers
 from .parser267 import extract_parser267_leftovers
@@ -251,6 +252,16 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         meta.get("canton"),
         {e.event_type for e in xml_events + person_events},
     )
+    parser270_events, leftover = extract_parser270_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
+    )
+    if any(e.rule_id == "fr.persons.liquidator_shared_relocation.v1" for e in parser270_events):
+        person_events = [e for e in person_events if not (
+            e.rule_id == "fr.persons.liquidator_appointed.v2" and e.payload.get("name") == "lequel"
+        )]
+    if any(e.rule_id == "de.text.void_statutes_audit_restored.v1" for e in parser270_events):
+        extra_events = [e for e in extra_events if e.rule_id != "de.text.statutes.v1"]
     parser269_events, leftover = extract_parser269_leftovers(
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
         meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
@@ -2457,6 +2468,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser250_followup_events
         + parser251_events
         + parser252_events
+        + parser270_events
         + parser269_events
         + parser268_events
         + parser267_events
@@ -2476,7 +2488,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser254_events
         + parser253_events
     )
-    if any(e.signing for e in parser269_events + parser268_events + parser267_events + parser266_events + parser265_events + parser264_events + parser263_events + parser262_events + parser261_events + parser261_followup_events):
+    if any(e.signing for e in parser270_events + parser269_events + parser268_events + parser267_events + parser266_events + parser265_events + parser264_events + parser263_events + parser262_events + parser261_events + parser261_followup_events):
         events = [e for e in events if e.rule_id != "fr.persons.group_signing.v1"]
     others = bool(meta.get("others"))
     leftover = leftover.strip(" .")

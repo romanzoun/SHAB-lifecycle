@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>42246167-b657-4d7c-a673-80ea238aa816</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004838594</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Kiosque Tabac Maria, titulaire Said Jaffar Mussavi, Lausanne</de>
+    <en>Change Kiosque Tabac Maria, titulaire Said Jaffar Mussavi, Lausanne</en>
+    <it>Cambiamenti Kiosque Tabac Maria, titulaire Said Jaffar Mussavi, Lausanne</it>
+    <fr>Mutation Kiosque Tabac Maria, titulaire Said Jaffar Mussavi, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3625</journalNumber>
+  <journalDate>2020-02-20</journalDate>
+  <publicationText>Kiosque Tabac Maria, titulaire Said Jaffar Mussavi, à Lausanne, CHE-259.327.396 (FOSC du 22.10.2019, p. 0/1004742728). Said Jaffar Mussavi, dont le nom exacte est Mussavi Said Jaffar, est maintenant de Bussigny.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kiosque Tabac Maria, titulaire Said Jaffar Mussavi</name>
+      <uid>CHE-259.327.396</uid>
+      <uidOrganisationId>259327396</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011874459</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Tribunal-Fédéral</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un kiosque.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kiosque Tabac Maria, titulaire Said Jaffar Mussavi</name>
+      <uid>CHE-259.327.396</uid>
+      <uidOrganisationId>259327396</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011874459</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Tribunal-Fédéral</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un kiosque.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-22</lastFoscDate>
+    <lastFoscNumber>204</lastFoscNumber>
+    <lastFoscSequence>1004742728</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>50ea0924-657f-421f-b2a8-297879d04c55</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004822028</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Heat Sàrl, Lausanne, neu Heat Sàrl en liquidation</de>
+    <en>Change Heat Sàrl, Lausanne, new Heat Sàrl en liquidation</en>
+    <it>Cambiamenti Heat Sàrl, Lausanne, nuovo Heat Sàrl en liquidation</it>
+    <fr>Mutation Heat Sàrl, Lausanne, nouveau Heat Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2136</journalNumber>
+  <journalDate>2020-01-30</journalDate>
+  <publicationText>Heat Sàrl, à Lausanne, CHE-112.105.209 (FOSC du 07.08.2015, p. 0/2311871). Selon décision de son assemblée des associés du 24 janvier 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Heat Sàrl en liquidation. Bochud Michel, associé-gérant, lequel est nommé liquidateur avec signature individuelle, et l'associée Bochud Marinella, qui continue de signer individuellement, sont désormais à Lugano.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Heat Sàrl en liquidation</name>
+      <uid>CHE-112.105.209</uid>
+      <uidOrganisationId>112105209</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010423602</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Genève</street>
+        <houseNumber>70</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la réalisation de diagnostics amiante, l'étude et la réalisation d'installations techniques pour le bâtiment et l'industrie, ainsi que l'assistance technique à d'autres sociétés (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Heat Sàrl</name>
+      <uid>CHE-112.105.209</uid>
+      <uidOrganisationId>112105209</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010423602</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Genève</street>
+        <houseNumber>70</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la réalisation de diagnostics amiante, l'étude et la réalisation d'installations techniques pour le bâtiment et l'industrie, ainsi que l'assistance technique à d'autres sociétés (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-08-07</lastFoscDate>
+    <lastFoscNumber>151</lastFoscNumber>
+    <lastFoscSequence>2311871</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
