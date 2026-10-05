@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>439fd543-e932-45bb-9c57-a438728cd398</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004842804</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Marques Nora AP recyclage, Val-de-Travers</de>
+    <en>Change Marques Nora AP recyclage, Val-de-Travers</en>
+    <it>Cambiamenti Marques Nora AP recyclage, Val-de-Travers</it>
+    <fr>Mutation Marques Nora AP recyclage, Val-de-Travers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>677</journalNumber>
+  <journalDate>2020-02-26</journalDate>
+  <publicationText>Marques Nora AP recyclage, à Val-de-Travers, CHE-134.783.139 (FOSC du 25.02.2020, p. 0/1004838662). L'inscription n° 610 du 20.02.2020 est rectifiée en ce sens que l'autre adresse est: rue du Puits-Godet 10a, 2000 Neuchâtel (et non pas rue du Puits-Godet 8A, 2000 Neuchâtel).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Marques Nora AP recyclage</name>
+      <uid>CHE-134.783.139</uid>
+      <uidOrganisationId>134783139</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541207701</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Saint-Sulpice, quartier du Grand-Frédéric</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>2123</swissZipCode>
+        <town>St-Sulpice NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de déménagement, débarras, recyclage et transport.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Marques Nora AP recyclage</name>
+      <uid>CHE-134.783.139</uid>
+      <uidOrganisationId>134783139</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541207701</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Saint-Sulpice, quartier du Grand-Frédéric</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>2123</swissZipCode>
+        <town>St-Sulpice NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de déménagement, débarras, recyclage et transport.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-25</lastFoscDate>
+    <lastFoscNumber>38</lastFoscNumber>
+    <lastFoscSequence>1004838662</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>42a7ea04-da94-4d0b-8b53-857c9fd5e10b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004858086</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation MachielFilms Machiel Ruijterkamp, Hünenberg</de>
+    <en>Change MachielFilms Machiel Ruijterkamp, Hünenberg</en>
+    <it>Cambiamenti MachielFilms Machiel Ruijterkamp, Hünenberg</it>
+    <fr>Mutation MachielFilms Machiel Ruijterkamp, Hünenberg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4013</journalNumber>
+  <journalDate>2020-03-18</journalDate>
+  <publicationText>MachielFilms Machiel Ruijterkamp, in Hünenberg, CHE-402.166.300, Einzelunternehmen (SHAB Nr. 48 vom 10.03.2020, Publ. 1004848694). Der Kantonsgerichtspräsident des Kantonsgerichts Schwyz hat mit Entscheid vom 17.03.2020 der gegen die Konkurseröffnung erhobenen Beschwerde aufschiebende Wirkung zuerkannt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MachielFilms Machiel Ruijterkamp</name>
+      <uid>CHE-402.166.300</uid>
+      <uidOrganisationId>402166300</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17010101544</code13>
+      <seat>Hünenberg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bösch</street>
+        <houseNumber>80A</houseNumber>
+        <swissZipCode>6331</swissZipCode>
+        <town>Hünenberg</town>
+      </address>
+    </company>
+    <purpose>Filmproduktion</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MachielFilms Machiel Ruijterkamp</name>
+      <uid>CHE-402.166.300</uid>
+      <uidOrganisationId>402166300</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17010101544</code13>
+      <seat>Hünenberg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bösch</street>
+        <houseNumber>80A</houseNumber>
+        <swissZipCode>6331</swissZipCode>
+        <town>Hünenberg</town>
+      </address>
+    </company>
+    <purpose>Filmproduktion</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-10</lastFoscDate>
+    <lastFoscNumber>48</lastFoscNumber>
+    <lastFoscSequence>1004848694</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

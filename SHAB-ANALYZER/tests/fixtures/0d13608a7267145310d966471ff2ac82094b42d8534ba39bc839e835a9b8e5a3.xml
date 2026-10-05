@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>447c636c-e6f3-4c21-9c96-a8aa730c0bd5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004850376</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Lombard Odier &amp; Co Capital Partners SNC, Genève</de>
+    <en>Change Lombard Odier &amp; Co Capital Partners SNC, Genève</en>
+    <it>Cambiamenti Lombard Odier &amp; Co Capital Partners SNC, Genève</it>
+    <fr>Mutation Lombard Odier &amp; Co Capital Partners SNC, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4816</journalNumber>
+  <journalDate>2020-03-06</journalDate>
+  <publicationText>Lombard Odier &amp; Co Capital Partners SNC, à Genève, CHE-110.297.569 (FOSC du 08.08.2019, p. 0/1004692607). Nouveaux associés: Genet Marc, de Genève, à Arzier-le-Muids, et Senft Carl Alexander, de Zurich, à Zollikon avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Lombard Odier &amp; Co Capital Partners SNC</name>
+      <uid>CHE-110.297.569</uid>
+      <uidOrganisationId>110297569</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002970039</code13>
+      <seat>Genève</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Corraterie</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>participation principale comme associé commanditaire du Holding Privé Lombard Odier &amp; Cie SCm; participation à d'autres entreprises, gérer et administrer un patrimoine commun des associés; la société s'interdit de procéder à des opérations commerciales avec des tiers.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Lombard Odier &amp; Co Capital Partners SNC</name>
+      <uid>CHE-110.297.569</uid>
+      <uidOrganisationId>110297569</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002970039</code13>
+      <seat>Genève</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Corraterie</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>participation principale comme associé commanditaire du Holding Privé Lombard Odier &amp; Cie SCm; participation à d'autres entreprises, gérer et administrer un patrimoine commun des associés; la société s'interdit de procéder à des opérations commerciales avec des tiers.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-08</lastFoscDate>
+    <lastFoscNumber>151</lastFoscNumber>
+    <lastFoscSequence>1004692607</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

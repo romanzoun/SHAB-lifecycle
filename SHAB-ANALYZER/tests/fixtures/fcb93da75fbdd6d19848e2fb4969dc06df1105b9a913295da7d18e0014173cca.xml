@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>40efb176-9029-429e-92f4-0035c77ef7ed</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004859191</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation LES DELICATESSES Salihu Fazli, Montreux</de>
+    <en>Change LES DELICATESSES Salihu Fazli, Montreux</en>
+    <it>Cambiamenti LES DELICATESSES Salihu Fazli, Montreux</it>
+    <fr>Mutation LES DELICATESSES Salihu Fazli, Montreux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5374</journalNumber>
+  <journalDate>2020-03-19</journalDate>
+  <publicationText>LES DELICATESSES Salihu Fazli, à Montreux, CHE-366.618.385 (FOSC du 09.03.2018, p. 0/4103633). Le président du Tribunal de l'arrondissement de l'Est vaudois a prononcé le 13 mars 2020 la révocation de la faillite et ordonné la réintégration du titulaire dans la libre disposition de ses biens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LES DELICATESSES Salihu Fazli</name>
+      <uid>CHE-366.618.385</uid>
+      <uidOrganisationId>366618385</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011750631</code13>
+      <seat>Montreux</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Gare</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1820</swissZipCode>
+        <town>Montreux</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un magasin d'alimentation générale.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LES DELICATESSES Salihu Fazli</name>
+      <uid>CHE-366.618.385</uid>
+      <uidOrganisationId>366618385</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011750631</code13>
+      <seat>Montreux</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Gare</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1820</swissZipCode>
+        <town>Montreux</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un magasin d'alimentation générale.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-03-09</lastFoscDate>
+    <lastFoscNumber>48</lastFoscNumber>
+    <lastFoscSequence>4103633</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
