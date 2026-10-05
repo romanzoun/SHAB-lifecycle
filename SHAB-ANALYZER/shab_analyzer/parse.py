@@ -213,6 +213,7 @@ from .parser256 import extract_parser256_leftovers
 from .parser257 import extract_parser257_leftovers
 from .parser258 import extract_parser258_leftovers
 from .parser259 import extract_parser259_leftovers
+from .parser260 import extract_parser260_leftovers
 from .persons import extract_persons
 from .text_extras import extract_text_extras
 from .xml_map import map_hr_xml
@@ -241,6 +242,16 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         meta.get("canton"),
         {e.event_type for e in xml_events + person_events},
     )
+    parser260_events, leftover = extract_parser260_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
+    )
+    if any(e.signing for e in parser260_events):
+        person_events = [e for e in person_events if e.rule_id != "fr.persons.group_signing.v1"]
+    if any(e.rule_id == "de.text.additional_address_abbreviated_place.v1" for e in parser260_events):
+        extra_events = [e for e in extra_events if e.rule_id != "de.text.additional_address.v1"]
+    if any(e.rule_id == "fr.text.authorized_capital_expired_clause_deleted.v1" for e in parser260_events):
+        extra_events = [e for e in extra_events if e.rule_id != "fr.text.capital_clause_expired.v1"]
     parser259_events, leftover = extract_parser259_leftovers(
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
         meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
@@ -275,7 +286,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
     )
     if any(e.signing for e in parser255_events):
         person_events = [e for e in person_events if e.rule_id != "fr.persons.group_signing.v1"]
-    # Parsers 179-259 contain complete families that broad historical search rules
+    # Parsers 179-260 contain complete families that broad historical search rules
     # would otherwise consume only in fragments.
     parser254_events, leftover = extract_parser254_leftovers(
         leftover,
@@ -2375,6 +2386,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser250_followup_events
         + parser251_events
         + parser252_events
+        + parser260_events
         + parser259_events
         + parser258_events
         + parser257_events

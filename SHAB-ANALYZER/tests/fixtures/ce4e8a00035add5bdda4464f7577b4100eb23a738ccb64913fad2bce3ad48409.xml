@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>772938a9-6897-470b-bc2c-b9e4f7c18d9d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004809736</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation MILLE DELIZIE, Inh. L. Ciullo, Thalwil</de>
+    <en>Change MILLE DELIZIE, Inh. L. Ciullo, Thalwil</en>
+    <it>Cambiamenti MILLE DELIZIE, Inh. L. Ciullo, Thalwil</it>
+    <fr>Mutation MILLE DELIZIE, Inh. L. Ciullo, Thalwil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2671</journalNumber>
+  <journalDate>2020-01-16</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 10 vom 16.01.2020 publizierten TR-Eintrags Nr. 2023 vom 13.01.2020 MILLE DELIZIE, Inh. L. Ciullo, in Thalwil, CHE-246.937.177, Einzelunternehmen (SHAB Nr. 10 vom 16.01.2020, Publ. 1004806216). Mit Urteil des Konkursrichters des Bezirksgerichts Horgen vom 09.01.2020 ist das Konkursverfahren geschlossen worden. Das Einzelunternehmen wird von Amtes wegen gelöscht. [nicht: Mit Urteil des Konkursrichters des Bezirksgerichts Hinwil vom 09.01.2020 ist das Konkursverfahren geschlossen worden. Das Einzelunternehmen wird von Amtes wegen gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>MILLE DELIZIE, Inh. L. Ciullo</name>
+      <uid>CHE-246.937.177</uid>
+      <uidOrganisationId>246937177</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010708630</code13>
+      <seat>Thalwil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gotthardstrasse</street>
+        <houseNumber>35</houseNumber>
+        <swissZipCode>8800</swissZipCode>
+        <town>Thalwil</town>
+      </address>
+    </company>
+    <purpose>Import und Handel mit Lebensmitteln, Take Away.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MILLE DELIZIE, Inh. L. Ciullo</name>
+      <uid>CHE-246.937.177</uid>
+      <uidOrganisationId>246937177</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010708630</code13>
+      <seat>Thalwil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Gotthardstrasse</street>
+        <houseNumber>35</houseNumber>
+        <swissZipCode>8800</swissZipCode>
+        <town>Thalwil</town>
+      </address>
+    </company>
+    <purpose>Import und Handel mit Lebensmitteln, Take Away.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-16</lastFoscDate>
+    <lastFoscNumber>10</lastFoscNumber>
+    <lastFoscSequence>1004806216</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>7f41501c-aaf0-4f87-8b32-637294d4cb24</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004813457</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Restaurant Le Pérolles, P.-A. Ayer, Fribourg</de>
+    <en>Change Restaurant Le Pérolles, P.-A. Ayer, Fribourg</en>
+    <it>Cambiamenti Restaurant Le Pérolles, P.-A. Ayer, Fribourg</it>
+    <fr>Mutation Restaurant Le Pérolles, P.-A. Ayer, Fribourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>613</journalNumber>
+  <journalDate>2020-01-21</journalDate>
+  <publicationText>Restaurant Le Pérolles, P.-A. Ayer, à Fribourg, CHE-103.168.398 (FOSC du 18.09.2017, p. 0/3757043). Transfert de patrimoine: Selon contrat du 18.12.2019, le titulaire a transféré des actifs pour CHF 248'770.77 et des passifs envers les tiers pour CHF 214'468.24, à Pierrot Ayer, L'Authentique Sàrl (CHE-116.025.779) à Fribourg. Contre-prestation: CHF 34'302.53.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Restaurant Le Pérolles, P.-A. Ayer</name>
+      <uid>CHE-103.168.398</uid>
+      <uidOrganisationId>103168398</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701122889</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Hans-Fries</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>exploitation du restaurant "Le Restaurant Le Pérolles, P.-A. Ayer".</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Restaurant Le Pérolles, P.-A. Ayer</name>
+      <uid>CHE-103.168.398</uid>
+      <uidOrganisationId>103168398</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701122889</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Hans-Fries</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>exploitation du restaurant "Le Restaurant Le Pérolles, P.-A. Ayer".</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-09-18</lastFoscDate>
+    <lastFoscNumber>180</lastFoscNumber>
+    <lastFoscSequence>3757043</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

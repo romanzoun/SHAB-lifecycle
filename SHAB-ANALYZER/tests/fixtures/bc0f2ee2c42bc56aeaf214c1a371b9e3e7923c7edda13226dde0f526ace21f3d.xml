@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>7147880d-016b-4427-8702-09f1eda3fb1a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004808682</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Remo von Büren GmbH in Liquidation, Wangen an der Aare</de>
+    <en>Change Remo von Büren GmbH in Liquidation, Wangen an der Aare</en>
+    <it>Cambiamenti Remo von Büren GmbH in Liquidation, Wangen an der Aare</it>
+    <fr>Mutation Remo von Büren GmbH in Liquidation, Wangen an der Aare</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>848</journalNumber>
+  <journalDate>2020-01-15</journalDate>
+  <publicationText>Remo von Büren GmbH in Liquidation, in Wangen an der Aare, CHE-104.019.884, Gesellschaft mit beschränkter Haftung (SHAB Nr. 86 vom 06.05.2019, Publ. 1004623334). Die am 01.05.2019 gelöschte Gesellschaft wird auf Grund des Entscheids des Einzelrichters des Regionalgerichts Emmental-Oberaargau vom 16.12.2019 zum Zwecke der Liquidation wieder in das Handelsregister eingetragen und besteht entsprechend den früheren Eintragungen weiter. [gestrichen: Nachdem kein begründeter Einspruch gegen die Löschung erhoben wurde, wird die Gesellschaft in Anwendung von Art. 159 Abs. 5 lit. a HRegV von Amtes wegen gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Remo von Büren GmbH in Liquidation</name>
+      <uid>CHE-104.019.884</uid>
+      <uidOrganisationId>104019884</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH05340001165</code13>
+      <seat>Wangen an der Aare</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vorstadt</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>3380</swissZipCode>
+        <town>Wangen an der Aare</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Architekturbüros. Kann Grundeigentum erwerben, verwalten und verkaufen. Ein allfälliger Nebenzweck ist aus den Statuten ersichtlich.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Remo von Büren GmbH in Liquidation</name>
+      <uid>CHE-104.019.884</uid>
+      <uidOrganisationId>104019884</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH05340001165</code13>
+      <seat>Wangen an der Aare</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vorstadt</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>3380</swissZipCode>
+        <town>Wangen an der Aare</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Architekturbüros. Kann Grundeigentum erwerben, verwalten und verkaufen. Ein allfälliger Nebenzweck ist aus den Statuten ersichtlich.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-06</lastFoscDate>
+    <lastFoscNumber>86</lastFoscNumber>
+    <lastFoscSequence>1004623334</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
