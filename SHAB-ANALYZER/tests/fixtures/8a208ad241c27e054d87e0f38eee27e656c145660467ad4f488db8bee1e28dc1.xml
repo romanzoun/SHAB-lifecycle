@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>7442ce20-dabe-4cf0-a9e5-92c9be9cd44c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004840655</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Armand Gex-Fabry, Massongex</de>
+    <en>Change Armand Gex-Fabry, Massongex</en>
+    <it>Cambiamenti Armand Gex-Fabry, Massongex</it>
+    <fr>Mutation Armand Gex-Fabry, Massongex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>589</journalNumber>
+  <journalDate>2020-02-24</journalDate>
+  <publicationText>Armand Gex-Fabry, à Massongex, CHE-438.735.566, entreprise individuelle (No. FOSC 34 du 19.02.2020, Publ. 1004834298). Par décision du 21.02.2020, le Tribunal Cantonal du Valais a annulé la faillite du titulaire de l'entreprise prononcée le 13.01.2020; l'inscription est rétablie comme ci-devant (FOSC du 22.03.1995 p. 1'599).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Armand Gex-Fabry</name>
+      <uid>CHE-438.735.566</uid>
+      <uidOrganisationId>438735566</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110040059</code13>
+      <seat>Massongex</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>En Fontany</street>
+        <swissZipCode>1869</swissZipCode>
+        <town>Massongex</town>
+      </address>
+    </company>
+    <purpose>Ferblanterie, couverture, sanitaires, chauffage, étanchéité</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Armand Gex-Fabry</name>
+      <uid>CHE-438.735.566</uid>
+      <uidOrganisationId>438735566</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110040059</code13>
+      <seat>Massongex</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>En Fontany</street>
+        <swissZipCode>1869</swissZipCode>
+        <town>Massongex</town>
+      </address>
+    </company>
+    <purpose>Ferblanterie, couverture, sanitaires, chauffage, étanchéité</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-19</lastFoscDate>
+    <lastFoscNumber>34</lastFoscNumber>
+    <lastFoscSequence>1004834298</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>6acefe40-03ac-4d45-9e25-17757b1be91d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004831638</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Honegger SA, Bulle</de>
+    <en>Change Honegger SA, Bulle</en>
+    <it>Cambiamenti Honegger SA, Bulle</it>
+    <fr>Mutation Honegger SA, Bulle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1147</journalNumber>
+  <journalDate>2020-02-12</journalDate>
+  <publicationText>Honegger SA, à Bulle, CHE-238.913.619 (FOSC du 14.01.2020, p. 0/1004803964). Rectification de l'inscription n° 300 du 09.01.2020 (FOSC 14.01.2020, Id 1004803964): Magnan Cyril, procuration collective à deux, limitée à la succursale (et non pas Magnin Cyril).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Honegger SA</name>
+      <uid>CHE-238.913.619</uid>
+      <uidOrganisationId>238913619</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735448804</code13>
+      <seat>Bulle</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Léchère</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1630</swissZipCode>
+        <town>Bulle</town>
+      </address>
+    </company>
+    <purpose>(voir but du siège principal selon l'article 110 al. 1 let. d ORC).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Honegger AG</name>
+      <country>CH</country>
+      <uid>CHE-291.746.732</uid>
+      <uidOrganisationId>291746732</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Honegger SA</name>
+      <uid>CHE-238.913.619</uid>
+      <uidOrganisationId>238913619</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735448804</code13>
+      <seat>Bulle</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de la Léchère</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1630</swissZipCode>
+        <town>Bulle</town>
+      </address>
+    </company>
+    <purpose>(voir but du siège principal selon l'article 110 al. 1 let. d ORC).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Honegger AG</name>
+      <country>CH</country>
+      <uid>CHE-291.746.732</uid>
+      <uidOrganisationId>291746732</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-14</lastFoscDate>
+    <lastFoscNumber>8</lastFoscNumber>
+    <lastFoscSequence>1004803964</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

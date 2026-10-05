@@ -216,6 +216,7 @@ from .parser259 import extract_parser259_leftovers
 from .parser260 import extract_parser260_leftovers
 from .parser261 import extract_parser261_leftovers
 from .parser271 import extract_parser271_leftovers
+from .parser272 import extract_parser272_leftovers
 from .parser270 import extract_parser270_leftovers
 from .parser269 import extract_parser269_leftovers
 from .parser268 import extract_parser268_leftovers
@@ -252,6 +253,10 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         meta.get("plz"),
         meta.get("canton"),
         {e.event_type for e in xml_events + person_events},
+    )
+    parser272_events, leftover = extract_parser272_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
     )
     parser271_events, leftover = extract_parser271_leftovers(
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
@@ -2473,6 +2478,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser250_followup_events
         + parser251_events
         + parser252_events
+        + parser272_events
         + parser271_events
         + parser270_events
         + parser269_events
@@ -2494,7 +2500,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser254_events
         + parser253_events
     )
-    if any(e.signing for e in parser271_events + parser270_events + parser269_events + parser268_events + parser267_events + parser266_events + parser265_events + parser264_events + parser263_events + parser262_events + parser261_events + parser261_followup_events):
+    if any(e.signing for e in parser272_events + parser271_events + parser270_events + parser269_events + parser268_events + parser267_events + parser266_events + parser265_events + parser264_events + parser263_events + parser262_events + parser261_events + parser261_followup_events):
         events = [e for e in events if e.rule_id != "fr.persons.group_signing.v1"]
     others = bool(meta.get("others"))
     leftover = leftover.strip(" .")
