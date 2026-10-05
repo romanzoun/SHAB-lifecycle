@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>01f0f0e6-6585-4c0d-9aed-651682f9ee6c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004833971</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Böhler Monaco Trends, Berg (SG)</de>
+    <en>Change Böhler Monaco Trends, Berg (SG)</en>
+    <it>Cambiamenti Böhler Monaco Trends, Berg (SG)</it>
+    <fr>Mutation Böhler Monaco Trends, Berg (SG)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1540</journalNumber>
+  <journalDate>2020-02-14</journalDate>
+  <publicationText>Böhler Monaco Trends, in Berg (SG), CHE-449.509.028, Einzelunternehmen (SHAB Nr. 251 vom 30.12.2019, Publ. 1004795423). [gestrichen: Der Geschäftsbetrieb hat aufgehört. Das Einzelunternehmen wird gemäss Art. 159 Abs. 5 lit. a HRegV von Amtes wegen gelöscht.]. Das unter der TR Nr. 12'283 vom 23.12.2019 gelöschte Einzelunternehmen wird auf Antrag des Inhabers gemäss Art. 116 Abs. 3 lit. b HRegV wieder in das Handelsregister eingetragen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Böhler Monaco Trends</name>
+      <uid>CHE-449.509.028</uid>
+      <uidOrganisationId>449509028</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010758020</code13>
+      <seat>Berg (SG)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Habersack</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>9305</swissZipCode>
+        <town>Berg SG</town>
+      </address>
+    </company>
+    <purpose>Vertrieb, Entwicklung, Marketing, Farbenhandel und Trendprodukte sowie Lackierung von Fahrzeugen und Industrieteilen..</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Böhler Monaco Trends</name>
+      <uid>CHE-449.509.028</uid>
+      <uidOrganisationId>449509028</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010758020</code13>
+      <seat>Berg (SG)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Habersack</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>9305</swissZipCode>
+        <town>Berg SG</town>
+      </address>
+    </company>
+    <purpose>Vertrieb, Entwicklung, Marketing, Farbenhandel und Trendprodukte sowie Lackierung von Fahrzeugen und Industrieteilen..</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-30</lastFoscDate>
+    <lastFoscNumber>251</lastFoscNumber>
+    <lastFoscSequence>1004795423</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

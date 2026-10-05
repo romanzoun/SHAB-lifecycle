@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>f2b130b4-fbc0-42ec-b307-8a0784669ec1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004808140</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-01-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation AIGLEPHARMA Sàrl, Aigle</de>
+    <en>Change AIGLEPHARMA Sàrl, Aigle</en>
+    <it>Cambiamenti AIGLEPHARMA Sàrl, Aigle</it>
+    <fr>Mutation AIGLEPHARMA Sàrl, Aigle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>896</journalNumber>
+  <journalDate>2020-01-14</journalDate>
+  <publicationText>AIGLEPHARMA Sàrl, à Aigle, CHE-106.820.663 (FOSC du 19.12.2013, p. 0/7225834). La gérante Ghiringhelli Dominique, qui n'est plus associée et signe désormais collectivement à deux, cède sa part de CHF 20'000 à pharmacieplus sa (CHE-383.188.813), à Bremblens, nouvelle associée. Signature collective à deux est conférée à Bussat Eric, de Genève, à Onex, président, et Perret Hervé Daniel, de Prilly, à Ecublens VD. Rectificatif: l'inscription n° 8925 du 21.07.2008 (FOSC du 25.07.2008, p. 16/4590414) est rectifiée en ce sens que les statuts ne prévoient pas l'obligation de fournir des prestations accessoires, droits de préférence, de préemption ou d'emption.</publicationText>
+  <commonsNew>
+    <company>
+      <name>AIGLEPHARMA Sàrl</name>
+      <uid>CHE-106.820.663</uid>
+      <uidOrganisationId>106820663</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010243405</code13>
+      <seat>Aigle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Rhône</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1860</swissZipCode>
+        <town>Aigle</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Beratungsdienstleistungen, insbesondere in den Sektoren EDV, Versicherungen und Treuhand; kann Patente und Lizenzen erwerben und verkaufen, sich an anderen Unternehmen beteiligen sowie Immobilien erwerben, verkaufen und verwalten</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AIGLEPHARMA Sàrl</name>
+      <uid>CHE-106.820.663</uid>
+      <uidOrganisationId>106820663</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010243405</code13>
+      <seat>Aigle</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Rhône</street>
+        <houseNumber>21</houseNumber>
+        <swissZipCode>1860</swissZipCode>
+        <town>Aigle</town>
+      </address>
+    </company>
+    <purpose>exploitation de pharmacies, commerce de médicaments, produits de médecines naturelles, articles sanitaires, produits pharmaceutiques.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
