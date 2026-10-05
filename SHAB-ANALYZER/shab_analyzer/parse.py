@@ -215,6 +215,7 @@ from .parser258 import extract_parser258_leftovers
 from .parser259 import extract_parser259_leftovers
 from .parser260 import extract_parser260_leftovers
 from .parser261 import extract_parser261_leftovers
+from .parser262 import extract_parser262_leftovers
 from .persons import extract_persons
 from .text_extras import extract_text_extras
 from .xml_map import map_hr_xml
@@ -242,6 +243,10 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         meta.get("plz"),
         meta.get("canton"),
         {e.event_type for e in xml_events + person_events},
+    )
+    parser262_events, leftover = extract_parser262_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
     )
     parser261_events, leftover = extract_parser261_leftovers(
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
@@ -2401,6 +2406,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser250_followup_events
         + parser251_events
         + parser252_events
+        + parser262_events
         + parser261_events
         + parser261_followup_events
         + parser260_events
@@ -2412,7 +2418,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser254_events
         + parser253_events
     )
-    if any(e.signing for e in parser261_events + parser261_followup_events):
+    if any(e.signing for e in parser262_events + parser261_events + parser261_followup_events):
         events = [e for e in events if e.rule_id != "fr.persons.group_signing.v1"]
     others = bool(meta.get("others"))
     leftover = leftover.strip(" .")
