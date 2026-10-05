@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>b378ea58-e74c-46fb-a993-507af2bf1917</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004840589</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-02-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA, Ollon, neu Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA en liquidation</de>
+    <en>Change Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA, Ollon, new Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA en liquidation</en>
+    <it>Cambiamenti Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA, Ollon, nuovo Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA en liquidation</it>
+    <fr>Mutation Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA, Ollon, nouveau Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3784</journalNumber>
+  <journalDate>2020-02-24</journalDate>
+  <publicationText>Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA, à Ollon, CHE-110.388.551 (FOSC du 25.11.2014, p. 0/1841481). L'Autorité de surveillance LPP et des fondations de Suisse occidentale a constaté la dissolution de la fondation par décision du 13 décembre 2019. La liquidation est opérée sous le nom: Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA en liquidation. Fuhrimann Marianne, Cretegny Claude et Verdon Roger sont nommés liquidateurs avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA en liquidation</name>
+      <uid>CHE-110.388.551</uid>
+      <uidOrganisationId>110388551</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001168249</code13>
+      <seat>Ollon</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Marianne Fuhrimann</addressLine1>
+        <street>Route d'Antagnes</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>1867</swissZipCode>
+        <town>Ollon VD</town>
+      </address>
+    </company>
+    <purpose>verser des prestations aux anciens collaborateurs des Etablissements SIM S.A., en cas de vieillesse ou d'invalidité de ces derniers, ainsi qu'à leurs ayants droit en cas de décès.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Caisse de retraite en faveur des anciens collaborateurs des Etablissements SIM SA</name>
+      <uid>CHE-110.388.551</uid>
+      <uidOrganisationId>110388551</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001168249</code13>
+      <seat>Ollon</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Marianne Fuhrimann</addressLine1>
+        <street>Route d'Antagnes</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>1867</swissZipCode>
+        <town>Ollon VD</town>
+      </address>
+    </company>
+    <purpose>verser des prestations aux anciens collaborateurs des Etablissements SIM S.A., en cas de vieillesse ou d'invalidité de ces derniers, ainsi qu'à leurs ayants droit en cas de décès.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-11-25</lastFoscDate>
+    <lastFoscNumber>228</lastFoscNumber>
+    <lastFoscSequence>1841481</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
