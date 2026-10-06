@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>09060585-661a-4089-9b89-9daa872496ef</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004871603</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation InduPart AG, Zürich</de>
+    <en>Change InduPart AG, Zürich</en>
+    <it>Cambiamenti InduPart AG, Zürich</it>
+    <fr>Mutation InduPart AG, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14371</journalNumber>
+  <journalDate>2020-04-09</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 60 vom 26.03.2020 publizierten TR-Eintrag Nr. 12074 vom 23.03.2020 InduPart AG, in Zürich, CHE-104.168.395, Aktiengesellschaft (SHAB Nr. 60 vom 26.03.2020, Publ. 1004860170). Bei der im SHAB Nr. 60 vom 26.03.2020 publizierten TR-Nr. 12074 vom 23.03.2020 wurde der "bisher"-Text nicht richtig publiziert. Korrekt ist: " [bisher: Albas Treuhand AG (CH-020.3.911.554-3)]", nicht: " [bisher: Albas Treuhand AG]".</publicationText>
+  <commonsNew>
+    <company>
+      <name>InduPart AG</name>
+      <uid>CHE-104.168.395</uid>
+      <uidOrganisationId>104168395</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030205161</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mürtschenstrasse</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>8048</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Handel, Fabrikation sowie Entwicklung von Produkten der Elektrik, der Elektrotechnik und der Automatisation im In- und Ausland; kann sich an anderen Unternehmungen beteiligen sowie Liegenschaften erwerben, belasten und veräussern.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>InduPart AG</name>
+      <uid>CHE-104.168.395</uid>
+      <uidOrganisationId>104168395</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030205161</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mürtschenstrasse</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>8048</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Handel, Fabrikation sowie Entwicklung von Produkten der Elektrik, der Elektrotechnik und der Automatisation im In- und Ausland; kann sich an anderen Unternehmungen beteiligen sowie Liegenschaften erwerben, belasten und veräussern.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-26</lastFoscDate>
+    <lastFoscNumber>60</lastFoscNumber>
+    <lastFoscSequence>1004860170</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
