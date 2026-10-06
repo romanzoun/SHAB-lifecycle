@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>b2d819a9-9de9-44e8-b338-dd23bf08f3af</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004864230</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation United Montessori Children Sàrl, Lancy</de>
+    <en>Change United Montessori Children Sàrl, Lancy</en>
+    <it>Cambiamenti United Montessori Children Sàrl, Lancy</it>
+    <fr>Mutation United Montessori Children Sàrl, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5981</journalNumber>
+  <journalDate>2020-03-27</journalDate>
+  <publicationText>United Montessori Children Sàrl, à Lancy, CHE-483.795.422 (FOSC du 03.03.2020, p. 0/1004843935). L'inscription n° 4150 du 03.03.2020 est complétée en ce sens que la fondation dispose également d'une autre adresse sise à Route de Chancy 48, 1213 Petit-Lancy.</publicationText>
+  <commonsNew>
+    <company>
+      <name>United Montessori Children Sàrl</name>
+      <uid>CHE-483.795.422</uid>
+      <uidOrganisationId>483795422</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008010208</code13>
+      <seat>Lancy</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Grand-Lancy</street>
+        <houseNumber>87</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy</town>
+      </address>
+    </company>
+    <purpose>exploitation d'écoles, en particulier selon la pédagogie Montessori dispensée ainsi que l'organisation d'activités parascolaires; la formation dans le domaine de Montessori (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>United Montessori Children Sàrl</name>
+      <uid>CHE-483.795.422</uid>
+      <uidOrganisationId>483795422</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008010208</code13>
+      <seat>Lancy</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Grand-Lancy</street>
+        <houseNumber>87</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy</town>
+      </address>
+    </company>
+    <purpose>exploitation d'écoles, en particulier selon la pédagogie Montessori dispensée ainsi que l'organisation d'activités parascolaires; la formation dans le domaine de Montessori (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-03</lastFoscDate>
+    <lastFoscNumber>43</lastFoscNumber>
+    <lastFoscSequence>1004843935</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
