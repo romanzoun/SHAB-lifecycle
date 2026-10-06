@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>35d84697-72f9-4fe0-a315-8ea04bc6fed8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004880599</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation association Espace proches, Lausanne</de>
+    <en>Change association Espace proches, Lausanne</en>
+    <it>Cambiamenti association Espace proches, Lausanne</it>
+    <fr>Mutation association Espace proches, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6918</journalNumber>
+  <journalDate>2020-04-27</journalDate>
+  <publicationText>association Espace proches, à Lausanne, CHE-186.781.082 (FOSC du 03.03.2020, p. 0/1004843744). Signature collective à deux est conférée à Rezzonico Philippe.</publicationText>
+  <commonsNew>
+    <company>
+      <name>association Espace proches</name>
+      <uid>CHE-186.781.082</uid>
+      <uidOrganisationId>186781082</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011576490</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place Pépinet</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>l'association a pour but de contribuer au soutien des proches et proches aidants qui ont dans leur entourage une personne atteinte dans son autonomie et sa santé (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>association Espace proches</name>
+      <uid>CHE-186.781.082</uid>
+      <uidOrganisationId>186781082</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011576490</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place Pépinet</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>l'association a pour but de contribuer au soutien des proches et proches aidants qui ont dans leur entourage une personne atteinte dans son autonomie et sa santé (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-03</lastFoscDate>
+    <lastFoscNumber>43</lastFoscNumber>
+    <lastFoscSequence>1004843744</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
