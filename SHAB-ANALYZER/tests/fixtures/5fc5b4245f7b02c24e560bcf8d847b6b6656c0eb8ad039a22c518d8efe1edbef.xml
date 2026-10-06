@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>8d2dc9eb-b6b0-4ace-83bc-7522e12d0789</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004854262</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Fit-line Wellness AG, Plaffeien, neu Fit-line Wellness AG in Liquidation</de>
+    <en>Change Fit-line Wellness AG, Plaffeien, new Fit-line Wellness AG in Liquidation</en>
+    <it>Cambiamenti Fit-line Wellness AG, Plaffeien, nuovo Fit-line Wellness AG in Liquidation</it>
+    <fr>Mutation Fit-line Wellness AG, Plaffeien, nouveau Fit-line Wellness AG in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1806</journalNumber>
+  <journalDate>2020-03-12</journalDate>
+  <publicationText>Fit-line Wellness AG, in Plaffeien, CHE-109.849.605 (SHAB vom 06.10.2016, s. 0/3093691). Die Gesellschaft ist laut Beschluss der Generalversammlung vom 03.02.2020 aufgelöst. Die Liquidation wird unter der Firma: Fit-line Wellness AG in Liquidation durchgeführt. Eingetragene Person geändert: Piller-Piller Isabelle, korrekterweise Piller Rosa Isabella, Verwaltungsratsmitglied, Vizepräsidentin, Einzelunterschrift, neu Verwaltungsratsmitglied, Vizepräsidentin, Liquidatorin, Einzelunterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fit-line Wellness AG in Liquidation</name>
+      <uid>CHE-109.849.605</uid>
+      <uidOrganisationId>109849605</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706312254</code13>
+      <seat>Plaffeien</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Telmoos</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>1716</swissZipCode>
+        <town>Plaffeien</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Fitness- und Gesundheitscenters.</purpose>
+    <capital>
+      <nominal>220000.00</nominal>
+      <paid>220000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fit-line Wellness AG</name>
+      <uid>CHE-109.849.605</uid>
+      <uidOrganisationId>109849605</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706312254</code13>
+      <seat>Plaffeien</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Telmoos</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>1716</swissZipCode>
+        <town>Plaffeien</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Fitness- und Gesundheitscenters.</purpose>
+    <capital>
+      <nominal>220000.00</nominal>
+      <paid>220000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-10-06</lastFoscDate>
+    <lastFoscNumber>194</lastFoscNumber>
+    <lastFoscSequence>3093691</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
