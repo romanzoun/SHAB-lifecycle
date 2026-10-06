@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>a66418fe-cedf-441f-a1f8-a585ea874c89</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004880653</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Posse Management SA, Renens (VD)</de>
+    <en>Change Posse Management SA, Renens (VD)</en>
+    <it>Cambiamenti Posse Management SA, Renens (VD)</it>
+    <fr>Mutation Posse Management SA, Renens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6967</journalNumber>
+  <journalDate>2020-04-27</journalDate>
+  <publicationText>Posse Management SA, à Renens (VD), CHE-106.006.711 (FOSC du 02.04.2019, p. 0/1004601389). Pilloud Raphaël est nommé président; Berney Michel, qui n'est plus président, reste administrateur; tous deux continuent à signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Posse Management SA</name>
+      <uid>CHE-106.006.711</uid>
+      <uidOrganisationId>106006711</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000475116</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Baumettes</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>Kauf, Verkauf, Finanzierung und Verwaltung von Beteiligungen an in- und ausländischen Unternehmungen, insbesondere im medizinischen, pharmazeutischen, chemischen und diagnostischen Bereich, sowie von Patenten, Lizenzen und anderen Immaterialgüterrechten; kann Tochtergesellschaften errichten</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Posse Management SA</name>
+      <uid>CHE-106.006.711</uid>
+      <uidOrganisationId>106006711</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000475116</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Baumettes</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités de services dans les domaines du marketing, de la comptabilité, de la gestion et de la coordination administratives d'entreprises actives notamment dans le secteur de la construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-02</lastFoscDate>
+    <lastFoscNumber>64</lastFoscNumber>
+    <lastFoscSequence>1004601389</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>8be4583b-0b3d-44d5-b722-5452981b8d23</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004875527</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation PaNa Sàrl, Thônex</de>
+    <en>Change PaNa Sàrl, Thônex</en>
+    <it>Cambiamenti PaNa Sàrl, Thônex</it>
+    <fr>Mutation PaNa Sàrl, Thônex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6621</journalNumber>
+  <journalDate>2020-04-17</journalDate>
+  <publicationText>PaNa Sàrl, à Thônex, CHE-191.667.575 (FOSC du 26.11.2018, p. 0/1004506249). Par suite de cession de 9 parts de CHF 1'000, Tullio Mario est maintenant associé pour 11 parts de CHF 1'000, et Chance Joelle Monique, de France, à Genève, est nouvelle associée pour 9 parts de CHF 1'000. Gérants: les associés Tullio Mario, nommé président, et Chance Joelle Monique, tous deux avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>PaNa Sàrl</name>
+      <uid>CHE-191.667.575</uid>
+      <uidOrganisationId>191667575</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66025690186</code13>
+      <seat>Thônex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Jussy</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1226</swissZipCode>
+        <town>Thônex</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un café-restaurant; achat, vente, gestion et remise en gérance de tous établissements publics; toutes activités liées aux domaines de la restauration et de l'hôtellerie; import-export de tous produits alimentaires et non-alimentaires (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PaNa Sàrl</name>
+      <uid>CHE-191.667.575</uid>
+      <uidOrganisationId>191667575</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66025690186</code13>
+      <seat>Thônex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Jussy</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1226</swissZipCode>
+        <town>Thônex</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un café-restaurant; achat, vente, gestion et remise en gérance de tous établissements publics; toutes activités liées aux domaines de la restauration et de l'hôtellerie; import-export de tous produits alimentaires et non-alimentaires (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-26</lastFoscDate>
+    <lastFoscNumber>229</lastFoscNumber>
+    <lastFoscSequence>1004506249</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
