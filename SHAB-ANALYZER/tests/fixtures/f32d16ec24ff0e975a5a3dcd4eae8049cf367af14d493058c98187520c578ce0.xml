@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>a696c34c-8e17-437a-b779-79eebe7f9de8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004844972</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Quickparts Sàrl, La Chaux-de-Fonds</de>
+    <en>Change Quickparts Sàrl, La Chaux-de-Fonds</en>
+    <it>Cambiamenti Quickparts Sàrl, La Chaux-de-Fonds</it>
+    <fr>Mutation Quickparts Sàrl, La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>710</journalNumber>
+  <journalDate>2020-02-28</journalDate>
+  <publicationText>Quickparts Sàrl, à La Chaux-de-Fonds, CHE-175.441.587 (FOSC du 18.12.2018, p. 0/1004524237). Bobillier-Monnot Fabien Bernard Joseph, associé, a cédé 100 de ses 200 parts sociales de CHF 100 à Salvi Ludovic, de France, à Grandvillars, F, nouvel associé, lequel est en outre nommé gérant avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Quickparts Sàrl</name>
+      <uid>CHE-175.441.587</uid>
+      <uidOrganisationId>175441587</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541186825</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Nord</street>
+        <houseNumber>152</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un atelier de décolletage de précision ainsi que fabrication, achat, vente, importation, exportation de tous produits mécaniques (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Quickparts Sàrl</name>
+      <uid>CHE-175.441.587</uid>
+      <uidOrganisationId>175441587</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541186825</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Nord</street>
+        <houseNumber>152</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un atelier de décolletage de précision ainsi que fabrication, achat, vente, importation, exportation de tous produits mécaniques (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-12-18</lastFoscDate>
+    <lastFoscNumber>245</lastFoscNumber>
+    <lastFoscSequence>1004524237</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

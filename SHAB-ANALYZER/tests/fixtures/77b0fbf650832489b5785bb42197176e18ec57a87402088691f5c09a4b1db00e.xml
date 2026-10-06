@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>afea65a6-110c-4357-a7ff-9a10c29f8807</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004847806</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation OMCD Swiss Sagl in liquidazione, Grono</de>
+    <en>Change OMCD Swiss Sagl in liquidazione, Grono</en>
+    <it>Cambiamenti OMCD Swiss Sagl in liquidazione, Grono</it>
+    <fr>Mutation OMCD Swiss Sagl in liquidazione, Grono</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1435</journalNumber>
+  <journalDate>2020-03-04</journalDate>
+  <publicationText>OMCD Swiss Sagl in liquidazione, in Grono, CHE-265.302.068, società a garanzia limitata (Nr. FUSC 42 del 01.03.2019, Pubbl. 1004578302). La liquidazione è terminta. Ma la cancellazione della società non può ancora essere effettuata mancando il consenso dell'autorità fiscale cantonale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>OMCD Swiss Sagl in liquidazione</name>
+      <uid>CHE-265.302.068</uid>
+      <uidOrganisationId>265302068</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35040045485</code13>
+      <seat>Grono</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Fidmen SA</addressLine1>
+        <street>Via Pascolet</street>
+        <houseNumber>41</houseNumber>
+        <swissZipCode>6537</swissZipCode>
+        <town>Grono</town>
+      </address>
+    </company>
+    <purpose>Il commercio all'ingrosso, in particolare in qualità di agente, di utensili per uso industriale, e di prodotti affini. Consulenza tecnica, la promozione, la ricerca di mercato, nonché l'organizzazione delle vendite sui mercati internazionali. Lo sfruttamento di marchi e brevetti; scopo completo a norma di statuto.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>OMCD Swiss Sagl in liquidazione</name>
+      <uid>CHE-265.302.068</uid>
+      <uidOrganisationId>265302068</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35040045485</code13>
+      <seat>Grono</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Fidmen SA</addressLine1>
+        <street>Via Pascolet</street>
+        <houseNumber>41</houseNumber>
+        <swissZipCode>6537</swissZipCode>
+        <town>Grono</town>
+      </address>
+    </company>
+    <purpose>Il commercio all'ingrosso, in particolare in qualità di agente, di utensili per uso industriale, e di prodotti affini. Consulenza tecnica, la promozione, la ricerca di mercato, nonché l'organizzazione delle vendite sui mercati internazionali. Lo sfruttamento di marchi e brevetti; scopo completo a norma di statuto.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-01</lastFoscDate>
+    <lastFoscNumber>42</lastFoscNumber>
+    <lastFoscSequence>1004578302</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

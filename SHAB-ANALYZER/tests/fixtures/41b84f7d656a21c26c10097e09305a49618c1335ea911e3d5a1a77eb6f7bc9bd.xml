@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>af985740-2dc9-42ae-b63b-417591df3097</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004853614</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Holding Privé Roubaty &amp; Cie, Saint-Prex</de>
+    <en>Change Holding Privé Roubaty &amp; Cie, Saint-Prex</en>
+    <it>Cambiamenti Holding Privé Roubaty &amp; Cie, Saint-Prex</it>
+    <fr>Mutation Holding Privé Roubaty &amp; Cie, Saint-Prex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4919</journalNumber>
+  <journalDate>2020-03-11</journalDate>
+  <publicationText>Holding Privé Roubaty &amp; Cie, à Saint-Prex, CHE-248.431.865, Société en commandite (FOSC du 02.03.2016, p. 0/2699857). Le montant de la commandite de l'associée Compagnie Financière Roubaty &amp; Co (CHE-484.191.362) est réduit de CHF 50'000 à CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Holding Privé Roubaty &amp; Cie</name>
+      <uid>CHE-248.431.865</uid>
+      <uidOrganisationId>248431865</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011514579</code13>
+      <seat>Saint-Prex</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Vegney 2 bis</street>
+        <swissZipCode>1162</swissZipCode>
+        <town>St-Prex</town>
+      </address>
+    </company>
+    <purpose>participation financière à d'autres entreprises; gestion et administration d'un patrimoine commun des associés; la société s'interdit de procéder à des opérations commerciales avec des tiers.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Holding Privé Roubaty &amp; Cie</name>
+      <uid>CHE-248.431.865</uid>
+      <uidOrganisationId>248431865</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011514579</code13>
+      <seat>Saint-Prex</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Vegney 2 bis</street>
+        <swissZipCode>1162</swissZipCode>
+        <town>St-Prex</town>
+      </address>
+    </company>
+    <purpose>participation financière à d'autres entreprises; gestion et administration d'un patrimoine commun des associés; la société s'interdit de procéder à des opérations commerciales avec des tiers.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-03-02</lastFoscDate>
+    <lastFoscNumber>43</lastFoscNumber>
+    <lastFoscSequence>2699857</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
