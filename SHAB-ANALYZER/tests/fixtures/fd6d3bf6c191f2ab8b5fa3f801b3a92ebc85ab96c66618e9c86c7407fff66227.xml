@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>f34352f8-474e-44e6-a04a-0c5750123acd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004855700</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Mont-Olivet SA, Vich</de>
+    <en>Change Mont-Olivet SA, Vich</en>
+    <it>Cambiamenti Mont-Olivet SA, Vich</it>
+    <fr>Mutation Mont-Olivet SA, Vich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5143</journalNumber>
+  <journalDate>2020-03-13</journalDate>
+  <publicationText>Mont-Olivet SA, à Vich, CHE-107.039.392 (FOSC du 18.12.2019, p. 0/1004787070). Signature collective à deux, toutefois entre elles ou avec Brackensieck (nom d'usage Jean) Hélène, Flippe Corinne ou Fluhr Christine, est conférée à Guérin Aurélien, de France, à Begnins, directeur, et Rieche Annette, d'Allemagne, à Begnins, sous-directrice. Procuration collective à deux, toutefois entre elles ou avec Guérin Aurélien et Rieche Annette, est conférée à Brackensieck (nom d'usage Jean) Hélène, de France, à Cossonay, Flippe Corinne, de St. Antoni, à Nyon, et Fluhr Christine, de Sirnach, à Rolle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mont-Olivet SA</name>
+      <uid>CHE-107.039.392</uid>
+      <uidOrganisationId>107039392</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001671556</code13>
+      <seat>Vich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin Crétanaux</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1267</swissZipCode>
+        <town>Vich</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'organisation, l'exploitation et la gestion d'écoles, notamment la succursale de l'Institut Catholique Mont-Olivet (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mont-Olivet SA</name>
+      <uid>CHE-107.039.392</uid>
+      <uidOrganisationId>107039392</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001671556</code13>
+      <seat>Vich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin Crétanaux</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1267</swissZipCode>
+        <town>Vich</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'organisation, l'exploitation et la gestion d'écoles, notamment la succursale de l'Institut Catholique Mont-Olivet (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-18</lastFoscDate>
+    <lastFoscNumber>245</lastFoscNumber>
+    <lastFoscSequence>1004787070</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
