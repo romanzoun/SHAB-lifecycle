@@ -430,6 +430,20 @@ def _parse_task_id(text: str) -> str | None:
 
 
 def run_codex_cloud(prompt: str, env_id: str, timeout: int) -> None:
+    repo = subprocess.run(
+        ["git", "rev-parse", "--is-inside-work-tree"],
+        cwd=str(ANALYZER_ROOT),
+        capture_output=True,
+        text=True,
+        timeout=30,
+        check=False,
+    )
+    if repo.returncode != 0 or repo.stdout.strip() != "true":
+        raise RuntimeError(
+            "Cloud-Modus braucht ein lokales Git-Repository für codex cloud apply. "
+            "Kein Cloud-Auftrag gestartet; lokalen Engine-Modus verwenden."
+        )
+    SAMPLE_DIR.mkdir(parents=True, exist_ok=True)
     _log(f"starte Codex Cloud (codex cloud exec --env {env_id})")
     proc = subprocess.run(
         ["codex", "cloud", "exec", "--env", env_id, prompt],
@@ -445,17 +459,7 @@ def run_codex_cloud(prompt: str, env_id: str, timeout: int) -> None:
         raise CodexUnavailable(f"codex cloud exec exit {proc.returncode}: {blob[-2000:]}")
     task_id = _parse_task_id(blob)
     if not task_id:
-        listed = subprocess.run(
-            ["codex", "cloud", "list", "--env", env_id, "--json", "--limit", "1"],
-            capture_output=True,
-            text=True,
-            timeout=30,
-            check=False,
-        )
-        (SAMPLE_DIR / "cloud_list.json").write_text(listed.stdout or listed.stderr or "")
-        task_id = _parse_task_id(listed.stdout or "")
-    if not task_id:
-        raise RuntimeError("keine Cloud-Task-ID in exec/list Output")
+        raise RuntimeError("keine Cloud-Task-ID in exec Output — kein fremder Auftrag wird übernommen")
     _log(f"Cloud-Task {task_id}, warte auf complete")
     deadline = time.monotonic() + timeout
     while time.monotonic() < deadline:
