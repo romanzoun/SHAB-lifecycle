@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>b5817726-db90-41ea-8615-008eee8f313f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004859652</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Tschiemer Service AG, Düdingen</de>
+    <en>Change Tschiemer Service AG, Düdingen</en>
+    <it>Cambiamenti Tschiemer Service AG, Düdingen</it>
+    <fr>Mutation Tschiemer Service AG, Düdingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1961</journalNumber>
+  <journalDate>2020-03-20</journalDate>
+  <publicationText>Tschiemer Service AG, in Düdingen, CHE-105.968.665 (SHAB vom 10.12.2019, s. 0/1004779388). Gelöschte weiteren Adressen: Murten, Fin du Mossard, 3280 Murten, Route d'Onnens 46, 1740 Neyruz FR. Abspaltung: Ein Teil der Aktiven und Passiven gehen gemäss Spaltungsplan vom 09.03.2020 auf die Tschiemer AG, in Düdingen (CHE-102.646.886) über.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Tschiemer Service AG</name>
+      <translations>(Tschiemer Service SA)</translations>
+      <uid>CHE-105.968.665</uid>
+      <uidOrganisationId>105968665</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706200049</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Duensstrasse</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Handel, Reparaturen und Vermietung von Maschinen, Fahrzeugen und Geräten aller Art, insbesondere für den Liegenschaftsunterhalt. Die Gesellschaft kann Liegenschaften erwerben, vermieten und verwalten oder sich an solchen beteiligen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Tschiemer Service AG</name>
+      <translations>(Tschiemer Service SA)</translations>
+      <uid>CHE-105.968.665</uid>
+      <uidOrganisationId>105968665</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706200049</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Duensstrasse</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Handel, Reparaturen und Vermietung von Maschinen, Fahrzeugen und Geräten aller Art, insbesondere für den Liegenschaftsunterhalt. Die Gesellschaft kann Liegenschaften erwerben, vermieten und verwalten oder sich an solchen beteiligen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-10</lastFoscDate>
+    <lastFoscNumber>239</lastFoscNumber>
+    <lastFoscSequence>1004779388</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
