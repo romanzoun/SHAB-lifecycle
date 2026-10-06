@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>d561d4c7-fb3d-4cd5-a159-b4c1256a6d39</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004860955</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Interpeace, Genève</de>
+    <en>Change Interpeace, Genève</en>
+    <it>Cambiamenti Interpeace, Genève</it>
+    <fr>Mutation Interpeace, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5790</journalNumber>
+  <journalDate>2020-03-23</journalDate>
+  <publicationText>Interpeace, à Genève, CHE-109.994.012 (FOSC du 19.08.2019, p. 0/1004698594). Abuom Agnes, du Kenya, à Naraibo, KEN, est membre du comité, sans signature sociale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Interpeace</name>
+      <uid>CHE-109.994.012</uid>
+      <uidOrganisationId>109994012</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66018710025</code13>
+      <seat>Genève</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Maison de la Paix, chemin Eugène-Rigot</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1202</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>renforcer les capacités des sociétés à gérer les conflits de manière non violente et non coercitive en aidant les acteurs nationaux dans leurs efforts pour développer la cohésion sociale et politique, et aider la communauté internationale (et en particulier les Nations Unies) à jouer un rôle plus efficace pour soutenir les efforts de consolidation de la paix dans le monde (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Interpeace</name>
+      <uid>CHE-109.994.012</uid>
+      <uidOrganisationId>109994012</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66018710025</code13>
+      <seat>Genève</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Maison de la Paix, chemin Eugène-Rigot</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1202</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>renforcer les capacités des sociétés à gérer les conflits de manière non violente et non coercitive en aidant les acteurs nationaux dans leurs efforts pour développer la cohésion sociale et politique, et aider la communauté internationale (et en particulier les Nations Unies) à jouer un rôle plus efficace pour soutenir les efforts de consolidation de la paix dans le monde (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-08-19</lastFoscDate>
+    <lastFoscNumber>158</lastFoscNumber>
+    <lastFoscSequence>1004698594</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

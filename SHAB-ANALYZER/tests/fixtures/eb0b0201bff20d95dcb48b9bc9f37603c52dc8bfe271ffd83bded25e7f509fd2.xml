@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>c79d303e-d05f-4004-ba50-48d82e0f2eca</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004847106</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-03-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Bureau d'ingénieurs et d'économistes Proxima, Soria fils et Cie, La Chaux-de-Fonds</de>
+    <en>Change Bureau d'ingénieurs et d'économistes Proxima, Soria fils et Cie, La Chaux-de-Fonds</en>
+    <it>Cambiamenti Bureau d'ingénieurs et d'économistes Proxima, Soria fils et Cie, La Chaux-de-Fonds</it>
+    <fr>Mutation Bureau d'ingénieurs et d'économistes Proxima, Soria fils et Cie, La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>741</journalNumber>
+  <journalDate>2020-03-03</journalDate>
+  <publicationText>Bureau d'ingénieurs et d'économistes Proxima, Soria fils et Cie, à La Chaux-de-Fonds, CHE-101.818.765 (FOSC du 19.12.2013, p. 0/7225830). Le nom exacte de Soria Fernando (fils) est Soria Alba Fernando Gaspar.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bureau d'ingénieurs et d'économistes Proxima, Soria fils et Cie</name>
+      <uid>CHE-101.818.765</uid>
+      <uidOrganisationId>101818765</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510076174</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Crêtets</street>
+        <houseNumber>89</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>bureau d'ingénieurs et d'économistes traitant de l'environnement et de la finance.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bureau d'ingénieurs et d'économistes Proxima, Soria fils et Cie</name>
+      <uid>CHE-101.818.765</uid>
+      <uidOrganisationId>101818765</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510076174</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Crêtets</street>
+        <houseNumber>89</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>bureau d'ingénieurs et d'économistes traitant de l'environnement et de la finance.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225830</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
