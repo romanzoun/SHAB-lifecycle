@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>8528070d-d778-4e5a-b8af-bf585c6fc1d5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004874977</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Limo, Inhaber Tahiri, Kloten</de>
+    <en>Change Limo, Inhaber Tahiri, Kloten</en>
+    <it>Cambiamenti Limo, Inhaber Tahiri, Kloten</it>
+    <fr>Mutation Limo, Inhaber Tahiri, Kloten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15079</journalNumber>
+  <journalDate>2020-04-17</journalDate>
+  <publicationText>Limo, Inhaber Tahiri, in Kloten, CHE-212.381.336, Einzelunternehmen (SHAB Nr. 70 vom 09.04.2020, Publ. 1004868873). Das Einzelunternehmen wurde mit TR-Eintrag Nr. 13835 vom 06.04.2020, publiziert im SHAB Nr. 70 vom 09.04.2020, irrtümlich gelöscht. Der genannte Löschungseintrag wird deshalb widerrufen. [bisher: Der Geschäftsbetrieb hat aufgehört. Das Einzelunternehmen wird von Amtes wegen gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Limo, Inhaber Tahiri</name>
+      <uid>CHE-212.381.336</uid>
+      <uidOrganisationId>212381336</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010808947</code13>
+      <seat>Kloten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schürbungertweg</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>8302</swissZipCode>
+        <town>Kloten</town>
+      </address>
+    </company>
+    <purpose>Das Einzelunternehmen bezweckt die Durchführung von Taxi- und Limousinenfahrten, In- und Auslandfahrten, Chauffeurservice, Behindertentransporte und Begleitservice, allgemeinen Transport und Transferarbeiten wie Schultransporte und Flughafentransfers, Kurier- und Hauslieferdienste.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Limo, Inhaber Tahiri</name>
+      <uid>CHE-212.381.336</uid>
+      <uidOrganisationId>212381336</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010808947</code13>
+      <seat>Kloten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schürbungertweg</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>8302</swissZipCode>
+        <town>Kloten</town>
+      </address>
+    </company>
+    <purpose>Das Einzelunternehmen bezweckt die Durchführung von Taxi- und Limousinenfahrten, In- und Auslandfahrten, Chauffeurservice, Behindertentransporte und Begleitservice, allgemeinen Transport und Transferarbeiten wie Schultransporte und Flughafentransfers, Kurier- und Hauslieferdienste.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-09</lastFoscDate>
+    <lastFoscNumber>70</lastFoscNumber>
+    <lastFoscSequence>1004868873</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

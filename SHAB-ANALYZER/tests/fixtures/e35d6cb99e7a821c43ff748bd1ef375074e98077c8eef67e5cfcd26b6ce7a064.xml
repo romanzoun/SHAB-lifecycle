@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>7775c4ee-04e3-4791-8da0-d00144ee6b4e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004869307</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation HIRT &amp; PARTNER, Liestal</de>
+    <en>Change HIRT &amp; PARTNER, Liestal</en>
+    <it>Cambiamenti HIRT &amp; PARTNER, Liestal</it>
+    <fr>Mutation HIRT &amp; PARTNER, Liestal</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1799</journalNumber>
+  <journalDate>2020-04-06</journalDate>
+  <publicationText>HIRT &amp; PARTNER, in Liestal, CHE-157.189.148, Kollektivgesellschaft (SHAB Nr. 203 vom 21.10.2019, Publ. 1004741612). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 02.04.2020 Aktiven von CHF 59'471'126.58 und Passiven (Fremdkapital) von CHF 50'499'063.90 auf die "Zedrima AG" (CHE-108.014.420), in Basel. Gegenleistung: Lebenslängliche und kautionsfreie Nutzniessung an Parzelle 1780, Grundbuch Liestal und ein unverzinsliches und sicherstellungsfreies Darlehen zu Gunsten von Silvia Clara und Andreas Carl Hirt im Betrag von CHF 8'676'709.67.</publicationText>
+  <commonsNew>
+    <company>
+      <name>HIRT &amp; PARTNER</name>
+      <uid>CHE-157.189.148</uid>
+      <uidOrganisationId>157189148</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27020029000</code13>
+      <seat>Liestal</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rosenfeldstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>4410</swissZipCode>
+        <town>Liestal</town>
+      </address>
+    </company>
+    <purpose>Entwicklung und Verwaltung von Immobilien.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>HIRT &amp; PARTNER</name>
+      <uid>CHE-157.189.148</uid>
+      <uidOrganisationId>157189148</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27020029000</code13>
+      <seat>Liestal</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rosenfeldstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>4410</swissZipCode>
+        <town>Liestal</town>
+      </address>
+    </company>
+    <purpose>Entwicklung und Verwaltung von Immobilien.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-21</lastFoscDate>
+    <lastFoscNumber>203</lastFoscNumber>
+    <lastFoscSequence>1004741612</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

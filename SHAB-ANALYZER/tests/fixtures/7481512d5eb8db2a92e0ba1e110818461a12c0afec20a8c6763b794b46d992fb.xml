@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>78123da3-15fa-48d9-a4e3-84111f050af7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004878672</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Flanca AG, Chur</de>
+    <en>Change Flanca AG, Chur</en>
+    <it>Cambiamenti Flanca AG, Chur</it>
+    <fr>Mutation Flanca AG, Chur</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2084</journalNumber>
+  <journalDate>2020-04-23</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 79 vom 24.04.2020 publizierten TR-Eintrag Nr. 2'038 vom 21.04.2020 Flanca AG, in Chur, CHE-101.075.981, Aktiengesellschaft (SHAB Nr. 79 vom 24.04.2020, Publ. 1004876834). Die Gesellschaft ist ohne Rechtsdomizil. [bisher: Die Gesellschaft ist nun ohne Verwaltungsorgan und ohne Rechtsdomizil.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Flanca AG</name>
+      <uid>CHE-101.075.981</uid>
+      <uidOrganisationId>101075981</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030065126</code13>
+      <seat>Chur</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Erstellung, Erwerb, Veräusserung und Vermietung von Liegenschaften und Grundstücken, Verwaltung von Immobilien und anderen Vermögenswerten; die Gesellschaft kann alle Geschäfte eingehen, Verträge abschliessen und Darlehen gewähren, die geeignet sind, den Zweck der Gesellschaft zu fördern und kann Zweigniederlassungen im In- und Ausland errichten und sich an anderen Unternehmungen beteiligen oder sich mit diesen zusammenschliessen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Flanca AG</name>
+      <uid>CHE-101.075.981</uid>
+      <uidOrganisationId>101075981</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030065126</code13>
+      <seat>Chur</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Erstellung, Erwerb, Veräusserung und Vermietung von Liegenschaften und Grundstücken, Verwaltung von Immobilien und anderen Vermögenswerten; die Gesellschaft kann alle Geschäfte eingehen, Verträge abschliessen und Darlehen gewähren, die geeignet sind, den Zweck der Gesellschaft zu fördern und kann Zweigniederlassungen im In- und Ausland errichten und sich an anderen Unternehmungen beteiligen oder sich mit diesen zusammenschliessen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-24</lastFoscDate>
+    <lastFoscNumber>79</lastFoscNumber>
+    <lastFoscSequence>1004876834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
