@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>966abc8e-cbaf-4e29-88dc-1cbd04e0704c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004881314</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BL</cantons>
+  <title>
+    <de>Mutation Hammel Invest AG, Liestal</de>
+    <en>Change Hammel Invest AG, Liestal</en>
+    <it>Cambiamenti Hammel Invest AG, Liestal</it>
+    <fr>Mutation Hammel Invest AG, Liestal</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2167</journalNumber>
+  <journalDate>2020-04-28</journalDate>
+  <publicationText>Hammel Invest AG, in Liestal, CHE-113.006.194, Aktiengesellschaft (SHAB Nr. 126 vom 03.07.2018, Publ. 4331847). Vermögensübertragung: Die Aktiengesellschaft überträgt gemäss Vertrag vom 17.04.2020 240 Namenaktien zu CHF 1'000.00 der "TRETOR AG" (CHE-108.227.200), in Liestal, auf die "Hammel Consulting AG" (CHE-245.605.666), in Liestal, zum Preis von CHF 2'991'200.00. Gegenleistung: keine.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hammel Invest AG</name>
+      <uid>CHE-113.006.194</uid>
+      <uidOrganisationId>113006194</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH14040028497</code13>
+      <seat>Liestal</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>4410</swissZipCode>
+        <town>Liestal</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Consulting-Dienstleistungen, insbesondere in den Bereichen Unternehmensberatung, Unternehmensfinananzierung und Steuerberatung. Die Gesellschaft kann Darlehen gewähren, sich an anderen Unternehmungen beteiligen sowie Grundeigentum erwerben und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hammel Invest AG</name>
+      <uid>CHE-113.006.194</uid>
+      <uidOrganisationId>113006194</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH14040028497</code13>
+      <seat>Liestal</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>4410</swissZipCode>
+        <town>Liestal</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Consulting-Dienstleistungen, insbesondere in den Bereichen Unternehmensberatung, Unternehmensfinananzierung und Steuerberatung. Die Gesellschaft kann Darlehen gewähren, sich an anderen Unternehmungen beteiligen sowie Grundeigentum erwerben und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-03</lastFoscDate>
+    <lastFoscNumber>126</lastFoscNumber>
+    <lastFoscSequence>4331847</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Landschaft</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

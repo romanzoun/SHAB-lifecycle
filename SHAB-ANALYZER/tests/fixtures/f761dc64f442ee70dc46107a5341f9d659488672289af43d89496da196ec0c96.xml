@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>932eddd9-82b4-48e3-adf7-995a6fba343e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004890078</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation FONDATION FOYER-HANDICAP, Carouge (GE)</de>
+    <en>Change FONDATION FOYER-HANDICAP, Carouge (GE)</en>
+    <it>Cambiamenti FONDATION FOYER-HANDICAP, Carouge (GE)</it>
+    <fr>Mutation FONDATION FOYER-HANDICAP, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7569</journalNumber>
+  <journalDate>2020-05-11</journalDate>
+  <publicationText>FONDATION FOYER-HANDICAP, à Carouge (GE), CHE-109.069.145 (FOSC du 04.05.2020, p. 0/1004882686). Turrettini Charles Jean, nommé vice-président du conseil, signe désormais collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>FONDATION FOYER-HANDICAP</name>
+      <uid>CHE-109.069.145</uid>
+      <uidOrganisationId>109069145</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005840010</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Caroubiers 3 bis</street>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>promouvoir les valeurs de respect, de dignité et de valorisation des personnes dont la mobilité est réduite; contribuer au bien-être des personnes à mobilité réduite, atteinte d'un handicap qui est lié à des lésions cérébrales ou médullaires ou à des maladies chroniques évolutives, ou encore à des accidents. (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FONDATION FOYER-HANDICAP</name>
+      <uid>CHE-109.069.145</uid>
+      <uidOrganisationId>109069145</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005840010</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Caroubiers 3 bis</street>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>promouvoir les valeurs de respect, de dignité et de valorisation des personnes dont la mobilité est réduite; contribuer au bien-être des personnes à mobilité réduite, atteinte d'un handicap qui est lié à des lésions cérébrales ou médullaires ou à des maladies chroniques évolutives, ou encore à des accidents. (cf. statuts pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-04</lastFoscDate>
+    <lastFoscNumber>85</lastFoscNumber>
+    <lastFoscSequence>1004882686</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
