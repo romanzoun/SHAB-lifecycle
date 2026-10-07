@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>e8b63162-43e1-47a5-a21e-2846d8e5c453</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004867931</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation CHIONE Switzerland SA, Genève</de>
+    <en>Change CHIONE Switzerland SA, Genève</en>
+    <it>Cambiamenti CHIONE Switzerland SA, Genève</it>
+    <fr>Mutation CHIONE Switzerland SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6155</journalNumber>
+  <journalDate>2020-04-02</journalDate>
+  <publicationText>CHIONE Switzerland SA, à Genève, CHE-394.699.495 (FOSC du 20.02.2020, p. 0/1004835448). L'inscription 3400 du 20.02.2020 est rectifiée en ce sens que le contrat d'apport date du 16.10.2019 et non pas du 16.10.2016.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CHIONE Switzerland SA</name>
+      <uid>CHE-394.699.495</uid>
+      <uidOrganisationId>394699495</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66032520195</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de Longemalle</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>acquisition, détention, gestion et vente de participations dans toutes sortes de sociétés ainsi que la fourniture de prestations de service se rapportant directement ou indirectement au but social (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>7800000.00</nominal>
+      <paid>7800000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CHIONE Switzerland SA</name>
+      <uid>CHE-394.699.495</uid>
+      <uidOrganisationId>394699495</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66032520195</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de Longemalle</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>acquisition, détention, gestion et vente de participations dans toutes sortes de sociétés ainsi que la fourniture de prestations de service se rapportant directement ou indirectement au but social (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>7800000.00</nominal>
+      <paid>7800000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-20</lastFoscDate>
+    <lastFoscNumber>35</lastFoscNumber>
+    <lastFoscSequence>1004835448</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
