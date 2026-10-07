@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>4c301f9b-231c-4f7b-82ac-acea8677e329</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004898844</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation ANEX Jenni &amp; Partner SA, Lausanne, neu ANEX Jenni &amp; Partner SA en liquidation</de>
+    <en>Change ANEX Jenni &amp; Partner SA, Lausanne, new ANEX Jenni &amp; Partner SA en liquidation</en>
+    <it>Cambiamenti ANEX Jenni &amp; Partner SA, Lausanne, nuovo ANEX Jenni &amp; Partner SA en liquidation</it>
+    <fr>Mutation ANEX Jenni &amp; Partner SA, Lausanne, nouveau ANEX Jenni &amp; Partner SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8305</journalNumber>
+  <journalDate>2020-05-25</journalDate>
+  <publicationText>ANEX Jenni &amp; Partner SA, à Lausanne, CHE-107.967.932 (FOSC du 26.02.2015, p. 0/2012309). Selon décision de son assemblée générale du 19 mai 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: ANEX Jenni &amp; Partner SA en liquidation (ANEX Jenni &amp; Partner AG in Liquidation) (ANEX Jenni &amp; Partner Ltd in liquidation). L'administrateur Wicki Kurt est élu liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ANEX Jenni &amp; Partner SA en liquidation</name>
+      <translations>(ANEX Jenni &amp; Partner AG in Liquidation) (ANEX Jenni &amp; Partner Ltd in liquidation)</translations>
+      <uid>CHE-107.967.932</uid>
+      <uidOrganisationId>107967932</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030002434</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o IBC Insurance Broking and Consulting S.A.</addressLine1>
+        <street>Avenue de Gratta-Paille</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1018</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but de fournir des prestations d'assurance et de réassurance en tant que courtier autorisé par Lloyd's (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ANEX Jenni &amp; Partner SA</name>
+      <translations>(ANEX Jenni &amp; Partner AG) (ANEX Jenni &amp; Partner Ltd)</translations>
+      <uid>CHE-107.967.932</uid>
+      <uidOrganisationId>107967932</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030002434</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o IBC Insurance Broking and Consulting S.A.</addressLine1>
+        <street>Avenue de Gratta-Paille</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1018</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but de fournir des prestations d'assurance et de réassurance en tant que courtier autorisé par Lloyd's (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-02-26</lastFoscDate>
+    <lastFoscNumber>39</lastFoscNumber>
+    <lastFoscSequence>2012309</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

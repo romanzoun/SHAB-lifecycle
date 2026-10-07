@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>5bab28af-63d3-4973-9087-9083275cb579</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004897348</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Pes SA, Chêne-Bourg</de>
+    <en>Change Pes SA, Chêne-Bourg</en>
+    <it>Cambiamenti Pes SA, Chêne-Bourg</it>
+    <fr>Mutation Pes SA, Chêne-Bourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8144</journalNumber>
+  <journalDate>2020-05-20</journalDate>
+  <publicationText>Pes SA, à Chêne-Bourg, CHE-103.571.216 (FOSC du 12.01.2015, p. 0/1922339). Administration: Keller Aeby Rose-Maria Monica, de Erlen, à Thônex, présidente avec signature individuelle, de Trentinian Jean Edgar, nommé délégué, et Buttex Cédric, de Valbroye, à Coppet, secrétaire, lesquels signent collectivement à deux; les pouvoirs de Trentinian Jean Edgar sont modifiés en ce sens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pes SA</name>
+      <uid>CHE-103.571.216</uid>
+      <uidOrganisationId>103571216</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002749920</code13>
+      <seat>Chêne-Bourg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Gravière</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1225</swissZipCode>
+        <town>Chêne-Bourg</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de peinture, d'entretien, de service et de prestations s'y rapportant (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pes SA</name>
+      <uid>CHE-103.571.216</uid>
+      <uidOrganisationId>103571216</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002749920</code13>
+      <seat>Chêne-Bourg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Gravière</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1225</swissZipCode>
+        <town>Chêne-Bourg</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de peinture, d'entretien, de service et de prestations s'y rapportant (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-01-12</lastFoscDate>
+    <lastFoscNumber>6</lastFoscNumber>
+    <lastFoscSequence>1922339</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
