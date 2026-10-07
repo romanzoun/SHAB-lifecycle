@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>5fb6f175-79df-4577-a3ab-a54c57f7fd11</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004887845</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Fondazione Centro Agra in liquidazione, Collina d'Oro</de>
+    <en>Change Fondazione Centro Agra in liquidazione, Collina d'Oro</en>
+    <it>Cambiamenti Fondazione Centro Agra in liquidazione, Collina d'Oro</it>
+    <fr>Mutation Fondazione Centro Agra in liquidazione, Collina d'Oro</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5842</journalNumber>
+  <journalDate>2020-05-07</journalDate>
+  <publicationText>Fondazione Centro Agra in liquidazione, in Collina d'Oro, CHE-106.294.220, fondazione (Nr. FUSC 186 del 26.09.2018, Pubbl. 1004463374). Con decisione del Dipartimento federale dell'intero in Berna del 28.02.2020 è stata constatata la conclusione della liquidazione, ma la cancellazione non può essere effettuata mancando il consenso delle autorità fiscali federali e cantonali.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondazione Centro Agra in liquidazione</name>
+      <uid>CHE-106.294.220</uid>
+      <uidOrganisationId>106294220</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51470100580</code13>
+      <seat>Collina d'Oro</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <swissZipCode>6927</swissZipCode>
+        <town>Agra</town>
+      </address>
+    </company>
+    <purpose>La gestione ad Agra di un centro per l'assistenza a handicappati, invalidi e persone particolarmente indigenti, bisognose di cure e di ristoro.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondazione Centro Agra in liquidazione</name>
+      <uid>CHE-106.294.220</uid>
+      <uidOrganisationId>106294220</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51470100580</code13>
+      <seat>Collina d'Oro</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <swissZipCode>6927</swissZipCode>
+        <town>Agra</town>
+      </address>
+    </company>
+    <purpose>La gestione ad Agra di un centro per l'assistenza a handicappati, invalidi e persone particolarmente indigenti, bisognose di cure e di ristoro.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-26</lastFoscDate>
+    <lastFoscNumber>186</lastFoscNumber>
+    <lastFoscSequence>1004463374</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

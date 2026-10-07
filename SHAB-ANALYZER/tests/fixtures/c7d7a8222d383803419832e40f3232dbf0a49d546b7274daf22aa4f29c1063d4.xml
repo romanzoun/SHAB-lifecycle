@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>76185e70-0899-4668-9488-20da3210c61b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004892073</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Auto-Moto Leal Sàrl en liquidation, Val-de-Ruz, neu Auto-Moto Leal Sàrl</de>
+    <en>Change Auto-Moto Leal Sàrl en liquidation, Val-de-Ruz, new Auto-Moto Leal Sàrl</en>
+    <it>Cambiamenti Auto-Moto Leal Sàrl en liquidation, Val-de-Ruz, nuovo Auto-Moto Leal Sàrl</it>
+    <fr>Mutation Auto-Moto Leal Sàrl en liquidation, Val-de-Ruz, nouveau Auto-Moto Leal Sàrl</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1379</journalNumber>
+  <journalDate>2020-05-13</journalDate>
+  <publicationText>Auto-Moto Leal Sàrl en liquidation, à Val-de-Ruz, CHE-381.016.992 (FOSC du 13.05.2020, p. 0/1004889056). Par ordonnance du 07.05.2020, le Tribunal cantonal a suspendu l'exécution du jugement de faillite rendu le 22.04.2020. Par conséquent sa raison sociale redevient: Auto-Moto Leal Sàrl.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Auto-Moto Leal Sàrl</name>
+      <uid>CHE-381.016.992</uid>
+      <uidOrganisationId>381016992</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541154883</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Savagnier, La Rincieure</street>
+        <houseNumber>1A</houseNumber>
+        <swissZipCode>2065</swissZipCode>
+        <town>Savagnier</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un garage; achat, vente, entretien et réparation de véhicules de toute sorte, notamment voitures, motos et véhicules utilitaires; commerce de pneus et de pièces détachées (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Auto-Moto Leal Sàrl en liquidation</name>
+      <uid>CHE-381.016.992</uid>
+      <uidOrganisationId>381016992</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541154883</code13>
+      <seat>Val-de-Ruz</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Savagnier, La Rincieure</street>
+        <houseNumber>1A</houseNumber>
+        <swissZipCode>2065</swissZipCode>
+        <town>Savagnier</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un garage; achat, vente, entretien et réparation de véhicules de toute sorte, notamment voitures, motos et véhicules utilitaires; commerce de pneus et de pièces détachées (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-13</lastFoscDate>
+    <lastFoscNumber>92</lastFoscNumber>
+    <lastFoscSequence>1004889056</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

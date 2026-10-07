@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>66815f40-b1c1-406f-ad00-758a407493b7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004888102</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation LA ROCCA BUREAU FIDUCIAIRE, Carouge (GE)</de>
+    <en>Change LA ROCCA BUREAU FIDUCIAIRE, Carouge (GE)</en>
+    <it>Cambiamenti LA ROCCA BUREAU FIDUCIAIRE, Carouge (GE)</it>
+    <fr>Mutation LA ROCCA BUREAU FIDUCIAIRE, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7431</journalNumber>
+  <journalDate>2020-05-07</journalDate>
+  <publicationText>LA ROCCA BUREAU FIDUCIAIRE, à Carouge (GE), CHE-111.777.688 (FOSC du 03.04.2018, p. 0/4146827). La Rocca Gabriella maintenant domiciliée à Chens-sur-Léman, FRA.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LA ROCCA BUREAU FIDUCIAIRE</name>
+      <uid>CHE-111.777.688</uid>
+      <uidOrganisationId>111777688</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66015310041</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Filature</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>bureau fiduciaire.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LA ROCCA BUREAU FIDUCIAIRE</name>
+      <uid>CHE-111.777.688</uid>
+      <uidOrganisationId>111777688</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66015310041</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Filature</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>bureau fiduciaire.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-03</lastFoscDate>
+    <lastFoscNumber>63</lastFoscNumber>
+    <lastFoscSequence>4146827</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
