@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>0521a221-dd3e-43a2-badd-c49c05960875</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004900007</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Caisse de retraite de de Rham Immobilier, Lausanne, neu Caisse de retraite de de Rham Immobilier en liquidation</de>
+    <en>Change Caisse de retraite de de Rham Immobilier, Lausanne, new Caisse de retraite de de Rham Immobilier en liquidation</en>
+    <it>Cambiamenti Caisse de retraite de de Rham Immobilier, Lausanne, nuovo Caisse de retraite de de Rham Immobilier en liquidation</it>
+    <fr>Mutation Caisse de retraite de de Rham Immobilier, Lausanne, nouveau Caisse de retraite de de Rham Immobilier en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8379</journalNumber>
+  <journalDate>2020-05-26</journalDate>
+  <publicationText>Caisse de retraite de de Rham Immobilier, à Lausanne, CHE-109.789.400 (FOSC du 04.02.2019, p. 0/1004557982). L'Autorité de surveillance LPP et des fondations de Suisse occidentale a constaté la dissolution de la fondation par décision du 25 février 2020. La liquidation est opérée sous le nom: Caisse de retraite de de Rham Immobilier en liquidation. Vaucher Denis, Diserens Julien, Morard Jean-Jacques, Morel Fabrice, Moser Olivier et Santarella Mauro sont nommés liquidateurs avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Caisse de retraite de de Rham Immobilier en liquidation</name>
+      <uid>CHE-109.789.400</uid>
+      <uidOrganisationId>109789400</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001595832</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o de Rham SA</addressLine1>
+        <street>Avenue Mon-Repos</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la caisse a pour but d'assurer le personnel des sociétés groupées au sein d'Yteqam SA sous les raisons sociales Yteqam SA, de Rham SA et DR Invest SA contre les conséquences économiques de la retraite, de l'invalidité et de la mort, en assurant des prestations fixées par voie réglementaire (pour but complet cf. acte de fondation).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Caisse de retraite de de Rham Immobilier</name>
+      <uid>CHE-109.789.400</uid>
+      <uidOrganisationId>109789400</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001595832</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o de Rham SA</addressLine1>
+        <street>Avenue Mon-Repos</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la caisse a pour but d'assurer le personnel des sociétés groupées au sein d'Yteqam SA sous les raisons sociales Yteqam SA, de Rham SA et DR Invest SA contre les conséquences économiques de la retraite, de l'invalidité et de la mort, en assurant des prestations fixées par voie réglementaire (pour but complet cf. acte de fondation).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-04</lastFoscDate>
+    <lastFoscNumber>23</lastFoscNumber>
+    <lastFoscSequence>1004557982</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

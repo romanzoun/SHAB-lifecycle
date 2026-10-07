@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>09bafc4a-8f8a-4850-9788-8f8b7398f605</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004881576</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Mariana Hodina Sàrl, Villeneuve (VD), neu Mariana Hodina Sàrl en liquidation</de>
+    <en>Change Mariana Hodina Sàrl, Villeneuve (VD), new Mariana Hodina Sàrl en liquidation</en>
+    <it>Cambiamenti Mariana Hodina Sàrl, Villeneuve (VD), nuovo Mariana Hodina Sàrl en liquidation</it>
+    <fr>Mutation Mariana Hodina Sàrl, Villeneuve (VD), nouveau Mariana Hodina Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7034</journalNumber>
+  <journalDate>2020-04-28</journalDate>
+  <publicationText>Mariana Hodina Sàrl, à Villeneuve (VD), CHE-440.907.032 (FOSC du 19.12.2013, p. 0/7225834). Selon décision de son assemblée des associés du 22 avril 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Mariana Hodina Sàrl en liquidation. L'associée-gérante Hodina Grecu Mariana, désormais de Montreux, est nommée liquidatrice avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mariana Hodina Sàrl en liquidation</name>
+      <uid>CHE-440.907.032</uid>
+      <uidOrganisationId>440907032</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011234676</code13>
+      <seat>Villeneuve (VD)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Mariana Hodina Grecu</addressLine1>
+        <street>Chemin du Tortiguet</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1844</swissZipCode>
+        <town>Villeneuve VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'un institut d'imagerie médicale, en particulier en médecine préventive, anti-âge, et le dépistage de cancer "screening" (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mariana Hodina Sàrl</name>
+      <uid>CHE-440.907.032</uid>
+      <uidOrganisationId>440907032</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011234676</code13>
+      <seat>Villeneuve (VD)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Mariana Hodina Grecu</addressLine1>
+        <street>Chemin du Tortiguet</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1844</swissZipCode>
+        <town>Villeneuve VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'un institut d'imagerie médicale, en particulier en médecine préventive, anti-âge, et le dépistage de cancer "screening" (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
