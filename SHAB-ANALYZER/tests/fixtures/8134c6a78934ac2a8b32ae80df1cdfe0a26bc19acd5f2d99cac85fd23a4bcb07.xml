@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>c0d3ff3c-76e6-438a-94e9-08420dd58e00</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004879811</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-04-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Polema (Suisse) SA, Lausanne, neu Polema (Suisse) SA en liquidation</de>
+    <en>Change Polema (Suisse) SA, Lausanne, new Polema (Suisse) SA en liquidation</en>
+    <it>Cambiamenti Polema (Suisse) SA, Lausanne, nuovo Polema (Suisse) SA en liquidation</it>
+    <fr>Mutation Polema (Suisse) SA, Lausanne, nouveau Polema (Suisse) SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6877</journalNumber>
+  <journalDate>2020-04-24</journalDate>
+  <publicationText>Polema (Suisse) SA, à Lausanne, CHE-112.759.919 (FOSC du 11.12.2019, p. 0/1004780911). Selon décision de son assemblée générale du 20 avril 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Polema (Suisse) SA en liquidation (Polema (Schweiz) AG in Liquidation) (Polema (Switzerland) Ltd in liquidation). Les 1'000 actions nominatives de CHF 100, formant l'entier du capital-actions, ne sont désormais plus restreintes quant à la transmissiblité (art. 685a, al. 3 CO). L'administrateur Wilhelm Christophe est élu liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Polema (Suisse) SA en liquidation</name>
+      <translations>(Polema (Schweiz) AG in Liquidation) (Polema (Switzerland) Ltd in liquidation)</translations>
+      <uid>CHE-112.759.919</uid>
+      <uidOrganisationId>112759919</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010461484</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o WILHELM Avocats SA</addressLine1>
+        <street>Avenue de Rumine</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>importation et exportation de métaux, céréales et matières premières.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>BDO SA</name>
+        <country>CH</country>
+        <uid>CHE347141454</uid>
+        <uidOrganisationId>347141454</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Polema (Suisse) SA</name>
+      <translations>(Polema (Schweiz) AG) (Polema (Switzerland) Ltd)</translations>
+      <uid>CHE-112.759.919</uid>
+      <uidOrganisationId>112759919</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010461484</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o WILHELM Avocats SA</addressLine1>
+        <street>Avenue de Rumine</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>importation et exportation de métaux, céréales et matières premières.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>BDO SA</name>
+        <country>CH</country>
+        <uid>CHE347141454</uid>
+        <uidOrganisationId>347141454</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-11</lastFoscDate>
+    <lastFoscNumber>240</lastFoscNumber>
+    <lastFoscSequence>1004780911</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
