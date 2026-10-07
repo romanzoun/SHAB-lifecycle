@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>17674150-872a-42e8-882a-29f0bebae0e7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004883866</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Hirschi Walter, Heitenried</de>
+    <en>Change Hirschi Walter, Heitenried</en>
+    <it>Cambiamenti Hirschi Walter, Heitenried</it>
+    <fr>Mutation Hirschi Walter, Heitenried</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2530</journalNumber>
+  <journalDate>2020-05-01</journalDate>
+  <publicationText>Hirschi Walter, in Heitenried, CHE-101.230.721 (SHAB vom 27.02.2014, s. 0/1370913). Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vertrag vom 20.04.2020 Aktiven von CHF 790'758.48 und Passiven (Fremdkapital) von CHF 334'638.85 auf die Garage Carrosserie Hirschi AG (CHE-303.449.504), in Heitenried. Gegenleistung: 100 Namenaktien zu CHF 1'000 un CHF 356'119.63 als Forderung gutgeschrieben.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hirschi Walter</name>
+      <uid>CHE-101.230.721</uid>
+      <uidOrganisationId>101230721</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21711305891</code13>
+      <seat>Heitenried</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Spisi</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1714</swissZipCode>
+        <town>Heitenried</town>
+      </address>
+    </company>
+    <purpose>Garage, Carrosserie, Pneus, Servicearbeiten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hirschi Walter</name>
+      <uid>CHE-101.230.721</uid>
+      <uidOrganisationId>101230721</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21711305891</code13>
+      <seat>Heitenried</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Spisi</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1714</swissZipCode>
+        <town>Heitenried</town>
+      </address>
+    </company>
+    <purpose>Garage, Carrosserie, Pneus, Servicearbeiten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-02-27</lastFoscDate>
+    <lastFoscNumber>40</lastFoscNumber>
+    <lastFoscSequence>1370913</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

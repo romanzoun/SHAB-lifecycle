@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>1c01ae84-30a0-4082-ac26-faf8c07d2708</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004883555</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Deagostini S.A., Milvignes</de>
+    <en>Change Deagostini S.A., Milvignes</en>
+    <it>Cambiamenti Deagostini S.A., Milvignes</it>
+    <fr>Mutation Deagostini S.A., Milvignes</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1279</journalNumber>
+  <journalDate>2020-04-30</journalDate>
+  <publicationText>Deagostini S.A., à Milvignes, CHE-101.763.064 (FOSC du 20.09.2019, p. 0/1004720938). Administration: Deagostini Olivier Laurent, président, jusqu'ici directeur, Raffaele Tonino, secrétaire, nommé directeur, et Fankhauser Stéphane, de et à Molondin. Signature collective à deux de Deagostini Olivier Laurent ou Fankhauser Stéphane, ou individuelle de Raffaele Tonino; les pouvoirs de ce dernier sont modifiés en ce sens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Deagostini S.A.</name>
+      <uid>CHE-101.763.064</uid>
+      <uidOrganisationId>101763064</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510008720</code13>
+      <seat>Milvignes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Colombier, avenue de la Gare</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2013</swissZipCode>
+        <town>Colombier NE</town>
+      </address>
+    </company>
+    <purpose>travaux de gypserie, plâtrerie et peinture</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Deagostini S.A.</name>
+      <uid>CHE-101.763.064</uid>
+      <uidOrganisationId>101763064</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510008720</code13>
+      <seat>Milvignes</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Colombier, avenue de la Gare</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>2013</swissZipCode>
+        <town>Colombier NE</town>
+      </address>
+    </company>
+    <purpose>travaux de gypserie, plâtrerie et peinture</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-20</lastFoscDate>
+    <lastFoscNumber>182</lastFoscNumber>
+    <lastFoscSequence>1004720938</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

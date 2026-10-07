@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>1b29216a-4e7d-4c0c-befc-0a98f3cee753</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004899706</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Garage Meister, Beringen</de>
+    <en>Change Garage Meister, Beringen</en>
+    <it>Cambiamenti Garage Meister, Beringen</it>
+    <fr>Mutation Garage Meister, Beringen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>822</journalNumber>
+  <journalDate>2020-05-26</journalDate>
+  <publicationText>Garage Meister, in Beringen, CHE-109.395.805, Einzelunternehmen (SHAB Nr. 100 vom 26.05.2020, Publ. 1004896905). Das Obergericht Schaffhausen hat mit Verfügung vom 25.05.2020 der Beschwerde gegen die Verfügung des Kantonsgerichts Schaffhausen vom 18.05.2020 betreffend Konkurseröffnung superprovisorisch die aufschiebende Wirkung zuerkannt. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen. [bisher: Mit Verfügung vom 18.05.2020 hat das Kantonsgericht Schaffhausen über das Vermögen des Inhabers mit Wirkung ab dem 18.05.2020, 11.00 Uhr, den Konkurs eröffnet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Garage Meister</name>
+      <uid>CHE-109.395.805</uid>
+      <uidOrganisationId>109395805</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29010140106</code13>
+      <seat>Beringen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Steinwiesenstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>8222</swissZipCode>
+        <town>Beringen</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Autogarage. Reparatur von Kleingeräten, Booten und Bootsmotoren. Umbauten von Feuerwehrfahrzeugen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Garage Meister</name>
+      <uid>CHE-109.395.805</uid>
+      <uidOrganisationId>109395805</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29010140106</code13>
+      <seat>Beringen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Steinwiesenstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>8222</swissZipCode>
+        <town>Beringen</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Autogarage. Reparatur von Kleingeräten, Booten und Bootsmotoren. Umbauten von Feuerwehrfahrzeugen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-26</lastFoscDate>
+    <lastFoscNumber>100</lastFoscNumber>
+    <lastFoscSequence>1004896905</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

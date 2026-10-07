@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>0f6b4c1a-b08c-48a0-a5a4-066ad164b41a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004883519</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation IBTECH Daniel Magnet Ingénieur-Conseil, Riddes</de>
+    <en>Change IBTECH Daniel Magnet Ingénieur-Conseil, Riddes</en>
+    <it>Cambiamenti IBTECH Daniel Magnet Ingénieur-Conseil, Riddes</it>
+    <fr>Mutation IBTECH Daniel Magnet Ingénieur-Conseil, Riddes</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1582</journalNumber>
+  <journalDate>2020-04-30</journalDate>
+  <publicationText>IBTECH Daniel Magnet Ingénieur-Conseil, à Riddes, CHE-108.306.118, entreprise individuelle (No. FOSC 33 du 18.02.2020, Publ. 1004833246). Par décision du 28.04.2020, le Tribunal Cantonal du Valais a annulé la faillite du titulaire de l'entreprise prononcée le 13.01.2020; l'inscription est rétablie comme ci-devant (FOSC No 82 du 30.04.2013 publ. No 7'169'810).</publicationText>
+  <commonsNew>
+    <company>
+      <name>IBTECH Daniel Magnet Ingénieur-Conseil</name>
+      <uid>CHE-108.306.118</uid>
+      <uidOrganisationId>108306118</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110087253</code13>
+      <seat>Riddes</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>BP</addressLine2>
+        <street>Résidence Nevada II, Appt</street>
+        <houseNumber>307</houseNumber>
+        <postOfficeBoxNumber>37</postOfficeBoxNumber>
+        <swissZipCode>1918</swissZipCode>
+        <town>La Tzoumaz</town>
+      </address>
+    </company>
+    <purpose>bureau d'études et de conseil dans le domaine de l'énergie et des systèmes de gestion de l'énergie et des processus</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IBTECH Daniel Magnet Ingénieur-Conseil</name>
+      <uid>CHE-108.306.118</uid>
+      <uidOrganisationId>108306118</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110087253</code13>
+      <seat>Riddes</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine2>BP</addressLine2>
+        <street>Résidence Nevada II, Appt</street>
+        <houseNumber>307</houseNumber>
+        <postOfficeBoxNumber>37</postOfficeBoxNumber>
+        <swissZipCode>1918</swissZipCode>
+        <town>La Tzoumaz</town>
+      </address>
+    </company>
+    <purpose>bureau d'études et de conseil dans le domaine de l'énergie et des systèmes de gestion de l'énergie et des processus</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-18</lastFoscDate>
+    <lastFoscNumber>33</lastFoscNumber>
+    <lastFoscSequence>1004833246</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

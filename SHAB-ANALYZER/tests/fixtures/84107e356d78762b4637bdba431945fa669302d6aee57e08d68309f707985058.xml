@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>1d8101f8-9085-4f1f-b3ea-68d5ec4d0c6f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004897444</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Coiffeur Marco, Halis Yilmaz, Zürich</de>
+    <en>Change Coiffeur Marco, Halis Yilmaz, Zürich</en>
+    <it>Cambiamenti Coiffeur Marco, Halis Yilmaz, Zürich</it>
+    <fr>Mutation Coiffeur Marco, Halis Yilmaz, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19315</journalNumber>
+  <journalDate>2020-05-22</journalDate>
+  <publicationText>Coiffeur Marco, Halis Yilmaz, in Zürich, CHE-105.730.879, Einzelunternehmen (SHAB Nr. 33 vom 16.02.2001, S.1196). Mit Urteil vom 20.05.2020 hat das Nachlassgericht des Bezirksgerichts Zürich eine COVID-19-Stundung für drei Monate bis 20.08.2020 gewährt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Coiffeur Marco, Halis Yilmaz</name>
+      <uid>CHE-105.730.879</uid>
+      <uidOrganisationId>105730879</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010212601</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Badenerstrasse</street>
+        <houseNumber>131</houseNumber>
+        <swissZipCode>8004</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Führung eines Coiffeursalons.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Coiffeur Marco, Halis Yilmaz</name>
+      <uid>CHE-105.730.879</uid>
+      <uidOrganisationId>105730879</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010212601</code13>
+      <seat>Zürich</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Badenerstrasse</street>
+        <houseNumber>131</houseNumber>
+        <swissZipCode>8004</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Führung eines Coiffeursalons.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2001-02-16</lastFoscDate>
+    <lastFoscNumber>33</lastFoscNumber>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
