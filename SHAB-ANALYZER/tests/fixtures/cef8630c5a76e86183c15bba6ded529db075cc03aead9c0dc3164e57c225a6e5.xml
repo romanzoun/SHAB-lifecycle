@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>b4c98da4-1c09-423d-843b-7e716fb633d3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004896363</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Fabbrica Sartorio - Amici miei, Rüti (ZH)</de>
+    <en>Change Fabbrica Sartorio - Amici miei, Rüti (ZH)</en>
+    <it>Cambiamenti Fabbrica Sartorio - Amici miei, Rüti (ZH)</it>
+    <fr>Mutation Fabbrica Sartorio - Amici miei, Rüti (ZH)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19111</journalNumber>
+  <journalDate>2020-05-20</journalDate>
+  <publicationText>Fabbrica Sartorio - Amici miei, in Rüti (ZH), CHE-343.367.172, Einzelunternehmen (SHAB Nr. 68 vom 07.04.2020, Publ. 1004867246). Das gelöschte Einzelunternehmen wird auf Antrag der Inhaberin erneut ins Handelsregister eingetragen. [bisher: Das Einzelunternehmen ist infolge Geschäftsaufgabe erloschen.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fabbrica Sartorio - Amici miei</name>
+      <uid>CHE-343.367.172</uid>
+      <uidOrganisationId>343367172</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010714730</code13>
+      <seat>Rüti (ZH)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Werkstrasse</street>
+        <houseNumber>2c</houseNumber>
+        <swissZipCode>8630</swissZipCode>
+        <town>Rüti ZH</town>
+      </address>
+    </company>
+    <purpose>Lebensmittel Verkauf &amp; Gastro-, Barbetrieb. Geschenksartikel und Dekoration.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fabbrica Sartorio - Amici miei</name>
+      <uid>CHE-343.367.172</uid>
+      <uidOrganisationId>343367172</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010714730</code13>
+      <seat>Rüti (ZH)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Werkstrasse</street>
+        <houseNumber>2c</houseNumber>
+        <swissZipCode>8630</swissZipCode>
+        <town>Rüti ZH</town>
+      </address>
+    </company>
+    <purpose>Lebensmittel Verkauf &amp; Gastro-, Barbetrieb. Geschenksartikel und Dekoration.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-07</lastFoscDate>
+    <lastFoscNumber>68</lastFoscNumber>
+    <lastFoscSequence>1004867246</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

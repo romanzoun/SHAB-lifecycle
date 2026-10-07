@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>c1314d71-caa9-41ff-acca-076d951faa8f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004895739</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation help at home, Riehen</de>
+    <en>Change help at home, Riehen</en>
+    <it>Cambiamenti help at home, Riehen</it>
+    <fr>Mutation help at home, Riehen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2872</journalNumber>
+  <journalDate>2020-05-19</journalDate>
+  <publicationText>help at home, in Riehen, CHE-110.210.427, Verein (SHAB Nr. 82 vom 30.04.2018, Publ. 4201871). Der am 25.04.2018 gelöschte Verein wird gemäss Beschlusses des Vorstands wieder in das Handelsregister eingetragen und besteht entsprechend den früheren Eintragungen weiter. [gestrichen: Der Verein wird auf Antrag des Vereinsvorstands im Handelsregister gelöscht, da er kein nach kaufmännischer Art geführtes Gewerbe betreibe und damit nicht eintragungspflichtig ist.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>help at home</name>
+      <uid>CHE-110.210.427</uid>
+      <uidOrganisationId>110210427</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27060005156</code13>
+      <seat>Riehen</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hörnliallee</street>
+        <houseNumber>71</houseNumber>
+        <swissZipCode>4125</swissZipCode>
+        <town>Riehen</town>
+      </address>
+    </company>
+    <purpose>Der Verein bezweckt die Betreuung, Begleitung und Unterstützung von Menschen in einer schwierigen Lebensphase.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>help at home</name>
+      <uid>CHE-110.210.427</uid>
+      <uidOrganisationId>110210427</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27060005156</code13>
+      <seat>Riehen</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hörnliallee</street>
+        <houseNumber>71</houseNumber>
+        <swissZipCode>4125</swissZipCode>
+        <town>Riehen</town>
+      </address>
+    </company>
+    <purpose>Der Verein bezweckt die Betreuung, Begleitung und Unterstützung von Menschen in einer schwierigen Lebensphase.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-04-30</lastFoscDate>
+    <lastFoscNumber>82</lastFoscNumber>
+    <lastFoscSequence>4201871</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
