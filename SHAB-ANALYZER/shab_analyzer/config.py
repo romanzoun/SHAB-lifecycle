@@ -4,7 +4,7 @@ import os
 from pathlib import Path
 
 # Bump when person/XML rules change so the walker re-queues PARTIAL/ERROR.
-PARSER_VERSION = 302
+PARSER_VERSION = 303
 
 # After HR leftover is empty, unlock one non-HR family at a time (sub_rubric prefix).
 # KK/SB sit next to the company timeline; then volume-heavy families; remainder last.

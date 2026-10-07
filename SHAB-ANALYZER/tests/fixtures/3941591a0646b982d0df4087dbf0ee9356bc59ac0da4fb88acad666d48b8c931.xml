@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>2625b66f-3dea-4942-a0aa-d7366a5537b8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004895750</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Schwerhörigen-Verein Basel, Basel, neu Schwerhörigen-Verein Basel in Liquidation</de>
+    <en>Change Schwerhörigen-Verein Basel, Basel, new Schwerhörigen-Verein Basel in Liquidation</en>
+    <it>Cambiamenti Schwerhörigen-Verein Basel, Basel, nuovo Schwerhörigen-Verein Basel in Liquidation</it>
+    <fr>Mutation Schwerhörigen-Verein Basel, Basel, nouveau Schwerhörigen-Verein Basel in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2883</journalNumber>
+  <journalDate>2020-05-19</journalDate>
+  <publicationText>Schwerhörigen-Verein Basel, in Basel, CHE-103.449.992, Verein (SHAB Nr. 137 vom 19.07.2004, S.6, Publ. 2366894). Name neu: Schwerhörigen-Verein Basel in Liquidation. Mit Entscheid vom 21.02.2020 hat das Zivilgericht Basel-Stadt den Verein aufgelöst und die Abelia Wirtschaftsprüfung und Beratung AG, in Basel (CHE-112.589.333), als Sachwalterin und Liquidatorin eingesetzt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Schwerhörigen-Verein Basel in Liquidation</name>
+      <uid>CHE-103.449.992</uid>
+      <uidOrganisationId>103449992</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27060001944</code13>
+      <seat>Basel</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Falknerstr.</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>4001</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Zusammenschluss von Schwerhörigen zu gegenseitiger Stütze und Förderung und zur Wahrung ihrer Interessen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Schwerhörigen-Verein Basel</name>
+      <uid>CHE-103.449.992</uid>
+      <uidOrganisationId>103449992</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27060001944</code13>
+      <seat>Basel</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Falknerstr.</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>4001</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Zusammenschluss von Schwerhörigen zu gegenseitiger Stütze und Förderung und zur Wahrung ihrer Interessen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2004-07-19</lastFoscDate>
+    <lastFoscNumber>137</lastFoscNumber>
+    <lastFoscSequence>2366894</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

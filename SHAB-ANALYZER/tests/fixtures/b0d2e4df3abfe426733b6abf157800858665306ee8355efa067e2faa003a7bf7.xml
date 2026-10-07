@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>334b7704-da6f-482a-9d70-6434b21b0a1d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004888741</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Osswald AG Bedachungen und Spenglerei in Liquidation, Churwalden</de>
+    <en>Change Osswald AG Bedachungen und Spenglerei in Liquidation, Churwalden</en>
+    <it>Cambiamenti Osswald AG Bedachungen und Spenglerei in Liquidation, Churwalden</it>
+    <fr>Mutation Osswald AG Bedachungen und Spenglerei in Liquidation, Churwalden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2311</journalNumber>
+  <journalDate>2020-05-08</journalDate>
+  <publicationText>Osswald AG Bedachungen und Spenglerei in Liquidation, in Churwalden, CHE-115.314.057, Aktiengesellschaft (SHAB Nr. 89 vom 09.05.2019, Publ. 1004626522). Die Liquidation ist beendet. Vorzeitige Löschung mit Bestätigung des zugelassenen Revisionsexperten vom 27.01.2020 aufgeschoben mangels Zustimmungen der eidg. und kant. Steuerverwaltung.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Osswald AG Bedachungen und Spenglerei in Liquidation</name>
+      <uid>CHE-115.314.057</uid>
+      <uidOrganisationId>115314057</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030107674</code13>
+      <seat>Churwalden</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <swissZipCode>7075</swissZipCode>
+        <town>Churwalden</town>
+      </address>
+    </company>
+    <purpose>Die Planung und die Ausführung von Arbeiten im Bereich Bedachungen und Spenglerei, der Vertrieb und die Vermittlung von branchenverwandten Erzeugnissen sowie der Handel mit technischen Produkten; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Osswald AG Bedachungen und Spenglerei in Liquidation</name>
+      <uid>CHE-115.314.057</uid>
+      <uidOrganisationId>115314057</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030107674</code13>
+      <seat>Churwalden</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <swissZipCode>7075</swissZipCode>
+        <town>Churwalden</town>
+      </address>
+    </company>
+    <purpose>Die Planung und die Ausführung von Arbeiten im Bereich Bedachungen und Spenglerei, der Vertrieb und die Vermittlung von branchenverwandten Erzeugnissen sowie der Handel mit technischen Produkten; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-09</lastFoscDate>
+    <lastFoscNumber>89</lastFoscNumber>
+    <lastFoscSequence>1004626522</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Graubünden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

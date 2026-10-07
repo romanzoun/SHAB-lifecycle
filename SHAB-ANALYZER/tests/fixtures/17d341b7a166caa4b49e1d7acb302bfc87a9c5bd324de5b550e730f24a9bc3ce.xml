@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>2a5a3a6f-cebd-4228-893d-f0f216043ce3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004893582</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Solano Massagen, Buchrain</de>
+    <en>Change Solano Massagen, Buchrain</en>
+    <it>Cambiamenti Solano Massagen, Buchrain</it>
+    <fr>Mutation Solano Massagen, Buchrain</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4021</journalNumber>
+  <journalDate>2020-05-15</journalDate>
+  <publicationText>Solano Massagen, in Buchrain, CHE-274.117.340, Einzelunternehmen (SHAB Nr. 91 vom 12.05.2020, Publ. 1004887474). [gestrichen: Mit Entscheid der Einzelrichterin des Bezirksgerichts Hochdorf, Abteilung 1, vom 06.05.2020 ist über die Inhaberin mit Wirkung ab dem 06.05.2020, 11.00 Uhr, der Konkurs eröffnet worden.]. Mit Mitteilung des Kantonsgerichts Luzern vom 14.05.2020 ist dem Rekurs gegen den Entscheid des Bezirksgerichts Hochdorf vom 06.05.2020 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt worden. Demnach wird die Eintragung betreffend Konkurseröffnung über die Inhaberin im Handelsregister gestrichen.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Solano Massagen</name>
+      <uid>CHE-274.117.340</uid>
+      <uidOrganisationId>274117340</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13010210094</code13>
+      <seat>Buchrain</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Moosstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>6033</swissZipCode>
+        <town>Buchrain</town>
+      </address>
+    </company>
+    <purpose>Entspannende Massagen nach Kundenwünschen in bevorzugter Umgebung; Massageaushilfe bei anderen Unternehmen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Solano Massagen</name>
+      <uid>CHE-274.117.340</uid>
+      <uidOrganisationId>274117340</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13010210094</code13>
+      <seat>Buchrain</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Moosstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>6033</swissZipCode>
+        <town>Buchrain</town>
+      </address>
+    </company>
+    <purpose>Entspannende Massagen nach Kundenwünschen in bevorzugter Umgebung; Massageaushilfe bei anderen Unternehmen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-12</lastFoscDate>
+    <lastFoscNumber>91</lastFoscNumber>
+    <lastFoscSequence>1004887474</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
