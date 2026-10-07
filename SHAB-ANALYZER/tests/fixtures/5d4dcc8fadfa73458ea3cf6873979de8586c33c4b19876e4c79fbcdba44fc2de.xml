@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>3bf6a290-93b2-4c12-8fc7-41b67f48c3f2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004891040</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation MPR Sàrl en liquidation, Leytron</de>
+    <en>Change MPR Sàrl en liquidation, Leytron</en>
+    <it>Cambiamenti MPR Sàrl en liquidation, Leytron</it>
+    <fr>Mutation MPR Sàrl en liquidation, Leytron</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2141</journalNumber>
+  <journalDate>2020-05-12</journalDate>
+  <publicationText>MPR Sàrl en liquidation, à Leytron, CHE-296.230.269, société à responsabilité limitée (No. FOSC 61 du 27.03.2020, Publ. 1004861792). Par décisions des 20.04.2020 et 11.05.2020 prononcées par le Tribunal de Martigny et St-Maurice, la société est réinscrite d'office et la liquidation de la faillite en la forme sommaire a été autorisée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MPR Sàrl en liquidation</name>
+      <uid>CHE-296.230.269</uid>
+      <uidOrganisationId>296230269</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011617088</code13>
+      <seat>Leytron</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Bains</street>
+        <houseNumber>178</houseNumber>
+        <swissZipCode>1911</swissZipCode>
+        <town>Ovronnaz</town>
+      </address>
+    </company>
+    <purpose>montage et démontage de ventilations; tous travaux d'aménagement intérieur (notamment plâtrerie, peinture et faux plafonds) et extérieur; la société pourra accorder des prêts ou des garanties à ses associés ou à des tiers (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MPR Sàrl en liquidation</name>
+      <uid>CHE-296.230.269</uid>
+      <uidOrganisationId>296230269</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011617088</code13>
+      <seat>Leytron</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Bains</street>
+        <houseNumber>178</houseNumber>
+        <swissZipCode>1911</swissZipCode>
+        <town>Ovronnaz</town>
+      </address>
+    </company>
+    <purpose>montage et démontage de ventilations; tous travaux d'aménagement intérieur (notamment plâtrerie, peinture et faux plafonds) et extérieur; la société pourra accorder des prêts ou des garanties à ses associés ou à des tiers (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-27</lastFoscDate>
+    <lastFoscNumber>61</lastFoscNumber>
+    <lastFoscSequence>1004861792</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
