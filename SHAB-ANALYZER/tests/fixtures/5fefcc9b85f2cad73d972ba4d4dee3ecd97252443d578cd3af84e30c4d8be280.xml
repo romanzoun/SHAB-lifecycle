@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>afca844f-5d0e-4f1a-82e2-9a6825d41b95</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004890053</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation L.B.L. Espace FC Porto Sàrl en liquidation, La Chaux-de-Fonds, neu L.B.L. Espace FC Porto Sàrl</de>
+    <en>Change L.B.L. Espace FC Porto Sàrl en liquidation, La Chaux-de-Fonds, new L.B.L. Espace FC Porto Sàrl</en>
+    <it>Cambiamenti L.B.L. Espace FC Porto Sàrl en liquidation, La Chaux-de-Fonds, nuovo L.B.L. Espace FC Porto Sàrl</it>
+    <fr>Mutation L.B.L. Espace FC Porto Sàrl en liquidation, La Chaux-de-Fonds, nouveau L.B.L. Espace FC Porto Sàrl</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1356</journalNumber>
+  <journalDate>2020-05-11</journalDate>
+  <publicationText>L.B.L. Espace FC Porto Sàrl en liquidation, à La Chaux-de-Fonds, CHE-114.166.860 (FOSC du 08.05.2020, p. 0/1004886005). Par ordonnance du 07.05.2020, le Tribunal cantonal a suspendu l'exécution du jugement de faillite rendu le 22.04.2020. Par conséquent la raison sociale redevient: L.B.L. Espace FC Porto Sàrl.</publicationText>
+  <commonsNew>
+    <company>
+      <name>L.B.L. Espace FC Porto Sàrl</name>
+      <uid>CHE-114.166.860</uid>
+      <uidOrganisationId>114166860</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541024965</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Crêt</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>plâtrerie, peinture, isolation périphérique, entreprise générale; exploitation d'établissements publics et service traiteur (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>L.B.L. Espace FC Porto Sàrl en liquidation</name>
+      <uid>CHE-114.166.860</uid>
+      <uidOrganisationId>114166860</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541024965</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Crêt</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>plâtrerie, peinture, isolation périphérique, entreprise générale; exploitation d'établissements publics et service traiteur (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-08</lastFoscDate>
+    <lastFoscNumber>89</lastFoscNumber>
+    <lastFoscSequence>1004886005</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

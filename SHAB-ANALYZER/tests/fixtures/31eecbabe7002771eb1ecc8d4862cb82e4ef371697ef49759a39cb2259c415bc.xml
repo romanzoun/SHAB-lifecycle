@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>9e70048a-5387-436f-bd1e-49b2f257841b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004898278</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Domian AG in Liquidation, Biel/Bienne</de>
+    <en>Change Domian AG in Liquidation, Biel/Bienne</en>
+    <it>Cambiamenti Domian AG in Liquidation, Biel/Bienne</it>
+    <fr>Mutation Domian AG in Liquidation, Biel/Bienne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7348</journalNumber>
+  <journalDate>2020-05-25</journalDate>
+  <publicationText>Domian AG in Liquidation, in Biel/Bienne, CHE-324.653.648, schweizerische Zweigniederlassung (SHAB Nr. 40 vom 27.02.2020, Publ. 1004839932), Hauptsitz in: Basel. Bemerkungen zum Hauptsitz neu: Mit Entscheid vom 18.05.2020 hat das Zivilgericht Basel-Stadt mit Wirkung ab dem 18.05.2020, 15.22 Uhr, über den bereits aufgelösten Hauptsitz den Konkurs eröffnet.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Domian AG in Liquidation</name>
+      <uid>CHE-324.653.648</uid>
+      <uidOrganisationId>324653648</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03690638694</code13>
+      <seat>Biel/Bienne</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Henri-Dunant-Strasse</street>
+        <houseNumber>71</houseNumber>
+        <swissZipCode>2504</swissZipCode>
+        <town>Biel/Bienne</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Domian AG in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE-382.725.720</uid>
+      <uidOrganisationId>382725720</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Domian AG in Liquidation</name>
+      <uid>CHE-324.653.648</uid>
+      <uidOrganisationId>324653648</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03690638694</code13>
+      <seat>Biel/Bienne</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Henri-Dunant-Strasse</street>
+        <houseNumber>71</houseNumber>
+        <swissZipCode>2504</swissZipCode>
+        <town>Biel/Bienne</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Domian AG in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE-382.725.720</uid>
+      <uidOrganisationId>382725720</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-27</lastFoscDate>
+    <lastFoscNumber>40</lastFoscNumber>
+    <lastFoscSequence>1004839932</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
