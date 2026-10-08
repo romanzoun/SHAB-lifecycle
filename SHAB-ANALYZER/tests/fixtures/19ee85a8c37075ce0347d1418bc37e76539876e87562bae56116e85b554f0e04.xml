@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>77ecaa92-b1cb-4047-bcef-37d710e2953e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004921332</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation Kurt's Beizli, Kurt Theiler, Morschach</de>
+    <en>Change Kurt's Beizli, Kurt Theiler, Morschach</en>
+    <it>Cambiamenti Kurt's Beizli, Kurt Theiler, Morschach</it>
+    <fr>Mutation Kurt's Beizli, Kurt Theiler, Morschach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3614</journalNumber>
+  <journalDate>2020-06-23</journalDate>
+  <publicationText>Kurt's Beizli, Kurt Theiler, in Morschach, CHE-352.446.385, Einzelunternehmen (SHAB Nr. 118 vom 22.06.2020, Publ. 1004916198). Mit Verfügung des Kantonsgerichts Schwyz vom 22.06.2020 ist der Beschwerde gegen die Verfügung des Einzelrichters des Bezirksgerichts Schwyz vom 16.06.2020 aufschiebende Wirkung zuerkannt worden. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen [bisher: Über den Inhaber dieses Einzelunternehmens ist mit Verfügung des Einzelrichters des Bezirksgerichts Schwyz vom 16.06.2020 mit Wirkung ab dem 16.06.2020, 14.00 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Kurt's Beizli, Kurt Theiler</name>
+      <uid>CHE-352.446.385</uid>
+      <uidOrganisationId>352446385</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13010265703</code13>
+      <seat>Morschach</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ringstrasse</street>
+        <houseNumber>48</houseNumber>
+        <swissZipCode>6433</swissZipCode>
+        <town>Stoos SZ</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Restaurants</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Kurt's Beizli, Kurt Theiler</name>
+      <uid>CHE-352.446.385</uid>
+      <uidOrganisationId>352446385</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13010265703</code13>
+      <seat>Morschach</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ringstrasse</street>
+        <houseNumber>48</houseNumber>
+        <swissZipCode>6433</swissZipCode>
+        <town>Stoos SZ</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Restaurants</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-22</lastFoscDate>
+    <lastFoscNumber>118</lastFoscNumber>
+    <lastFoscSequence>1004916198</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

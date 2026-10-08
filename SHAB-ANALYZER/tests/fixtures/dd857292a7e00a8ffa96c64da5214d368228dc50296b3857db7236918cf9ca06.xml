@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>7b4b1fcd-b706-457a-aace-88e0a6e0e22f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004918235</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation RESEAU DE SOINS DELTA VAUD SA, Onex</de>
+    <en>Change RESEAU DE SOINS DELTA VAUD SA, Onex</en>
+    <it>Cambiamenti RESEAU DE SOINS DELTA VAUD SA, Onex</it>
+    <fr>Mutation RESEAU DE SOINS DELTA VAUD SA, Onex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9939</journalNumber>
+  <journalDate>2020-06-18</journalDate>
+  <publicationText>RESEAU DE SOINS DELTA VAUD SA, à Onex, CHE-291.373.542 (FOSC du 07.06.2017, p. 0/3565075). Clément Serge, d' Ependes (FR), à Bursins, Maire Ponci Céline, de La Sagne, à Lausanne et Tempia-Caliera Maud, de Genève, à Lausanne, sont membres du conseil d'administration, avec signature collective à deux, avec le président ou le secrétaire.</publicationText>
+  <commonsNew>
+    <company>
+      <name>RESEAU DE SOINS DELTA VAUD SA</name>
+      <uid>CHE-291.373.542</uid>
+      <uidOrganisationId>291373542</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66027930135</code13>
+      <seat>Onex</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Chancy</street>
+        <houseNumber>98</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Onex</town>
+      </address>
+    </company>
+    <purpose>création, développement, gérance des formes particulières d'assurance impliquant un choix limité des fournisseurs de prestations selon l'art. 62 al. 1 LAMal ainsi que de structures appropriées dans le canton de Vaud (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>RESEAU DE SOINS DELTA VAUD SA</name>
+      <uid>CHE-291.373.542</uid>
+      <uidOrganisationId>291373542</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66027930135</code13>
+      <seat>Onex</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Chancy</street>
+        <houseNumber>98</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Onex</town>
+      </address>
+    </company>
+    <purpose>création, développement, gérance des formes particulières d'assurance impliquant un choix limité des fournisseurs de prestations selon l'art. 62 al. 1 LAMal ainsi que de structures appropriées dans le canton de Vaud (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-06-07</lastFoscDate>
+    <lastFoscNumber>108</lastFoscNumber>
+    <lastFoscSequence>3565075</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

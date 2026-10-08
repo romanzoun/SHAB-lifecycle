@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>6b1717b2-b80d-4c76-ba30-16c9e6b43903</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004919342</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Elisante SA, Cortaillod</de>
+    <en>Change Elisante SA, Cortaillod</en>
+    <it>Cambiamenti Elisante SA, Cortaillod</it>
+    <fr>Mutation Elisante SA, Cortaillod</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1800</journalNumber>
+  <journalDate>2020-06-19</journalDate>
+  <publicationText>Elisante SA, à Cortaillod, CHE-114.259.007 (FOSC du 13.07.2018, p. 0/4358393). Radiation de la mention selon laquelle la société n'est pas soumise à un contrôle ordinaire et a renoncé à un contrôle restreint.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Elisante SA</name>
+      <uid>CHE-114.259.007</uid>
+      <uidOrganisationId>114259007</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130072041</code13>
+      <seat>Cortaillod</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Emmanuel et Caroline Raffner</addressLine1>
+        <street>rue des Chavannes</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>2016</swissZipCode>
+        <town>Cortaillod</town>
+      </address>
+    </company>
+    <purpose>détention, administration et gestion de participations dans des sociétés dans le sens d'une société holding (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Elisante SA</name>
+      <uid>CHE-114.259.007</uid>
+      <uidOrganisationId>114259007</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130072041</code13>
+      <seat>Cortaillod</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Emmanuel et Caroline Raffner</addressLine1>
+        <street>rue des Chavannes</street>
+        <houseNumber>34</houseNumber>
+        <swissZipCode>2016</swissZipCode>
+        <town>Cortaillod</town>
+      </address>
+    </company>
+    <purpose>détention, administration et gestion de participations dans des sociétés dans le sens d'une société holding (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-13</lastFoscDate>
+    <lastFoscNumber>134</lastFoscNumber>
+    <lastFoscSequence>4358393</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
