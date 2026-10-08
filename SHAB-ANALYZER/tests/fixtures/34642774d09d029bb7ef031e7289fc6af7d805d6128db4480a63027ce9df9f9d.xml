@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>0af9c848-94a5-4b7f-a4bb-eef4cd434d2f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004922700</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation BrickMark Holding AG, Zug</de>
+    <en>Change BrickMark Holding AG, Zug</en>
+    <it>Cambiamenti BrickMark Holding AG, Zug</it>
+    <fr>Mutation BrickMark Holding AG, Zug</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8549</journalNumber>
+  <journalDate>2020-06-24</journalDate>
+  <publicationText>BrickMark Holding AG, in Zug, CHE-329.579.338, Aktiengesellschaft (SHAB Nr. 234 vom 03.12.2019, Publ. 1004773424). Mit Entscheid vom 23.06.2020 hat der Einzelrichter am Kantonsgericht eine COVID-19-Stundung von 3 Monaten gemäss der COVID-19-Verordnung Insolvenzrecht bewilligt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>BrickMark Holding AG</name>
+      <translations>(BrickMark Holding Ltd) (BrickMark Holding SA)</translations>
+      <uid>CHE-329.579.338</uid>
+      <uidOrganisationId>329579338</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030425793</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seestrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Erwerb und Verwaltung von Beteiligungen an anderen Unternehmen, Verwaltung von Investments und Vermögenswerten sowie Entwicklung, Erwerb, Halten, Veräusserung und Verwertung von Immaterialgüterrechten aller Art; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BrickMark Holding AG</name>
+      <translations>(BrickMark Holding Ltd) (BrickMark Holding SA)</translations>
+      <uid>CHE-329.579.338</uid>
+      <uidOrganisationId>329579338</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030425793</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seestrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Erwerb und Verwaltung von Beteiligungen an anderen Unternehmen, Verwaltung von Investments und Vermögenswerten sowie Entwicklung, Erwerb, Halten, Veräusserung und Verwertung von Immaterialgüterrechten aller Art; vollständige Zweckumschreibung gemäss Statuten</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-03</lastFoscDate>
+    <lastFoscNumber>234</lastFoscNumber>
+    <lastFoscSequence>1004773424</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

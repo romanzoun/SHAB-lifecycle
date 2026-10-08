@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>13805b70-cb2e-4d86-99b5-082eb28c4634</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004912091</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Association RESIDENCE DES FRANCHISES - FLPAI/Pension (EMS pour personnes âgées), Genève</de>
+    <en>Change Association RESIDENCE DES FRANCHISES - FLPAI/Pension (EMS pour personnes âgées), Genève</en>
+    <it>Cambiamenti Association RESIDENCE DES FRANCHISES - FLPAI/Pension (EMS pour personnes âgées), Genève</it>
+    <fr>Mutation Association RESIDENCE DES FRANCHISES - FLPAI/Pension (EMS pour personnes âgées), Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9377</journalNumber>
+  <journalDate>2020-06-11</journalDate>
+  <publicationText>Association RESIDENCE DES FRANCHISES - FLPAI/Pension (EMS pour personnes âgées), à Genève, CHE-104.777.045 (FOSC du 15.02.2019, p. 0/1004568128). Kopp Jean-Marc André, de Genève, à Avusy, et Rosselet-Petitjaques Muriel Anne, de Val-de-Travers, à Burtigny, sont membres du comité avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Association RESIDENCE DES FRANCHISES - FLPAI/Pension (EMS pour personnes âgées)</name>
+      <uid>CHE-104.777.045</uid>
+      <uidOrganisationId>104777045</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66011009989</code13>
+      <seat>Genève</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Cité-Vieusseux</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1203</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>gérer l'établissement de la "Fondation des logements pour personnes âgées ou isolées, Genève".</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Association RESIDENCE DES FRANCHISES - FLPAI/Pension (EMS pour personnes âgées)</name>
+      <uid>CHE-104.777.045</uid>
+      <uidOrganisationId>104777045</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66011009989</code13>
+      <seat>Genève</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Cité-Vieusseux</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1203</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>gérer l'établissement de la "Fondation des logements pour personnes âgées ou isolées, Genève".</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-02-15</lastFoscDate>
+    <lastFoscNumber>32</lastFoscNumber>
+    <lastFoscSequence>1004568128</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

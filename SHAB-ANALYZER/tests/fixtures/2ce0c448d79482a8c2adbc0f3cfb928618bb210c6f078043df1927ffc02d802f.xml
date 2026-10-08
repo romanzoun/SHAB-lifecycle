@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>199de838-9dfd-4b4c-a638-339376fb93b6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004920800</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation des Cèdres, Genève</de>
+    <en>Change Fondation des Cèdres, Genève</en>
+    <it>Cambiamenti Fondation des Cèdres, Genève</it>
+    <fr>Mutation Fondation des Cèdres, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10137</journalNumber>
+  <journalDate>2020-06-22</journalDate>
+  <publicationText>Fondation des Cèdres, à Genève, CHE-474.421.388 (FOSC du 05.03.2020, p. 0/1004846181). Les membres du conseil de Pourtalès-Schickler Paul Edmond Pierre, maintenant domicilié à Crans-Montana, jusqu'ici vice-président, nommé président, et Friedel Charles Jean Robert Marc, jusqu'ici président, nommé vice-président, continuent à signer individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation des Cèdres</name>
+      <uid>CHE-474.421.388</uid>
+      <uidOrganisationId>474421388</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66034030147</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Schellenberg Wittmer SA</addressLine1>
+        <street>rue des Alpes 15 bis, avocats</street>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>soutenir des initiatives et oeuvres caritatives, culturelles et éducatives en faveur des populations du Liban et des pays liés historiquement au Liban, en s'inspirant des valeurs du protestantisme (cf. acte de fondation pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation des Cèdres</name>
+      <uid>CHE-474.421.388</uid>
+      <uidOrganisationId>474421388</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66034030147</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Schellenberg Wittmer SA</addressLine1>
+        <street>rue des Alpes 15 bis, avocats</street>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>soutenir des initiatives et oeuvres caritatives, culturelles et éducatives en faveur des populations du Liban et des pays liés historiquement au Liban, en s'inspirant des valeurs du protestantisme (cf. acte de fondation pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-05</lastFoscDate>
+    <lastFoscNumber>45</lastFoscNumber>
+    <lastFoscSequence>1004846181</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
