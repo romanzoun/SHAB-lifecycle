@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>883acddb-b303-45db-9f3c-b3fdb5cedbdd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004905525</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Texelia AG, Genève, neu Texelia AG, en liquidation</de>
+    <en>Change Texelia AG, Genève, new Texelia AG, en liquidation</en>
+    <it>Cambiamenti Texelia AG, Genève, nuovo Texelia AG, en liquidation</it>
+    <fr>Mutation Texelia AG, Genève, nouveau Texelia AG, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8839</journalNumber>
+  <journalDate>2020-06-03</journalDate>
+  <publicationText>Texelia AG, succursale à Genève, CHE-211.469.827, société ayant son siège principal à Bâle (FOSC du 14.12.2017, p. 0/3932301). Suite à l'ouverture de la faillite de l'établissement principal, sa raison sociale devient: Texelia AG in Liquidation (CHE-106.039.981). Par conséquent, la raison de commerce de la succursale devient: Texelia AG, en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Texelia AG, en liquidation</name>
+      <uid>CHE-211.469.827</uid>
+      <uidOrganisationId>211469827</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66053210084</code13>
+      <seat>Genève</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue de Sécheron</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1202</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>(cf. but du siège principal)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Texelia AG in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE-106.039.981</uid>
+      <uidOrganisationId>106039981</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Texelia AG</name>
+      <uid>CHE-211.469.827</uid>
+      <uidOrganisationId>211469827</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66053210084</code13>
+      <seat>Genève</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue de Sécheron</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1202</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>(cf. but du siège principal)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Texelia AG in Liquidation</name>
+      <country>CH</country>
+      <uid>CHE-106.039.981</uid>
+      <uidOrganisationId>106039981</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-12-14</lastFoscDate>
+    <lastFoscNumber>243</lastFoscNumber>
+    <lastFoscSequence>3932301</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

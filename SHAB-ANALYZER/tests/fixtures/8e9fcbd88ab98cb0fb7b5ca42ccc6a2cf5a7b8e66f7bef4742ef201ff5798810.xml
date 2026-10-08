@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>8528d6b5-4aa5-42b3-9469-2fa2d40ec943</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004922031</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Daniel Filliez Sàrl en liquidation, Bagnes</de>
+    <en>Change Daniel Filliez Sàrl en liquidation, Bagnes</en>
+    <it>Cambiamenti Daniel Filliez Sàrl en liquidation, Bagnes</it>
+    <fr>Mutation Daniel Filliez Sàrl en liquidation, Bagnes</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2619</journalNumber>
+  <journalDate>2020-06-23</journalDate>
+  <publicationText>Daniel Filliez Sàrl en liquidation, à Bagnes, CHE-158.591.903, société à responsabilité limitée (No. FOSC 163 du 24.08.2017, Publ. 3713717). [biffé: Adresse de liquidation: c/o Fiduciaire Alpina Verbier SA, Route de Verbier-Station 61, 1936 Verbier]. Adresse de liquidation : c/o Daniel Filliez, Chemin de la Chapelle 15, 1936 Verbier.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Daniel Filliez Sàrl en liquidation</name>
+      <uid>CHE-158.591.903</uid>
+      <uidOrganisationId>158591903</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62140085425</code13>
+      <seat>Bagnes</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Clambin</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>1936</swissZipCode>
+        <town>Verbier</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Daniel Filliez</addressLine1>
+        <street>Chemin de la Chapelle</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1936</swissZipCode>
+        <town>Verbier</town>
+      </liqAddress>
+    </company>
+    <purpose>exploitation d'une entreprise d'aménagements extérieurs (construction et entretien) ainsi que de déneigement</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Daniel Filliez Sàrl en liquidation</name>
+      <uid>CHE-158.591.903</uid>
+      <uidOrganisationId>158591903</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62140085425</code13>
+      <seat>Bagnes</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Clambin</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>1936</swissZipCode>
+        <town>Verbier</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise d'aménagements extérieurs (construction et entretien) ainsi que de déneigement</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-08-24</lastFoscDate>
+    <lastFoscNumber>163</lastFoscNumber>
+    <lastFoscSequence>3713717</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
