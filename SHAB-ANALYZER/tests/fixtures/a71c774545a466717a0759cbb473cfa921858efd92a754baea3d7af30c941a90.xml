@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>5e6a908a-488b-4999-80ab-7f41a6efc56c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004906971</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Securitas AG Schweizerische Bewachungsgesellschaft, Bern</de>
+    <en>Change Securitas AG Schweizerische Bewachungsgesellschaft, Bern</en>
+    <it>Cambiamenti Securitas AG Schweizerische Bewachungsgesellschaft, Bern</it>
+    <fr>Mutation Securitas AG Schweizerische Bewachungsgesellschaft, Bern</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8118</journalNumber>
+  <journalDate>2020-06-05</journalDate>
+  <publicationText>Securitas AG Schweizerische Bewachungsgesellschaft, in Bern, CHE-106.832.531, Aktiengesellschaft (SHAB Nr. 42 vom 02.03.2020, Publ. 1004842116). Zweigniederlassung neu: [folgende Zweigniederlassung wird gelöscht]. [gestrichen: Seewen SZ (CHE-268.522.175)]. Bern (CHE-472.191.757). [gestrichen: Bern (CHE-106.832.531)].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Securitas AG Schweizerische Bewachungsgesellschaft</name>
+      <translations>(Securitas SA Société Suisse de Surveillance) (Securitas SA Società svizzera di vigilanza)</translations>
+      <uid>CHE-106.832.531</uid>
+      <uidOrganisationId>106832531</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03530011164</code13>
+      <seat>Bern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seilerstrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Organisation von Bewachungsdiensten.</purpose>
+    <capital>
+      <nominal>350000.00</nominal>
+      <paid>350000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Securitas AG Schweizerische Bewachungsgesellschaft</name>
+      <translations>(Securitas SA Société Suisse de Surveillance) (Securitas SA Società svizzera di vigilanza)</translations>
+      <uid>CHE-106.832.531</uid>
+      <uidOrganisationId>106832531</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03530011164</code13>
+      <seat>Bern</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Seilerstrasse</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>3011</swissZipCode>
+        <town>Bern</town>
+      </address>
+    </company>
+    <purpose>Organisation von Bewachungsdiensten.</purpose>
+    <capital>
+      <nominal>350000.00</nominal>
+      <paid>350000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-02</lastFoscDate>
+    <lastFoscNumber>42</lastFoscNumber>
+    <lastFoscSequence>1004842116</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

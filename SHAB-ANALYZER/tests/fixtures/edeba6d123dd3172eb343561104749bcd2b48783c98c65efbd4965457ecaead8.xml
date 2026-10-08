@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>565d0ee3-3f70-4886-9b96-f02c318f9604</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004915529</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Prediva SA, Cottens (VD), neu Prediva SA en liquidation</de>
+    <en>Change Prediva SA, Cottens (VD), new Prediva SA en liquidation</en>
+    <it>Cambiamenti Prediva SA, Cottens (VD), nuovo Prediva SA en liquidation</it>
+    <fr>Mutation Prediva SA, Cottens (VD), nouveau Prediva SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9648</journalNumber>
+  <journalDate>2020-06-16</journalDate>
+  <publicationText>Prediva SA, à Cottens (VD), CHE-141.064.618 (FOSC du 13.06.2019, p. 0/1004650534). Selon décision de son assemblée générale du 8 juin 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Prediva SA en liquidation. Les administratrices Zisaki Aikaterini et Srivastava Nicee sont nommées liquidatrices avec signature collective à deux. Les 1'002 actions nominatives de CHF 100, formant l'entier du capital-actions, ne sont plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Prediva SA en liquidation</name>
+      <uid>CHE-141.064.618</uid>
+      <uidOrganisationId>141064618</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011855457</code13>
+      <seat>Cottens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Grand Pré</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1116</swissZipCode>
+        <town>Cottens VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la prestation de services en technologie informatique ainsi que la fabrication et le développement de logiciel et machines pour le diagnostic médical (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100200.00</nominal>
+      <paid>50100.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Prediva SA</name>
+      <uid>CHE-141.064.618</uid>
+      <uidOrganisationId>141064618</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011855457</code13>
+      <seat>Cottens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Grand Pré</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1116</swissZipCode>
+        <town>Cottens VD</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la prestation de services en technologie informatique ainsi que la fabrication et le développement de logiciel et machines pour le diagnostic médical (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100200.00</nominal>
+      <paid>50100.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-13</lastFoscDate>
+    <lastFoscNumber>112</lastFoscNumber>
+    <lastFoscSequence>1004650534</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

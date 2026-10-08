@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>694d478f-0a26-4e30-8679-a2d952a3441d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004905497</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Jia SA, Genève</de>
+    <en>Change Jia SA, Genève</en>
+    <it>Cambiamenti Jia SA, Genève</it>
+    <fr>Mutation Jia SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8813</journalNumber>
+  <journalDate>2020-06-03</journalDate>
+  <publicationText>Jia SA, à Genève, CHE-451.043.588 (FOSC du 17.02.2020, p. 0/1004832220). Signature collective à deux à été conférée à Bowring George, de Cologny, à Genève, Gouzer Marc, de et à Genève, et Lagache Mathieu, de France, à Chêne-Bougeries, tous directeurs. Bowring George et Gouzer Marc ne signent pas entre eux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Jia SA</name>
+      <uid>CHE-451.043.588</uid>
+      <uidOrganisationId>451043588</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001490161</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Philippe-Plantamour</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>création, aménagement et exploitation, pour son propre compte, pour le compte de tiers, ou par le biais de franchises, de commerces et de restaurants (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>900000.00</nominal>
+      <paid>900000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Jia SA</name>
+      <uid>CHE-451.043.588</uid>
+      <uidOrganisationId>451043588</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001490161</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Philippe-Plantamour</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>création, aménagement et exploitation, pour son propre compte, pour le compte de tiers, ou par le biais de franchises, de commerces et de restaurants (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>900000.00</nominal>
+      <paid>900000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-17</lastFoscDate>
+    <lastFoscNumber>32</lastFoscNumber>
+    <lastFoscSequence>1004832220</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
