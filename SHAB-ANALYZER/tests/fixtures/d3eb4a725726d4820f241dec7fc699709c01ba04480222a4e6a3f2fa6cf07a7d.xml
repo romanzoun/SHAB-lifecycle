@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>0602b764-9b49-47cc-b18f-c66a72c152c0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004908852</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Caisse de prévoyance des fonctionnaires de police et des établissements pénitentiaires, Lancy</de>
+    <en>Change Caisse de prévoyance des fonctionnaires de police et des établissements pénitentiaires, Lancy</en>
+    <it>Cambiamenti Caisse de prévoyance des fonctionnaires de police et des établissements pénitentiaires, Lancy</it>
+    <fr>Mutation Caisse de prévoyance des fonctionnaires de police et des établissements pénitentiaires, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9097</journalNumber>
+  <journalDate>2020-06-08</journalDate>
+  <publicationText>Caisse de prévoyance des fonctionnaires de police et des établissements pénitentiaires, à Lancy, CHE-108.912.477 (FOSC du 12.05.2020, p. 0/1004888077). Le membre du comité Dailly Christian, nommé secrétaire, signe désormais collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Caisse de prévoyance des fonctionnaires de police et des établissements pénitentiaires</name>
+      <uid>CHE-108.912.477</uid>
+      <uidOrganisationId>108912477</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66032050149</code13>
+      <seat>Lancy</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Chancy</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Petit-Lancy</town>
+      </address>
+    </company>
+    <purpose>assurer les fonctionnaires de police et de la prison contre les conséquences économiques de la retraite, de l'invalidité et du décès (cf. Loi pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Caisse de prévoyance des fonctionnaires de police et des établissements pénitentiaires</name>
+      <uid>CHE-108.912.477</uid>
+      <uidOrganisationId>108912477</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66032050149</code13>
+      <seat>Lancy</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Chancy</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Petit-Lancy</town>
+      </address>
+    </company>
+    <purpose>assurer les fonctionnaires de police et de la prison contre les conséquences économiques de la retraite, de l'invalidité et du décès (cf. Loi pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-12</lastFoscDate>
+    <lastFoscNumber>91</lastFoscNumber>
+    <lastFoscSequence>1004888077</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
