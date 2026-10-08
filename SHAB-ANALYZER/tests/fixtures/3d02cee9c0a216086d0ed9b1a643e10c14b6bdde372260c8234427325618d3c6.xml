@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>206df286-4606-4286-a590-f2dfd2d91549</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004917974</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation SFPI Management SA, Ascona</de>
+    <en>Change SFPI Management SA, Ascona</en>
+    <it>Cambiamenti SFPI Management SA, Ascona</it>
+    <fr>Mutation SFPI Management SA, Ascona</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7683</journalNumber>
+  <journalDate>2020-06-18</journalDate>
+  <publicationText>SFPI Management SA, in Ascona, CHE-336.325.211, società anonima (Nr. FUSC 117 del 19.06.2020, Pubbl. 1004915462). Fusione: ripresa di attivi e passivi di Römerschloss GmbH, in Zürich (CHE-102.465.735), secondo il contratto di fusione del 10.06.2020 e bilancio al 31.12.2019, che presenta attivi per CHF 2'882'980.00 e passivi verso terzi per CHF 1'404'364.00. La totalità del capitale delle due società è detenuta dalla stessa persona, la fusione avviene dunque senza aumento del capitale azionario e senza attribuzione di azioni.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SFPI Management SA</name>
+      <uid>CHE-336.325.211</uid>
+      <uidOrganisationId>336325211</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130183233</code13>
+      <seat>Ascona</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Viale Bartolomeo Papio</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6612</swissZipCode>
+        <town>Ascona</town>
+      </address>
+    </company>
+    <purpose>La compravendita così come il commercio, l'amministrazione e la tenuta di immobili.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SFPI Management SA</name>
+      <uid>CHE-336.325.211</uid>
+      <uidOrganisationId>336325211</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130183233</code13>
+      <seat>Ascona</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Viale Bartolomeo Papio</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>6612</swissZipCode>
+        <town>Ascona</town>
+      </address>
+    </company>
+    <purpose>La compravendita così come il commercio, l'amministrazione e la tenuta di immobili.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-19</lastFoscDate>
+    <lastFoscNumber>117</lastFoscNumber>
+    <lastFoscSequence>1004915462</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

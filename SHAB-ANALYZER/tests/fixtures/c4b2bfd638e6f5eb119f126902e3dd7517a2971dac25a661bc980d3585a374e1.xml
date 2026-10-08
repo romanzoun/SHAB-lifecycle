@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>21131d0b-7d6c-4efe-92ad-034aaa18fd7e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004921978</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation KINGDOM HOLDING SARL, Saint-Prex</de>
+    <en>Change KINGDOM HOLDING SARL, Saint-Prex</en>
+    <it>Cambiamenti KINGDOM HOLDING SARL, Saint-Prex</it>
+    <fr>Mutation KINGDOM HOLDING SARL, Saint-Prex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10165</journalNumber>
+  <journalDate>2020-06-23</journalDate>
+  <publicationText>KINGDOM HOLDING SARL, à Saint-Prex, CHE-356.694.137 (FOSC du 15.07.2019, p. 0/1004676070). L'associé-gérant Roubaty Richard cède 50 de ses 200 parts de CHF 100 à SOLID ROCK PRIVATE FOUNDATION (CHE-482.394.575), à Saint-Prex, nouvelle associée. Roubaty Richard reste titulaire de 150 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>KINGDOM HOLDING SARL</name>
+      <translations>(KINGDOM HOLDING GMBH) (KINGDOM HOLDING LLC)</translations>
+      <uid>CHE-356.694.137</uid>
+      <uidOrganisationId>356694137</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011860659</code13>
+      <seat>Saint-Prex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Vegney</street>
+        <houseNumber>2 B</houseNumber>
+        <swissZipCode>1162</swissZipCode>
+        <town>St-Prex</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: la participation, sous quelque forme que ce soit, à des entreprises commerciales, financières ou industrielles, dans toutes sociétés et à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>KINGDOM HOLDING SARL</name>
+      <translations>(KINGDOM HOLDING GMBH) (KINGDOM HOLDING LLC)</translations>
+      <uid>CHE-356.694.137</uid>
+      <uidOrganisationId>356694137</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011860659</code13>
+      <seat>Saint-Prex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Vegney</street>
+        <houseNumber>2 B</houseNumber>
+        <swissZipCode>1162</swissZipCode>
+        <town>St-Prex</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: la participation, sous quelque forme que ce soit, à des entreprises commerciales, financières ou industrielles, dans toutes sociétés et à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-15</lastFoscDate>
+    <lastFoscNumber>134</lastFoscNumber>
+    <lastFoscSequence>1004676070</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

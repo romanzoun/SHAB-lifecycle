@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>20af3b66-4115-4297-a238-3d96a32f0616</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004918064</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation PAYOT SA, Lausanne</de>
+    <en>Change PAYOT SA, Lausanne</en>
+    <it>Cambiamenti PAYOT SA, Lausanne</it>
+    <fr>Mutation PAYOT SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9848</journalNumber>
+  <journalDate>2020-06-18</journalDate>
+  <publicationText>PAYOT SA, à Lausanne, CHE-105.897.137 (FOSC du 13.03.2020, p. 0/1004852487). Nouvel administrateur avec signature collective à deux: Bouffard Pascal, de France, au Mesnil-le-Roi (France).</publicationText>
+  <commonsNew>
+    <company>
+      <name>PAYOT SA</name>
+      <uid>CHE-105.897.137</uid>
+      <uidOrganisationId>105897137</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000469905</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Côtes-de-Montbenon</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>1000</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un fonds de librairie, de papeterie, de matériels audio-visuels et d'éditions et en général d'objets et supports de loisirs et de culture.</purpose>
+    <capital>
+      <nominal>1527800.00</nominal>
+      <paid>1527800.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PAYOT SA</name>
+      <uid>CHE-105.897.137</uid>
+      <uidOrganisationId>105897137</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000469905</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Côtes-de-Montbenon</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>1000</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un fonds de librairie, de papeterie, de matériels audio-visuels et d'éditions et en général d'objets et supports de loisirs et de culture.</purpose>
+    <capital>
+      <nominal>1527800.00</nominal>
+      <paid>1527800.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-13</lastFoscDate>
+    <lastFoscNumber>51</lastFoscNumber>
+    <lastFoscSequence>1004852487</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

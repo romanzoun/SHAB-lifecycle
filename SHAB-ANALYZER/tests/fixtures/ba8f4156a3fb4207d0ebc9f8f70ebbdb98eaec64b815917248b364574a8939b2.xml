@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>1faef58f-e073-4e30-a726-5f1feb90e7aa</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004919747</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation IMMO-SERVICE R. Iseli, Ostermundigen</de>
+    <en>Change IMMO-SERVICE R. Iseli, Ostermundigen</en>
+    <it>Cambiamenti IMMO-SERVICE R. Iseli, Ostermundigen</it>
+    <fr>Mutation IMMO-SERVICE R. Iseli, Ostermundigen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9257</journalNumber>
+  <journalDate>2020-06-22</journalDate>
+  <publicationText>IMMO-SERVICE R. Iseli, in Ostermundigen, CHE-376.712.459, Einzelunternehmen (SHAB Nr. 242 vom 13.12.2017, Publ. 3927649). Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vermögensübertragungsvertrag vom 12.06.2020 und Inventar per 31.12.2019 einen Teil der Aktiven in Höhe von CHF 163'134.96 und Passiven (Fremdkapital) in Höhe von CHF 3'991.27 auf die IMMO-SERVICE R. Iseli AG, in Ostermundigen (CHE-265.267.012). Gegenleistung: 1'000 zu 100% liberierte Namenaktien zu CHF 100.00 und eine Forderung von CHF 59'143.69.</publicationText>
+  <commonsNew>
+    <company>
+      <name>IMMO-SERVICE R. Iseli</name>
+      <uid>CHE-376.712.459</uid>
+      <uidOrganisationId>376712459</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610529950</code13>
+      <seat>Ostermundigen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Jurablickweg</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3072</swissZipCode>
+        <town>Ostermundigen</town>
+      </address>
+    </company>
+    <purpose>Hauswartungen, Umgebungspflege sowie Schädlingsbekämpfung aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IMMO-SERVICE R. Iseli</name>
+      <uid>CHE-376.712.459</uid>
+      <uidOrganisationId>376712459</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03610529950</code13>
+      <seat>Ostermundigen</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Jurablickweg</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3072</swissZipCode>
+        <town>Ostermundigen</town>
+      </address>
+    </company>
+    <purpose>Hauswartungen, Umgebungspflege sowie Schädlingsbekämpfung aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-12-13</lastFoscDate>
+    <lastFoscNumber>242</lastFoscNumber>
+    <lastFoscSequence>3927649</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
