@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>d0d0e652-577a-4255-a0b5-ce9ad28ba81d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004900022</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Flonplex SA, Lausanne</de>
+    <en>Change Flonplex SA, Lausanne</en>
+    <it>Cambiamenti Flonplex SA, Lausanne</it>
+    <fr>Mutation Flonplex SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8392</journalNumber>
+  <journalDate>2020-05-26</journalDate>
+  <publicationText>Flonplex SA, à Lausanne, CHE-109.615.384 (FOSC du 18.03.2020, p. 0/1004855685). Statuts modifiés le 13 mai 2020. La clause relative aux deux reprises de biens envisagées ont été abrogées conformément à l'art. 628 al. 4 CO. Communications aux actionnaires: par écrit ou par courriel.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Flonplex SA</name>
+      <uid>CHE-109.615.384</uid>
+      <uidOrganisationId>109615384</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010300414</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Pathé Romandie Sàrl</addressLine1>
+        <street>Rue du Petit-Chêne</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>étude, construction et exploitation d'un complexe de salles de cinéma.</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Flonplex SA</name>
+      <uid>CHE-109.615.384</uid>
+      <uidOrganisationId>109615384</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010300414</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Pathé Romandie Sàrl</addressLine1>
+        <street>Rue du Petit-Chêne</street>
+        <houseNumber>27</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>étude, construction et exploitation d'un complexe de salles de cinéma.</purpose>
+    <capital>
+      <nominal>2000000.00</nominal>
+      <paid>2000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-18</lastFoscDate>
+    <lastFoscNumber>54</lastFoscNumber>
+    <lastFoscSequence>1004855685</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

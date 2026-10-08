@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>dd05b704-78d9-44d0-989e-37d811646214</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004900142</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Cycles Aventures Sàrl, Vernier, neu Cycles Aventures Sàrl, en liquidation</de>
+    <en>Change Cycles Aventures Sàrl, Vernier, new Cycles Aventures Sàrl, en liquidation</en>
+    <it>Cambiamenti Cycles Aventures Sàrl, Vernier, nuovo Cycles Aventures Sàrl, en liquidation</it>
+    <fr>Mutation Cycles Aventures Sàrl, Vernier, nouveau Cycles Aventures Sàrl, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8366</journalNumber>
+  <journalDate>2020-05-26</journalDate>
+  <publicationText>Cycles Aventures Sàrl, à Vernier, CHE-115.052.319 (FOSC du 12.02.2020, p. 0/1004828837). Par arrêt du 11.05.2020, la Cour de Justice a rejeté le recours contre le jugement du 16.01.2020, par conséquent, la faillite est prononcée avec effet à partir du 11.05.2020 à 12:00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cycles Aventures Sàrl, en liquidation</name>
+      <uid>CHE-115.052.319</uid>
+      <uidOrganisationId>115052319</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66020590095</code13>
+      <seat>Vernier</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Bois-des-Frères</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1219</swissZipCode>
+        <town>Le Lignon</town>
+      </address>
+    </company>
+    <purpose>vente et réparation de cycles (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cycles Aventures Sàrl</name>
+      <uid>CHE-115.052.319</uid>
+      <uidOrganisationId>115052319</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66020590095</code13>
+      <seat>Vernier</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Bois-des-Frères</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1219</swissZipCode>
+        <town>Le Lignon</town>
+      </address>
+    </company>
+    <purpose>vente et réparation de cycles (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-12</lastFoscDate>
+    <lastFoscNumber>29</lastFoscNumber>
+    <lastFoscSequence>1004828837</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

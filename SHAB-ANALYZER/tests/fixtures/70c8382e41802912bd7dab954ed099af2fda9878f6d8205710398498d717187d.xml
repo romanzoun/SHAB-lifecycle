@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>db3c20b7-fb72-45c1-b276-bbf0df6f032a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004899704</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Eckert Baulogistik AG, Neuhausen am Rheinfall</de>
+    <en>Change Eckert Baulogistik AG, Neuhausen am Rheinfall</en>
+    <it>Cambiamenti Eckert Baulogistik AG, Neuhausen am Rheinfall</it>
+    <fr>Mutation Eckert Baulogistik AG, Neuhausen am Rheinfall</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>820</journalNumber>
+  <journalDate>2020-05-26</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 148 vom 03.08.2017, S. 3'678'429, publizierten TR-Eintrag Nr. 1'320 vom 28.07.2017 Eckert Baulogistik AG, in Neuhausen am Rheinfall, CHE-112.622.338, Aktiengesellschaft (SHAB Nr. 148 vom 03.08.2017, Publ. 3678429). [Verzicht auf eingeschränkte Revision gestrichen, da eine Revisionsstelle gewählt wurde.] [gestrichen: Laut Erklärung des Verwaltungsrates vom 17.09.2008 untersteht die Gesellschaft keiner ordentlichen Revision und verzichtet auf eine eingeschränkte Revision.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Eckert Baulogistik AG</name>
+      <uid>CHE-112.622.338</uid>
+      <uidOrganisationId>112622338</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29030152567</code13>
+      <seat>Neuhausen am Rheinfall</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zollstrasse</street>
+        <houseNumber>105</houseNumber>
+        <swissZipCode>8212</swissZipCode>
+        <town>Neuhausen am Rheinfall</town>
+      </address>
+    </company>
+    <purpose>Durchführung von Dienstleistungen im Bereich Baulogistik, die Ausführung von Transporten aller Art sowie den Handel mit Waren aller Art.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Eckert Baulogistik AG</name>
+      <uid>CHE-112.622.338</uid>
+      <uidOrganisationId>112622338</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29030152567</code13>
+      <seat>Neuhausen am Rheinfall</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Zollstrasse</street>
+        <houseNumber>105</houseNumber>
+        <swissZipCode>8212</swissZipCode>
+        <town>Neuhausen am Rheinfall</town>
+      </address>
+    </company>
+    <purpose>Durchführung von Dienstleistungen im Bereich Baulogistik, die Ausführung von Transporten aller Art sowie den Handel mit Waren aller Art.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-08-03</lastFoscDate>
+    <lastFoscNumber>148</lastFoscNumber>
+    <lastFoscSequence>3678429</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
