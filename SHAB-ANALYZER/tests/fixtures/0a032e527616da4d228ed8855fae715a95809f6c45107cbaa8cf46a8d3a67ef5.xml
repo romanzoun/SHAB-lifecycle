@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>e7645a24-ca28-406a-a988-e749b1a46e33</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004883587</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Pharmacie Munier SA, Cologny</de>
+    <en>Change Pharmacie Munier SA, Cologny</en>
+    <it>Cambiamenti Pharmacie Munier SA, Cologny</it>
+    <fr>Mutation Pharmacie Munier SA, Cologny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7101</journalNumber>
+  <journalDate>2020-04-30</journalDate>
+  <publicationText>Pharmacie Munier SA, à Cologny, CHE-100.908.992 (FOSC du 13.06.2017, p. 0/3576721). Administration: Munier Luc, nommé président et Munier-Kannuna Sandra, de Genève, à Cologny, vice-présidente, tous deux avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pharmacie Munier SA</name>
+      <uid>CHE-100.908.992</uid>
+      <uidOrganisationId>100908992</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004589791</code13>
+      <seat>Cologny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Joran</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1223</swissZipCode>
+        <town>Cologny</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une pharmacie; vente de produits cosmétiques, optiques, diététiques et chimiques; toutes activités en matière de conseils dans le domaine médical et paramédical; prospection commerciale; relations publiques et représentation (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Bonnefous Audit SA</name>
+        <country>CH</country>
+        <uid>CHE107742480</uid>
+        <uidOrganisationId>107742480</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pharmacie Munier SA</name>
+      <uid>CHE-100.908.992</uid>
+      <uidOrganisationId>100908992</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004589791</code13>
+      <seat>Cologny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Joran</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1223</swissZipCode>
+        <town>Cologny</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une pharmacie; vente de produits cosmétiques, optiques, diététiques et chimiques; toutes activités en matière de conseils dans le domaine médical et paramédical; prospection commerciale; relations publiques et représentation (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Bonnefous Audit SA</name>
+        <country>CH</country>
+        <uid>CHE107742480</uid>
+        <uidOrganisationId>107742480</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-06-13</lastFoscDate>
+    <lastFoscNumber>112</lastFoscNumber>
+    <lastFoscSequence>3576721</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

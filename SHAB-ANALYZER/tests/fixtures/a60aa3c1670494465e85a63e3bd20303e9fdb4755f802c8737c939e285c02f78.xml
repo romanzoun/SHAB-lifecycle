@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>e044d72d-3c29-4af0-a505-27d6f9d2d5c6</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004883091</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Seaking (International) AG, Villars-sur-Glâne</de>
+    <en>Change Seaking (International) AG, Villars-sur-Glâne</en>
+    <it>Cambiamenti Seaking (International) AG, Villars-sur-Glâne</it>
+    <fr>Mutation Seaking (International) AG, Villars-sur-Glâne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2503</journalNumber>
+  <journalDate>2020-04-30</journalDate>
+  <publicationText>Seaking (International) AG, in Villars-sur-Glâne, CHE-109.078.813 (SHAB vom 19.06.2019, s. 0/1004654748). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 03.04.2020 Aktiven von CHF 91'948 und Passiven (Fremdkapital) von CHF 0 auf die Seaking Trading AG (CHE-103.523.045), in Villars-sur-Glâne. Gegenleistung: CHF 91'948 als Darlehen gutgeschrieben.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Seaking (International) AG</name>
+      <translations>(Seaking (International) Inc.) (Seaking (International) SA)</translations>
+      <uid>CHE-109.078.813</uid>
+      <uidOrganisationId>109078813</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710012015</code13>
+      <seat>Villars-sur-Glâne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Petit-Moncor</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1752</swissZipCode>
+        <town>Villars-sur-Glâne</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Halten und Veräussern von Beteiligungen an Unternehmungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Seaking (International) AG</name>
+      <translations>(Seaking (International) Inc.) (Seaking (International) SA)</translations>
+      <uid>CHE-109.078.813</uid>
+      <uidOrganisationId>109078813</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710012015</code13>
+      <seat>Villars-sur-Glâne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Petit-Moncor</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1752</swissZipCode>
+        <town>Villars-sur-Glâne</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Halten und Veräussern von Beteiligungen an Unternehmungen. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-19</lastFoscDate>
+    <lastFoscNumber>116</lastFoscNumber>
+    <lastFoscSequence>1004654748</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>e1383402-fb0b-40af-8baa-813907b1a943</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004895112</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation AGENCE MENDES Sàrl, Perly-Certoux</de>
+    <en>Change AGENCE MENDES Sàrl, Perly-Certoux</en>
+    <it>Cambiamenti AGENCE MENDES Sàrl, Perly-Certoux</it>
+    <fr>Mutation AGENCE MENDES Sàrl, Perly-Certoux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7960</journalNumber>
+  <journalDate>2020-05-18</journalDate>
+  <publicationText>AGENCE MENDES Sàrl, à Perly-Certoux, CHE-105.213.058 (FOSC du 20.05.2019, p. 0/1004634135). Signature collective à deux a été conférée à l'associé Hafner Xavier. L'associé Mendes Paulo n'exerce plus la signature sociale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>AGENCE MENDES Sàrl</name>
+      <uid>CHE-105.213.058</uid>
+      <uidOrganisationId>105213058</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66016749998</code13>
+      <seat>Perly-Certoux</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Saint-Julien</street>
+        <houseNumber>277</houseNumber>
+        <swissZipCode>1258</swissZipCode>
+        <town>Perly</town>
+      </address>
+    </company>
+    <purpose>courtage en assurances, travaux de fiduciaire, de comptabilité et de crédit, ainsi que toutes opérations en relation avec son but.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AGENCE MENDES Sàrl</name>
+      <uid>CHE-105.213.058</uid>
+      <uidOrganisationId>105213058</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66016749998</code13>
+      <seat>Perly-Certoux</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Saint-Julien</street>
+        <houseNumber>277</houseNumber>
+        <swissZipCode>1258</swissZipCode>
+        <town>Perly</town>
+      </address>
+    </company>
+    <purpose>courtage en assurances, travaux de fiduciaire, de comptabilité et de crédit, ainsi que toutes opérations en relation avec son but.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-20</lastFoscDate>
+    <lastFoscNumber>96</lastFoscNumber>
+    <lastFoscSequence>1004634135</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.7/HR02-export.xsd">
+<meta>
+  <id>ee48b87e-46b3-47c5-9d20-3a176d242961</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004885842</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-05-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Ajetaj Traduzioni, Arbedo-Castione</de>
+    <en>Change Ajetaj Traduzioni, Arbedo-Castione</en>
+    <it>Cambiamenti Ajetaj Traduzioni, Arbedo-Castione</it>
+    <fr>Mutation Ajetaj Traduzioni, Arbedo-Castione</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5748</journalNumber>
+  <journalDate>2020-05-05</journalDate>
+  <publicationText>Ajetaj Traduzioni, in Arbedo-Castione, CHE-113.977.100, ditta individuale (Nr. FUSC 52 del 16.03.2020, Pubbl. 1004853474). Con decisione del 04.05.2020 la Camera di esecuzione e fallimenti del Tribunale d'appello del Cantone Ticino ha accordato effetto sospensivo al reclamo inoltrato contro la decisione di fallimento aperto nei confronti del titolare l'11.03.2020. [finora: Il titolare è stato dichiarato in fallimento con decreto della Pretura del Distretto di Bellinzona del 10.03.2020 a far tempo dal 11.03.2020 alle ore 09:00.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Ajetaj Traduzioni</name>
+      <uid>CHE-113.977.100</uid>
+      <uidOrganisationId>113977100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110097235</code13>
+      <seat>Arbedo-Castione</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via San Gottardo</street>
+        <houseNumber>146</houseNumber>
+        <swissZipCode>6517</swissZipCode>
+        <town>Arbedo</town>
+      </address>
+    </company>
+    <purpose>Interprete collaboratore con la polizia. Traduzione di documenti in italiano, albanese, serbo, francese, tedesco e inglese.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Ajetaj Traduzioni</name>
+      <uid>CHE-113.977.100</uid>
+      <uidOrganisationId>113977100</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110097235</code13>
+      <seat>Arbedo-Castione</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via San Gottardo</street>
+        <houseNumber>146</houseNumber>
+        <swissZipCode>6517</swissZipCode>
+        <town>Arbedo</town>
+      </address>
+    </company>
+    <purpose>Interprete collaboratore con la polizia. Traduzione di documenti in italiano, albanese, serbo, francese, tedesco e inglese.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-16</lastFoscDate>
+    <lastFoscNumber>52</lastFoscNumber>
+    <lastFoscSequence>1004853474</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
