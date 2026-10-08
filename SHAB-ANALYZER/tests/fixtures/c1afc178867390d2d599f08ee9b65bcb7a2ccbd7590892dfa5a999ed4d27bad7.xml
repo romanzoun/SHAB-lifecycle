@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>44480f1a-d5d6-4da5-82fa-673af7d35d2b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004906507</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation KOM Immobilien AG, Agarn</de>
+    <en>Change KOM Immobilien AG, Agarn</en>
+    <it>Cambiamenti KOM Immobilien AG, Agarn</it>
+    <fr>Mutation KOM Immobilien AG, Agarn</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>765</journalNumber>
+  <journalDate>2020-06-04</journalDate>
+  <publicationText>KOM Immobilien AG, in Agarn, CHE-112.397.710, Aktiengesellschaft (SHAB Nr. 192 vom 04.10.2018, Publ. 1004469720). Fusion: Übernahme der Aktiven und Passiven der EZ Golden AG, in Agarn (CHE-110.604.074, gemäss Fusionsvertrag vom 03.06.2020 und Bilanz per 31.12.2019 Aktiven von CHF 1'314'267.80 und Passiven (Fremdkapital) von 786'100.00 gehen auf die übernehmende Gesellschaft über. Da dieselben Aktionäre sämtliche Aktien der an der Fusion beteiligten Gesellschaften halten, findet weder eine Kapitalerhöhung noch eine Aktienzuteilung statt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>KOM Immobilien AG</name>
+      <uid>CHE-112.397.710</uid>
+      <uidOrganisationId>112397710</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH60030123977</code13>
+      <seat>Agarn</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>3951</swissZipCode>
+        <town>Agarn</town>
+      </address>
+    </company>
+    <purpose>Kauf, Verkauf, Miete, Vermietung, Vermittlung, Überbauung, Vermarktung und Betrieb von Immobilien aller Art und alle damit zusammenhängende Tätigkeiten. Kann Zweigniederlassungen errichten, sich an anderen Unternehmungen beteiligen, gleichartige und verwandte Unternehmungen erwerben oder errichten oder sich mit solchen zusammenschliessen. Kann Urheberrechte, Marken, Patente und Lizenzen aller Art erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>400000.00</nominal>
+      <paid>400000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>KOM Immobilien AG</name>
+      <uid>CHE-112.397.710</uid>
+      <uidOrganisationId>112397710</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH60030123977</code13>
+      <seat>Agarn</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>3951</swissZipCode>
+        <town>Agarn</town>
+      </address>
+    </company>
+    <purpose>Kauf, Verkauf, Miete, Vermietung, Vermittlung, Überbauung, Vermarktung und Betrieb von Immobilien aller Art und alle damit zusammenhängende Tätigkeiten. Kann Zweigniederlassungen errichten, sich an anderen Unternehmungen beteiligen, gleichartige und verwandte Unternehmungen erwerben oder errichten oder sich mit solchen zusammenschliessen. Kann Urheberrechte, Marken, Patente und Lizenzen aller Art erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>400000.00</nominal>
+      <paid>400000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-04</lastFoscDate>
+    <lastFoscNumber>192</lastFoscNumber>
+    <lastFoscSequence>1004469720</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt Oberwallis</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>314a4f0c-ad72-4f8d-ab05-9ae6e9588e85</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004921951</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation CriolloQuetzal Sàrl, Payerne</de>
+    <en>Change CriolloQuetzal Sàrl, Payerne</en>
+    <it>Cambiamenti CriolloQuetzal Sàrl, Payerne</it>
+    <fr>Mutation CriolloQuetzal Sàrl, Payerne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10141</journalNumber>
+  <journalDate>2020-06-23</journalDate>
+  <publicationText>CriolloQuetzal Sàrl, à Payerne, CHE-210.403.174 (FOSC du 16.04.2020, p. 0/1004872158). Haas Thierry cède 40 de ses 200 parts de CHF 100 à Perroud David, d'Attalens, à Mathod, nouvel associé sans signature. Haas Thierry reste titulaire de 160 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>CriolloQuetzal Sàrl</name>
+      <uid>CHE-210.403.174</uid>
+      <uidOrganisationId>210403174</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011900867</code13>
+      <seat>Payerne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Cerisiers</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'importation et la distribution de chocolat et d'autres produits chocolatés issus de pays producteurs de fèves de cacao (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CriolloQuetzal Sàrl</name>
+      <uid>CHE-210.403.174</uid>
+      <uidOrganisationId>210403174</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011900867</code13>
+      <seat>Payerne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Cerisiers</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1530</swissZipCode>
+        <town>Payerne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'importation et la distribution de chocolat et d'autres produits chocolatés issus de pays producteurs de fèves de cacao (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-16</lastFoscDate>
+    <lastFoscNumber>73</lastFoscNumber>
+    <lastFoscSequence>1004872158</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
