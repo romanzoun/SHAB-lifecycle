@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>9871adee-ad3e-4f7e-87f5-81b7e02e4c5b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004923459</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>JU</cantons>
+  <title>
+    <de>Mutation Vernier Immobilier SA, Boécourt</de>
+    <en>Change Vernier Immobilier SA, Boécourt</en>
+    <it>Cambiamenti Vernier Immobilier SA, Boécourt</it>
+    <fr>Mutation Vernier Immobilier SA, Boécourt</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>801</journalNumber>
+  <journalDate>2020-06-24</journalDate>
+  <publicationText>Vernier Immobilier SA, à Boécourt, CHE-105.792.030, société anonyme (No. FOSC 119 du 23.06.2020, Publ. 1004918269). Transfert de patrimoine: Selon contrat du 22.06.2020, la société a transféré des actifs pour CHF 4'131'721.00 et des passifs envers les tiers pour CHF 3'597'148.00 à la société "Louis Vernier SA", à Boécourt (CHE-441.594.332). Contre-prestation: CHF 586'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Vernier Immobilier SA</name>
+      <uid>CHE-105.792.030</uid>
+      <uidOrganisationId>105792030</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030006134</code13>
+      <seat>Boécourt</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Stand</street>
+        <houseNumber>21L</houseNumber>
+        <swissZipCode>2856</swissZipCode>
+        <town>Boécourt</town>
+      </address>
+    </company>
+    <purpose>Achat, construction, vente, échange, possession, aménagement, gérance et exploitation de terrains et d'immeubles de toutes natures (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>125000.00</nominal>
+      <paid>125000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Vernier Immobilier SA</name>
+      <uid>CHE-105.792.030</uid>
+      <uidOrganisationId>105792030</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67030006134</code13>
+      <seat>Boécourt</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Stand</street>
+        <houseNumber>21L</houseNumber>
+        <swissZipCode>2856</swissZipCode>
+        <town>Boécourt</town>
+      </address>
+    </company>
+    <purpose>Achat, construction, vente, échange, possession, aménagement, gérance et exploitation de terrains et d'immeubles de toutes natures (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>125000.00</nominal>
+      <paid>125000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-23</lastFoscDate>
+    <lastFoscNumber>119</lastFoscNumber>
+    <lastFoscSequence>1004918269</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton du Jura</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

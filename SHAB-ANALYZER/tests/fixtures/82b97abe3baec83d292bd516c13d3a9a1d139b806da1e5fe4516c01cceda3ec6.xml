@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>98f7239d-8eec-4e5c-a66e-927a3b4770e7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004917954</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation LFG Holding SA, Lugano</de>
+    <en>Change LFG Holding SA, Lugano</en>
+    <it>Cambiamenti LFG Holding SA, Lugano</it>
+    <fr>Mutation LFG Holding SA, Lugano</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7663</journalNumber>
+  <journalDate>2020-06-18</journalDate>
+  <publicationText>LFG Holding SA, in Lugano, CHE-116.226.668, società anonima (Nr. FUSC 83 del 30.04.2020, Pubbl. 1004880564). Trasferimento di patrimonio: secondo contratto del 05.06.2020, la società ha trasferito attivi per CHF 370'802.00 e passivi verso terzi per CHF 0.00 alla Grupo Micasa SA, in Lugano (CHE-387.659.384). Controprestazione: nessuna.</publicationText>
+  <commonsNew>
+    <company>
+      <name>LFG Holding SA</name>
+      <uid>CHE-116.226.668</uid>
+      <uidOrganisationId>116226668</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130152434</code13>
+      <seat>Lugano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via F. Pelli</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>6900</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>L'acquisto, la detenzione, l'amministrazione e la cessione di partecipazioni. La società può esercitare tutte le attività che siano in relazione con il proprio scopo.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LFG Holding SA</name>
+      <uid>CHE-116.226.668</uid>
+      <uidOrganisationId>116226668</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130152434</code13>
+      <seat>Lugano</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via F. Pelli</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>6900</swissZipCode>
+        <town>Lugano</town>
+      </address>
+    </company>
+    <purpose>L'acquisto, la detenzione, l'amministrazione e la cessione di partecipazioni. La società può esercitare tutte le attività che siano in relazione con il proprio scopo.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-30</lastFoscDate>
+    <lastFoscNumber>83</lastFoscNumber>
+    <lastFoscSequence>1004880564</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

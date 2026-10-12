@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>8fae1d9c-51ed-4dfc-9527-989abc1d8787</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004903748</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Bächler + Güttinger AG, St. Ursen</de>
+    <en>Change Bächler + Güttinger AG, St. Ursen</en>
+    <it>Cambiamenti Bächler + Güttinger AG, St. Ursen</it>
+    <fr>Mutation Bächler + Güttinger AG, St. Ursen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3027</journalNumber>
+  <journalDate>2020-06-02</journalDate>
+  <publicationText>Bächler + Güttinger AG, à St. Ursen, CHE-461.000.907 (FOSC du 26.11.2019, p. 0/1004768154). Rectification de l'inscription n° 6579 du 21.11.2019 (FOSC du 26.11.2019, Id 1004768154): La succursale ayant été radiée par erreur, elle est réinscrite. Nouvelle raison sociale du siège principal: Bächler + Güttinger AG (CHE-114.381.051) (jusqu'ici: Garden Adventure Holding AG).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bächler + Güttinger AG</name>
+      <uid>CHE-461.000.907</uid>
+      <uidOrganisationId>461000907</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701903298</code13>
+      <seat>St. Ursen</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Römerswil</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1717</swissZipCode>
+        <town>St. Ursen</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Bächler + Güttinger AG</name>
+      <country>CH</country>
+      <uid>CHE-114.381.051</uid>
+      <uidOrganisationId>114381051</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bächler + Güttinger AG</name>
+      <uid>CHE-461.000.907</uid>
+      <uidOrganisationId>461000907</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701903298</code13>
+      <seat>St. Ursen</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Römerswil</street>
+        <houseNumber>11</houseNumber>
+        <swissZipCode>1717</swissZipCode>
+        <town>St. Ursen</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Bächler + Güttinger AG</name>
+      <country>CH</country>
+      <uid>CHE-105.999.708</uid>
+      <uidOrganisationId>105999708</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-26</lastFoscDate>
+    <lastFoscNumber>229</lastFoscNumber>
+    <lastFoscSequence>1004768154</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
