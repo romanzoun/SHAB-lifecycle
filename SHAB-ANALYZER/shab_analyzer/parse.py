@@ -222,6 +222,7 @@ from .parser292 import extract_parser292_leftovers
 from .parser293 import extract_parser293_leftovers
 from .parser298 import extract_parser298_leftovers
 from .parser311 import extract_parser311_leftovers
+from .parser321 import extract_parser321_leftovers
 from .parser320 import extract_parser320_leftovers
 from .parser319 import extract_parser319_leftovers
 from .parser318 import extract_parser318_leftovers
@@ -2510,6 +2511,10 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
     )
     if any(e.signing for e in parser261_followup_events):
         person_events = [e for e in person_events if e.rule_id != "fr.persons.group_signing.v1"]
+    parser321_events, leftover = extract_parser321_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
+    )
     events = (
         xml_events
         + person_events
@@ -2720,6 +2725,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser250_followup_events
         + parser251_events
         + parser252_events
+        + parser321_events
         + parser320_events
         + parser319_events
         + parser318_events
