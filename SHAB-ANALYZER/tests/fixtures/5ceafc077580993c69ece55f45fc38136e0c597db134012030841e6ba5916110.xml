@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>b277edf3-7e66-4ed8-8013-a7c4ed96115b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004910750</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SH</cantons>
+  <title>
+    <de>Mutation Garmin Ltd., Schaffhausen</de>
+    <en>Change Garmin Ltd., Schaffhausen</en>
+    <it>Cambiamenti Garmin Ltd., Schaffhausen</it>
+    <fr>Mutation Garmin Ltd., Schaffhausen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>916</journalNumber>
+  <journalDate>2020-06-10</journalDate>
+  <publicationText>Garmin Ltd., in Schaffhausen, CHE-115.417.272, Aktiengesellschaft (SHAB Nr. 168 vom 02.09.2019, Publ. 1004707103). Statutenänderung: 05.06.2020. [gestrichen: Die Generalversammlung hat mit Beschluss vom 08.06.2018 ein genehmigtes Kapital gemäss näherer Umschreibung in den Statuten eingeführt.]. Die Generalversammlung hat mit Beschluss vom 05.06.2020 ein genehmigtes Kapital gemäss näherer Umschreibung in den Statuten eingeführt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Garmin Ltd.</name>
+      <translations>(Garmin AG)</translations>
+      <uid>CHE-115.417.272</uid>
+      <uidOrganisationId>115417272</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29030167043</code13>
+      <seat>Schaffhausen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mühlentalstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8200</swissZipCode>
+        <town>Schaffhausen</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Halten, Finanzierung, Verwaltung und Verkauf von Beteiligungen an inländischen und ausländischen Unternehmen jeglicher Art.</purpose>
+    <capital>
+      <nominal>19807741.80</nominal>
+      <paid>19807741.80</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Garmin Ltd.</name>
+      <translations>(Garmin AG)</translations>
+      <uid>CHE-115.417.272</uid>
+      <uidOrganisationId>115417272</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH29030167043</code13>
+      <seat>Schaffhausen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Mühlentalstrasse</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>8200</swissZipCode>
+        <town>Schaffhausen</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Halten, Finanzierung, Verwaltung und Verkauf von Beteiligungen an inländischen und ausländischen Unternehmen jeglicher Art.</purpose>
+    <capital>
+      <nominal>19807741.80</nominal>
+      <paid>19807741.80</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-02</lastFoscDate>
+    <lastFoscNumber>168</lastFoscNumber>
+    <lastFoscSequence>1004707103</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schaffhausen</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

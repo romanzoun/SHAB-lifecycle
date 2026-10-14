@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>b7fd9ee4-a947-4f09-800f-56aab00df582</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004914275</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Huser Benoît, Vétroz</de>
+    <en>Change Huser Benoît, Vétroz</en>
+    <it>Cambiamenti Huser Benoît, Vétroz</it>
+    <fr>Mutation Huser Benoît, Vétroz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2677</journalNumber>
+  <journalDate>2020-06-15</journalDate>
+  <publicationText>Huser Benoît, à Vétroz, CHE-194.880.131, entreprise individuelle (No. FOSC 38 du 25.02.2020, Publ. 1004838642). Transfert de patrimoine: Selon contrat du 04.03.2020, le titulaire a transféré certains actifs pour CHF 329'011.00 et certains passifs envers les tiers pour CHF 147'611.00 à la société à responsabilité limitée Domaine de la Préfecture Sàrl, à Vétroz (CHE-473.297.938). Contre-prestation: 800 parts sociales de CHF 100.00 et une créance de l'apporteur envers la société de CHF 101'400.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Huser Benoît</name>
+      <uid>CHE-194.880.131</uid>
+      <uidOrganisationId>194880131</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610201702</code13>
+      <seat>Vétroz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route Cantonale</street>
+        <houseNumber>116</houseNumber>
+        <swissZipCode>1963</swissZipCode>
+        <town>Vétroz</town>
+      </address>
+    </company>
+    <purpose>Exploitation d'une entreprise agricole et commercialisation de produits agricoles et transformés</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Huser Benoît</name>
+      <uid>CHE-194.880.131</uid>
+      <uidOrganisationId>194880131</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62610201702</code13>
+      <seat>Vétroz</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route Cantonale</street>
+        <houseNumber>116</houseNumber>
+        <swissZipCode>1963</swissZipCode>
+        <town>Vétroz</town>
+      </address>
+    </company>
+    <purpose>Exploitation d'une entreprise agricole et commercialisation de produits agricoles et transformés</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-25</lastFoscDate>
+    <lastFoscNumber>38</lastFoscNumber>
+    <lastFoscSequence>1004838642</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>b57fd2b5-3f21-498a-90f4-70512bd591de</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004919441</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Proton Technologies AG, Plan-les-Ouates</de>
+    <en>Change Proton Technologies AG, Plan-les-Ouates</en>
+    <it>Cambiamenti Proton Technologies AG, Plan-les-Ouates</it>
+    <fr>Mutation Proton Technologies AG, Plan-les-Ouates</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10043</journalNumber>
+  <journalDate>2020-06-19</journalDate>
+  <publicationText>Proton Technologies AG, à Plan-les-Ouates, CHE-354.686.492 (FOSC du 22.05.2020, p. 0/1004895144). Augmentation autorisée du capital-participation, fondée sur la décision d'autorisation du 13.05.2020, porté de CHF 33'842 à CHF 45'726.43 par l'émission de 1'188'443 bons de CHF 0.01, nominatifs, liés selon statuts. Capital-participation: CHF 45'726.43, entièrement libéré, divisé en 4'572'643 bons de CHF 0.01, nominatifs, liés selon statuts. Statuts modifiés le 12.06.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Proton Technologies AG</name>
+      <uid>CHE-354.686.492</uid>
+      <uidOrganisationId>354686492</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66019950141</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Pré-Fleuri</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>développement de logiciels de sécurité et de confidentialité (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>101610.00</nominal>
+      <paid>101610.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Proton Technologies AG</name>
+      <uid>CHE-354.686.492</uid>
+      <uidOrganisationId>354686492</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66019950141</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Pré-Fleuri</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>développement de logiciels de sécurité et de confidentialité (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>101610.00</nominal>
+      <paid>101610.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-22</lastFoscDate>
+    <lastFoscNumber>98</lastFoscNumber>
+    <lastFoscSequence>1004895144</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
