@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>48a9d19e-a6e6-4029-af44-6aa861624551</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004949779</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Insolight SA, Lausanne</de>
+    <en>Change Insolight SA, Lausanne</en>
+    <it>Cambiamenti Insolight SA, Lausanne</it>
+    <fr>Mutation Insolight SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12624</journalNumber>
+  <journalDate>2020-07-28</journalDate>
+  <publicationText>Insolight SA, à Lausanne, CHE-400.193.929 (FOSC du 28.07.2020, p. 0/1004946952). Rectificatif: l'inscription n°12353 du 23.07.2020 (FOSC du 28.07.2020, p. 0/1004946952) est rectifiée en ce sens que le capital est exactement divisé en 10'000'000 actions nominatives de CHF 0.01, 5'266'665 actions nominatives A0 de CHF 0.01, privilégiées quant au produit de liquidation, et 5'952'379 actions nominatives A de CHF 0.01, privilégiées quant au produit de liquidation, toutes avec restrictions quant à la transmissibilité selon statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Insolight SA</name>
+      <uid>CHE-400.193.929</uid>
+      <uidOrganisationId>400193929</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011629123</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Moléson</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1012</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a notamment pour but le développement, la production et la commercialisation de panneaux photovoltaïques et de systèmes optiques, en particulier dans le domaine des énergies solaires et de l'éclairage (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>212190.44</nominal>
+      <paid>212190.44</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Insolight SA</name>
+      <uid>CHE-400.193.929</uid>
+      <uidOrganisationId>400193929</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011629123</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Moléson</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1012</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a notamment pour but le développement, la production et la commercialisation de panneaux photovoltaïques et de systèmes optiques, en particulier dans le domaine des énergies solaires et de l'éclairage (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>212190.44</nominal>
+      <paid>212190.44</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-28</lastFoscDate>
+    <lastFoscNumber>144</lastFoscNumber>
+    <lastFoscSequence>1004946952</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
