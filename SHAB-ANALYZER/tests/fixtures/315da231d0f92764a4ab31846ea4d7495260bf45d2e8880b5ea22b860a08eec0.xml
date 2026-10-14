@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>1d83f551-cea3-492c-a4dc-8c20ec491e17</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004947372</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Andreas Bettschen, Urtenen-Schönbühl</de>
+    <en>Change Andreas Bettschen, Urtenen-Schönbühl</en>
+    <it>Cambiamenti Andreas Bettschen, Urtenen-Schönbühl</it>
+    <fr>Mutation Andreas Bettschen, Urtenen-Schönbühl</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11346</journalNumber>
+  <journalDate>2020-07-24</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 142 vom 24.07.2020, publizierten TR-Eintrag Nr. 11'120 vom 21.07.2020 Andreas Bettschen, in Urtenen-Schönbühl, CHE-102.239.825, Einzelunternehmen (SHAB Nr. 142 vom 24.07.2020, Publ. 1004944430). Diese Gesellschaft hat sich infolge Todes des Gesellschafters Hans Ruedi Hager aufgelöst. Die Firma ist erloschen. Der Gesellschafter Andreas Bettschen führt im Sinne von Art. 579 OR das Geschäft als Einzelkaufmann fort.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Andreas Bettschen</name>
+      <uid>CHE-102.239.825</uid>
+      <uidOrganisationId>102239825</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03520142904</code13>
+      <seat>Urtenen-Schönbühl</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Feldeggstrasse</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>3322</swissZipCode>
+        <town>Urtenen-Schönbühl</town>
+      </address>
+    </company>
+    <purpose>Ingenieurbüro für Hoch- und Tiefbau.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Andreas Bettschen</name>
+      <uid>CHE-102.239.825</uid>
+      <uidOrganisationId>102239825</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH03520142904</code13>
+      <seat>Urtenen-Schönbühl</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Feldeggstrasse</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>3322</swissZipCode>
+        <town>Urtenen-Schönbühl</town>
+      </address>
+    </company>
+    <purpose>Ingenieurbüro für Hoch- und Tiefbau.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-24</lastFoscDate>
+    <lastFoscNumber>142</lastFoscNumber>
+    <lastFoscSequence>1004944430</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

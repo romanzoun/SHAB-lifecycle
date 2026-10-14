@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>22fa036e-c285-4125-bc47-622c4bd1d76d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004949710</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-31</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Valentoine SNC, Lausanne, neu Valentoine SNC en liquidation</de>
+    <en>Change Valentoine SNC, Lausanne, new Valentoine SNC en liquidation</en>
+    <it>Cambiamenti Valentoine SNC, Lausanne, nuovo Valentoine SNC en liquidation</it>
+    <fr>Mutation Valentoine SNC, Lausanne, nouveau Valentoine SNC en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12671</journalNumber>
+  <journalDate>2020-07-28</journalDate>
+  <publicationText>Valentoine SNC, à Lausanne, CHE-133.000.148, Société en nom collectif (FOSC du 12.02.2020, p. 0/1004828713). La société est dissoute. La liquidation est opérée sous la raison de commerce: Valentoine SNC en liquidation. Brack Antoine, Bussard Valentin et Joly Aurélia sont nommés liquidateurs avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Valentoine SNC en liquidation</name>
+      <uid>CHE-133.000.148</uid>
+      <uidOrganisationId>133000148</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011764929</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Calvaire</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>création et commercialisation de prêt-à-porter et d'objets.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Valentoine SNC</name>
+      <uid>CHE-133.000.148</uid>
+      <uidOrganisationId>133000148</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011764929</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Calvaire</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1005</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>création et commercialisation de prêt-à-porter et d'objets.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-12</lastFoscDate>
+    <lastFoscNumber>29</lastFoscNumber>
+    <lastFoscSequence>1004828713</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

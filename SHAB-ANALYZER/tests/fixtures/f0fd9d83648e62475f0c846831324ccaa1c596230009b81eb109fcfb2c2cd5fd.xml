@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>1da6a9bd-3deb-4e65-b1c1-ef3cc97440a2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004934755</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Acqiris SA, Plan-les-Ouates</de>
+    <en>Change Acqiris SA, Plan-les-Ouates</en>
+    <it>Cambiamenti Acqiris SA, Plan-les-Ouates</it>
+    <fr>Mutation Acqiris SA, Plan-les-Ouates</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11414</journalNumber>
+  <journalDate>2020-07-07</journalDate>
+  <publicationText>Acqiris SA, à Plan-les-Ouates, CHE-306.852.569 (FOSC du 04.03.2020, p. 0/1004845012). La clause d'augmentation conditionnelle du capital-actions décidée par l'assemblée générale du 18.08.2017 a été modifiée selon décision du 23.06.2020 (pour les détails voir les statuts). Statuts modifiés le 23.06.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Acqiris SA</name>
+      <uid>CHE-306.852.569</uid>
+      <uidOrganisationId>306852569</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010100172</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Aulx</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>le développement, la fabrication, la commercialisation et la distribution de systèmes électroniques, en particulier des systèmes et des logiciels d'acquisition et de génération de signaux électriques (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>2500500.00</nominal>
+      <paid>2500500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Acqiris SA</name>
+      <uid>CHE-306.852.569</uid>
+      <uidOrganisationId>306852569</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010100172</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Aulx</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>le développement, la fabrication, la commercialisation et la distribution de systèmes électroniques, en particulier des systèmes et des logiciels d'acquisition et de génération de signaux électriques (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>2500500.00</nominal>
+      <paid>2500500.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-04</lastFoscDate>
+    <lastFoscNumber>44</lastFoscNumber>
+    <lastFoscSequence>1004845012</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

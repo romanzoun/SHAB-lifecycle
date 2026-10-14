@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>107c89e4-9ca2-4e83-ba10-6fe1fbd26c20</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004926022</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation EMC Gestion de Fortune SA, Genève</de>
+    <en>Change EMC Gestion de Fortune SA, Genève</en>
+    <it>Cambiamenti EMC Gestion de Fortune SA, Genève</it>
+    <fr>Mutation EMC Gestion de Fortune SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10619</journalNumber>
+  <journalDate>2020-06-26</journalDate>
+  <publicationText>EMC Gestion de Fortune SA, à Genève, CHE-108.016.809 (FOSC du 29.11.2019, p. 0/1004771664). Les administrateurs Ledin Michel, jusqu'ici vice-président, nommé président et Pellaud Xavier, jusqu'ici président, maintenant vice-président, continuent à signer collectivement à deux. Binder Frédéric, de Genève, à Veyrier et Udry Daniel, de Conthey, à Genève, sont membres du conseil d'administration, tous deux avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EMC Gestion de Fortune SA</name>
+      <uid>CHE-108.016.809</uid>
+      <uidOrganisationId>108016809</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004689810</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place des Alpes</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>assurer la gestion de biens mobiliers, effectuer toutes opérations de placement, notamment financières pour le compte de tiers; donner tous conseils en matière financière, gestion d'intérêts de toute personne physique ou morale avec leur représentation et leur domiciliation.</purpose>
+    <capital>
+      <nominal>466000.00</nominal>
+      <paid>466000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EMC Gestion de Fortune SA</name>
+      <uid>CHE-108.016.809</uid>
+      <uidOrganisationId>108016809</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004689810</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place des Alpes</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>assurer la gestion de biens mobiliers, effectuer toutes opérations de placement, notamment financières pour le compte de tiers; donner tous conseils en matière financière, gestion d'intérêts de toute personne physique ou morale avec leur représentation et leur domiciliation.</purpose>
+    <capital>
+      <nominal>466000.00</nominal>
+      <paid>466000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-29</lastFoscDate>
+    <lastFoscNumber>232</lastFoscNumber>
+    <lastFoscSequence>1004771664</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

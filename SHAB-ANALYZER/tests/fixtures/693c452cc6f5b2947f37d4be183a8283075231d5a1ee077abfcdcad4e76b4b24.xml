@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>134afbdf-1cfe-411c-a5b1-629b42356b57</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004935644</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Viridis Verde by Gander, Reinach (AG)</de>
+    <en>Change Viridis Verde by Gander, Reinach (AG)</en>
+    <it>Cambiamenti Viridis Verde by Gander, Reinach (AG)</it>
+    <fr>Mutation Viridis Verde by Gander, Reinach (AG)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7566</journalNumber>
+  <journalDate>2020-07-08</journalDate>
+  <publicationText>Viridis Verde by Gander, in Reinach (AG), CHE-181.485.239, Einzelunternehmen (SHAB Nr. 226 vom 21.11.2019, Publ. 1004765145). Mit Entscheid des Bezirksgerichts Kulm vom 30.06.2020 wurde der eröffnete Konkurs widerrufen. Infolgedessen besteht die Firma entsprechend den früheren Eintragungen weiter. [bisher: Mit Verfügung des Obergerichts des Kantons Aargau vom 14.11.2019 wurde die Beschwerde des Gesuchgegners abgewiesen. Infolgedessen wird mit Wirkung ab 14. November 2019, 09.00 Uhr, der Konkurs neu eröffnet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Viridis Verde by Gander</name>
+      <uid>CHE-181.485.239</uid>
+      <uidOrganisationId>181485239</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40016017147</code13>
+      <seat>Reinach (AG)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vordere Bergstrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>5734</swissZipCode>
+        <town>Reinach AG</town>
+      </address>
+    </company>
+    <purpose>Import von und Handel mit Artikeln für Kosmetik und Körperpflege sowie Produktion von Naturkosmetik.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Viridis Verde by Gander</name>
+      <uid>CHE-181.485.239</uid>
+      <uidOrganisationId>181485239</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40016017147</code13>
+      <seat>Reinach (AG)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Vordere Bergstrasse</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>5734</swissZipCode>
+        <town>Reinach AG</town>
+      </address>
+    </company>
+    <purpose>Import von und Handel mit Artikeln für Kosmetik und Körperpflege sowie Produktion von Naturkosmetik.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-21</lastFoscDate>
+    <lastFoscNumber>226</lastFoscNumber>
+    <lastFoscSequence>1004765145</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
