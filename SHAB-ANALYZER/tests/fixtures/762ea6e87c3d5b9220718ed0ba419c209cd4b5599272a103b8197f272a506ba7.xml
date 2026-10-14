@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>2dd114fc-7ad3-4182-b841-71941834457f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004943135</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation AZ-Iso Sàrl, Genève, neu AZ-Iso Sàrl, en liquidation</de>
+    <en>Change AZ-Iso Sàrl, Genève, new AZ-Iso Sàrl, en liquidation</en>
+    <it>Cambiamenti AZ-Iso Sàrl, Genève, nuovo AZ-Iso Sàrl, en liquidation</it>
+    <fr>Mutation AZ-Iso Sàrl, Genève, nouveau AZ-Iso Sàrl, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12289</journalNumber>
+  <journalDate>2020-07-17</journalDate>
+  <publicationText>AZ-Iso Sàrl, à Genève, CHE-423.324.929 (FOSC du 21.04.2020, p. 0/1004874844). Par arrêt du 17.06.2020, la Cour de Justice a rejeté le recours contre le jugement du 09.03.2020, par conséquent, la faillite est prononcée avec effet à partir du 17.06.2020 à 12:00. Par conséquent, sa raison sociale redevient: AZ-Iso Sàrl, en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>AZ-Iso Sàrl, en liquidation</name>
+      <uid>CHE-423.324.929</uid>
+      <uidOrganisationId>423324929</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001390173</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Sogefi Sàrl</addressLine1>
+        <street>Rue de Chantepoulet</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise générale, y compris la pose d'isolation périphérique, plâtrerie, peinture ainsi que tous travaux de rénovation (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AZ-Iso Sàrl</name>
+      <uid>CHE-423.324.929</uid>
+      <uidOrganisationId>423324929</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001390173</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Sogefi Sàrl</addressLine1>
+        <street>Rue de Chantepoulet</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise générale, y compris la pose d'isolation périphérique, plâtrerie, peinture ainsi que tous travaux de rénovation (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-21</lastFoscDate>
+    <lastFoscNumber>76</lastFoscNumber>
+    <lastFoscSequence>1004874844</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

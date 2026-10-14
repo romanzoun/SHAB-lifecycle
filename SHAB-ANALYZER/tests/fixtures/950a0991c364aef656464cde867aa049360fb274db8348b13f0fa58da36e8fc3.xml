@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>352b1c60-53d7-4d53-b1de-3711d59ab56c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004930128</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Egger Pumps International SA, Cressier (NE), neu Egger Pumps International SA, en liquidation</de>
+    <en>Change Egger Pumps International SA, Cressier (NE), new Egger Pumps International SA, en liquidation</en>
+    <it>Cambiamenti Egger Pumps International SA, Cressier (NE), nuovo Egger Pumps International SA, en liquidation</it>
+    <fr>Mutation Egger Pumps International SA, Cressier (NE), nouveau Egger Pumps International SA, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1968</journalNumber>
+  <journalDate>2020-07-01</journalDate>
+  <publicationText>Egger Pumps International SA, à Cressier (NE) (transfert de Rümlang (ZH)), CHE-106.954.559 (FOSC du 13.11.2017, p. 0/3865555). La société est dissoute par décision de son assemblée générale du 12.06.2020. Sa liquidation est opérée sous la raison sociale: Egger Pumps International SA, en liquidation. Liquidateurs: Egger Walter Kurt, président, Grimm Michel, et Jenzer Roland, tous membres du conseil d'administration, lesquels continuent de signer collectivement à deux. Les restrictions statutaires liées à la transmissibilité des actions sont levées de par la loi.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Egger Pumps International SA, en liquidation</name>
+      <uid>CHE-106.954.559</uid>
+      <uidOrganisationId>106954559</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64504010462</code13>
+      <seat>Cressier (NE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Neuchâtel</street>
+        <houseNumber>36</houseNumber>
+        <town>Cressier (NE) (transfert de Rümlang (ZH)</town>
+      </address>
+    </company>
+    <purpose>commerce international, à l'exclusion de la Suisse, de pompes centrigufes et d'autres produits mécaniques (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Egger Pumps International SA</name>
+      <uid>CHE-106.954.559</uid>
+      <uidOrganisationId>106954559</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64504010462</code13>
+      <seat>Cressier (NE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Neuchâtel</street>
+        <houseNumber>36</houseNumber>
+        <town>Cressier (NE) (transfert de Rümlang (ZH)</town>
+      </address>
+    </company>
+    <purpose>commerce international, à l'exclusion de la Suisse, de pompes centrigufes et d'autres produits mécaniques (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-11-13</lastFoscDate>
+    <lastFoscNumber>220</lastFoscNumber>
+    <lastFoscSequence>3865555</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

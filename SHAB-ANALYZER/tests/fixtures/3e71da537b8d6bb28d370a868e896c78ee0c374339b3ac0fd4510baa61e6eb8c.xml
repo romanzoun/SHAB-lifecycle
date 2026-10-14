@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>3901e806-ab96-4360-9024-e23404531e6e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004940180</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation WIMAR SA, en liquidation, Genève</de>
+    <en>Change WIMAR SA, en liquidation, Genève</en>
+    <it>Cambiamenti WIMAR SA, en liquidation, Genève</it>
+    <fr>Mutation WIMAR SA, en liquidation, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12021</journalNumber>
+  <journalDate>2020-07-14</journalDate>
+  <publicationText>WIMAR SA, en liquidation, à Genève, CHE-115.389.227 (FOSC du 27.08.2018, p. 0/4437011). Laneville William n'est plus liquidateur; ses pouvors sont radiés. Duncan Scott J., d'Irlande, à Tannay, est liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>WIMAR SA, en liquidation</name>
+      <uid>CHE-115.389.227</uid>
+      <uidOrganisationId>115389227</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002080106</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Chantepoulet</street>
+        <houseNumber>1-3</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren, insbesondere Elektronikgeräte und Erbringung von Dienstleistungen im Bereich IT und EDV; kann Zweigniederlassungen und Tochtergesellschaften errichten, sich an anderen Unternehmen beteiligen, Grundeigentum erwerben, belasten, veräussern und verwalten, Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>WIMAR SA, en liquidation</name>
+      <uid>CHE-115.389.227</uid>
+      <uidOrganisationId>115389227</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002080106</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Chantepoulet</street>
+        <houseNumber>1-3</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>achat, distribution et vente de toutes espèces de pétrole brut, combustibles, produits pétroliers raffinés de tout genre et produits semblables (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-08-27</lastFoscDate>
+    <lastFoscNumber>164</lastFoscNumber>
+    <lastFoscSequence>4437011</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

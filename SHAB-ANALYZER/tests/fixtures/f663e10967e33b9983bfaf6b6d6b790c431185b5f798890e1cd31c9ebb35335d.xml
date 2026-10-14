@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>26236f0b-f2fa-44b1-9082-e113780fefc1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004931214</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Association de l'école Rudolf Steiner - Lausanne, Lausanne</de>
+    <en>Change Association de l'école Rudolf Steiner - Lausanne, Lausanne</en>
+    <it>Cambiamenti Association de l'école Rudolf Steiner - Lausanne, Lausanne</it>
+    <fr>Mutation Association de l'école Rudolf Steiner - Lausanne, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10873</journalNumber>
+  <journalDate>2020-07-02</journalDate>
+  <publicationText>Association de l'école Rudolf Steiner - Lausanne, à Lausanne, CHE-103.529.585 (FOSC du 05.06.2020, p. 0/1004904134). Procuration collective à deux, toutefois pas entre eux, est conférée à Morard Patricia, d'Ayent, à Gland, et Oriella Damien, de Château-d'Oex, à Oron.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Association de l'école Rudolf Steiner - Lausanne</name>
+      <uid>CHE-103.529.585</uid>
+      <uidOrganisationId>103529585</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010367394</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Bois-Genoud</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1023</swissZipCode>
+        <town>Crissier</town>
+      </address>
+    </company>
+    <purpose>favoriser et promouvoir la pédagogie spécifique aux écoles Steiner.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Association de l'école Rudolf Steiner - Lausanne</name>
+      <uid>CHE-103.529.585</uid>
+      <uidOrganisationId>103529585</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010367394</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Bois-Genoud</street>
+        <houseNumber>36</houseNumber>
+        <swissZipCode>1023</swissZipCode>
+        <town>Crissier</town>
+      </address>
+    </company>
+    <purpose>favoriser et promouvoir la pédagogie spécifique aux écoles Steiner.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-05</lastFoscDate>
+    <lastFoscNumber>107</lastFoscNumber>
+    <lastFoscSequence>1004904134</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

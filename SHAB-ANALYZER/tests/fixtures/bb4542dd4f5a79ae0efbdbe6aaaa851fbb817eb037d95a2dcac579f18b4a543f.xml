@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>39a95b60-2793-4b7a-bc69-ab3b20a827bd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004947054</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation PSU On Line Sàrl, Boudry</de>
+    <en>Change PSU On Line Sàrl, Boudry</en>
+    <it>Cambiamenti PSU On Line Sàrl, Boudry</it>
+    <fr>Mutation PSU On Line Sàrl, Boudry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2271</journalNumber>
+  <journalDate>2020-07-23</journalDate>
+  <publicationText>PSU On Line Sàrl, à Boudry, CHE-112.166.458 (FOSC du 09.09.2019, p. 0/1004712461). Ellgass Matthias Bonaventure et Ellgass Sébastien Germain, tous deux gérants, signent désormais individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>PSU On Line Sàrl</name>
+      <uid>CHE-112.166.458</uid>
+      <uidOrganisationId>112166458</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64540977716</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Areuse, Clos-Roset</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>2015</swissZipCode>
+        <town>Areuse</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de traçage au sol, parking et voie de circulation, marquage des sols de locaux industriels, procédé airless et signalisation (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PSU On Line Sàrl</name>
+      <uid>CHE-112.166.458</uid>
+      <uidOrganisationId>112166458</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64540977716</code13>
+      <seat>Boudry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Areuse, Clos-Roset</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>2015</swissZipCode>
+        <town>Areuse</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de traçage au sol, parking et voie de circulation, marquage des sols de locaux industriels, procédé airless et signalisation (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-09-09</lastFoscDate>
+    <lastFoscNumber>173</lastFoscNumber>
+    <lastFoscSequence>1004712461</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
