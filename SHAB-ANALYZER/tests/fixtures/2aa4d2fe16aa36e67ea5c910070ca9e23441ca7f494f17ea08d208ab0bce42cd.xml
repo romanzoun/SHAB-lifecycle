@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>f53e2c4c-3efd-4ff8-be48-dd001ead8099</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004919879</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation Felix Schroth, Motor- und Getriebecenter, Feusisberg</de>
+    <en>Change Felix Schroth, Motor- und Getriebecenter, Feusisberg</en>
+    <it>Cambiamenti Felix Schroth, Motor- und Getriebecenter, Feusisberg</it>
+    <fr>Mutation Felix Schroth, Motor- und Getriebecenter, Feusisberg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3570</journalNumber>
+  <journalDate>2020-06-22</journalDate>
+  <publicationText>Felix Schroth, Motor- und Getriebecenter, in Feusisberg, CHE-106.193.636, Einzelunternehmen (SHAB Nr. 77 vom 22.04.1999, S.2617). Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vermögensübertragungsvertrag vom 18.06.2020 und Inventarliste per 31.12.2019 Aktiven (inklusive des darin enthaltenden Grundstücks GB Feusisberg Nr. D5751) von CHF 3'112'806.95 und Fremdkapital von CHF 1'250'645.65 auf die ch20 AG, in Feusisberg (CHE-372.435.686). Gegenleistung: 250'000 Namenaktien zu CHF 1.00 und eine Gutschrift als Forderung von CHF 1'612'161.30 .</publicationText>
+  <commonsNew>
+    <company>
+      <name>Felix Schroth, Motor- und Getriebecenter</name>
+      <uid>CHE-106.193.636</uid>
+      <uidOrganisationId>106193636</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13000103369</code13>
+      <seat>Feusisberg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chaltenboden</street>
+        <swissZipCode>8834</swissZipCode>
+        <town>Schindellegi</town>
+      </address>
+    </company>
+    <purpose>Mechanische Reparaturen von Motoren, Maschinen und Fahrzeugen sowie Schleifen von Zylindern.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Felix Schroth, Motor- und Getriebecenter</name>
+      <uid>CHE-106.193.636</uid>
+      <uidOrganisationId>106193636</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13000103369</code13>
+      <seat>Feusisberg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chaltenboden</street>
+        <swissZipCode>8834</swissZipCode>
+        <town>Schindellegi</town>
+      </address>
+    </company>
+    <purpose>Mechanische Reparaturen von Motoren, Maschinen und Fahrzeugen sowie Schleifen von Zylindern.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>1999-04-22</lastFoscDate>
+    <lastFoscNumber>77</lastFoscNumber>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

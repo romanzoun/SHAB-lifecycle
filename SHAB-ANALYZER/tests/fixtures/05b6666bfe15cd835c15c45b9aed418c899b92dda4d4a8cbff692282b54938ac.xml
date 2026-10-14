@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>f25fc632-39ed-4dce-b325-589238d83160</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004903055</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-06-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation RRG SA, Lausanne, neu RRG SA en liquidation</de>
+    <en>Change RRG SA, Lausanne, new RRG SA en liquidation</en>
+    <it>Cambiamenti RRG SA, Lausanne, nuovo RRG SA en liquidation</it>
+    <fr>Mutation RRG SA, Lausanne, nouveau RRG SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8699</journalNumber>
+  <journalDate>2020-05-29</journalDate>
+  <publicationText>RRG SA, à Lausanne, CHE-224.505.556 (FOSC du 06.03.2020, p. 0/1004847042). Selon décision de son assemblée générale du 27 mai 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce RRG SA en liquidation. Carreira Igareta José, administrateur-président, est nommé liquidateur avec signature individuelle. Selon déclaration du 27 mai 2020, la société n'est pas soumise à une révision ordinaire et renonce à une révision restreinte.</publicationText>
+  <commonsNew>
+    <company>
+      <name>RRG SA en liquidation</name>
+      <uid>CHE-224.505.556</uid>
+      <uidOrganisationId>224505556</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011061945</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o FID-ELITE WEALTH SERVICES SA</addressLine1>
+        <street>avenue de la Gare</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la réalisation de toute étude, la prestation de tout conseil, l'accompagnement de tout projet et la réalisation de tout audit, dans les domaines de la gestion d'affaires et du management, notamment de l'immobilier, dans les limites de la Loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>RRG SA</name>
+      <uid>CHE-224.505.556</uid>
+      <uidOrganisationId>224505556</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011061945</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o FID-ELITE WEALTH SERVICES SA</addressLine1>
+        <street>avenue de la Gare</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la réalisation de toute étude, la prestation de tout conseil, l'accompagnement de tout projet et la réalisation de tout audit, dans les domaines de la gestion d'affaires et du management, notamment de l'immobilier, dans les limites de la Loi fédérale sur l'acquisition d'immeubles par des personnes à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>true</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-06</lastFoscDate>
+    <lastFoscNumber>46</lastFoscNumber>
+    <lastFoscSequence>1004847042</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
