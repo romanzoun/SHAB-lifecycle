@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>092a524b-6aeb-49ab-8286-5ed257caf977</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004947067</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Houriet Microtechniques Sàrl, La Chaux-de-Fonds</de>
+    <en>Change Houriet Microtechniques Sàrl, La Chaux-de-Fonds</en>
+    <it>Cambiamenti Houriet Microtechniques Sàrl, La Chaux-de-Fonds</it>
+    <fr>Mutation Houriet Microtechniques Sàrl, La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2268</journalNumber>
+  <journalDate>2020-07-23</journalDate>
+  <publicationText>Houriet Microtechniques Sàrl, à La Chaux-de-Fonds, CHE-253.336.511 (FOSC du 03.07.2020, p. 0/1004928761). L'associé Houriet Charles a cédé 10 de ses 20 parts sociales de CHF 1'000 à Houriet Cloé, de Mont-Tramelan, à Vevey, nouvelle associée. Gérants: Houriet Charles, nommé président, et Houriet Cloé, lesquels signent individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Houriet Microtechniques Sàrl</name>
+      <uid>CHE-253.336.511</uid>
+      <uidOrganisationId>253336511</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541213645</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Tuilerie</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>développements microtechniques, fabrication de matériel médical et usinages micromécaniques.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Houriet Microtechniques Sàrl</name>
+      <uid>CHE-253.336.511</uid>
+      <uidOrganisationId>253336511</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541213645</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Tuilerie</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>développements microtechniques, fabrication de matériel médical et usinages micromécaniques.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-03</lastFoscDate>
+    <lastFoscNumber>127</lastFoscNumber>
+    <lastFoscSequence>1004928761</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

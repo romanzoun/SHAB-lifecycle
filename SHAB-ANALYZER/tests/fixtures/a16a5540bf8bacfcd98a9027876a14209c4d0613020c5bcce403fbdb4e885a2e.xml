@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>010ca784-96e6-4fc4-a585-ab88766c6cbb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004940130</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation Reload, Genève</de>
+    <en>Change Fondation Reload, Genève</en>
+    <it>Cambiamenti Fondation Reload, Genève</it>
+    <fr>Mutation Fondation Reload, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11976</journalNumber>
+  <journalDate>2020-07-14</journalDate>
+  <publicationText>Fondation Reload, à Genève, CHE-228.193.757 (FOSC du 30.10.2018, p. 0/1004487175). Le membre du conseil Pirker Niki, nommé président, lequel continue à signer individuellement. D'Agostino Pirker Daniela, de et à Genève, secrétaire, et Salanitro Pierre, trésorier, sont membres du conseil avec signature collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Reload</name>
+      <uid>CHE-228.193.757</uid>
+      <uidOrganisationId>228193757</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66020690184</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Cherbuliez</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>sensibiliser, encourager et promouvoir le don d'organes auprès du public genevois et suisse; soutenir et aider les personnes malades en attente de greffe; initier, gérer et organiser tous projets et activités en lien avec le don d'organe et permettant de le développer ou aptes à le favoriser (cf. acte de fondation pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Reload</name>
+      <uid>CHE-228.193.757</uid>
+      <uidOrganisationId>228193757</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66020690184</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Cherbuliez</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>sensibiliser, encourager et promouvoir le don d'organes auprès du public genevois et suisse; soutenir et aider les personnes malades en attente de greffe; initier, gérer et organiser tous projets et activités en lien avec le don d'organe et permettant de le développer ou aptes à le favoriser (cf. acte de fondation pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-30</lastFoscDate>
+    <lastFoscNumber>210</lastFoscNumber>
+    <lastFoscSequence>1004487175</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
