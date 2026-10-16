@@ -58,7 +58,7 @@ def test_fixture_complete_and_legacy_events_preserved(prefix, rule, count):
     fixture = path(prefix)
     assert hashlib.sha256(fixture.read_bytes()).hexdigest() == fixture.stem
     result, _ = captured(prefix)
-    assert PARSER_VERSION == 331
+    assert PARSER_VERSION == 332
     assert result.status == 'FULLY_PARSED' and not result.leftover_text
     assert len(selected(prefix)) == count
     assert any(e.rule_id == rule for e in selected(prefix))
@@ -86,9 +86,23 @@ def test_wrong_language_preserved(prefix, rule, count):
 
 @pytest.mark.parametrize('prefix,rule,count', CASES)
 def test_fixture_bytes_match_supplied_samples(prefix, rule, count):
-    source = Path('/srv/agent-control/jobs/shab/rule-samples-q6g64_6p') / path(prefix).name
-    if source.exists():
-        assert path(prefix).read_bytes() == source.read_bytes()
+    supplied_sha256 = {
+        '09f90c1f': '09f90c1ffe9342c36b034d4ae6144c2325aff4b52ad4005703fd789bcc01d3a9',
+        '28528abc': '28528abc2165a90899bbb77ee29ff6d9a624ec707ecf1c2518131620d37a2ed4',
+        '3e71da53': '3e71da537b8d6bb28d370a868e896c78ee0c374339b3ac0fd4510baa61e6eb8c',
+        '762ea6e8': '762ea6e87c3d5b9220718ed0ba419c209cd4b5599272a103b8197f272a506ba7',
+        '7f11be01': '7f11be01c0c0adbbdc7566857a65ffa38d67a18dbb837c53101e3c1e9599729e',
+        '950a0991': '950a0991c364aef656464cde867aa049360fb274db8348b13f0fa58da36e8fc3',
+        '9c5c898c': '9c5c898ce56a4fe0a460290fbe1b23d7c8de18648ba8593952f732adccf0a492',
+        'bb4542dd': 'bb4542dd4f5a79ae0efbdbe6aaaa851fbb817eb037d95a2dcac579f18b4a543f',
+        'd518eb02': 'd518eb02e93b6f6100cda037df8db041f664919afc377cc3c25652fd99332f9b',
+        'f63aa392': 'f63aa392aa0a685f2a852da0fc6b7d0bf198138eec0ff788eed6edfad1c3d3a0',
+        'f663e109': 'f663e10967e33b9983bfaf6b6d6b790c431185b5f798890e1cd31c9ebb35335d',
+        'f8fc2919': 'f8fc29192c6c81d33582d4ad93c15f6d59f4da232337b90be72ef69b4f432a89',
+    }
+    fixture = path(prefix)
+    assert fixture.stem == supplied_sha256[prefix]
+    assert hashlib.sha256(fixture.read_bytes()).hexdigest() == supplied_sha256[prefix]
 
 
 @pytest.mark.parametrize('prefix,rule,count', CASES)

@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>672ae3b9-c3a7-4fa9-b2c7-7d206d558761</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004931385</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation BNP Paribas (Suisse) SA, Genève</de>
+    <en>Change BNP Paribas (Suisse) SA, Genève</en>
+    <it>Cambiamenti BNP Paribas (Suisse) SA, Genève</it>
+    <fr>Mutation BNP Paribas (Suisse) SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11076</journalNumber>
+  <journalDate>2020-07-02</journalDate>
+  <publicationText>BNP Paribas (Suisse) SA, à Genève, CHE-102.922.193 (FOSC du 25.06.2020, p. 0/1004920777). L'inscription no 10116 du 22.06.2020 est rectifiée en ce sens qu'une procuration a été conférée à Westermaier Tobias (et non pas Westmaier Tobias).</publicationText>
+  <commonsNew>
+    <company>
+      <name>BNP Paribas (Suisse) SA</name>
+      <uid>CHE-102.922.193</uid>
+      <uidOrganisationId>102922193</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030005421</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>place de Hollande</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque.</purpose>
+    <capital>
+      <nominal>320270600.00</nominal>
+      <paid>320270600.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Deloitte SA</name>
+        <country>CH</country>
+        <uid>CHE411931790</uid>
+        <uidOrganisationId>411931790</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BNP Paribas (Suisse) SA</name>
+      <uid>CHE-102.922.193</uid>
+      <uidOrganisationId>102922193</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030005421</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>place de Hollande</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque.</purpose>
+    <capital>
+      <nominal>320270600.00</nominal>
+      <paid>320270600.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Deloitte SA</name>
+        <country>CH</country>
+        <uid>CHE411931790</uid>
+        <uidOrganisationId>411931790</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-25</lastFoscDate>
+    <lastFoscNumber>121</lastFoscNumber>
+    <lastFoscSequence>1004920777</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

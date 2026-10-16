@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>72746df4-cd84-4a03-9f34-0aaf4c10975e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004942874</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation DARU-Holding AG, Riniken</de>
+    <en>Change DARU-Holding AG, Riniken</en>
+    <it>Cambiamenti DARU-Holding AG, Riniken</it>
+    <fr>Mutation DARU-Holding AG, Riniken</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8020</journalNumber>
+  <journalDate>2020-07-17</journalDate>
+  <publicationText>DARU-Holding AG, in Riniken, CHE-106.022.762, Aktiengesellschaft (SHAB Nr. 136 vom 16.07.2020, Publ. 1004938725). Zweigniederlassung neu: [Folgende Zweigniederlassungen sind aufgehoben worden:] [gestrichen: Zürich (HR Zürich)].</publicationText>
+  <commonsNew>
+    <company>
+      <name>DARU-Holding AG</name>
+      <uid>CHE-106.022.762</uid>
+      <uidOrganisationId>106022762</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030071168</code13>
+      <seat>Riniken</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Trottengasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>5223</swissZipCode>
+        <town>Riniken</town>
+      </address>
+    </company>
+    <purpose>Erwerb und dauernde Verwaltung von Liegenschaften und Beteiligungen an Unternehmen im In- und Ausland sowie deren Finanzierung; kann Zweigniederlassungen errichten, gleichartige oder verwandte Unternehmungen gründen, sich an solchen beteiligen oder sich mit solchen zusammenschliessen sowie Grundstücke erwerben, belasten, veräussern und verwalten.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>DARU-Holding AG</name>
+      <uid>CHE-106.022.762</uid>
+      <uidOrganisationId>106022762</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030071168</code13>
+      <seat>Riniken</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Trottengasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>5223</swissZipCode>
+        <town>Riniken</town>
+      </address>
+    </company>
+    <purpose>Erwerb und dauernde Verwaltung von Liegenschaften und Beteiligungen an Unternehmen im In- und Ausland sowie deren Finanzierung; kann Zweigniederlassungen errichten, gleichartige oder verwandte Unternehmungen gründen, sich an solchen beteiligen oder sich mit solchen zusammenschliessen sowie Grundstücke erwerben, belasten, veräussern und verwalten.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-16</lastFoscDate>
+    <lastFoscNumber>136</lastFoscNumber>
+    <lastFoscSequence>1004938725</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

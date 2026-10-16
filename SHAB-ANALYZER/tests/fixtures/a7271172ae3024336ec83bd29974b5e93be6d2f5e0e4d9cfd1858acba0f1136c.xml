@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>6aefc67c-cf22-4d8b-b72a-9900b9d1f2cd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004937800</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Deriaz, Baulmes, neu Fondation Deriaz en liquidation</de>
+    <en>Change Fondation Deriaz, Baulmes, new Fondation Deriaz en liquidation</en>
+    <it>Cambiamenti Fondation Deriaz, Baulmes, nuovo Fondation Deriaz en liquidation</it>
+    <fr>Mutation Fondation Deriaz, Baulmes, nouveau Fondation Deriaz en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11560</journalNumber>
+  <journalDate>2020-07-10</journalDate>
+  <publicationText>Fondation Deriaz, à Baulmes, CHE-110.402.004 (FOSC du 07.04.2016, p. 0/2766209). L'Autorité de surveillance LPP et des fondations de Suisse occidentale a prononcé la dissolution de la fondation par décision du 18 juillet 2019. La liquidation est opérée sous le nom: Fondation Deriaz en liquidation. Les signatures de Ravussin Pierre-Emile, Deriaz Sarah et Ravussin Charles-Edouard, qui restent membres du conseil de fondation, sont radiées. AS LEGAL Sàrl (CHE-355.826.117) est nommée liquidatrice.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Deriaz en liquidation</name>
+      <uid>CHE-110.402.004</uid>
+      <uidOrganisationId>110402004</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010106466</code13>
+      <seat>Baulmes</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>1446</swissZipCode>
+        <town>Baulmes</town>
+      </address>
+    </company>
+    <purpose>acquérir le patrimoine photographique et immobilier de la famille Deriaz, à Baulmes, ainsi que sa mise à disposition du public.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Deriaz</name>
+      <uid>CHE-110.402.004</uid>
+      <uidOrganisationId>110402004</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010106466</code13>
+      <seat>Baulmes</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>1446</swissZipCode>
+        <town>Baulmes</town>
+      </address>
+    </company>
+    <purpose>acquérir le patrimoine photographique et immobilier de la famille Deriaz, à Baulmes, ainsi que sa mise à disposition du public.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-04-07</lastFoscDate>
+    <lastFoscNumber>67</lastFoscNumber>
+    <lastFoscSequence>2766209</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
