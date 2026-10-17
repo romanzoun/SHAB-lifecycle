@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>fab2ac01-c239-4478-a6a7-b1f93ed55ce7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004957958</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation aArt aesthetic-medical-cosmetics Franziska von Siebenthal, Muntelier</de>
+    <en>Change aArt aesthetic-medical-cosmetics Franziska von Siebenthal, Muntelier</en>
+    <it>Cambiamenti aArt aesthetic-medical-cosmetics Franziska von Siebenthal, Muntelier</it>
+    <fr>Mutation aArt aesthetic-medical-cosmetics Franziska von Siebenthal, Muntelier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4551</journalNumber>
+  <journalDate>2020-08-11</journalDate>
+  <publicationText>aArt aesthetic-medical-cosmetics Franziska von Siebenthal, in Muntelier, CHE-486.813.909 (SHAB vom 30.06.2020, s. 0/1004923988). Berichtigung der Eintragung Nr. 3529 vom 25.06.2020 (SHAB vom 30.06.2020, Id 1004923988): die richtige UID-Nummer lautet CHE-371.789.696 (und nicht 486.813.909).</publicationText>
+  <commonsNew>
+    <company>
+      <name>aArt aesthetic-medical-cosmetics Franziska von Siebenthal</name>
+      <uid>CHE-371.789.696</uid>
+      <uidOrganisationId>371789696</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735738486</code13>
+      <seat>Muntelier</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>60</houseNumber>
+        <swissZipCode>3286</swissZipCode>
+        <town>Muntelier</town>
+      </address>
+    </company>
+    <purpose>Kosmetik, Jin Shin Jyutsu.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>aArt aesthetic-medical-cosmetics Franziska von Siebenthal</name>
+      <uid>CHE-486.813.909</uid>
+      <uidOrganisationId>486813909</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735738486</code13>
+      <seat>Muntelier</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>60</houseNumber>
+        <swissZipCode>3286</swissZipCode>
+        <town>Muntelier</town>
+      </address>
+    </company>
+    <purpose>Kosmetik, Jin Shin Jyutsu.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-30</lastFoscDate>
+    <lastFoscNumber>124</lastFoscNumber>
+    <lastFoscSequence>1004923988</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>true</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
