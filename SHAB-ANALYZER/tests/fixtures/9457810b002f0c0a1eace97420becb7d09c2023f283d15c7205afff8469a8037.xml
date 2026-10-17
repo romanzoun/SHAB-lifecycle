@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>6e76e90b-0e1a-4078-8134-632a5f238485</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004957105</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Hôtel de l'Ours S.A., Mont-Vully</de>
+    <en>Change Hôtel de l'Ours S.A., Mont-Vully</en>
+    <it>Cambiamenti Hôtel de l'Ours S.A., Mont-Vully</it>
+    <fr>Mutation Hôtel de l'Ours S.A., Mont-Vully</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4529</journalNumber>
+  <journalDate>2020-08-10</journalDate>
+  <publicationText>Hôtel de l'Ours S.A., à Mont-Vully, CHE-101.479.462 (FOSC du 12.01.2016, p. 0/2589631). Rectificatif: l'inscription n° 3964 du 26.08.2013 (FOSC du 29.08.2013, Id 1050329) est rectifiée dans ce sens: Pouly Daniel Louis, administrateur, président, signature collective à deux, est domicilié à Vully-les-Lacs (et non pas à Les Cullayes VD).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hôtel de l'Ours S.A.</name>
+      <uid>CHE-101.479.462</uid>
+      <uidOrganisationId>101479462</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705301176</code13>
+      <seat>Mont-Vully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de l'Ancien Pont</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1786</swissZipCode>
+        <town>Sugiez</town>
+      </address>
+    </company>
+    <purpose>l'exploitation de l'Hôtel de l'Ours à Sugiez et de son inventaire. Elle peut sous-louer l'établissement à des tiers (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>375000.00</nominal>
+      <paid>375000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hôtel de l'Ours S.A.</name>
+      <uid>CHE-101.479.462</uid>
+      <uidOrganisationId>101479462</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705301176</code13>
+      <seat>Mont-Vully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de l'Ancien Pont</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1786</swissZipCode>
+        <town>Sugiez</town>
+      </address>
+    </company>
+    <purpose>l'exploitation de l'Hôtel de l'Ours à Sugiez et de son inventaire. Elle peut sous-louer l'établissement à des tiers (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>375000.00</nominal>
+      <paid>375000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-01-12</lastFoscDate>
+    <lastFoscNumber>7</lastFoscNumber>
+    <lastFoscSequence>2589631</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

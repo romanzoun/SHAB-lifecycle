@@ -59,7 +59,7 @@ def test_fixture_complete_and_legacy_events_preserved(prefix, rule, count):
     fixture = path(prefix)
     assert hashlib.sha256(fixture.read_bytes()).hexdigest() == fixture.stem
     result, _ = captured(prefix)
-    assert PARSER_VERSION == 343
+    assert PARSER_VERSION == 344
     assert result.status == 'FULLY_PARSED' and not result.leftover_text
     assert len(selected(prefix)) == count
     with patch.object(parser, 'extract_parser322_leftovers', lambda text, *args, **kwargs: ([], text)):
