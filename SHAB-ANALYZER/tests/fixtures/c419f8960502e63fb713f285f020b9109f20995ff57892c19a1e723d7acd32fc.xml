@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>b26dfa55-9a90-4ec8-b5ee-256297f0fa84</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004967326</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Jean Ferner, coffres-forts, La Chaux-de-Fonds</de>
+    <en>Change Jean Ferner, coffres-forts, La Chaux-de-Fonds</en>
+    <it>Cambiamenti Jean Ferner, coffres-forts, La Chaux-de-Fonds</it>
+    <fr>Mutation Jean Ferner, coffres-forts, La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2571</journalNumber>
+  <journalDate>2020-08-25</journalDate>
+  <publicationText>Jean Ferner, coffres-forts, à La Chaux-de-Fonds, CHE-106.793.150 (FOSC du 19.12.2013, p. 0/7225830). Procuration individuelle a été conférée à Ferner Florent René, ainsi qu'à Ferner René, tous deux de et à La Chaux-de-Fonds.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Jean Ferner, coffres-forts</name>
+      <uid>CHE-106.793.150</uid>
+      <uidOrganisationId>106793150</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510070038</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Le Crêt-du-Locle 28, commune de La Chaux-de-Fonds</street>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>commerce de coffres-forts et de machines.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Jean Ferner, coffres-forts</name>
+      <uid>CHE-106.793.150</uid>
+      <uidOrganisationId>106793150</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510070038</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Le Crêt-du-Locle 28, commune de La Chaux-de-Fonds</street>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>commerce de coffres-forts et de machines.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225830</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>afdd4879-6ae8-4876-bfb9-727df41c345c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004961482</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Banque Cantonale de Fribourg, Fribourg</de>
+    <en>Change Banque Cantonale de Fribourg, Fribourg</en>
+    <it>Cambiamenti Banque Cantonale de Fribourg, Fribourg</it>
+    <fr>Mutation Banque Cantonale de Fribourg, Fribourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4647</journalNumber>
+  <journalDate>2020-08-17</journalDate>
+  <publicationText>Banque Cantonale de Fribourg, à Fribourg, CHE-108.954.576 (FOSC du 12.08.2020, p. 0/1004956325). L'inscription n° 4503 du 07.08.2020 (FOSC du 12.08.2020, Id 1004956325) est rectifiée. Les personnes suivantes ayant été radiées par erreur, elles sont réinscrites: Rotzetter Pierre-Alain, de Fribourg, Tinterin et St-Sylvestre, à Arconciel, sous-directeur, signature collective à deux; Duerr Walter, de Aarau, à Morat, procuration collective à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Banque Cantonale de Fribourg</name>
+      <uid>CHE-108.954.576</uid>
+      <uidOrganisationId>108954576</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701316185</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard de Pérolles</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>contribuer au développement du canton; pourvoir aux besoins financiers de la population et lui fournir la possibilité de placements sûrs de son épargne et de ses capitaux; procurer des ressources financières au canton.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Banque Cantonale de Fribourg</name>
+      <uid>CHE-108.954.576</uid>
+      <uidOrganisationId>108954576</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21701316185</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard de Pérolles</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>contribuer au développement du canton; pourvoir aux besoins financiers de la population et lui fournir la possibilité de placements sûrs de son épargne et de ses capitaux; procurer des ressources financières au canton.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-08-12</lastFoscDate>
+    <lastFoscNumber>155</lastFoscNumber>
+    <lastFoscSequence>1004956325</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
