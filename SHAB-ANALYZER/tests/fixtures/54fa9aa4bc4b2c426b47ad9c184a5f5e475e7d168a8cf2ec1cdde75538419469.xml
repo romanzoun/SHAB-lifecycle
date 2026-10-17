@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>7571f37d-04f0-467d-90d8-fcfdaff732cd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004956310</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Seelandfahrschule GmbH, Murten, neu Seelandfahrschule GmbH in Liquidation</de>
+    <en>Change Seelandfahrschule GmbH, Murten, new Seelandfahrschule GmbH in Liquidation</en>
+    <it>Cambiamenti Seelandfahrschule GmbH, Murten, nuovo Seelandfahrschule GmbH in Liquidation</it>
+    <fr>Mutation Seelandfahrschule GmbH, Murten, nouveau Seelandfahrschule GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4513</journalNumber>
+  <journalDate>2020-08-07</journalDate>
+  <publicationText>Seelandfahrschule GmbH, in Murten, CHE-113.597.217 (FOSC du 06.06.2017, p. 0/3561419). Die Gesellschaft wird gemäss Beschluss der Gesellschafterversammlung vom 22.07.2020 aufgelöst. Neue Firma: Seelandfahrschule GmbH in Liquidation. Eingetragene Person geändert: Brönnimann Jürg Hans, Gesellschafter, 1 Stammanteil zu CHF 1'000, 1 Stammanteil zu CHF 19'000, Geschäftsführer, Einzelunterschrift, neu Gesellschafter, 1 Stammanteil zu CHF 1'000, 1 Stammanteil zu CHF 19'000, Geschäftsführer, Liquidator, Einzelunterschrift. Liquidationsadresse: Meylandstrasse 8, 3280 Murten</publicationText>
+  <commonsNew>
+    <company>
+      <name>Seelandfahrschule GmbH in Liquidation</name>
+      <uid>CHE-113.597.217</uid>
+      <uidOrganisationId>113597217</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735377425</code13>
+      <seat>Murten</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Meylandstrasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+      <liqAddress>
+        <street>Meylandstrasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </liqAddress>
+    </company>
+    <purpose>Betrieb einer Autofahrschule, Erteilen von Theorie-, Verkehrskunde- und praktischem Fahrunterricht.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Seelandfahrschule GmbH</name>
+      <uid>CHE-113.597.217</uid>
+      <uidOrganisationId>113597217</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735377425</code13>
+      <seat>Murten</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Meylandstrasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Autofahrschule, Erteilen von Theorie-, Verkehrskunde- und praktischem Fahrunterricht.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-06-06</lastFoscDate>
+    <lastFoscNumber>107</lastFoscNumber>
+    <lastFoscSequence>3561419</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

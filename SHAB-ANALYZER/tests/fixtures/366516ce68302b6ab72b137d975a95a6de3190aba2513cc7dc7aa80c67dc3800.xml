@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>75ab1785-a9bb-4df8-a9a0-b88615e3c9a7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004951529</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SWISSCUISINES.ch, Muñoz Martinez &amp; Alvarez Jimenez en liquidation, Lausanne</de>
+    <en>Change SWISSCUISINES.ch, Muñoz Martinez &amp; Alvarez Jimenez en liquidation, Lausanne</en>
+    <it>Cambiamenti SWISSCUISINES.ch, Muñoz Martinez &amp; Alvarez Jimenez en liquidation, Lausanne</it>
+    <fr>Mutation SWISSCUISINES.ch, Muñoz Martinez &amp; Alvarez Jimenez en liquidation, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12848</journalNumber>
+  <journalDate>2020-07-30</journalDate>
+  <publicationText>SWISSCUISINES.ch, Muñoz Martinez &amp; Alvarez Jimenez en liquidation, à Lausanne, CHE-346.401.032, société en nom collectif (FOSC du 25.04.2017, p. 0/3484727). Par décision du président du Tribunal de l'arrondissement de Lausanne du 13 juillet 2020, la société a été déclarée dissoute conformément à l'article 154 ORC; sa liquidation a été ordonnée selon les dispositions applicables à la faillite.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SWISSCUISINES.ch, Muñoz Martinez &amp; Alvarez Jimenez en liquidation</name>
+      <uid>CHE-346.401.032</uid>
+      <uidOrganisationId>346401032</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011424876</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>commerce de notamment de cuisines ainsi que de matériaux dans le domaine de la menuiserie et charpenterie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SWISSCUISINES.ch, Muñoz Martinez &amp; Alvarez Jimenez en liquidation</name>
+      <uid>CHE-346.401.032</uid>
+      <uidOrganisationId>346401032</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011424876</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>commerce de notamment de cuisines ainsi que de matériaux dans le domaine de la menuiserie et charpenterie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-04-25</lastFoscDate>
+    <lastFoscNumber>79</lastFoscNumber>
+    <lastFoscSequence>3484727</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
