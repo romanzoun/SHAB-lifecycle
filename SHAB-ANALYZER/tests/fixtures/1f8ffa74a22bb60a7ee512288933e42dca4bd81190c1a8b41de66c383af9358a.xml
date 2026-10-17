@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>2b8d5c22-43e3-4e92-bb47-e0660ba84167</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004963840</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation ID Carrelage Sàrl, Carouge (GE)</de>
+    <en>Change ID Carrelage Sàrl, Carouge (GE)</en>
+    <it>Cambiamenti ID Carrelage Sàrl, Carouge (GE)</it>
+    <fr>Mutation ID Carrelage Sàrl, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14079</journalNumber>
+  <journalDate>2020-08-19</journalDate>
+  <publicationText>ID Carrelage Sàrl, à Carouge (GE), CHE-329.450.851 (FOSC du 30.04.2019, p. 0/1004620363). Dauti Emin, maintenant président, détient désormais 100 parts de CHF 100 par suite de cession de 100 parts de CHF 100 à Ibrahimi Avni, de Thônex, au Grand-Saconnex, nouvel associé-gérant pour 100 parts de CHF 100 avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ID Carrelage Sàrl</name>
+      <uid>CHE-329.450.851</uid>
+      <uidOrganisationId>329450851</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005560173</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jeunes</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>pose de carrelage, de piscines, de pierres naturelles et de terrasses, rénovations, petite maçonnerie et toutes activités liées au domaine du bâtiment (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ID Carrelage Sàrl</name>
+      <uid>CHE-329.450.851</uid>
+      <uidOrganisationId>329450851</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005560173</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jeunes</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>pose de carrelage, de piscines, de pierres naturelles et de terrasses, rénovations, petite maçonnerie et toutes activités liées au domaine du bâtiment (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-30</lastFoscDate>
+    <lastFoscNumber>82</lastFoscNumber>
+    <lastFoscSequence>1004620363</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

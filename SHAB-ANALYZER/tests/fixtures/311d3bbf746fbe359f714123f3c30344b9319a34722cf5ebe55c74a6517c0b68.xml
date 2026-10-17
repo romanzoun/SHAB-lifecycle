@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>306d435c-f4c2-47da-9ea2-36678c480a7f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004951599</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Caisse de pensions de la société Firmenich SA, Satigny</de>
+    <en>Change Caisse de pensions de la société Firmenich SA, Satigny</en>
+    <it>Cambiamenti Caisse de pensions de la société Firmenich SA, Satigny</it>
+    <fr>Mutation Caisse de pensions de la société Firmenich SA, Satigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13003</journalNumber>
+  <journalDate>2020-07-30</journalDate>
+  <publicationText>Caisse de pensions de la société Firmenich SA, à Satigny, CHE-109.690.405 (FOSC du 21.07.2020, p. 0/1004942235). L'inscription no 12207 du 16.07.2020 est rectifiée en ce sens que le membre du conseil Tahriou Said, n'est en réalité plus président.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Caisse de pensions de la société Firmenich SA</name>
+      <uid>CHE-109.690.405</uid>
+      <uidOrganisationId>109690405</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000639451</code13>
+      <seat>Satigny</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Firmenich SA</addressLine1>
+        <street>Rue de la Bergère</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1242</swissZipCode>
+        <town>Satigny</town>
+      </address>
+    </company>
+    <purpose>réaliser la prévoyance professionnelle pour mettre les collaborateurs de l'entreprise, ainsi que les membres de leurs familles et leurs survivants à l'abri des conséquences économiques découlant de la vieillesse, du décès et de l'invalidité.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>PricewaterhouseCoopers SA</name>
+        <country>CH</country>
+        <uid>CHE390062005</uid>
+        <uidOrganisationId>390062005</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Caisse de pensions de la société Firmenich SA</name>
+      <uid>CHE-109.690.405</uid>
+      <uidOrganisationId>109690405</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000639451</code13>
+      <seat>Satigny</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Firmenich SA</addressLine1>
+        <street>Rue de la Bergère</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1242</swissZipCode>
+        <town>Satigny</town>
+      </address>
+    </company>
+    <purpose>réaliser la prévoyance professionnelle pour mettre les collaborateurs de l'entreprise, ainsi que les membres de leurs familles et leurs survivants à l'abri des conséquences économiques découlant de la vieillesse, du décès et de l'invalidité.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>PricewaterhouseCoopers SA</name>
+        <country>CH</country>
+        <uid>CHE390062005</uid>
+        <uidOrganisationId>390062005</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-21</lastFoscDate>
+    <lastFoscNumber>139</lastFoscNumber>
+    <lastFoscSequence>1004942235</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

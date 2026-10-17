@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>3705c5c5-8205-47b4-9ffe-d23a7662cf51</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004955703</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Manpower AG, Frick</de>
+    <en>Change Manpower AG, Frick</en>
+    <it>Cambiamenti Manpower AG, Frick</it>
+    <fr>Mutation Manpower AG, Frick</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8641</journalNumber>
+  <journalDate>2020-08-06</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 99 vom 25.05.2020, publizierten TR-Eintrags Nr. 5'448 vom 19.05.2020 Manpower AG, in Frick, CHE-378.022.093, schweizerische Zweigniederlassung (SHAB Nr. 99 vom 25.05.2020, Publ. 1004895910), Hauptsitz in: Zug. Wiedereintragung der Zweigniederlassung von Amtes wegen infolge irrtümlicher Löschung. Firma Hauptsitz neu: Manpower SA (Manpower AG) (Manpower Ltd) [nicht: Manpower AG]. Hauptsitz neu: Morges [nicht: Zug].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Manpower AG</name>
+      <uid>CHE-378.022.093</uid>
+      <uidOrganisationId>378022093</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40094448028</code13>
+      <seat>Frick</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>86</houseNumber>
+        <swissZipCode>5070</swissZipCode>
+        <town>Frick</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Manpower SA</name>
+      <country>CH</country>
+      <uid>CHE-105.999.625</uid>
+      <uidOrganisationId>105999625</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Manpower AG</name>
+      <uid>CHE-378.022.093</uid>
+      <uidOrganisationId>378022093</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40094448028</code13>
+      <seat>Frick</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>86</houseNumber>
+        <swissZipCode>5070</swissZipCode>
+        <town>Frick</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-25</lastFoscDate>
+    <lastFoscNumber>99</lastFoscNumber>
+    <lastFoscSequence>1004895910</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
