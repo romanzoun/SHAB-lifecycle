@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>4e2d4523-9cd0-460f-95d3-ab7fa1265e99</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004961895</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation GWCM Fund Administrators SARL, en liquidation, Genève</de>
+    <en>Change GWCM Fund Administrators SARL, en liquidation, Genève</en>
+    <it>Cambiamenti GWCM Fund Administrators SARL, en liquidation, Genève</it>
+    <fr>Mutation GWCM Fund Administrators SARL, en liquidation, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13948</journalNumber>
+  <journalDate>2020-08-17</journalDate>
+  <publicationText>GWCM Fund Administrators SARL, en liquidation, à Genève, CHE-298.302.922 (FOSC du 15.07.2020, p. 0/1004937971). L'inscription 11787 du 10.07.2020 est complétée en ce sens que l'adresse de liquidation exacte est Boulevard Helvétique 30, c/o Geneva Wealth Capital Management SA, 1207 Genève.</publicationText>
+  <commonsNew>
+    <company>
+      <name>GWCM Fund Administrators SARL, en liquidation</name>
+      <uid>CHE-298.302.922</uid>
+      <uidOrganisationId>298302922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022480189</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o Geneva Wealth Capital Management SA</addressLine1>
+        <street>Boulevard Helvétique</street>
+        <houseNumber>30</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>administration d'investissements de fonds non suisses; gestion et coordination avec d'autres fournisseurs de services pour l'audit, le secrétariat d'entreprise, les services de dépôt, l'inscription en bourse et les agents de transferts (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GWCM Fund Administrators SARL, en liquidation</name>
+      <uid>CHE-298.302.922</uid>
+      <uidOrganisationId>298302922</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022480189</code13>
+      <seat>Genève</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+      <liqAddress>
+        <addressLine1>c/o Geneva Wealth Capital Management SA</addressLine1>
+        <street>Boulevard Helvétique</street>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>administration d'investissements de fonds non suisses; gestion et coordination avec d'autres fournisseurs de services pour l'audit, le secrétariat d'entreprise, les services de dépôt, l'inscription en bourse et les agents de transferts (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-15</lastFoscDate>
+    <lastFoscNumber>135</lastFoscNumber>
+    <lastFoscSequence>1004937971</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
