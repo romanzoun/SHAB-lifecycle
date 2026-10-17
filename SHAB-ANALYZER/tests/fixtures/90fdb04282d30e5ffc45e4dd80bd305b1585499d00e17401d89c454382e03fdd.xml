@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>ed47905f-4103-4b2b-9918-37727b4988ac</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004934657</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Visionheads Sàrl, Aubonne, neu Visionheads Sàrl en liquidation</de>
+    <en>Change Visionheads Sàrl, Aubonne, new Visionheads Sàrl en liquidation</en>
+    <it>Cambiamenti Visionheads Sàrl, Aubonne, nuovo Visionheads Sàrl en liquidation</it>
+    <fr>Mutation Visionheads Sàrl, Aubonne, nouveau Visionheads Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11308</journalNumber>
+  <journalDate>2020-07-07</journalDate>
+  <publicationText>Visionheads Sàrl, à Aubonne, CHE-340.748.520 (FOSC du 19.06.2019, p. 0/1004655189). Selon décision de son assemblée des associés du 24 juin 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Visionheads Sàrl en liquidation (Visionheads GmbH in Liquidation) (Visionheads Sagl in liquidazione) (Visionheads Ltd liab Co in liquidation). Arnold Cassandra, qui est maintenant à Aubonne, est nommée liquidatrice avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Visionheads Sàrl en liquidation</name>
+      <translations>(Visionheads GmbH in Liquidation) (Visionheads Sagl in liquidazione) (Visionheads Ltd liab Co in liquidation)</translations>
+      <uid>CHE-340.748.520</uid>
+      <uidOrganisationId>340748520</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011807358</code13>
+      <seat>Aubonne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Bruno Arnold</addressLine1>
+        <street>Sous-Bougy</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1170</swissZipCode>
+        <town>Aubonne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités commerciales en relation avec l'événementiel (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Visionheads Sàrl</name>
+      <translations>(Visionheads GmbH) (Visionheads Sagl) (Visionheads Ltd liab Co)</translations>
+      <uid>CHE-340.748.520</uid>
+      <uidOrganisationId>340748520</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011807358</code13>
+      <seat>Aubonne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Bruno Arnold</addressLine1>
+        <street>Sous-Bougy</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>1170</swissZipCode>
+        <town>Aubonne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités commerciales en relation avec l'événementiel (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-06-19</lastFoscDate>
+    <lastFoscNumber>116</lastFoscNumber>
+    <lastFoscSequence>1004655189</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

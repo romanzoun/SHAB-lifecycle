@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>d72ca4d8-32d7-488d-9851-baf32d1a847a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004934629</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation MEPA Immobilier SA, Montilliez, neu MEPA Immobilier SA en liquidation</de>
+    <en>Change MEPA Immobilier SA, Montilliez, new MEPA Immobilier SA en liquidation</en>
+    <it>Cambiamenti MEPA Immobilier SA, Montilliez, nuovo MEPA Immobilier SA en liquidation</it>
+    <fr>Mutation MEPA Immobilier SA, Montilliez, nouveau MEPA Immobilier SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11282</journalNumber>
+  <journalDate>2020-07-07</journalDate>
+  <publicationText>MEPA Immobilier SA, à Montilliez, CHE-201.172.076 (FOSC du 24.03.2014, p. 0/1412339). Selon décision de son assemblée générale du 1er juillet 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: MEPA Immobilier SA en liquidation. Les administrateurs Menétrey Joseph, désormais à Montilliez, et Panchaud Pierre, sont nommés liquidateurs avec signature individuelle. Les 1'000 actions nominatives de CHF 100, formant l'entier du capital-actions, ne sont plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO).</publicationText>
+  <commonsNew>
+    <company>
+      <name>MEPA Immobilier SA en liquidation</name>
+      <uid>CHE-201.172.076</uid>
+      <uidOrganisationId>201172076</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011467853</code13>
+      <seat>Montilliez</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Joseph Ménétrey S.A.</addressLine1>
+        <street>Route de Bottens</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>1041</swissZipCode>
+        <town>Poliez-le-Grand</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes opérations dans le domaine immobilier, notamment l'achat, la vente, la gérance, le courtage, l'administration de propriété par étages et la promotion immobilière, ainsi que toutes opérations liées à l'activité d'entreprise générale, y compris l'établissement de plans, de projets, la direction et la surveillance des travaux de construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MEPA Immobilier SA</name>
+      <uid>CHE-201.172.076</uid>
+      <uidOrganisationId>201172076</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011467853</code13>
+      <seat>Montilliez</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Joseph Ménétrey S.A.</addressLine1>
+        <street>Route de Bottens</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>1041</swissZipCode>
+        <town>Poliez-le-Grand</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes opérations dans le domaine immobilier, notamment l'achat, la vente, la gérance, le courtage, l'administration de propriété par étages et la promotion immobilière, ainsi que toutes opérations liées à l'activité d'entreprise générale, y compris l'établissement de plans, de projets, la direction et la surveillance des travaux de construction (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-03-24</lastFoscDate>
+    <lastFoscNumber>57</lastFoscNumber>
+    <lastFoscSequence>1412339</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
