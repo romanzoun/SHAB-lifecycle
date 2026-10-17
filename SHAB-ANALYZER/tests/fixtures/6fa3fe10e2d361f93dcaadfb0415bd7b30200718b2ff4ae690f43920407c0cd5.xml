@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>c48a47d2-509f-4d9a-bfee-2c637cea95a8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004960928</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Peter A. Witzig, Ascona</de>
+    <en>Change Peter A. Witzig, Ascona</en>
+    <it>Cambiamenti Peter A. Witzig, Ascona</it>
+    <fr>Mutation Peter A. Witzig, Ascona</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10504</journalNumber>
+  <journalDate>2020-08-14</journalDate>
+  <publicationText>Peter A. Witzig, in Ascona, CHE-105.951.624, ditta individuale (Nr. FUSC 39 del 25.02.2016, p.0, Pubbl. 2688693). Il fallimento è stato revocato con decreto della Pretura del Distretto di Locarno-Campagna del 13.08.2020. La situazione è ristabilita come in precedenza. [radiati: Con decreto della Pretura del Distretto di Locarno-Campagna del 19.02.2016 è stata revocata la moratoria a scopo di concordato. Il titolare è stato dichiarato in fallimento con decreto della Pretura del Distretto di Locarno-Campagna del 19.02.2016 a far tempo dal 22.02.2016 alle ore 15:00.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Peter A. Witzig</name>
+      <uid>CHE-105.951.624</uid>
+      <uidOrganisationId>105951624</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50910029804</code13>
+      <seat>Ascona</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Collina</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>6612</swissZipCode>
+        <town>Ascona</town>
+      </address>
+    </company>
+    <purpose>Albergo La Perla.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Peter A. Witzig</name>
+      <uid>CHE-105.951.624</uid>
+      <uidOrganisationId>105951624</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50910029804</code13>
+      <seat>Ascona</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Via Collina</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>6612</swissZipCode>
+        <town>Ascona</town>
+      </address>
+    </company>
+    <purpose>Albergo La Perla.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-02-25</lastFoscDate>
+    <lastFoscNumber>39</lastFoscNumber>
+    <lastFoscSequence>2688693</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

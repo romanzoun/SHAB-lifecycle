@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>cfd94b29-2b59-4d0d-b2d5-20aac097c367</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004954062</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Samuel Gay et Cie en liquidation, Charrat</de>
+    <en>Change Samuel Gay et Cie en liquidation, Charrat</en>
+    <it>Cambiamenti Samuel Gay et Cie en liquidation, Charrat</it>
+    <fr>Mutation Samuel Gay et Cie en liquidation, Charrat</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3126</journalNumber>
+  <journalDate>2020-08-04</journalDate>
+  <publicationText>Samuel Gay et Cie en liquidation, à Charrat, CHE-423.943.400, société en nom collectif (No. FOSC 203 du 21.10.2019, Publ. 1004741962). Par décision du 13.07.2020 prononcée par le Tribunal de Martigny et St-Maurice, la société en nom collectif est réinscrite d'office.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Samuel Gay et Cie en liquidation</name>
+      <uid>CHE-423.943.400</uid>
+      <uidOrganisationId>423943400</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62120043452</code13>
+      <seat>Charrat</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rte du Simplon</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1906</swissZipCode>
+        <town>Charrat</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de transports, garages, entrepôts frigorifiques, commerce de fruits, exploitation des immeubles des hoirs de Georgis Gay</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Samuel Gay et Cie en liquidation</name>
+      <uid>CHE-423.943.400</uid>
+      <uidOrganisationId>423943400</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62120043452</code13>
+      <seat>Charrat</seat>
+      <legalForm>0103</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rte du Simplon</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>1906</swissZipCode>
+        <town>Charrat</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de transports, garages, entrepôts frigorifiques, commerce de fruits, exploitation des immeubles des hoirs de Georgis Gay</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-21</lastFoscDate>
+    <lastFoscNumber>203</lastFoscNumber>
+    <lastFoscSequence>1004741962</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
