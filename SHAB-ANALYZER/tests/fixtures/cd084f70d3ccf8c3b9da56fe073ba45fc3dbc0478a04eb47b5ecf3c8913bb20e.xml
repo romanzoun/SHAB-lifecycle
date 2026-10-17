@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>a9ed19b2-ded5-4581-826c-49851f21ad6f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004930215</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation AMS Project Sàrl, Carouge (GE)</de>
+    <en>Change AMS Project Sàrl, Carouge (GE)</en>
+    <it>Cambiamenti AMS Project Sàrl, Carouge (GE)</it>
+    <fr>Mutation AMS Project Sàrl, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10946</journalNumber>
+  <journalDate>2020-07-01</journalDate>
+  <publicationText>AMS Project Sàrl, à Carouge (GE), CHE-171.168.263 (FOSC du 14.09.2017, p. 0/3753149). Moradi-Talebi Aminollah, et Rodzaj ép. Sarrasin Monika Anna ne sont plus associés ni gérants; leurs pouvoirs sont radiés; leurs 20 parts de CHF 1'000 ont été cédées à Zeneli Adnan, de Gurbrü, à Dardagny, nouvel associé-gérant pour 20 parts de CHF 1'000, avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>AMS Project Sàrl</name>
+      <uid>CHE-171.168.263</uid>
+      <uidOrganisationId>171168263</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66026360173</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue de la Praille</street>
+        <houseNumber>50</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise générale du bâtiment pour effectuer tous travaux, notamment de plâtrerie, de peinture, de carrelage, de parquet, de décoration et de démolition (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AMS Project Sàrl</name>
+      <uid>CHE-171.168.263</uid>
+      <uidOrganisationId>171168263</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66026360173</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue de la Praille</street>
+        <houseNumber>50</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise générale du bâtiment pour effectuer tous travaux, notamment de plâtrerie, de peinture, de carrelage, de parquet, de décoration et de démolition (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-09-14</lastFoscDate>
+    <lastFoscNumber>178</lastFoscNumber>
+    <lastFoscSequence>3753149</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
