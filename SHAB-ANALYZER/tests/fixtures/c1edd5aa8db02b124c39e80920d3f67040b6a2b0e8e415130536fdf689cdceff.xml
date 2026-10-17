@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>8c8bbc22-b242-40ce-921c-a2907f614910</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004931207</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Advanced Sport Instruments SA, Lausanne</de>
+    <en>Change Advanced Sport Instruments SA, Lausanne</en>
+    <it>Cambiamenti Advanced Sport Instruments SA, Lausanne</it>
+    <fr>Mutation Advanced Sport Instruments SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10867</journalNumber>
+  <journalDate>2020-07-02</journalDate>
+  <publicationText>Advanced Sport Instruments SA, à Lausanne, CHE-322.997.025 (FOSC du 20.11.2019, p. 0/1004764153). Statuts modifiés le 25 juin 2020. Suppression de la clause statutaire relative à l'augmentation autorisée du capital (fondée sur la décision d'autorisation du 28 juin 2018), par décision du 25 juin 2020, le délai étant écoulé. L'assemblée générale a introduit une clause statutaire relative à une augmentation autorisée du capital par décision du 25 juin 2020. Pour les détails, voir les statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Advanced Sport Instruments SA</name>
+      <uid>CHE-322.997.025</uid>
+      <uidOrganisationId>322997025</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011075141</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de Beaumont</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1012</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le développement, la production et la vente d'équipements électronique et logiciel (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>111833.30</nominal>
+      <paid>111833.30</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Advanced Sport Instruments SA</name>
+      <uid>CHE-322.997.025</uid>
+      <uidOrganisationId>322997025</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011075141</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de Beaumont</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1012</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le développement, la production et la vente d'équipements électronique et logiciel (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>111833.30</nominal>
+      <paid>111833.30</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-20</lastFoscDate>
+    <lastFoscNumber>225</lastFoscNumber>
+    <lastFoscSequence>1004764153</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

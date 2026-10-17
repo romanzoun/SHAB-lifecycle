@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>8e9f0992-e844-4d46-982f-4ee5560701ce</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004927112</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation NOVASTOCK SWITZERLAND SA, Nyon, neu NOVASTOCK SWITZERLAND SA en liquidation</de>
+    <en>Change NOVASTOCK SWITZERLAND SA, Nyon, new NOVASTOCK SWITZERLAND SA en liquidation</en>
+    <it>Cambiamenti NOVASTOCK SWITZERLAND SA, Nyon, nuovo NOVASTOCK SWITZERLAND SA en liquidation</it>
+    <fr>Mutation NOVASTOCK SWITZERLAND SA, Nyon, nouveau NOVASTOCK SWITZERLAND SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10568</journalNumber>
+  <journalDate>2020-06-29</journalDate>
+  <publicationText>NOVASTOCK SWITZERLAND SA, à Nyon, CHE-316.973.890 (FOSC du 10.09.2018, p. 0/1004452584). Selon décision de son assemblée générale du 22 juin 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: NOVASTOCK SWITZERLAND SA en liquidation. Les 100 actions nominatives de CHF 1'000, formant la totalité du capital-actions, ne sont plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO). L'administratrice Robert Astrid, désormais à Goumoëns, est nommée liquidatrice avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>NOVASTOCK SWITZERLAND SA en liquidation</name>
+      <uid>CHE-316.973.890</uid>
+      <uidOrganisationId>316973890</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66054920155</code13>
+      <seat>Nyon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o ALR Fiduciaire A.L.Rummel SA</addressLine1>
+        <street>Chemin Valmont</street>
+        <houseNumber>224</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>fourniture aux entreprises de services annexes à la production et plus particulièrement la réalisation d'inventaires et tout type d'activités de conseils et de formation en logistique, gestion et contrôle de points de vente et entrepôts et par ailleurs, réalisation de toute autre activité en lien avec le contrôle et conseil comptable et économique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>NOVASTOCK SWITZERLAND SA</name>
+      <uid>CHE-316.973.890</uid>
+      <uidOrganisationId>316973890</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66054920155</code13>
+      <seat>Nyon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o ALR Fiduciaire A.L.Rummel SA</addressLine1>
+        <street>Chemin Valmont</street>
+        <houseNumber>224</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>fourniture aux entreprises de services annexes à la production et plus particulièrement la réalisation d'inventaires et tout type d'activités de conseils et de formation en logistique, gestion et contrôle de points de vente et entrepôts et par ailleurs, réalisation de toute autre activité en lien avec le contrôle et conseil comptable et économique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-09-10</lastFoscDate>
+    <lastFoscNumber>174</lastFoscNumber>
+    <lastFoscSequence>1004452584</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
