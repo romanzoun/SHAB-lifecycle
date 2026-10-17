@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>c4fcb403-55fb-43cb-8a53-38643094ac10</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004925796</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Montreux Noël, Montreux</de>
+    <en>Change Fondation Montreux Noël, Montreux</en>
+    <it>Cambiamenti Fondation Montreux Noël, Montreux</it>
+    <fr>Mutation Fondation Montreux Noël, Montreux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10433</journalNumber>
+  <journalDate>2020-06-26</journalDate>
+  <publicationText>Fondation Montreux Noël, à Montreux, CHE-110.442.564 (FOSC du 31.12.2019, p. 0/1004796489). Le membre du conseil de fondation Compagnon Stéphane continue à signer collectivement à deux, désormais sans restriction. Nouveaux membre du conseil de fondation avec signature collective à deux: Cornaro Yves, de Montpreveyres, à Port-Valais, président, et Rossiaud Thierry, de Vevey, à Montreux, secrétaire.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Montreux Noël</name>
+      <uid>CHE-110.442.564</uid>
+      <uidOrganisationId>110442564</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010239672</code13>
+      <seat>Montreux</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1820</swissZipCode>
+        <town>Montreux</town>
+      </address>
+    </company>
+    <purpose>mise à disposition du Marché de Noël Montreux Sàrl les fonds nécessaires pour le bon déroulement des manifestations.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Montreux Noël</name>
+      <uid>CHE-110.442.564</uid>
+      <uidOrganisationId>110442564</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010239672</code13>
+      <seat>Montreux</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1820</swissZipCode>
+        <town>Montreux</town>
+      </address>
+    </company>
+    <purpose>mise à disposition du Marché de Noël Montreux Sàrl les fonds nécessaires pour le bon déroulement des manifestations.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-31</lastFoscDate>
+    <lastFoscNumber>252</lastFoscNumber>
+    <lastFoscSequence>1004796489</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

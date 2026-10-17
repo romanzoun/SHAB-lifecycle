@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>d33f3554-70b8-4c44-8bd9-9db168bd92e5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004931344</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Concept Diffusion Sàrl, Neuchâtel, neu Concept Diffusion Sàrl en liquidation</de>
+    <en>Change Concept Diffusion Sàrl, Neuchâtel, new Concept Diffusion Sàrl en liquidation</en>
+    <it>Cambiamenti Concept Diffusion Sàrl, Neuchâtel, nuovo Concept Diffusion Sàrl en liquidation</it>
+    <fr>Mutation Concept Diffusion Sàrl, Neuchâtel, nouveau Concept Diffusion Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1987</journalNumber>
+  <journalDate>2020-07-02</journalDate>
+  <publicationText>Concept Diffusion Sàrl, à Neuchâtel, CHE-161.928.570 (FOSC du 10.11.2016, p. 0/3155599). Entreprise ayant son siège à Lausanne. Par décision de Tribunal de l'arrondissement de Lausanne de 18 juin 2020, l'établissement principal a été déclaré en faillite avec effet à partir du 18 juin 2020, à 10h59. Nouvelle raison sociale de l'établissement principal: Concept Diffusion Sàrl en liquidation. Nouvelle raison de commerce de la succursale: Concept Diffusion Sàrl en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Concept Diffusion Sàrl en liquidation</name>
+      <uid>CHE-161.928.570</uid>
+      <uidOrganisationId>161928570</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541152323</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>faubourg de l'Hôpital</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Concept Diffusion Sàrl en liquidation</name>
+      <country>CH</country>
+      <uid>CHE-145.350.508</uid>
+      <uidOrganisationId>145350508</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Concept Diffusion Sàrl</name>
+      <uid>CHE-161.928.570</uid>
+      <uidOrganisationId>161928570</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541152323</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>faubourg de l'Hôpital</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Concept Diffusion Sàrl en liquidation</name>
+      <country>CH</country>
+      <uid>CHE-145.350.508</uid>
+      <uidOrganisationId>145350508</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-11-10</lastFoscDate>
+    <lastFoscNumber>219</lastFoscNumber>
+    <lastFoscSequence>3155599</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
