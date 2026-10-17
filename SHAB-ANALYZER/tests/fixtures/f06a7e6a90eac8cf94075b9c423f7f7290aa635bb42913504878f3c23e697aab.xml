@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>c358aa58-5345-4b7c-8229-0adc70ef526c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004948785</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Logement idéal - Société coopérative, Lausanne</de>
+    <en>Change Logement idéal - Société coopérative, Lausanne</en>
+    <it>Cambiamenti Logement idéal - Société coopérative, Lausanne</it>
+    <fr>Mutation Logement idéal - Société coopérative, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12524</journalNumber>
+  <journalDate>2020-07-27</journalDate>
+  <publicationText>Logement idéal - Société coopérative, à Lausanne, CHE-101.746.261 (FOSC du 25.02.2020, p. 0/1004838597). Nouveaux administrateurs sans signature: Amaudruz Aurore, du Mont-sur-Lausanne, à Lausanne, Lambert Caversaccio Laurence, de Gsteigwiler, à Morges, et L'Eplattenier Pierre-Alain, de Val-de-Ruz, au Mont-sur-Lausanne.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Logement idéal - Société coopérative</name>
+      <uid>CHE-101.746.261</uid>
+      <uidOrganisationId>101746261</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001479410</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Centrale</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>construction d'immeubles avec ou sans subvention des pouvoirs publics sur des terrains achetés ou au bénéfice d'un droit de superficie; acquisition d'immeubles subventionnés ou non.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Logement idéal - Société coopérative</name>
+      <uid>CHE-101.746.261</uid>
+      <uidOrganisationId>101746261</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001479410</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Centrale</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>construction d'immeubles avec ou sans subvention des pouvoirs publics sur des terrains achetés ou au bénéfice d'un droit de superficie; acquisition d'immeubles subventionnés ou non.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-25</lastFoscDate>
+    <lastFoscNumber>38</lastFoscNumber>
+    <lastFoscSequence>1004838597</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

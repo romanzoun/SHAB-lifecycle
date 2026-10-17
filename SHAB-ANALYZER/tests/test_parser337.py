@@ -1,0 +1,200 @@
+import hashlib
+import re
+from functools import lru_cache
+from pathlib import Path
+from unittest.mock import patch
+
+import pytest
+
+from shab_analyzer.config import PARSER_VERSION
+from shab_analyzer.models import Event
+from shab_analyzer.parse import parse_publication_xml
+from shab_analyzer.parser337 import extract_parser337_leftovers
+
+FIXTURES = Path(__file__).parent / 'fixtures'
+CASES = [('02b01d21', 'fr.text.share_transfer_between_managers.v1', 1), ('05f754ae', 'de.text.definitive_composition_moratorium_extended.v1', 1), ('28d8a9ab', 'fr.text.capital_correction_previous_wording.v1', 1), ('344fd637', 'fr.text.board_member_restricted_collective_signing.v1', 1), ('3fd951f1', 'fr.text.share_split_and_transfer.v1', 2), ('53049963', 'fr.text.corporate_share_transfer.v1', 1), ('74e2d459', 'fr.text.capital_reduction_simultaneous_increase.v1', 1), ('947e1202', 'de.text.subsidiary_merger_subordinated_debt.v1', 1), ('a1b75c8f', 'it.text.contribution_in_kind_and_asset_takeover.v1', 1), ('ac7a80ad', 'fr.text.profit_participation_certificates_complement.v1', 1), ('b89de1db', 'fr.text.registered_shares_transfer_restricted.v1', 1), ('f06a7e6a', 'fr.text.unsigned_board_members_joined.v1', 3)]
+SUPPLIED_SHA256 = {'02b01d21': '02b01d214bdce7b74ba3257bd2341c342e916d3715f40acaa03c839913664014', '05f754ae': '05f754aeec9919a691e20814911d658c8985c9439c9e91621e0dbb2bab02eb15', '28d8a9ab': '28d8a9abe17011aef273d9aafa41d260641df321453f67dd8f847f594e05e91e', '344fd637': '344fd637d2bef800d980469749861ae8ae42adfbf10bad971e1a10574c7d3ba9', '3fd951f1': '3fd951f15a10d2122e25df90dadc4557b03a8e2c6115b6e2800f236b8d36c7e5', '53049963': '530499634a86c43f84b319556cbe3fd33c3c4c74085b3524a9301ee31a373496', '74e2d459': '74e2d4596ad6023bc3946215206c515834b0122079b04c58c116cd4c4d5de6a7', '947e1202': '947e120249105805102ab6d30975370c5977a4d8c6aeac323ed5720b49c64b85', 'a1b75c8f': 'a1b75c8fe6af773d1cf1a97403a6ff27139c9cb5b97189a8a16c46c93e7db631', 'ac7a80ad': 'ac7a80ad829769bbd37ea6c6b1ed722f87e4655fa382baa4c9292ccf10a261f4', 'b89de1db': 'b89de1dbd7eece42d97c98423f951ee04c7d82d8cadb9102c74fd2c2dc435a4f', 'f06a7e6a': 'f06a7e6a90eac8cf94075b9c423f7f7290aa635bb42913504878f3c23e697aab'}
+
+def path(prefix):
+    paths = list(FIXTURES.glob(prefix + '*.xml'))
+    assert len(paths) == 1
+    return paths[0]
+
+
+@lru_cache(None)
+def captured(prefix):
+    import shab_analyzer.parse as parser
+    calls = []
+    def capture(*args, **kwargs):
+        calls.append((args, kwargs))
+        return extract_parser337_leftovers(*args, **kwargs)
+    with patch.object(parser, 'extract_parser337_leftovers', capture):
+        result = parse_publication_xml(path(prefix))
+    assert len(calls) == 1
+    return result, calls[0]
+
+
+def selected(prefix):
+    _, (args, kwargs) = captured(prefix)
+    return extract_parser337_leftovers(*args, **kwargs)[0]
+
+
+@pytest.mark.parametrize('prefix,rule,count', CASES)
+def test_fixture_complete_and_legacy_events_preserved(prefix, rule, count):
+    import shab_analyzer.parse as parser
+    fixture = path(prefix)
+    assert hashlib.sha256(fixture.read_bytes()).hexdigest() == fixture.stem
+    result, _ = captured(prefix)
+    assert PARSER_VERSION == 337
+    assert result.status == 'FULLY_PARSED' and not result.leftover_text
+    assert len(selected(prefix)) == count
+    assert any(e.rule_id == rule for e in selected(prefix))
+    with patch.object(parser, 'extract_parser337_leftovers', lambda text, *args, **kwargs: ([], text)):
+        baseline = parse_publication_xml(fixture)
+    assert result.events == baseline.events + selected(prefix)
+    assert all(e.publication_id == result.publication_id and e.org_uid == result.org_uid for e in selected(prefix))
+
+
+@pytest.mark.parametrize('prefix,rule,count', CASES)
+def test_unknown_suffix_preserved(prefix, rule, count):
+    _, (args, kwargs) = captured(prefix)
+    changed = args[0] + '. UNKNOWN_SUFFIX'
+    events, leftover = extract_parser337_leftovers(changed, *args[1:], **kwargs)
+    assert not events and leftover == changed
+
+
+@pytest.mark.parametrize('prefix,rule,count', CASES)
+def test_wrong_language_preserved(prefix, rule, count):
+    _, (args, kwargs) = captured(prefix)
+    events, leftover = extract_parser337_leftovers(args[0], 'en', *args[2:], **kwargs)
+    assert not events and leftover == args[0]
+
+
+
+@pytest.mark.parametrize('prefix,rule,count', CASES)
+def test_fixture_bytes_match_supplied_samples(prefix, rule, count):
+    supplied_sha256 = SUPPLIED_SHA256
+    fixture = path(prefix)
+    assert fixture.stem == supplied_sha256[prefix]
+    assert hashlib.sha256(fixture.read_bytes()).hexdigest() == supplied_sha256[prefix]
+
+
+@pytest.mark.parametrize('prefix,rule,count', CASES)
+def test_dates_and_optional_source(prefix, rule, count):
+    _, (args, kwargs) = captured(prefix)
+    for date in set(re.findall(r'\d{2}\.\d{2}\.\d{4}', args[0])):
+        changed = args[0].replace(date, '31.02.2020')
+        events, leftover = extract_parser337_leftovers(changed, *args[1:], **kwargs)
+        assert not events and leftover == changed
+    events, leftover = extract_parser337_leftovers(*args)
+    if prefix == '344fd637':
+        assert events == [] and leftover == args[0]
+    else:
+        assert len(events) == count and not leftover
+    for e in selected(prefix):
+        assert Event(**vars(e)) == e
+
+
+@pytest.mark.parametrize('prefix', [
+    '03f3a7e2', '14bd8e0e', '1b239b69', '2520e8be', '2df613fd', '2e2ec72c',
+    '335bc269', '9713ae8a', 'aac76783', 'c238098a', 'cd084f70', 'dfcb36ee',
+    '31628a88',
+    '39ec36b8',
+    '43a6bf54',
+    '5b720f18',
+    '6ac3eab0',
+    '8ea39615',
+    'aa9d9002',
+    'aae43f2b',
+    'c1edd5aa',
+    'd8ea7c8b',
+    'd92a31fa',
+    'f13ce517',
+    '9765f439',
+    '3d59d275',
+    'aed2920b',
+    'd91cf46b',
+    '1d268a23',
+    '9291f6ad',
+    '81f3bc9e',
+    '3450837a',
+    '129135ad',
+    '5378918f',
+    '01927b94',
+    '5f87b480',
+    '0629cb21', '08c613ba', '267dd215', '50985666', '5dad8aa2', '87ac66e7',
+    'a9eb2fc1', 'c2b60397', 'ddedd79d', 'f632cfcf', 'f698c58d', 'f7ee7573',
+    '09f90c1f', '28528abc', '3e71da53', '762ea6e8', '7f11be01', '950a0991',
+    '9c5c898c', 'bb4542dd', 'd518eb02', 'f63aa392', 'f663e109', 'f8fc2919',
+    '03dcc069', '315da231', '353d9e29', '693c452c', '7c27565a', '8889623a',
+    'a5f4be23', 'bbf607eb', 'c332722f', 'ce010fcd', 'cfbe1db2', 'f0fd9d83',
+    '518fef8d', '5404cc5f', '54125ed4', '6d18ed72', '6d50c77a', '7a6515f3',
+    '930507a1', 'a16a5540', 'a564e09d', 'b384c365', 'cf527290', 'ecba5198',
+    '05a6f15b', '076b6cc6', '0f17b349', '3774d2b6', '54b4ab1b', '58504ce5',
+    '68ffaf6b', '87d4b8af', '950a846d', 'a51340d6', 'bb7c8a65', 'f970cd7e',
+    '20f4e032', '38b520f1', '433558ba', '4d97f0a8', '4e13c196', '732e61bf', '92ab8218', 'a7271172', 'ae9ac4da', 'bb279338', 'da10e733', 'fa099435',
+    '1cf200d1', 'c9cb541c', 'e3c5c5cd', '94b72118-d3cb-46f4-8cf3-8d526586b9f2',
+])
+def test_previous_results_unchanged_without_optional_attributes(prefix):
+    import shab_analyzer.parse as parser
+    with patch.object(parser, 'extract_parser337_leftovers', lambda text, *args, **kwargs: ([], text)):
+        baseline = parse_publication_xml(path(prefix))
+    assert parse_publication_xml(path(prefix)) == baseline
+    for old in baseline.events:
+        assert Event(**vars(old)) == old
+
+
+def test_legacy_event_without_optional_payload_attributes():
+    old = Event(publication_id='fixture', published_at='', event_type='organization_changed', rule_id='legacy.v1')
+    assert old.payload == {} and old.signing is None and old.role is None
+    assert Event(**vars(old)) == old
+
+
+
+def test_payload_semantics():
+    transfer = selected('02b01d21')[0]
+    assert transfer.event_type == 'ownership_changed'
+    assert transfer.payload['transferred_count'] == '10'
+    assert transfer.payload['retained_count'] == '390'
+    assert transfer.payload['received_total'] == '60'
+    assert selected('05f754ae')[0].payload['extension_until'] == '13. Januar 2021'
+    correction = selected('28d8a9ab')[0]
+    assert correction.event_type == 'organization_changed'
+    assert correction.payload['historical'] is True
+    assert correction.payload['previous_offset_claim'] == "2'215'000.00"
+    signer = selected('344fd637')[0]
+    assert signer.role == 'Verwaltungsrat'
+    assert signer.signing == 'Kollektivunterschrift zu zweien mit Bally Dan oder Maire Eric Claude Pierre'
+    split, associate = selected('3fd951f1')
+    assert split.payload['previous_count'] == '20'
+    assert split.payload['split_count'] == '100'
+    assert split.payload['retained_count'] == '98'
+    assert associate.signing == 'ohne Zeichnungsberechtigung'
+    assert selected('53049963')[0].payload['registration_number'] == '1541811'
+    capital = selected('74e2d459')[0]
+    assert capital.event_type == 'capital_changed'
+    assert capital.payload['new_capital'] == "5'000'000"
+    merger = selected('947e1202')[0]
+    assert merger.event_type == 'company_merged'
+    assert merger.payload['absorbed_uid'] == 'CHE-103.297.653'
+    assert merger.payload['liabilities'] == "42'610'674.00"
+    contribution = selected('a1b75c8f')[0]
+    assert contribution.payload['credit'] == "50'448.66"
+    assert contribution.payload['share_count'] == '20'
+    assert selected('ac7a80ad')[0].payload['count'] == '5'
+    assert selected('b89de1db')[0].payload['capital'] == "4'000'000"
+    board = selected('f06a7e6a')
+    assert len(board) == 3
+    assert all(e.role == 'Verwaltungsrat' and e.signing == 'ohne Zeichnungsberechtigung' for e in board)
+
+
+def test_restricted_signing_requires_matching_source():
+    _, (args, kwargs) = captured('344fd637')
+    changed = kwargs['source_text'].replace('signature collective à deux', 'signature individuelle')
+    assert extract_parser337_leftovers(*args, source_text=changed) == ([], args[0])
+
+
+def test_invalid_extension_day_preserved():
+    _, (args, kwargs) = captured('05f754ae')
+    text = args[0].replace('13. Januar', '32. Januar')
+    assert extract_parser337_leftovers(text, *args[1:], **kwargs) == ([], text)

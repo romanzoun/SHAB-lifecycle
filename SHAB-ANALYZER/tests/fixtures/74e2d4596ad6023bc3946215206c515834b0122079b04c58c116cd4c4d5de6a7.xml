@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>b8bb5aa7-eb42-4928-a800-6f4611f94653</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004947909</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-07-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SIF SA, Ecublens (VD)</de>
+    <en>Change SIF SA, Ecublens (VD)</en>
+    <it>Cambiamenti SIF SA, Ecublens (VD)</it>
+    <fr>Mutation SIF SA, Ecublens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12462</journalNumber>
+  <journalDate>2020-07-24</journalDate>
+  <publicationText>SIF SA, à Ecublens (VD), CHE-105.733.524 (FOSC du 26.02.2020, p. 0/1004839545). Statuts modifiés le 11 juin 2020. Réduction du capital-actions de CHF 5'000'000 à CHF 1'700'000 par destruction de 3'300 actions nominatives de CHF 1'000, pour supprimer un excédent de passifs constaté au bilan. Augmentation ordinaire simultanée du capital-actions. Nouveau capital-actions entièrement libéré: 5'000'000, divisé en 5'000 actions nominatives de CHF 1'000, avec restrictions quant à la transmissibilité selon statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SIF SA</name>
+      <uid>CHE-105.733.524</uid>
+      <uidOrganisationId>105733524</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001334804</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Tir-Fédéral</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1024</swissZipCode>
+        <town>Ecublens VD</town>
+      </address>
+    </company>
+    <purpose>entreprise de travaux de génie civil et de travaux spéciaux, en particulier de forage, d'injection et de fondations, ainsi que l'achat, la vente et la location de matériel de tous genres et toutes études.</purpose>
+    <capital>
+      <nominal>5000000.00</nominal>
+      <paid>5000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SIF SA</name>
+      <uid>CHE-105.733.524</uid>
+      <uidOrganisationId>105733524</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001334804</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Tir-Fédéral</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1024</swissZipCode>
+        <town>Ecublens VD</town>
+      </address>
+    </company>
+    <purpose>entreprise de travaux de génie civil et de travaux spéciaux, en particulier de forage, d'injection et de fondations, ainsi que l'achat, la vente et la location de matériel de tous genres et toutes études.</purpose>
+    <capital>
+      <nominal>5000000.00</nominal>
+      <paid>5000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-26</lastFoscDate>
+    <lastFoscNumber>39</lastFoscNumber>
+    <lastFoscSequence>1004839545</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
