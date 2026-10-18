@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>1047f53b-1453-4c63-add3-a5f809d4220d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004978090</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Bislin Baurealisations GmbH in Liq., Baden</de>
+    <en>Change Bislin Baurealisations GmbH in Liq., Baden</en>
+    <it>Cambiamenti Bislin Baurealisations GmbH in Liq., Baden</it>
+    <fr>Mutation Bislin Baurealisations GmbH in Liq., Baden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>9818</journalNumber>
+  <journalDate>2020-09-09</journalDate>
+  <publicationText>Bislin Baurealisations GmbH in Liq., in Baden, CHE-114.862.824, Gesellschaft mit beschränkter Haftung (SHAB Nr. 59 vom 25.03.2020, Publ. 1004859831). Liquidation ist entgegen früherem Eintrag noch nicht beendet. [bisher: Liquidation beendet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bislin Baurealisations GmbH in Liq.</name>
+      <uid>CHE-114.862.824</uid>
+      <uidOrganisationId>114862824</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40040316406</code13>
+      <seat>Baden</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Badstrasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>5400</swissZipCode>
+        <town>Baden</town>
+      </address>
+    </company>
+    <purpose>Realisation und Verkauf von zukunftsweisenden Immobilien als Totalunternehmung; kann Zweigniederlassungen errichten, sich bei anderen Unternehmungen beteiligen sowie Wertschriften erwerben, verwalten und verkaufen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bislin Baurealisations GmbH in Liq.</name>
+      <uid>CHE-114.862.824</uid>
+      <uidOrganisationId>114862824</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40040316406</code13>
+      <seat>Baden</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Badstrasse</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>5400</swissZipCode>
+        <town>Baden</town>
+      </address>
+    </company>
+    <purpose>Realisation und Verkauf von zukunftsweisenden Immobilien als Totalunternehmung; kann Zweigniederlassungen errichten, sich bei anderen Unternehmungen beteiligen sowie Wertschriften erwerben, verwalten und verkaufen.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-25</lastFoscDate>
+    <lastFoscNumber>59</lastFoscNumber>
+    <lastFoscSequence>1004859831</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

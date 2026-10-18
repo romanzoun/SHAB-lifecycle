@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.8/HR02-export.xsd">
+<meta>
+  <id>fda22d22-abf6-4100-83e1-f745504dbc2e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004960963</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-08-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation BTC Laboratoire S.A., Le Mont-sur-Lausanne</de>
+    <en>Change BTC Laboratoire S.A., Le Mont-sur-Lausanne</en>
+    <it>Cambiamenti BTC Laboratoire S.A., Le Mont-sur-Lausanne</it>
+    <fr>Mutation BTC Laboratoire S.A., Le Mont-sur-Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13542</journalNumber>
+  <journalDate>2020-08-14</journalDate>
+  <publicationText>BTC Laboratoire S.A., à Le Mont-sur-Lausanne, CHE-101.915.894 (FOSC du 01.05.2018, p. 0/4205067). Pfister Roland C. et Pfister Edith ne sont plus administrateurs; leur signature est radiée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>BTC Laboratoire S.A.</name>
+      <translations>(BTC Laboratory Ltd) (BTC Labor AG)</translations>
+      <uid>CHE-101.915.894</uid>
+      <uidOrganisationId>101915894</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000834950</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Budron A</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>fabrication, représentation, recherche et commerce de produits parapharmaceutiques et cosmétiques; prise de participations.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BTC Laboratoire S.A.</name>
+      <translations>(BTC Laboratory Ltd) (BTC Labor AG)</translations>
+      <uid>CHE-101.915.894</uid>
+      <uidOrganisationId>101915894</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000834950</code13>
+      <seat>Le Mont-sur-Lausanne</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin de Budron A</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1052</swissZipCode>
+        <town>Mont-sur-Lausanne</town>
+      </address>
+    </company>
+    <purpose>fabrication, représentation, recherche et commerce de produits parapharmaceutiques et cosmétiques; prise de participations.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-01</lastFoscDate>
+    <lastFoscNumber>83</lastFoscNumber>
+    <lastFoscSequence>4205067</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
