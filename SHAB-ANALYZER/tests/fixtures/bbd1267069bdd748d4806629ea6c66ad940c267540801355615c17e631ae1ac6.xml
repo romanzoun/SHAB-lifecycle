@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>242b0b79-2996-4fbd-a0b2-c5b8579a331e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005005378</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Migrol AG, Zürich</de>
+    <en>Change Migrol AG, Zürich</en>
+    <it>Cambiamenti Migrol AG, Zürich</it>
+    <fr>Mutation Migrol AG, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>39945</journalNumber>
+  <journalDate>2020-10-19</journalDate>
+  <publicationText>Migrol AG, in Zürich, CHE-105.969.802, Aktiengesellschaft (SHAB Nr. 118 vom 22.06.2020, Publ. 1004915894). [gestrichen: Geschäftsstelle: Ch. du Centenaire 5, 1008 Prilly.]. [Neue] Weitere Adresse: Chemin du Devin 15, 1510 Moudon. [Neue] Weitere Adresse: Grenzstrasse 1, 6214 Schenkon.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Migrol AG</name>
+      <uid>CHE-105.969.802</uid>
+      <uidOrganisationId>105969802</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02059010099</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Badenerstrasse</street>
+        <houseNumber>569</houseNumber>
+        <swissZipCode>8048</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Handel mit Erdöl- und verwandten Produkten; kann sich an anderen Unternehmungen beteiligen, die gleiche oder ähnliche Zwecke verfolgen; kann solche Unternehmungen erwerben oder pachten sowie alle Geschäfte durchführen, die mit dem Gesellschaftszweck direkt oder indirekt im Zusammenhang stehen oder ihn zu fördern geeignet sind; kann Grundstücke erwerben und veräussern.</purpose>
+    <capital>
+      <nominal>52000000.00</nominal>
+      <paid>52000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Migrol AG</name>
+      <uid>CHE-105.969.802</uid>
+      <uidOrganisationId>105969802</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02059010099</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Badenerstrasse</street>
+        <houseNumber>569</houseNumber>
+        <swissZipCode>8048</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Handel mit Erdöl- und verwandten Produkten; kann sich an anderen Unternehmungen beteiligen, die gleiche oder ähnliche Zwecke verfolgen; kann solche Unternehmungen erwerben oder pachten sowie alle Geschäfte durchführen, die mit dem Gesellschaftszweck direkt oder indirekt im Zusammenhang stehen oder ihn zu fördern geeignet sind; kann Grundstücke erwerben und veräussern.</purpose>
+    <capital>
+      <nominal>52000000.00</nominal>
+      <paid>52000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-22</lastFoscDate>
+    <lastFoscNumber>118</lastFoscNumber>
+    <lastFoscSequence>1004915894</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

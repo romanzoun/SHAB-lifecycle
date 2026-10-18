@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>1e614bcc-d1ae-4c13-8189-71056ea9d39b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005007890</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Salami SA, Bulle</de>
+    <en>Change Salami SA, Bulle</en>
+    <it>Cambiamenti Salami SA, Bulle</it>
+    <fr>Mutation Salami SA, Bulle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5916</journalNumber>
+  <journalDate>2020-10-21</journalDate>
+  <publicationText>Salami SA, in Bulle, CHE-101.441.353 (SHAB vom 17.04.2020, s. 0/1004872707). Eingetragene Person geändert: Méroz Jean-Pierre Gérard, Kollektivunterschrift zu zweien, neu Verwaltungsratmitglied, Delegierter, Kollektivunterschrift zu zweien.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Salami SA</name>
+      <uid>CHE-101.441.353</uid>
+      <uidOrganisationId>101441353</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21704305516</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Tivoli</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1635</swissZipCode>
+        <town>La Tour-de-Trême</town>
+      </address>
+    </company>
+    <purpose>Herstellung von und Handel mit Fleisch und Fleischprodukten (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>280000.00</nominal>
+      <paid>280000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Salami SA</name>
+      <uid>CHE-101.441.353</uid>
+      <uidOrganisationId>101441353</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21704305516</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Tivoli</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1635</swissZipCode>
+        <town>La Tour-de-Trême</town>
+      </address>
+    </company>
+    <purpose>Herstellung von und Handel mit Fleisch und Fleischprodukten (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>280000.00</nominal>
+      <paid>280000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-17</lastFoscDate>
+    <lastFoscNumber>74</lastFoscNumber>
+    <lastFoscSequence>1004872707</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
