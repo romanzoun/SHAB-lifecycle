@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>1e849c74-4b9c-40b4-991c-f28384a46ad8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004979287</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Société Fiduciaire Vigilis S.A., La Chaux-de-Fonds</de>
+    <en>Change Société Fiduciaire Vigilis S.A., La Chaux-de-Fonds</en>
+    <it>Cambiamenti Société Fiduciaire Vigilis S.A., La Chaux-de-Fonds</it>
+    <fr>Mutation Société Fiduciaire Vigilis S.A., La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2748</journalNumber>
+  <journalDate>2020-09-10</journalDate>
+  <publicationText>Société Fiduciaire Vigilis S.A., à La Chaux-de-Fonds, CHE-102.360.639 (FOSC du 15.01.2018, p. 0/3990109). Administration: Boillat Dominique, président, Hegetschweiler Vincent Laurent, vice-président, L'Epée Corinne Catherine, et Rickli Pierre Alain, jusqu'ici directeur, lesquels signent collectivement à deux. Les pouvoirs de Boillat Dominique, Hegetschweiler Vincent Laurent et L'Epée Corinne Catherine sont modifiés en ce sens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Société Fiduciaire Vigilis S.A.</name>
+      <uid>CHE-102.360.639</uid>
+      <uidOrganisationId>102360639</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510053763</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>allée du Quartz</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>opérations fiduciaires, révisions, fiscalité, comptabilité, gérances; acquérir et vendre des biens immobiliers.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Société Fiduciaire Vigilis S.A.</name>
+      <uid>CHE-102.360.639</uid>
+      <uidOrganisationId>102360639</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510053763</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>allée du Quartz</street>
+        <houseNumber>13</houseNumber>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>opérations fiduciaires, révisions, fiscalité, comptabilité, gérances; acquérir et vendre des biens immobiliers.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-01-15</lastFoscDate>
+    <lastFoscNumber>9</lastFoscNumber>
+    <lastFoscSequence>3990109</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
