@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>5a144b9b-6bb2-45bc-a12a-900447d82286</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004974616</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation Nicolas BOGUERET, Genève</de>
+    <en>Change Fondation Nicolas BOGUERET, Genève</en>
+    <it>Cambiamenti Fondation Nicolas BOGUERET, Genève</it>
+    <fr>Mutation Fondation Nicolas BOGUERET, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15034</journalNumber>
+  <journalDate>2020-09-03</journalDate>
+  <publicationText>Fondation Nicolas BOGUERET, à Genève, CHE-295.885.806 (FOSC du 10.07.2020, p. 0/1004934784). Les membres du conseil de fondation Bolle Alain, Held Jean-Jacques, Marti Jean-François et Piguet Nicolas, signent désormais collectivement à deux, sans restriction. La secrétaire générale Dami Anne-Florence, signent désormais collectivement à deux, sans restriction.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Nicolas BOGUERET</name>
+      <uid>CHE-295.885.806</uid>
+      <uidOrganisationId>295885806</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66020140173</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Bains</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>créer, développer, entretenir et mettre à disposition des habitations à caractère social et à loyers modérés pour des personnes ou familles à revenus modestes, pour les seniors ainsi que pour des jeunes en formation (cf. acte de fondation pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Nicolas BOGUERET</name>
+      <uid>CHE-295.885.806</uid>
+      <uidOrganisationId>295885806</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66020140173</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Bains</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>créer, développer, entretenir et mettre à disposition des habitations à caractère social et à loyers modérés pour des personnes ou familles à revenus modestes, pour les seniors ainsi que pour des jeunes en formation (cf. acte de fondation pour but complet).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-10</lastFoscDate>
+    <lastFoscNumber>132</lastFoscNumber>
+    <lastFoscSequence>1004934784</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

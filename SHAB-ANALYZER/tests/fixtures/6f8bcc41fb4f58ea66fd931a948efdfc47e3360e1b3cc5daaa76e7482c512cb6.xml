@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>569fa591-6bfa-4bed-a3ec-4ef94aabb3f7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004984730</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Autobritt Carrosserie SA, Genève</de>
+    <en>Change Autobritt Carrosserie SA, Genève</en>
+    <it>Cambiamenti Autobritt Carrosserie SA, Genève</it>
+    <fr>Mutation Autobritt Carrosserie SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15934</journalNumber>
+  <journalDate>2020-09-18</journalDate>
+  <publicationText>Autobritt Carrosserie SA, à Genève, CHE-107.450.681 (FOSC du 22.01.2020, p. 0/1004811836). Thuner Fabien, nommé directeur, est maintenant originaire de Signy-Avenex.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Autobritt Carrosserie SA</name>
+      <uid>CHE-107.450.681</uid>
+      <uidOrganisationId>107450681</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001569939</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Viguet</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>en Suisse et à l'étranger, l'exploitation d'un atelier de réparation de véhicules et de carrosserie; le commerce et la location de véhicules avec ou sans chauffeur; l'offre de tous services de gardiennage de véhicules (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Autobritt Carrosserie SA</name>
+      <uid>CHE-107.450.681</uid>
+      <uidOrganisationId>107450681</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001569939</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Viguet</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>en Suisse et à l'étranger, l'exploitation d'un atelier de réparation de véhicules et de carrosserie; le commerce et la location de véhicules avec ou sans chauffeur; l'offre de tous services de gardiennage de véhicules (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-22</lastFoscDate>
+    <lastFoscNumber>14</lastFoscNumber>
+    <lastFoscSequence>1004811836</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
