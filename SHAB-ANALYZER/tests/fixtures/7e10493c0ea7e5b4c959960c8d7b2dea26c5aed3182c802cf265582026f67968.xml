@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>8b925969-aaaf-4b15-91e4-da4c9d488113</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004969331</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation J.P. Morgan (Suisse) SA, Genève</de>
+    <en>Change J.P. Morgan (Suisse) SA, Genève</en>
+    <it>Cambiamenti J.P. Morgan (Suisse) SA, Genève</it>
+    <fr>Mutation J.P. Morgan (Suisse) SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14548</journalNumber>
+  <journalDate>2020-08-27</journalDate>
+  <publicationText>J.P. Morgan (Suisse) SA , à Genève, CHE-107.963.868 (FOSC du 17.07.2020, p. 0/1004940139). L'inscription No 21776 du 20.12.2016 est rectifiée en ce sens que Devillers Christina se voit attribuer une procuration collective à deux, limitée à l'établissement principal (et non pas une signature collective à deux, limitée à l'établissement principal).</publicationText>
+  <commonsNew>
+    <company>
+      <name>J.P. Morgan (Suisse) SA</name>
+      <translations>(J.P. Morgan (Switzerland) Ltd) (J.P. Morgan (Schweiz) AG)</translations>
+      <uid>CHE-107.963.868</uid>
+      <uidOrganisationId>107963868</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000279806</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Confédération</street>
+        <houseNumber>8</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque dont la principale activité est orientée vers la gestion de fortune, qui se déploie en Suisse avec une clientèle suisse et étrangère, ainsi qu'activité de négociant en titres (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>309904000.00</nominal>
+      <paid>309904000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>J.P. Morgan (Suisse) SA</name>
+      <translations>(J.P. Morgan (Switzerland) Ltd) (J.P. Morgan (Schweiz) AG)</translations>
+      <uid>CHE-107.963.868</uid>
+      <uidOrganisationId>107963868</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66000279806</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Confédération</street>
+        <houseNumber>8</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une banque dont la principale activité est orientée vers la gestion de fortune, qui se déploie en Suisse avec une clientèle suisse et étrangère, ainsi qu'activité de négociant en titres (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>309904000.00</nominal>
+      <paid>309904000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-17</lastFoscDate>
+    <lastFoscNumber>137</lastFoscNumber>
+    <lastFoscSequence>1004940139</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>95ee968b-b577-4a8d-92d8-6c803441d1c7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004973405</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Bina-Jardinier Paysagiste Rahmani, Crissier</de>
+    <en>Change Bina-Jardinier Paysagiste Rahmani, Crissier</en>
+    <it>Cambiamenti Bina-Jardinier Paysagiste Rahmani, Crissier</it>
+    <fr>Mutation Bina-Jardinier Paysagiste Rahmani, Crissier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14580</journalNumber>
+  <journalDate>2020-09-02</journalDate>
+  <publicationText>Bina-Jardinier Paysagiste Rahmani, à Crissier, CHE-206.322.667 (FOSC du 03.06.2020, p. 0/1004902072). Le président de la Cour des poursuites et faillites du Tribunal cantonal a prononcé l'effet suspensif de la procédure de faillite le 28 août 2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bina-Jardinier Paysagiste Rahmani</name>
+      <uid>CHE-206.322.667</uid>
+      <uidOrganisationId>206322667</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011762416</code13>
+      <seat>Crissier</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>quartier Pré-Fontaine</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>1023</swissZipCode>
+        <town>Crissier</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise dans les domaines du jardinage, paysagisme, génie civil et maçonnerie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bina-Jardinier Paysagiste Rahmani</name>
+      <uid>CHE-206.322.667</uid>
+      <uidOrganisationId>206322667</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011762416</code13>
+      <seat>Crissier</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>quartier Pré-Fontaine</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>1023</swissZipCode>
+        <town>Crissier</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise dans les domaines du jardinage, paysagisme, génie civil et maçonnerie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-03</lastFoscDate>
+    <lastFoscNumber>105</lastFoscNumber>
+    <lastFoscSequence>1004902072</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
