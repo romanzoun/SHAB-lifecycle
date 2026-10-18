@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>81cd0c6f-bb54-40ec-ac68-a0206acba035</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004982405</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation BIOTECH VDA Sàrl en liquidation, Courtepin, neu BIOTECH VDA Sàrl</de>
+    <en>Change BIOTECH VDA Sàrl en liquidation, Courtepin, new BIOTECH VDA Sàrl</en>
+    <it>Cambiamenti BIOTECH VDA Sàrl en liquidation, Courtepin, nuovo BIOTECH VDA Sàrl</it>
+    <fr>Mutation BIOTECH VDA Sàrl en liquidation, Courtepin, nouveau BIOTECH VDA Sàrl</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5215</journalNumber>
+  <journalDate>2020-09-16</journalDate>
+  <publicationText>BIOTECH VDA Sàrl en liquidation, à Courtepin, CHE-496.804.734 (FOSC du 15.09.2020, p. 0/1004978850). Rectificatif de l'inscription n° 5095 du 10.09.2020 (FOSC du 15.09.2020): la raison de commerce ayant été dissoute par erreur, elle est réinscrite d'office comme ci devant (FOSC 01.02.2017, p. 3320019).</publicationText>
+  <commonsNew>
+    <company>
+      <name>BIOTECH VDA Sàrl</name>
+      <uid>CHE-496.804.734</uid>
+      <uidOrganisationId>496804734</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735594027</code13>
+      <seat>Courtepin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Fribourg</street>
+        <houseNumber>41</houseNumber>
+        <swissZipCode>1783</swissZipCode>
+        <town>Pensier</town>
+      </address>
+    </company>
+    <purpose>commercialisation et distribution de produits biologiques de toute provenance et sous différentes formes d'applications destinés au marché de l'agriculture, de l'élevage, de la construction dans le bâtiment; conseil et prestation de services en relation avec ces activités (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>21000.00</nominal>
+      <paid>21000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BIOTECH VDA Sàrl en liquidation</name>
+      <uid>CHE-496.804.734</uid>
+      <uidOrganisationId>496804734</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735594027</code13>
+      <seat>Courtepin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Fribourg</street>
+        <houseNumber>41</houseNumber>
+        <swissZipCode>1783</swissZipCode>
+        <town>Pensier</town>
+      </address>
+    </company>
+    <purpose>commercialisation et distribution de produits biologiques de toute provenance et sous différentes formes d'applications destinés au marché de l'agriculture, de l'élevage, de la construction dans le bâtiment; conseil et prestation de services en relation avec ces activités (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>21000.00</nominal>
+      <paid>21000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-09-15</lastFoscDate>
+    <lastFoscNumber>179</lastFoscNumber>
+    <lastFoscSequence>1004978850</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

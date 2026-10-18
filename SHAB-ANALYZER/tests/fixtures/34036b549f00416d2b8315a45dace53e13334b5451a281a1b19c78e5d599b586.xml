@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>76ea5e0a-4a06-4608-bad9-f694ea2ab729</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004974439</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation Assura, Pully</de>
+    <en>Change Fondation Assura, Pully</en>
+    <it>Cambiamenti Fondation Assura, Pully</it>
+    <fr>Mutation Fondation Assura, Pully</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14681</journalNumber>
+  <journalDate>2020-09-03</journalDate>
+  <publicationText>Fondation Assura, à Pully, CHE-112.701.015 (FOSC du 17.04.2020, p. 0/1004873005). Nouveax membres du conseil de fondation avec signature collective à deux: Calmes Jean-Christophe, de et à Lausanne, et de Tonnac de Villeneuve Alisé, de France, à Cologny.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Assura</name>
+      <uid>CHE-112.701.015</uid>
+      <uidOrganisationId>112701015</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010459135</code13>
+      <seat>Pully</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Charles-Ferdinand-Ramuz</street>
+        <houseNumber>70</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>la fondation a pour but d'assurer les conséquences économiques de la maladie, de la maternité, des accidents, de l'invalidité et du décès ainsi que de favoriser la santé, la qualité de vie et le bien social de la population en Suisse (pour but complet cf. acte de fondation)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Assura</name>
+      <uid>CHE-112.701.015</uid>
+      <uidOrganisationId>112701015</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010459135</code13>
+      <seat>Pully</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Charles-Ferdinand-Ramuz</street>
+        <houseNumber>70</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>la fondation a pour but d'assurer les conséquences économiques de la maladie, de la maternité, des accidents, de l'invalidité et du décès ainsi que de favoriser la santé, la qualité de vie et le bien social de la population en Suisse (pour but complet cf. acte de fondation)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-17</lastFoscDate>
+    <lastFoscNumber>74</lastFoscNumber>
+    <lastFoscSequence>1004873005</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

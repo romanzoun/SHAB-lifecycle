@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>7cb50699-8033-435f-8696-e0ce30b6f706</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004984606</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Eupro SA, Lausanne</de>
+    <en>Change Eupro SA, Lausanne</en>
+    <it>Cambiamenti Eupro SA, Lausanne</it>
+    <fr>Mutation Eupro SA, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15560</journalNumber>
+  <journalDate>2020-09-18</journalDate>
+  <publicationText>Eupro SA, à Lausanne, CHE-484.439.852 (FOSC du 10.09.2020, p. 0/1004976324). Siège principal: St. Gallen. Complément: l'inscription n° 14859 du 07.09.2020 (FOSC du 10.09.2020, p. 0/1004976324) est complétée en ce sens que Duquesne David signe collectivement à deux, toutefois limitée aux affaires de la succursale.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Eupro SA</name>
+      <uid>CHE-484.439.852</uid>
+      <uidOrganisationId>484439852</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011712220</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Genève 77 bis</street>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Eupro AG</name>
+      <country>CH</country>
+      <uid>CHE-108.706.417</uid>
+      <uidOrganisationId>108706417</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Eupro SA</name>
+      <uid>CHE-484.439.852</uid>
+      <uidOrganisationId>484439852</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011712220</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue de Genève 77 bis</street>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Eupro AG</name>
+      <country>CH</country>
+      <uid>CHE-108.706.417</uid>
+      <uidOrganisationId>108706417</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-09-10</lastFoscDate>
+    <lastFoscNumber>176</lastFoscNumber>
+    <lastFoscSequence>1004976324</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
