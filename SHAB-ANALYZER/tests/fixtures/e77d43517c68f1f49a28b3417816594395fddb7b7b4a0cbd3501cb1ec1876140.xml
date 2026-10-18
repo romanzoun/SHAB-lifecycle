@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>f59528f1-6c06-48c3-bf20-a4a5d1a2537b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004973562</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Domapa Sàrl, Meyrin</de>
+    <en>Change Domapa Sàrl, Meyrin</en>
+    <it>Cambiamenti Domapa Sàrl, Meyrin</it>
+    <fr>Mutation Domapa Sàrl, Meyrin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14919</journalNumber>
+  <journalDate>2020-09-02</journalDate>
+  <publicationText>Domapa Sàrl, à Meyrin, CHE-112.655.645 (FOSC du 22.05.2018, p. 0/4241247). Par suite de cession de 100 parts de CHF 100, l'associée Nuhija Teuta est désormais titulaire de 100 parts de CHF 100, et Nuhija Rexhep, de Lancy, à Meyrin, nouvel associé pour 100 parts de CHF 100. Gérants: les associés Nuhija Teuta, présidente, et Nuhija Rexhep, tous deux avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Domapa Sàrl</name>
+      <uid>CHE-112.655.645</uid>
+      <uidOrganisationId>112655645</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66026050058</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Antoine-Verchère</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>en Suisse et à l'étranger, vente et exploitation d'établissements publics tels que sandwicheries, buvettes et bars à café proposant notamment des boissons (alcoolisés ou non) et des plats préparés à l'emporter (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Domapa Sàrl</name>
+      <uid>CHE-112.655.645</uid>
+      <uidOrganisationId>112655645</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66026050058</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin Antoine-Verchère</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>en Suisse et à l'étranger, vente et exploitation d'établissements publics tels que sandwicheries, buvettes et bars à café proposant notamment des boissons (alcoolisés ou non) et des plats préparés à l'emporter (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-22</lastFoscDate>
+    <lastFoscNumber>96</lastFoscNumber>
+    <lastFoscSequence>4241247</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
