@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>28dbc9da-23c7-45dc-8f9e-9523cb476c65</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005009386</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation MEDICAL DEVELOPMENT AND MARKETING SERVICES SA, Genève</de>
+    <en>Change MEDICAL DEVELOPMENT AND MARKETING SERVICES SA, Genève</en>
+    <it>Cambiamenti MEDICAL DEVELOPMENT AND MARKETING SERVICES SA, Genève</it>
+    <fr>Mutation MEDICAL DEVELOPMENT AND MARKETING SERVICES SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18365</journalNumber>
+  <journalDate>2020-10-22</journalDate>
+  <publicationText>MEDICAL DEVELOPMENT AND MARKETING SERVICES SA, à Genève, CHE-378.264.845 (FOSC du 14.01.2016, p. 0/2597241). Administration: Legrand Bernard, maintenant domicilié à Crans-Montana, nommé président, et Legrand Edouard, de Nyon, à Lausanne, vice-président, lesquels signent individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MEDICAL DEVELOPMENT AND MARKETING SERVICES SA</name>
+      <uid>CHE-378.264.845</uid>
+      <uidOrganisationId>378264845</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66017000144</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue de Miremont</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1206</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>recherche et développement, ainsi que fourniture de services de marketing et de conseils pour des entreprises dans le domaine du secteur médical (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MEDICAL DEVELOPMENT AND MARKETING SERVICES SA</name>
+      <uid>CHE-378.264.845</uid>
+      <uidOrganisationId>378264845</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66017000144</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue de Miremont</street>
+        <houseNumber>12</houseNumber>
+        <swissZipCode>1206</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>recherche et développement, ainsi que fourniture de services de marketing et de conseils pour des entreprises dans le domaine du secteur médical (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-01-14</lastFoscDate>
+    <lastFoscNumber>9</lastFoscNumber>
+    <lastFoscSequence>2597241</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

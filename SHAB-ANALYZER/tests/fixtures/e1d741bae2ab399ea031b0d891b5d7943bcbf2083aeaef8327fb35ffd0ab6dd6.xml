@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>2c034134-6b5c-467e-ab39-defe5efb50fe</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005010203</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Simoil Consulting - Taverney, Renens (VD)</de>
+    <en>Change Simoil Consulting - Taverney, Renens (VD)</en>
+    <it>Cambiamenti Simoil Consulting - Taverney, Renens (VD)</it>
+    <fr>Mutation Simoil Consulting - Taverney, Renens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17631</journalNumber>
+  <journalDate>2020-10-23</journalDate>
+  <publicationText>Simoil Consulting - Taverney, à Renens (VD), CHE-114.151.516 (FOSC du 22.10.2020, p. 0/1005006258). Le président du Tribunal de l'arrondissement de Lausanne a prononcé le 21 octobre 2020 l'effet suspensif de la procédure de la faillite rendue le 15 octobre 2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Simoil Consulting - Taverney</name>
+      <uid>CHE-114.151.516</uid>
+      <uidOrganisationId>114151516</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010539371</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Censuy</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>conseils et prestations de service dans le domaine de la gestion d'entreprises, la vente et l'acquisition d'entreprises et toutes activités annexes, la mise en oeuvre, l'utilisation et la configuration de programmes et installations informatiques.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Simoil Consulting - Taverney</name>
+      <uid>CHE-114.151.516</uid>
+      <uidOrganisationId>114151516</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010539371</code13>
+      <seat>Renens (VD)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue du Censuy</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1020</swissZipCode>
+        <town>Renens VD</town>
+      </address>
+    </company>
+    <purpose>conseils et prestations de service dans le domaine de la gestion d'entreprises, la vente et l'acquisition d'entreprises et toutes activités annexes, la mise en oeuvre, l'utilisation et la configuration de programmes et installations informatiques.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-22</lastFoscDate>
+    <lastFoscNumber>206</lastFoscNumber>
+    <lastFoscSequence>1005006258</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
