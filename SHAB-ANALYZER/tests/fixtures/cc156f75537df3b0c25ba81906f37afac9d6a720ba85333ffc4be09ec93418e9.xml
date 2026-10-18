@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>bef8788e-64df-4da2-99eb-8020ced9513c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004982406</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation BODY &amp; BEAUTY Cosmetics, Elsbeth Melliger, Murten</de>
+    <en>Change BODY &amp; BEAUTY Cosmetics, Elsbeth Melliger, Murten</en>
+    <it>Cambiamenti BODY &amp; BEAUTY Cosmetics, Elsbeth Melliger, Murten</it>
+    <fr>Mutation BODY &amp; BEAUTY Cosmetics, Elsbeth Melliger, Murten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5216</journalNumber>
+  <journalDate>2020-09-16</journalDate>
+  <publicationText>BODY &amp; BEAUTY Cosmetics, Elsbeth Melliger, in Murten, CHE-114.012.292 (SHAB vom 19.12.2013, s. 0/7225828). Eingetragene Person gelöscht: Melliger Theodor Viktor, Einzelprokura.</publicationText>
+  <commonsNew>
+    <company>
+      <name>BODY &amp; BEAUTY Cosmetics, Elsbeth Melliger</name>
+      <uid>CHE-114.012.292</uid>
+      <uidOrganisationId>114012292</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735392224</code13>
+      <seat>Murten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Freiburgstrasse</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Dienstleistungsunternehmens für Körper-, und Schönheitspflege aller Art sowie Handel und Verkauf von Produkten der Sport- und Pflegeindustrie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>BODY &amp; BEAUTY Cosmetics, Elsbeth Melliger</name>
+      <uid>CHE-114.012.292</uid>
+      <uidOrganisationId>114012292</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735392224</code13>
+      <seat>Murten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Freiburgstrasse</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Dienstleistungsunternehmens für Körper-, und Schönheitspflege aller Art sowie Handel und Verkauf von Produkten der Sport- und Pflegeindustrie.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
