@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>3d265446-3ef9-4b4d-bb3d-1731b086a7b8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004969317</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation pour la formation des adultes (ifage), Genève</de>
+    <en>Change Fondation pour la formation des adultes (ifage), Genève</en>
+    <it>Cambiamenti Fondation pour la formation des adultes (ifage), Genève</it>
+    <fr>Mutation Fondation pour la formation des adultes (ifage), Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14535</journalNumber>
+  <journalDate>2020-08-27</journalDate>
+  <publicationText>Fondation pour la formation des adultes (ifage), à Genève, CHE-109.128.227 (FOSC du 03.10.2019, p. 0/1004729912). Brigger Eliane et Scollo Riccardo, jusqu'ici directeurs, maintenant membre de la direction, continuent à signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation pour la formation des adultes (ifage)</name>
+      <uid>CHE-109.128.227</uid>
+      <uidOrganisationId>109128227</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66026030009</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>place des Augustins</street>
+        <houseNumber>19</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>enseigner les matières nécessaires ou utiles à l'exercice d'une profession dans les divers secteurs de l'activité économique et organiser des actions de transfert de connaissances et de compétences.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation pour la formation des adultes (ifage)</name>
+      <uid>CHE-109.128.227</uid>
+      <uidOrganisationId>109128227</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66026030009</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>place des Augustins</street>
+        <houseNumber>19</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>enseigner les matières nécessaires ou utiles à l'exercice d'une profession dans les divers secteurs de l'activité économique et organiser des actions de transfert de connaissances et de compétences.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-03</lastFoscDate>
+    <lastFoscNumber>191</lastFoscNumber>
+    <lastFoscSequence>1004729912</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

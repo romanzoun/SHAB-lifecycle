@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>4ad38695-87a2-471e-a609-057bd505013d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004975419</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Drive Vintage Sàrl, Duillier</de>
+    <en>Change Drive Vintage Sàrl, Duillier</en>
+    <it>Cambiamenti Drive Vintage Sàrl, Duillier</it>
+    <fr>Mutation Drive Vintage Sàrl, Duillier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14775</journalNumber>
+  <journalDate>2020-09-04</journalDate>
+  <publicationText>Drive Vintage Sàrl, à Duillier, CHE-427.798.858 (FOSC du 20.11.2015, p. 0/2494395). Statuts modifiés le 24 août 2020. La part sociale de CHF 20'000 est transformée en 200 parts sociales de CHF 100, détenues par l'associé-gérant Bottinelli Sébastien. Nouvelles communications aux associés: par écrit ou par courrier électronique.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Drive Vintage Sàrl</name>
+      <uid>CHE-427.798.858</uid>
+      <uidOrganisationId>427798858</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011640068</code13>
+      <seat>Duillier</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Trélex</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1266</swissZipCode>
+        <town>Duillier</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'un garage, l'achat, la vente, la location et la réparation de tous véhicules, ainsi que le commerce de tous produits liés à l'automobile et tous autres produits vintages (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Drive Vintage Sàrl</name>
+      <uid>CHE-427.798.858</uid>
+      <uidOrganisationId>427798858</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011640068</code13>
+      <seat>Duillier</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Trélex</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1266</swissZipCode>
+        <town>Duillier</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'un garage, l'achat, la vente, la location et la réparation de tous véhicules, ainsi que le commerce de tous produits liés à l'automobile et tous autres produits vintages (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-11-20</lastFoscDate>
+    <lastFoscNumber>226</lastFoscNumber>
+    <lastFoscSequence>2494395</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

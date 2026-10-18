@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>42b37e6b-bb0d-45ab-98e8-23985c59fd7c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004969341</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Onyx et Cie SA, Genève</de>
+    <en>Change Onyx et Cie SA, Genève</en>
+    <it>Cambiamenti Onyx et Cie SA, Genève</it>
+    <fr>Mutation Onyx et Cie SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14557</journalNumber>
+  <journalDate>2020-08-27</journalDate>
+  <publicationText>Onyx et Cie SA, à Genève (précédemment à Lugano), CHE-101.605.040 (FOSC du 20.01.2020, p. 0/1004809559). Division de 100 actions jusqu'ici de CHF 1'000 en 1'000 actions de CHF 100. Capital-actions: CHF 500'000, entièrement libéré, divisé en 400 actions de CHF 1'000 et 1'000 actions de CHF 100, toutes nominatives. Nouveaux statuts du 25.08.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Onyx et Cie SA</name>
+      <uid>CHE-101.605.040</uid>
+      <uidOrganisationId>101605040</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430070153</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Alpes</street>
+        <houseNumber>7</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une société fiduciaire, consultation d'entreprise et fiscale, consultation financière et gestion de fortune, mandats fiduciaires et autre activité de nature fiduciaire (cf. stauts pour but complet).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Onyx et Cie SA</name>
+      <uid>CHE-101.605.040</uid>
+      <uidOrganisationId>101605040</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH51430070153</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue des Alpes</street>
+        <houseNumber>7</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une société fiduciaire, consultation d'entreprise et fiscale, consultation financière et gestion de fortune, mandats fiduciaires et autre activité de nature fiduciaire (cf. stauts pour but complet).</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-20</lastFoscDate>
+    <lastFoscNumber>12</lastFoscNumber>
+    <lastFoscSequence>1004809559</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
