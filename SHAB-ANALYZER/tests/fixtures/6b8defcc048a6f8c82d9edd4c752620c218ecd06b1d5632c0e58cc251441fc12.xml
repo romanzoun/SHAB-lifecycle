@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>e00a3bb8-41e8-4e18-b554-644035a38dde</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004973570</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation suisse de la Chaîne du Bonheur, Genève</de>
+    <en>Change Fondation suisse de la Chaîne du Bonheur, Genève</en>
+    <it>Cambiamenti Fondation suisse de la Chaîne du Bonheur, Genève</it>
+    <fr>Mutation Fondation suisse de la Chaîne du Bonheur, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14926</journalNumber>
+  <journalDate>2020-09-02</journalDate>
+  <publicationText>Fondation suisse de la Chaîne du Bonheur, à Genève, CHE-105.892.766 (FOSC du 04.03.2020, p. 0/1004845063). Castella Grégoire-Alexandre, de Haut-Intyamon, à Saint-Cergue, Hars Joëlle, de La Chaux-de-Fonds, à Berne, et Lengsfeld Johannes Melchior, de Reinach BL, à Zurich, sont membres du conseil sans signature.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation suisse de la Chaîne du Bonheur</name>
+      <uid>CHE-105.892.766</uid>
+      <uidOrganisationId>105892766</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001959960</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>quai Ernest-Ansermet</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>favoriser le partage et la promotion des compétences et du savoir en matière humaine.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation suisse de la Chaîne du Bonheur</name>
+      <uid>CHE-105.892.766</uid>
+      <uidOrganisationId>105892766</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001959960</code13>
+      <seat>Genève</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>quai Ernest-Ansermet</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>favoriser le partage et la promotion des compétences et du savoir en matière humaine.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-04</lastFoscDate>
+    <lastFoscNumber>44</lastFoscNumber>
+    <lastFoscSequence>1004845063</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>db7f4187-6c98-4e63-ac75-a17919c4992a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004982753</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-09-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Banque Raiffeisen du Gros-de-Vaud société coopérative, Echallens</de>
+    <en>Change Banque Raiffeisen du Gros-de-Vaud société coopérative, Echallens</en>
+    <it>Cambiamenti Banque Raiffeisen du Gros-de-Vaud société coopérative, Echallens</it>
+    <fr>Mutation Banque Raiffeisen du Gros-de-Vaud société coopérative, Echallens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15365</journalNumber>
+  <journalDate>2020-09-16</journalDate>
+  <publicationText>Banque Raiffeisen du Gros-de-Vaud société coopérative, à Echallens, CHE-106.828.311 (FOSC du 31.07.2020, p. 0/1004949740). Statuts modifiés le 13 juillet 2020 sur des points non soumis à publication. Rectificatif: l'inscription n° 106 du 05.06.1992 (FOSC du 23.06.1992, p. 2892) est rectifiée en ce sens: Parts sociales de CHF 200 à CHF 500.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Banque Raiffeisen du Gros-de-Vaud société coopérative</name>
+      <uid>CHE-106.828.311</uid>
+      <uidOrganisationId>106828311</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000498472</code13>
+      <seat>Echallens</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lausanne</street>
+        <houseNumber>1</houseNumber>
+        <postOfficeBoxNumber>291</postOfficeBoxNumber>
+        <postOfficeBoxText>Case Postale</postOfficeBoxText>
+        <swissZipCode>1040</swissZipCode>
+        <town>Echallens</town>
+      </address>
+    </company>
+    <purpose>opérations d'épargne et de crédit.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>PricewaterhouseCoopers SA</name>
+        <country>CH</country>
+        <uid>CHE497306752</uid>
+        <uidOrganisationId>497306752</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Banque Raiffeisen du Gros-de-Vaud société coopérative</name>
+      <uid>CHE-106.828.311</uid>
+      <uidOrganisationId>106828311</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000498472</code13>
+      <seat>Echallens</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lausanne</street>
+        <houseNumber>1</houseNumber>
+        <postOfficeBoxNumber>291</postOfficeBoxNumber>
+        <postOfficeBoxText>Case Postale</postOfficeBoxText>
+        <swissZipCode>1040</swissZipCode>
+        <town>Echallens</town>
+      </address>
+    </company>
+    <purpose>opérations d'épargne et de crédit.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>PricewaterhouseCoopers SA</name>
+        <country>CH</country>
+        <uid>CHE497306752</uid>
+        <uidOrganisationId>497306752</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-31</lastFoscDate>
+    <lastFoscNumber>147</lastFoscNumber>
+    <lastFoscSequence>1004949740</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
