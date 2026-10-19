@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>6bbc2b43-97c9-49e3-ac78-6e0146cb9441</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004994059</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Chemputeam SA, en liquidation, Genève</de>
+    <en>Change Chemputeam SA, en liquidation, Genève</en>
+    <it>Cambiamenti Chemputeam SA, en liquidation, Genève</it>
+    <fr>Mutation Chemputeam SA, en liquidation, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16834</journalNumber>
+  <journalDate>2020-10-01</journalDate>
+  <publicationText>Chemputeam SA, en liquidation, à Genève, CHE-107.701.280 (FOSC du 14.04.2020, p. 0/1004870567). Nouveau domicile de liquidation: chemin du Prêche 5, c/o Denis Berger, 1264 St-Cergue.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Chemputeam SA, en liquidation</name>
+      <uid>CHE-107.701.280</uid>
+      <uidOrganisationId>107701280</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66013269947</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o BAUMER &amp; CIE SA</addressLine1>
+        <street>rue du Cendrier</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Denis Berger</addressLine1>
+        <street>chemin du Prêche</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1264</swissZipCode>
+        <town>St-Cergue</town>
+      </liqAddress>
+    </company>
+    <purpose>exploitation d'une entreprise de recherche, développement, production, vente, support et services dans les domaines scientifique, technique et informatique.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Chemputeam SA, en liquidation</name>
+      <uid>CHE-107.701.280</uid>
+      <uidOrganisationId>107701280</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66013269947</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o BAUMER &amp; CIE SA</addressLine1>
+        <street>rue du Cendrier</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise de recherche, développement, production, vente, support et services dans les domaines scientifique, technique et informatique.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-14</lastFoscDate>
+    <lastFoscNumber>71</lastFoscNumber>
+    <lastFoscSequence>1004870567</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
