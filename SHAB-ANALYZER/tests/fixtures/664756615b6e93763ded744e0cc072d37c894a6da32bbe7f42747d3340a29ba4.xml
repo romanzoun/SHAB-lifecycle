@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>51677476-aa7c-463f-ad92-5a45f003969a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004996780</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Graubündner Kantonalbank, Chur</de>
+    <en>Change Graubündner Kantonalbank, Chur</en>
+    <it>Cambiamenti Graubündner Kantonalbank, Chur</it>
+    <fr>Mutation Graubündner Kantonalbank, Chur</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4642</journalNumber>
+  <journalDate>2020-10-06</journalDate>
+  <publicationText>Graubündner Kantonalbank, in Chur, CHE-108.954.599, Besondere Rechtsformen (SHAB Nr. 142 vom 24.07.2020, Publ. 1004944812). Das Institut des öffentlichen Rechts hat Beteiligungsrechte an einer Börse kotiert und ist daher befugt, Inhaber-Partizipationsscheine zu halten.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Graubündner Kantonalbank</name>
+      <translations>(Banque Cantonale des Grisons) (Banca Cantonale Grigione) (Banca Cantunala Grischuna)</translations>
+      <uid>CHE-108.954.599</uid>
+      <uidOrganisationId>108954599</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35080000014</code13>
+      <seat>Chur</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grabenstrasse</street>
+        <swissZipCode>7000</swissZipCode>
+        <town>Chur</town>
+      </address>
+    </company>
+    <purpose>Die Graubündner Kantonalbank bietet die banküblichen Dienstleistungen an und berücksichtigt in ihrer Geschäftstätigkeit als Universalbank die Bedürfnisse aller Bevölkerungskreise, der privaten Wirtschaft und der öffentlichen Hand. Sie trägt in diesem Rahmen zu einer ausgewogenen Entwicklung der bündnerischen Wirtschaft bei.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Graubündner Kantonalbank</name>
+      <translations>(Banque Cantonale des Grisons) (Banca Cantonale Grigione) (Banca Cantunala Grischuna)</translations>
+      <uid>CHE-108.954.599</uid>
+      <uidOrganisationId>108954599</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35080000014</code13>
+      <seat>Chur</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grabenstrasse</street>
+        <swissZipCode>7000</swissZipCode>
+        <town>Chur</town>
+      </address>
+    </company>
+    <purpose>Die Graubündner Kantonalbank bietet die banküblichen Dienstleistungen an und berücksichtigt in ihrer Geschäftstätigkeit als Universalbank die Bedürfnisse aller Bevölkerungskreise, der privaten Wirtschaft und der öffentlichen Hand. Sie trägt in diesem Rahmen zu einer ausgewogenen Entwicklung der bündnerischen Wirtschaft bei.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-24</lastFoscDate>
+    <lastFoscNumber>142</lastFoscNumber>
+    <lastFoscSequence>1004944812</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>4c56fee8-0684-4538-b57e-a923110801ea</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004994685</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation house care, Andres Sven, Rothrist</de>
+    <en>Change house care, Andres Sven, Rothrist</en>
+    <it>Cambiamenti house care, Andres Sven, Rothrist</it>
+    <fr>Mutation house care, Andres Sven, Rothrist</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10762</journalNumber>
+  <journalDate>2020-10-02</journalDate>
+  <publicationText>house care, Andres Sven, in Rothrist, CHE-100.292.257, Einzelunternehmen (SHAB Nr. 159 vom 18.08.2020, Publ. 1004959929). Mit Verfügung des Obergerichts des Kantons Aargau vom 29.09.2020 wurde die Beschwerde des Gesuchgegners abgewiesen. Der Entscheid des Bezirksgerichts Zofingen vom 11.08.2020 wird aufgehoben und über den Inhaber dieses Einzelunternehmens mit Wirkung ab dem 29.09.2020, 09.00 Uhr der Konkurs neu eröffnet.</publicationText>
+  <commonsNew>
+    <company>
+      <name>house care, Andres Sven</name>
+      <uid>CHE-100.292.257</uid>
+      <uidOrganisationId>100292257</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40010206949</code13>
+      <seat>Rothrist</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Breitenstrasse</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>4852</swissZipCode>
+        <town>Rothrist</town>
+      </address>
+    </company>
+    <purpose>Gebäude- und Liegenschaftsbetreuung, Umbauten, Renovationen und Planung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>house care, Andres Sven</name>
+      <uid>CHE-100.292.257</uid>
+      <uidOrganisationId>100292257</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40010206949</code13>
+      <seat>Rothrist</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Breitenstrasse</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>4852</swissZipCode>
+        <town>Rothrist</town>
+      </address>
+    </company>
+    <purpose>Gebäude- und Liegenschaftsbetreuung, Umbauten, Renovationen und Planung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-08-18</lastFoscDate>
+    <lastFoscNumber>159</lastFoscNumber>
+    <lastFoscSequence>1004959929</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
