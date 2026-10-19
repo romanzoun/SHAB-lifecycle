@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>b78a525a-61e6-4c5a-aec0-3feecb9f1a80</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004994507</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation GT Genossenschaft Technologietransfer, Fribourg, neu GT Genossenschaft Technologietransfer in Liquidation</de>
+    <en>Change GT Genossenschaft Technologietransfer, Fribourg, new GT Genossenschaft Technologietransfer in Liquidation</en>
+    <it>Cambiamenti GT Genossenschaft Technologietransfer, Fribourg, nuovo GT Genossenschaft Technologietransfer in Liquidation</it>
+    <fr>Mutation GT Genossenschaft Technologietransfer, Fribourg, nouveau GT Genossenschaft Technologietransfer in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5544</journalNumber>
+  <journalDate>2020-10-02</journalDate>
+  <publicationText>GT Genossenschaft Technologietransfer, in Fribourg, CHE-113.208.510 (FOSC du 19.12.2013, p. 0/7225828). Mit Entscheid vom 29.09.2020 hat der Präsident des Zivilgerichts des SaaneBezirks, in Freiburg, über die Gesellschaft mit Wirkung ab dem 29.09.2020, 14.45 Uhr, den Konkurs eröffnet. Neue Firma: GT Genossenschaft Technologietransfer in Liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>GT Genossenschaft Technologietransfer in Liquidation</name>
+      <uid>CHE-113.208.510</uid>
+      <uidOrganisationId>113208510</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735364462</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Marie-Louise Curty</addressLine1>
+        <street>Rte de Champriond</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>Fördert und unterstützt die Fabrikation von umweltgerechten serienreifer Technologien im Bereich der Energieerzeugung und des Verbrauchs. (Nebenzweck gemäss Statuten).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GT Genossenschaft Technologietransfer</name>
+      <uid>CHE-113.208.510</uid>
+      <uidOrganisationId>113208510</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735364462</code13>
+      <seat>Fribourg</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Marie-Louise Curty</addressLine1>
+        <street>Rte de Champriond</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1700</swissZipCode>
+        <town>Fribourg</town>
+      </address>
+    </company>
+    <purpose>Fördert und unterstützt die Fabrikation von umweltgerechten serienreifer Technologien im Bereich der Energieerzeugung und des Verbrauchs. (Nebenzweck gemäss Statuten).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>a72a7e52-eba3-4423-a44a-c7fc02f8e500</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004994068</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation EXLTERRA SA, Plan-les-Ouates</de>
+    <en>Change EXLTERRA SA, Plan-les-Ouates</en>
+    <it>Cambiamenti EXLTERRA SA, Plan-les-Ouates</it>
+    <fr>Mutation EXLTERRA SA, Plan-les-Ouates</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16843</journalNumber>
+  <journalDate>2020-10-01</journalDate>
+  <publicationText>EXLTERRA SA, à Plan-les-Ouates, CHE-339.859.265 (FOSC du 24.07.2018, p. 0/4378785). Création d'un capital-participations de CHF 16'800.10, fondée sur la décision de l'assemblée générale relative à une augmentation conditionnelle du capital-participations du 26.07.2017, par l'émission de 168'001 bons de CHF 0.10, nominatifs. Suppression de la clause statutaire relative à l'augmentation autorisée du capital-participation, fondée sur la décision d'autorisation du 26.07.2017, le délai étant écoulé. Statuts modifiés le 25.09.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EXLTERRA SA</name>
+      <uid>CHE-339.859.265</uid>
+      <uidOrganisationId>339859265</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022490172</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Pré-Fleuri</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>effectuer toutes activités commerciales ainsi que toutes autres activités qui facilitent la promotion, le développement, la production et la distribution des produits et des services développés par le groupe Exlterra (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EXLTERRA SA</name>
+      <uid>CHE-339.859.265</uid>
+      <uidOrganisationId>339859265</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022490172</code13>
+      <seat>Plan-les-Ouates</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Pré-Fleuri</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1228</swissZipCode>
+        <town>Plan-les-Ouates</town>
+      </address>
+    </company>
+    <purpose>effectuer toutes activités commerciales ainsi que toutes autres activités qui facilitent la promotion, le développement, la production et la distribution des produits et des services développés par le groupe Exlterra (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-07-24</lastFoscDate>
+    <lastFoscNumber>141</lastFoscNumber>
+    <lastFoscSequence>4378785</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
