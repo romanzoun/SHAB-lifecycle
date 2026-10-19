@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>424ad3ee-a579-4e0e-b608-f8649b1378bf</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005010883</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation EMGICON SA in Liquidation, Surses</de>
+    <en>Change EMGICON SA in Liquidation, Surses</en>
+    <it>Cambiamenti EMGICON SA in Liquidation, Surses</it>
+    <fr>Mutation EMGICON SA in Liquidation, Surses</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4928</journalNumber>
+  <journalDate>2020-10-26</journalDate>
+  <publicationText>EMGICON SA in Liquidation, in Surses, CHE-109.880.940, Aktiengesellschaft (SHAB Nr. 238 vom 09.12.2019, Publ. 1004778281). Die Liquidation ist beendet. Vorzeitige Löschung mit Bestätigung des zugelassenen Revisionsexperten vom 16.03.2020 aufgeschoben mangels Zustimmung der kant. Steuerverwaltung.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EMGICON SA in Liquidation</name>
+      <uid>CHE-109.880.940</uid>
+      <uidOrganisationId>109880940</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030078651</code13>
+      <seat>Surses</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Veia sur Ual</street>
+        <swissZipCode>7460</swissZipCode>
+        <town>Savognin</town>
+      </address>
+    </company>
+    <purpose>Erbringung von technischen Dienstleistungen sowie Qualitätsprüfungen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EMGICON SA in Liquidation</name>
+      <uid>CHE-109.880.940</uid>
+      <uidOrganisationId>109880940</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030078651</code13>
+      <seat>Surses</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Veia sur Ual</street>
+        <swissZipCode>7460</swissZipCode>
+        <town>Savognin</town>
+      </address>
+    </company>
+    <purpose>Erbringung von technischen Dienstleistungen sowie Qualitätsprüfungen; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-09</lastFoscDate>
+    <lastFoscNumber>238</lastFoscNumber>
+    <lastFoscSequence>1004778281</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
