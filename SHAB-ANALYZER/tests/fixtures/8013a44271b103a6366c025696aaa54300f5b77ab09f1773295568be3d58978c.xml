@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>80fbbc6d-4364-4e31-b9fe-73c5e6ac9176</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004990475</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Freemont SA, Lutry</de>
+    <en>Change Freemont SA, Lutry</en>
+    <it>Cambiamenti Freemont SA, Lutry</it>
+    <fr>Mutation Freemont SA, Lutry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>15954</journalNumber>
+  <journalDate>2020-09-28</journalDate>
+  <publicationText>Freemont SA, à Lutry, CHE-219.741.358 (FOSC du 02.04.2019, p. 0/1004601342). Rectificatif: l'inscription n° 5950 du 28.03.2019 (FOSC du 02.04.2019, p. 0/1004601342) est rectifiée en ce sens que la raison de commerce de l'organe de révision est KPMG SA (et non KMPG SA comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Freemont SA</name>
+      <uid>CHE-219.741.358</uid>
+      <uidOrganisationId>219741358</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011843633</code13>
+      <seat>Lutry</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Remparts</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1095</swissZipCode>
+        <town>Lutry</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'acquisition et la gestion, directes ou indirectes, de participations à d'autres sociétés, suisses ou étrangères, ainsi que les activités de surveillance et de conseil stratégiques d'investissements, à l'exception de toutes opérations prohibées par la LFAIE (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>KPMG SA</name>
+        <country>CH</country>
+        <uid>CHE269292664</uid>
+        <uidOrganisationId>269292664</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Freemont SA</name>
+      <uid>CHE-219.741.358</uid>
+      <uidOrganisationId>219741358</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011843633</code13>
+      <seat>Lutry</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue des Remparts</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1095</swissZipCode>
+        <town>Lutry</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'acquisition et la gestion, directes ou indirectes, de participations à d'autres sociétés, suisses ou étrangères, ainsi que les activités de surveillance et de conseil stratégiques d'investissements, à l'exception de toutes opérations prohibées par la LFAIE (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-04-02</lastFoscDate>
+    <lastFoscNumber>64</lastFoscNumber>
+    <lastFoscSequence>1004601342</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
