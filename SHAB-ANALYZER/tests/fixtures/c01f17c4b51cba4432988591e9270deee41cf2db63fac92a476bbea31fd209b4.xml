@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>864ffdda-23b3-4cb1-9181-5263bf1d9eac</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005004141</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Les Fils de Norbert Défago SA, Collombey-Muraz</de>
+    <en>Change Les Fils de Norbert Défago SA, Collombey-Muraz</en>
+    <it>Cambiamenti Les Fils de Norbert Défago SA, Collombey-Muraz</it>
+    <fr>Mutation Les Fils de Norbert Défago SA, Collombey-Muraz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4024</journalNumber>
+  <journalDate>2020-10-15</journalDate>
+  <publicationText>Les Fils de Norbert Défago SA, à Collombey-Muraz, CHE-106.113.241, société anonyme (No. FOSC 85 du 04.05.2010, p.21, Publ. 5616370). Succursale: Troistorrents (CHE-287.218.163) [précédemment: Troistorrents].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Les Fils de Norbert Défago SA</name>
+      <uid>CHE-106.113.241</uid>
+      <uidOrganisationId>106113241</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130021729</code13>
+      <seat>Collombey-Muraz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>En Reutet</street>
+        <swissZipCode>1868</swissZipCode>
+        <town>Collombey</town>
+      </address>
+    </company>
+    <purpose>transports de choses en tout genre, commerce de bois, exploitation forestière, livraison de matériaux, sables et graviers, et toutes opérations mobilières et immobilières convergentes (cf statuts)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Les Fils de Norbert Défago SA</name>
+      <uid>CHE-106.113.241</uid>
+      <uidOrganisationId>106113241</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130021729</code13>
+      <seat>Collombey-Muraz</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>En Reutet</street>
+        <swissZipCode>1868</swissZipCode>
+        <town>Collombey</town>
+      </address>
+    </company>
+    <purpose>transports de choses en tout genre, commerce de bois, exploitation forestière, livraison de matériaux, sables et graviers, et toutes opérations mobilières et immobilières convergentes (cf statuts)</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2010-05-04</lastFoscDate>
+    <lastFoscNumber>85</lastFoscNumber>
+    <lastFoscSequence>5616370</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
