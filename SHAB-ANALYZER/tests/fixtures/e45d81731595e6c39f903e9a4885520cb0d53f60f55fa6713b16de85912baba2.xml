@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>bfb6761c-4405-4b29-a321-a25ed00faa60</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005004113</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SWISS POWER PARTS Sàrl, Lausanne</de>
+    <en>Change SWISS POWER PARTS Sàrl, Lausanne</en>
+    <it>Cambiamenti SWISS POWER PARTS Sàrl, Lausanne</it>
+    <fr>Mutation SWISS POWER PARTS Sàrl, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17143</journalNumber>
+  <journalDate>2020-10-15</journalDate>
+  <publicationText>SWISS POWER PARTS Sàrl, à Lausanne, CHE-191.804.346 (FOSC du 24.08.2020, p. 0/1004963668). L'associée Bravata' Patricia est nommé gérante présidente avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SWISS POWER PARTS Sàrl</name>
+      <uid>CHE-191.804.346</uid>
+      <uidOrganisationId>191804346</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011918867</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Boveresses</street>
+        <houseNumber>44</houseNumber>
+        <swissZipCode>1010</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'achat et la vente de pièces de rechanges pour machines de chantier et gros véhicules (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SWISS POWER PARTS Sàrl</name>
+      <uid>CHE-191.804.346</uid>
+      <uidOrganisationId>191804346</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011918867</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue des Boveresses</street>
+        <houseNumber>44</houseNumber>
+        <swissZipCode>1010</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'achat et la vente de pièces de rechanges pour machines de chantier et gros véhicules (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-08-24</lastFoscDate>
+    <lastFoscNumber>163</lastFoscNumber>
+    <lastFoscSequence>1004963668</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
