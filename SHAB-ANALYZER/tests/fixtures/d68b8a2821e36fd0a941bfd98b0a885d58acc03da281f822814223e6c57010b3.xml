@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>cd156a2f-9ab2-48d9-957d-f0e4dee7418e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004992836</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Multiconcept, Pinto Rebelo, Saillon</de>
+    <en>Change Multiconcept, Pinto Rebelo, Saillon</en>
+    <it>Cambiamenti Multiconcept, Pinto Rebelo, Saillon</it>
+    <fr>Mutation Multiconcept, Pinto Rebelo, Saillon</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3796</journalNumber>
+  <journalDate>2020-09-30</journalDate>
+  <publicationText>Multiconcept, Pinto Rebelo, à Saillon, CHE-277.151.563, entreprise individuelle (No. FOSC 154 du 11.08.2020, Publ. 1004955854). Par décision du 29.09.2020, le Tribunal Cantonal du Valais a annulé la faillite du titulaire de l'entreprise prononcée le 05.08.2020; l'inscription est rétablie comme ci-devant (FOSC No 11 du 17.01.2017, publ. No 3288675).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Multiconcept, Pinto Rebelo</name>
+      <uid>CHE-277.151.563</uid>
+      <uidOrganisationId>277151563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110082738</code13>
+      <seat>Saillon</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Clos</street>
+        <houseNumber>73</houseNumber>
+        <swissZipCode>1913</swissZipCode>
+        <town>Saillon</town>
+      </address>
+    </company>
+    <purpose>vente, fabrication, fourniture et pose de fenêtres, volets, stores, portes et portes de garage; exploitation d'une entreprise de menuiserie, charpente et ébénisterie</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Multiconcept, Pinto Rebelo</name>
+      <uid>CHE-277.151.563</uid>
+      <uidOrganisationId>277151563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62110082738</code13>
+      <seat>Saillon</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Clos</street>
+        <houseNumber>73</houseNumber>
+        <swissZipCode>1913</swissZipCode>
+        <town>Saillon</town>
+      </address>
+    </company>
+    <purpose>vente, fabrication, fourniture et pose de fenêtres, volets, stores, portes et portes de garage; exploitation d'une entreprise de menuiserie, charpente et ébénisterie</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-08-11</lastFoscDate>
+    <lastFoscNumber>154</lastFoscNumber>
+    <lastFoscSequence>1004955854</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>ce019559-1ef3-4787-8f0a-02583180ffff</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005008776</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation Cryo-Save AG in Liquidation, Freienbach</de>
+    <en>Change Cryo-Save AG in Liquidation, Freienbach</en>
+    <it>Cambiamenti Cryo-Save AG in Liquidation, Freienbach</it>
+    <fr>Mutation Cryo-Save AG in Liquidation, Freienbach</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6118</journalNumber>
+  <journalDate>2020-10-22</journalDate>
+  <publicationText>Cryo-Save AG in Liquidation, in Freienbach, CHE-101.145.038, Aktiengesellschaft (SHAB Nr. 203 vom 19.10.2020, Publ. 1005002588). Diese infolge Konkurses im Sinne von Art. 159 Abs. 5 lit. a HRegV am 14.10.2020 von Amtes wegen gelöschte Gesellschaft wird auf Grund der Verfügung des Einzelrichters des Bezirksgerichts Höfe vom 21.10.2020 wieder als durch Konkurs aufgelöst in das Handelsregister eingetragen. [bisher: Nachdem kein begründeter Einspruch gegen die Löschung erhoben wurde, wird die Gesellschaft im Sinne von Art. 159 Abs. 5 lit. a HRegV von Amtes wegen gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cryo-Save AG in Liquidation</name>
+      <uid>CHE-101.145.038</uid>
+      <uidOrganisationId>101145038</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13000116144</code13>
+      <seat>Freienbach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Churerstrasse</street>
+        <houseNumber>65b</houseNumber>
+        <swissZipCode>8808</swissZipCode>
+        <town>Pfäffikon SZ</town>
+      </address>
+    </company>
+    <purpose>Handel mit Medizinalprodukten, Verwaltung von Lizenzen sowie deren Forschung und Entwicklung in der ganzen Schweiz; kann sich an anderen Unternehmungen beteiligen sowie Grundbesitz erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cryo-Save AG in Liquidation</name>
+      <uid>CHE-101.145.038</uid>
+      <uidOrganisationId>101145038</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13000116144</code13>
+      <seat>Freienbach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Churerstrasse</street>
+        <houseNumber>65b</houseNumber>
+        <swissZipCode>8808</swissZipCode>
+        <town>Pfäffikon SZ</town>
+      </address>
+    </company>
+    <purpose>Handel mit Medizinalprodukten, Verwaltung von Lizenzen sowie deren Forschung und Entwicklung in der ganzen Schweiz; kann sich an anderen Unternehmungen beteiligen sowie Grundbesitz erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-19</lastFoscDate>
+    <lastFoscNumber>203</lastFoscNumber>
+    <lastFoscSequence>1005002588</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

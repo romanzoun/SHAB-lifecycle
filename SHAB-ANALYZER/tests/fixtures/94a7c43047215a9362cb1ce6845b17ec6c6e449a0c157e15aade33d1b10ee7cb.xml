@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>ca5616f6-eac8-4506-9641-3f3b589030a8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005004752</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZG</cantons>
+  <title>
+    <de>Mutation Trainotech Holding AG in Liquidation, Zug</de>
+    <en>Change Trainotech Holding AG in Liquidation, Zug</en>
+    <it>Cambiamenti Trainotech Holding AG in Liquidation, Zug</it>
+    <fr>Mutation Trainotech Holding AG in Liquidation, Zug</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14559</journalNumber>
+  <journalDate>2020-10-16</journalDate>
+  <publicationText>Trainotech Holding AG in Liquidation, in Zug, CHE-112.168.204, Aktiengesellschaft (SHAB Nr. 194 vom 08.10.2018, Publ. 1004471411). Die Gesellschaft wird gemäss Entscheid des Kantonsgerichts Zug vom 13.10.2020 wieder in das Handelsregister eingetragen. Das mit Entscheid vom 19.03.2018 eimgestellte Verfahren wird wieder eröffnet. Datum der Konkurseröffnung: 13.10.2020, 08.00 Uhr.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Trainotech Holding AG in Liquidation</name>
+      <uid>CHE-112.168.204</uid>
+      <uidOrganisationId>112168204</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030279678</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Officeconnection GmbH</addressLine1>
+        <street>Untermüli</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Erwerb, dauernde Verwaltung und Veräusserung von Beteiligungen an in- und ausländischen Unternehmen aller Art; kann Grundstücke und Immaterialgüterrechte erwerben, halten oder verwerten</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Trainotech Holding AG in Liquidation</name>
+      <uid>CHE-112.168.204</uid>
+      <uidOrganisationId>112168204</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030279678</code13>
+      <seat>Zug</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Officeconnection GmbH</addressLine1>
+        <street>Untermüli</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>6300</swissZipCode>
+        <town>Zug</town>
+      </address>
+    </company>
+    <purpose>Erwerb, dauernde Verwaltung und Veräusserung von Beteiligungen an in- und ausländischen Unternehmen aller Art; kann Grundstücke und Immaterialgüterrechte erwerben, halten oder verwerten</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-10-08</lastFoscDate>
+    <lastFoscNumber>194</lastFoscNumber>
+    <lastFoscSequence>1004471411</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregister- und Konkursamt des Kantons Zug</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
