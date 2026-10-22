@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>ef8bde1e-de1e-4f66-862f-704cfa0f2625</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005002406</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Treatwell DACH GmbH, Berlin, Zweigniederlassung Zürich, Zürich</de>
+    <en>Change Treatwell DACH GmbH, Berlin, Zweigniederlassung Zürich, Zürich</en>
+    <it>Cambiamenti Treatwell DACH GmbH, Berlin, Zweigniederlassung Zürich, Zürich</it>
+    <fr>Mutation Treatwell DACH GmbH, Berlin, Zweigniederlassung Zürich, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>39337</journalNumber>
+  <journalDate>2020-10-14</journalDate>
+  <publicationText>Treatwell DACH GmbH, Berlin, Zweigniederlassung Zürich, in Zürich, CHE-191.918.599, ausländische Zweigniederlassung (SHAB Nr. 113 vom 15.06.2020, Publ. 1004910260), Hauptsitz in: Hauptsitz: Berlin (DE). Neue Identifikationsnummer Hauptsitz: HRB 142124 B. Bemerkungen zum Hauptsitz neu: [Die Statuten des Hauptsitzes wurden am 08.07.2020 geändert; die publikationspflichtigen Tatsachen haben keine Änderungen erfahren.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Treatwell DACH GmbH, Berlin, Zweigniederlassung Zürich</name>
+      <uid>CHE-191.918.599</uid>
+      <uidOrganisationId>191918599</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090043629</code13>
+      <seat>Zürich</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hagenholzstrasse</street>
+        <houseNumber>83b</houseNumber>
+        <swissZipCode>8050</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Der Betrieb einer Buchungsplattform und damit zusammenhängende Softwaredienstleistungen im Bereich Frisöre, Kosmetik und ähnlichen Betrieben für die Region Schweiz.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Treatwell DACH GmbH, Berlin, Zweigniederlassung Zürich</name>
+      <uid>CHE-191.918.599</uid>
+      <uidOrganisationId>191918599</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02090043629</code13>
+      <seat>Zürich</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hagenholzstrasse</street>
+        <houseNumber>83b</houseNumber>
+        <swissZipCode>8050</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-15</lastFoscDate>
+    <lastFoscNumber>113</lastFoscNumber>
+    <lastFoscSequence>1004910260</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

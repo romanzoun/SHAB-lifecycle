@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>eda2be1f-9017-4ea6-8c33-dc376bbabe58</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1004998026</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Excellence in Paediatrics Institute, Morges</de>
+    <en>Change Excellence in Paediatrics Institute, Morges</en>
+    <it>Cambiamenti Excellence in Paediatrics Institute, Morges</it>
+    <fr>Mutation Excellence in Paediatrics Institute, Morges</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>16573</journalNumber>
+  <journalDate>2020-10-07</journalDate>
+  <publicationText>Excellence in Paediatrics Institute, à Morges, CHE-258.185.722 (FOSC du 06.06.2017, p. 0/3562193). Nouveaux membres du comité avec signature collective à deux: Aubertin Lucinda Fay, du Royaume-Uni, à Londres (Royaume-Uni), et Chatzigiannakos Konstantinos, de Grèce, à Athènes (Grèce).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Excellence in Paediatrics Institute</name>
+      <uid>CHE-258.185.722</uid>
+      <uidOrganisationId>258185722</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010900099</code13>
+      <seat>Morges</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o H&amp;B Law</addressLine1>
+        <street>Rue des Vignerons</street>
+        <houseNumber>1 B</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>l'association a pour but: formation et perfectionnement professionnel dans le domaine de la pédiatrie (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Excellence in Paediatrics Institute</name>
+      <uid>CHE-258.185.722</uid>
+      <uidOrganisationId>258185722</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010900099</code13>
+      <seat>Morges</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o H&amp;B Law</addressLine1>
+        <street>Rue des Vignerons</street>
+        <houseNumber>1 B</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>l'association a pour but: formation et perfectionnement professionnel dans le domaine de la pédiatrie (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-06-06</lastFoscDate>
+    <lastFoscNumber>107</lastFoscNumber>
+    <lastFoscSequence>3562193</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
