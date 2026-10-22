@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>db9a4953-03ee-43ad-a896-8f5d6a30f017</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005006119</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-10-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>TI</cantons>
+  <title>
+    <de>Mutation Grotto Efra di Luca Prat, Sonogno</de>
+    <en>Change Grotto Efra di Luca Prat, Sonogno</en>
+    <it>Cambiamenti Grotto Efra di Luca Prat, Sonogno</it>
+    <fr>Mutation Grotto Efra di Luca Prat, Sonogno</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>13519</journalNumber>
+  <journalDate>2020-10-19</journalDate>
+  <publicationText>Grotto Efra di Luca Prat, in Sonogno, CHE-318.609.797, ditta individuale (Nr. FUSC 65 del 03.04.2014, p.0, Pubbl. 1434121). La modifica di sede avviene in seguito all'aggregazione con il nuovo Comune denominato Verzasca sulla base del Decreto legislativo del 10.12.2018.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Grotto Efra di Luca Prat</name>
+      <uid>CHE-318.609.797</uid>
+      <uidOrganisationId>318609797</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110168132</code13>
+      <seat>Sonogno</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Val Redorta</street>
+        <swissZipCode>6637</swissZipCode>
+        <town>Sonogno</town>
+      </address>
+    </company>
+    <purpose>Gestione di un esercizio pubblico.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Grotto Efra di Luca Prat</name>
+      <uid>CHE-318.609.797</uid>
+      <uidOrganisationId>318609797</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50110168132</code13>
+      <seat>Sonogno</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Val Redorta</street>
+        <swissZipCode>6637</swissZipCode>
+        <town>Sonogno</town>
+      </address>
+    </company>
+    <purpose>Gestione di un esercizio pubblico.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-04-03</lastFoscDate>
+    <lastFoscNumber>65</lastFoscNumber>
+    <lastFoscSequence>1434121</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registro di commercio del Cantone Ticino</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
