@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>c2fd2c0b-64a4-443c-8e8e-3c17e4e75fae</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005017359</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation AVAN SA, Nyon, neu AVAN SA en liquidation</de>
+    <en>Change AVAN SA, Nyon, new AVAN SA en liquidation</en>
+    <it>Cambiamenti AVAN SA, Nyon, nuovo AVAN SA en liquidation</it>
+    <fr>Mutation AVAN SA, Nyon, nouveau AVAN SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18191</journalNumber>
+  <journalDate>2020-11-03</journalDate>
+  <publicationText>AVAN SA , à Nyon, CHE-137.906.651 (FOSC du 24.08.2016, p. 0/3019011). Selon décision de son assemblée générale du 1er septembre 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: AVAN SA en liquidation. Pessina Patricia, maintenant à Saint-Cergue, dont la procuration est éteinte, est nommée liquidatrice avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>AVAN SA en liquidation</name>
+      <uid>CHE-137.906.651</uid>
+      <uidOrganisationId>137906651</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011160443</code13>
+      <seat>Nyon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Perdtemps</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: l'organisation, la promotion, la représentation et la vente de prestations liées au voyage et au tourisme et, plus généralement, toute activité en rapport avec l'exploitation d'une agence de voyage; le commerce, l'importation, l'exportation et la distribution de produits ayant un lien avec les voyages ainsi que toute activité se rattachant à la promotion d'événements; le suivi des étudiants étrangers en Suisse et des personnes étrangères venant se faire soigner en Suisse (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>133333.00</nominal>
+      <paid>133333.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>AVAN SA</name>
+      <uid>CHE-137.906.651</uid>
+      <uidOrganisationId>137906651</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011160443</code13>
+      <seat>Nyon</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Perdtemps</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: l'organisation, la promotion, la représentation et la vente de prestations liées au voyage et au tourisme et, plus généralement, toute activité en rapport avec l'exploitation d'une agence de voyage; le commerce, l'importation, l'exportation et la distribution de produits ayant un lien avec les voyages ainsi que toute activité se rattachant à la promotion d'événements; le suivi des étudiants étrangers en Suisse et des personnes étrangères venant se faire soigner en Suisse (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>133333.00</nominal>
+      <paid>133333.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-08-24</lastFoscDate>
+    <lastFoscNumber>163</lastFoscNumber>
+    <lastFoscSequence>3019011</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
