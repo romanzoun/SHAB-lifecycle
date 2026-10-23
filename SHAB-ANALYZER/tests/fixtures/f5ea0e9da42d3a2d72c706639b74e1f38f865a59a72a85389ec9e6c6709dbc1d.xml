@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>098832b7-8055-42a7-87a1-c52a1fe30906</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005019729</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Association Espoir Madagascar, Bellevue, neu Association Espoir Madagascar, en liquidation</de>
+    <en>Change Association Espoir Madagascar, Bellevue, new Association Espoir Madagascar, en liquidation</en>
+    <it>Cambiamenti Association Espoir Madagascar, Bellevue, nuovo Association Espoir Madagascar, en liquidation</it>
+    <fr>Mutation Association Espoir Madagascar, Bellevue, nouveau Association Espoir Madagascar, en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19237</journalNumber>
+  <journalDate>2020-11-05</journalDate>
+  <publicationText>Association Espoir Madagascar, à Bellevue, CHE-112.323.781 (FOSC du 22.01.2015, p. 0/1945961). L'association est dissoute par décision de l'assemblée générale du 06.09.2020. Sa liquidation est opérée sous le nom: Association Espoir Madagascar, en liquidation. Liquidateurs: Nussbaumer Marc, président, et Nussbaumer Josef, trésorier, lesquels continuent à signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Association Espoir Madagascar, en liquidation</name>
+      <uid>CHE-112.323.781</uid>
+      <uidOrganisationId>112323781</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008440055</code13>
+      <seat>Bellevue</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Josef Nussbaumer</addressLine1>
+        <street>chemin des Chanâts</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>1293</swissZipCode>
+        <town>Bellevue</town>
+      </address>
+    </company>
+    <purpose>former, dans le cadre de l'aide au développement, les jeunes gens défavorisés de Madagascar, et plus particulièrement de la capitale Antananarivo, dans le domaine de l'électricité.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Association Espoir Madagascar</name>
+      <uid>CHE-112.323.781</uid>
+      <uidOrganisationId>112323781</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66008440055</code13>
+      <seat>Bellevue</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Josef Nussbaumer</addressLine1>
+        <street>chemin des Chanâts</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>1293</swissZipCode>
+        <town>Bellevue</town>
+      </address>
+    </company>
+    <purpose>former, dans le cadre de l'aide au développement, les jeunes gens défavorisés de Madagascar, et plus particulièrement de la capitale Antananarivo, dans le domaine de l'électricité.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-01-22</lastFoscDate>
+    <lastFoscNumber>14</lastFoscNumber>
+    <lastFoscSequence>1945961</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
