@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>49c25823-27d8-4439-acd0-4332590069b1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005020751</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Bollinger Furniere AG, Nürensdorf</de>
+    <en>Change Bollinger Furniere AG, Nürensdorf</en>
+    <it>Cambiamenti Bollinger Furniere AG, Nürensdorf</it>
+    <fr>Mutation Bollinger Furniere AG, Nürensdorf</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>42700</journalNumber>
+  <journalDate>2020-11-09</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 209 vom 27.10.2020 publizierten TR-Eintrag Nr. 40474 vom 22.10.2020 Bollinger Furniere AG, in Nürensdorf, CHE-106.950.001, Aktiengesellschaft (SHAB Nr. 209 vom 27.10.2020, Publ. 1005008502). Infolge Systemfehler wurde beim bisher Text der bisherige Wohnort [bisher: Luzern] nicht aufgeführt. Korrekt wäre: [bisher: in Luzern, ohne eingetragene Funktion, mit Kollektivunterschrift zu zweien].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Bollinger Furniere AG</name>
+      <uid>CHE-106.950.001</uid>
+      <uidOrganisationId>106950001</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039038204</code13>
+      <seat>Nürensdorf</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Winterthurerstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>8309</swissZipCode>
+        <town>Nürensdorf</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren aller Art, insbesondere mit Holz und Holzprodukten und deren Veredelung; kann sich an Unternehmen ähnlicher Art beteiligen und Grundeigentum erwerben und veräussern.</purpose>
+    <capital>
+      <nominal>600000.00</nominal>
+      <paid>600000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Bollinger Furniere AG</name>
+      <uid>CHE-106.950.001</uid>
+      <uidOrganisationId>106950001</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039038204</code13>
+      <seat>Nürensdorf</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Winterthurerstrasse</street>
+        <houseNumber>9</houseNumber>
+        <swissZipCode>8309</swissZipCode>
+        <town>Nürensdorf</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren aller Art, insbesondere mit Holz und Holzprodukten und deren Veredelung; kann sich an Unternehmen ähnlicher Art beteiligen und Grundeigentum erwerben und veräussern.</purpose>
+    <capital>
+      <nominal>600000.00</nominal>
+      <paid>600000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-27</lastFoscDate>
+    <lastFoscNumber>209</lastFoscNumber>
+    <lastFoscSequence>1005008502</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
