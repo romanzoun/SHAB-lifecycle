@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>cea72b7e-0680-47ac-846c-563b7b209c2d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005017215</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation CH Media TV AG, Aarau</de>
+    <en>Change CH Media TV AG, Aarau</en>
+    <it>Cambiamenti CH Media TV AG, Aarau</it>
+    <fr>Mutation CH Media TV AG, Aarau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>11948</journalNumber>
+  <journalDate>2020-11-03</journalDate>
+  <publicationText>CH Media TV AG, in Aarau, CHE-108.708.215, Aktiengesellschaft (SHAB Nr. 192 vom 02.10.2020, Publ. 1004991453). Publikationsorgan neu: SHAB. [Nachtrag des Publikationsorgans zum im SHAB Nr. 248 vom 24.12.1997 publizierten TR-Eintrag Nr. 8399 vom 18.12.1997.]. Zweigniederlassung neu: Aarau (CHE-269.621.236).</publicationText>
+  <commonsNew>
+    <company>
+      <name>CH Media TV AG</name>
+      <uid>CHE-108.708.215</uid>
+      <uidOrganisationId>108708215</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030190241</code13>
+      <seat>Aarau</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neumattstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>5000</swissZipCode>
+        <town>Aarau</town>
+      </address>
+    </company>
+    <purpose>Produktion von Regionalfernsehprogrammen, Produktion von Programmen und Werbespots für Dritte sowie Verkauf von Werbung und Sponsoring; kann sich an anderen Unternehmungen beteiligen sowie Tochtergesellschaften und Zweigniederlassungen errichten.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>CH Media TV AG</name>
+      <uid>CHE-108.708.215</uid>
+      <uidOrganisationId>108708215</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40030190241</code13>
+      <seat>Aarau</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neumattstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>5000</swissZipCode>
+        <town>Aarau</town>
+      </address>
+    </company>
+    <purpose>Produktion von Regionalfernsehprogrammen, Produktion von Programmen und Werbespots für Dritte sowie Verkauf von Werbung und Sponsoring; kann sich an anderen Unternehmungen beteiligen sowie Tochtergesellschaften und Zweigniederlassungen errichten.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-02</lastFoscDate>
+    <lastFoscNumber>192</lastFoscNumber>
+    <lastFoscSequence>1004991453</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

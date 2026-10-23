@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>c5ae739f-6e34-429b-8af8-1fa1e231617f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005018616</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Pi Imaging Technology SA, Neuchâtel</de>
+    <en>Change Pi Imaging Technology SA, Neuchâtel</en>
+    <it>Cambiamenti Pi Imaging Technology SA, Neuchâtel</it>
+    <fr>Mutation Pi Imaging Technology SA, Neuchâtel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3360</journalNumber>
+  <journalDate>2020-11-04</journalDate>
+  <publicationText>Pi Imaging Technology SA, à Neuchâtel, CHE-496.873.037 (FOSC du 20.01.2020, p. 0/1004809461). Antolovic Ivan Michel, nommé président, et Charbon Edoardo Ernesto Elvezio, jusqu'ici président, tous deux membres du conseil d'administration, continuent de signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pi Imaging Technology SA</name>
+      <uid>CHE-496.873.037</uid>
+      <uidOrganisationId>496873037</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541183100</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Pierre-à-Mazel</street>
+        <houseNumber>39</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>développement, fabrication et commerce de capteurs, d'imageurs, d'électronique embarquée, de microprogrammes, et de logiciels (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pi Imaging Technology SA</name>
+      <uid>CHE-496.873.037</uid>
+      <uidOrganisationId>496873037</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541183100</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Pierre-à-Mazel</street>
+        <houseNumber>39</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>développement, fabrication et commerce de capteurs, d'imageurs, d'électronique embarquée, de microprogrammes, et de logiciels (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-20</lastFoscDate>
+    <lastFoscNumber>12</lastFoscNumber>
+    <lastFoscSequence>1004809461</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
