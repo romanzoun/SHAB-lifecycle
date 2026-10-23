@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>49f2b7ae-e25b-44a8-a02c-839473bc8c7e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005020498</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Boucherie du Château SA, Morges</de>
+    <en>Change Boucherie du Château SA, Morges</en>
+    <it>Cambiamenti Boucherie du Château SA, Morges</it>
+    <fr>Mutation Boucherie du Château SA, Morges</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18508</journalNumber>
+  <journalDate>2020-11-06</journalDate>
+  <publicationText>Boucherie du Château SA, à Morges, CHE-149.785.874 (FOSC du 12.02.2014, p. 0/1341809). Fivaz Christian, qui est nommé président, et Fivaz Anne-Laure, qui est est nommée administratrice avec signature individuelle et dont la procuration est éteinte, sont maintenant à Vufflens-le-Château.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Boucherie du Château SA</name>
+      <uid>CHE-149.785.874</uid>
+      <uidOrganisationId>149785874</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011033822</code13>
+      <seat>Morges</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>91</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: préparation et commerce de viande, et exploitation de boucheries, charcuteries et services traiteurs (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Boucherie du Château SA</name>
+      <uid>CHE-149.785.874</uid>
+      <uidOrganisationId>149785874</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011033822</code13>
+      <seat>Morges</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>91</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>la société a pour but: préparation et commerce de viande, et exploitation de boucheries, charcuteries et services traiteurs (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-02-12</lastFoscDate>
+    <lastFoscNumber>29</lastFoscNumber>
+    <lastFoscSequence>1341809</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
