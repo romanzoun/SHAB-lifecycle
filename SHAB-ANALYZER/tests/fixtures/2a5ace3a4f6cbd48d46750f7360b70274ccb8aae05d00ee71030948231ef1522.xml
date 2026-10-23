@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>78e00a0c-afb5-4359-a3cf-1f3ecc896061</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005015293</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation IGM IMMOBILIER SARL, Meyrin</de>
+    <en>Change IGM IMMOBILIER SARL, Meyrin</en>
+    <it>Cambiamenti IGM IMMOBILIER SARL, Meyrin</it>
+    <fr>Mutation IGM IMMOBILIER SARL, Meyrin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>18881</journalNumber>
+  <journalDate>2020-10-30</journalDate>
+  <publicationText>IGM IMMOBILIER SARL, à Meyrin, CHE-100.767.591 (FOSC du 19.12.2013, p. 0/7225832). Dumalle Marcel jusqu'ici associé pour une part de CHF 20'000 est maintenant gérant et continue de signer individuellement; sa part de CHF 20'000 a été cédée à Soubeiran Raphaël, de Pampigny, à Veyrier, nouvel associé-gérant, pour une part de CHF 20'000, avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>IGM IMMOBILIER SARL</name>
+      <uid>CHE-100.767.591</uid>
+      <uidOrganisationId>100767591</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010010009</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de l'Aéroport</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1215</swissZipCode>
+        <town>Genève 15 cases</town>
+      </address>
+    </company>
+    <purpose>achat et vente d'immeubles non assujettis à la LFAIE, transaction immobilière, gestion immobilière et promotion immobilière.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IGM IMMOBILIER SARL</name>
+      <uid>CHE-100.767.591</uid>
+      <uidOrganisationId>100767591</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66010010009</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de l'Aéroport</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1215</swissZipCode>
+        <town>Genève 15 cases</town>
+      </address>
+    </company>
+    <purpose>achat et vente d'immeubles non assujettis à la LFAIE, transaction immobilière, gestion immobilière et promotion immobilière.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225832</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

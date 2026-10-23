@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>796bdb83-8e94-463e-9799-4587e1a5d237</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005033445</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Gempeler Ulrich GmbH, Schmitten (FR), neu Gempeler Ulrich GmbH in Liquidation</de>
+    <en>Change Gempeler Ulrich GmbH, Schmitten (FR), new Gempeler Ulrich GmbH in Liquidation</en>
+    <it>Cambiamenti Gempeler Ulrich GmbH, Schmitten (FR), nuovo Gempeler Ulrich GmbH in Liquidation</it>
+    <fr>Mutation Gempeler Ulrich GmbH, Schmitten (FR), nouveau Gempeler Ulrich GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6604</journalNumber>
+  <journalDate>2020-11-24</journalDate>
+  <publicationText>Gempeler Ulrich GmbH, in Schmitten (FR), CHE-108.659.427 (SHAB vom 27.07.2020, s. 0/1004945653). Die Gesellschaft wird gemäss Beschluss der Gesellschafterversammlung vom 20.11.2020 aufgelöst. Neue Firma: Gempeler Ulrich GmbH in Liquidation. Eingetragene Person geändert: Gempeler Marianne, Gesellschafterin, 40 Stammanteile zu CHF 1'000, Geschäftsführerin, Einzelunterschrift, neu Gesellschafterin, 40 Stammanteile zu CHF 1'000, Geschäftsführerin, Liquidatorin, Einzelunterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Gempeler Ulrich GmbH in Liquidation</name>
+      <uid>CHE-108.659.427</uid>
+      <uidOrganisationId>108659427</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706409947</code13>
+      <seat>Schmitten (FR)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ried</street>
+        <houseNumber>64</houseNumber>
+        <swissZipCode>3185</swissZipCode>
+        <town>Schmitten FR</town>
+      </address>
+    </company>
+    <purpose>Ofen- und Cheminéebau, Wand- und Bodenbeläge; Kauf und Verkauf von Waren und Gütern aller Art; Dienstleistungen und Vermittlungen aller Art. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Gempeler Ulrich GmbH</name>
+      <uid>CHE-108.659.427</uid>
+      <uidOrganisationId>108659427</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706409947</code13>
+      <seat>Schmitten (FR)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Ried</street>
+        <houseNumber>64</houseNumber>
+        <swissZipCode>3185</swissZipCode>
+        <town>Schmitten FR</town>
+      </address>
+    </company>
+    <purpose>Ofen- und Cheminéebau, Wand- und Bodenbeläge; Kauf und Verkauf von Waren und Gütern aller Art; Dienstleistungen und Vermittlungen aller Art. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>40000.00</nominal>
+      <paid>40000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-27</lastFoscDate>
+    <lastFoscNumber>143</lastFoscNumber>
+    <lastFoscSequence>1004945653</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
