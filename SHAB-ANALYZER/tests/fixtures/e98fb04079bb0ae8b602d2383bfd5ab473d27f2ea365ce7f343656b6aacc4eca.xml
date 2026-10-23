@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>331353e5-aa00-4708-a807-2399ed816c50</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005023821</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Menuiserie - Charpente - Rénovations Christophe Nissille, Massongex</de>
+    <en>Change Menuiserie - Charpente - Rénovations Christophe Nissille, Massongex</en>
+    <it>Cambiamenti Menuiserie - Charpente - Rénovations Christophe Nissille, Massongex</it>
+    <fr>Mutation Menuiserie - Charpente - Rénovations Christophe Nissille, Massongex</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4347</journalNumber>
+  <journalDate>2020-11-11</journalDate>
+  <publicationText>Menuiserie - Charpente - Rénovations Christophe Nissille, à Massongex, CHE-106.423.888, entreprise individuelle (No. FOSC 1 du 03.01.1995, p.15). Succursale: [biffé: Troistorrents].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Menuiserie - Charpente - Rénovations Christophe Nissille</name>
+      <uid>CHE-106.423.888</uid>
+      <uidOrganisationId>106423888</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62120057191</code13>
+      <seat>Massongex</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Vérossaz</street>
+        <swissZipCode>1869</swissZipCode>
+        <town>Massongex</town>
+      </address>
+    </company>
+    <purpose>menuiserie, charpente, rénovations</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Menuiserie - Charpente - Rénovations Christophe Nissille</name>
+      <uid>CHE-106.423.888</uid>
+      <uidOrganisationId>106423888</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62120057191</code13>
+      <seat>Massongex</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Vérossaz</street>
+        <swissZipCode>1869</swissZipCode>
+        <town>Massongex</town>
+      </address>
+    </company>
+    <purpose>menuiserie, charpente, rénovations</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>1995-01-03</lastFoscDate>
+    <lastFoscNumber>1</lastFoscNumber>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
