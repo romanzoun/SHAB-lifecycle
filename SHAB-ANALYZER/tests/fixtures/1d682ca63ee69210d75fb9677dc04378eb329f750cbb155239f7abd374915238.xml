@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>699ea310-533b-45ce-be34-6bab896e4a44</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005028378</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Heizmann jardins S.A., Lutry, neu Heizmann jardins S.A. en liquidation</de>
+    <en>Change Heizmann jardins S.A., Lutry, new Heizmann jardins S.A. en liquidation</en>
+    <it>Cambiamenti Heizmann jardins S.A., Lutry, nuovo Heizmann jardins S.A. en liquidation</it>
+    <fr>Mutation Heizmann jardins S.A., Lutry, nouveau Heizmann jardins S.A. en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>19100</journalNumber>
+  <journalDate>2020-11-17</journalDate>
+  <publicationText>Heizmann jardins S.A., à Lutry, CHE-102.676.350 (FOSC du 19.09.2017, p. 0/3760163). Selon décision de son assemblée générale du 11 novembre 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Heizmann jardins S.A. en liquidation. Les 100 actions nominatives de CHF 1'000 ne sont désormais plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO). Heizmann Jean-Pierre, maintenant à Bourg-en-Lavaux, est nommé administrateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Heizmann jardins S.A. en liquidation</name>
+      <uid>CHE-102.676.350</uid>
+      <uidOrganisationId>102676350</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001320856</code13>
+      <seat>Lutry</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>La Croix-sur-Lutry, chemin de la Belle-Etoile</street>
+        <swissZipCode>1602</swissZipCode>
+        <town>La Croix (Lutry)</town>
+      </address>
+    </company>
+    <purpose>création, aménagement, entretien de parcs et jardins, surfaces sportives, achat, vente de produits et toutes autres activités liées aux aménagements extérieurs.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Heizmann jardins S.A.</name>
+      <uid>CHE-102.676.350</uid>
+      <uidOrganisationId>102676350</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001320856</code13>
+      <seat>Lutry</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>La Croix-sur-Lutry, chemin de la Belle-Etoile</street>
+        <swissZipCode>1602</swissZipCode>
+        <town>La Croix (Lutry)</town>
+      </address>
+    </company>
+    <purpose>création, aménagement, entretien de parcs et jardins, surfaces sportives, achat, vente de produits et toutes autres activités liées aux aménagements extérieurs.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-09-19</lastFoscDate>
+    <lastFoscNumber>181</lastFoscNumber>
+    <lastFoscSequence>3760163</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

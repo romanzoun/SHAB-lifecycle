@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>6687c6e4-c98c-4bb6-a222-48acce4d58e0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005023364</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation MS Gipser Mamudoski, Murten</de>
+    <en>Change MS Gipser Mamudoski, Murten</en>
+    <it>Cambiamenti MS Gipser Mamudoski, Murten</it>
+    <fr>Mutation MS Gipser Mamudoski, Murten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6328</journalNumber>
+  <journalDate>2020-11-11</journalDate>
+  <publicationText>MS Gipser Mamudoski, in Murten, CHE-157.409.634 (SHAB vom 05.11.2020, s. 0/1005015771). Mit Entscheid vom 10.11.2020 hat das Kantonsgericht Freiburg dem Rekurs vom 06.11.2020 gegen das Konkurseröffnungsurteil vom 26.10.2020 die aufschiebende Wirkung erteilt (Art. 159 Abs. 2 HRegV).</publicationText>
+  <commonsNew>
+    <company>
+      <name>MS Gipser Mamudoski</name>
+      <uid>CHE-157.409.634</uid>
+      <uidOrganisationId>157409634</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735691224</code13>
+      <seat>Murten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Freiburgstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Maler- und Gipsergeschäfts, Renovationen und Reinigung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MS Gipser Mamudoski</name>
+      <uid>CHE-157.409.634</uid>
+      <uidOrganisationId>157409634</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735691224</code13>
+      <seat>Murten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Freiburgstrasse</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Maler- und Gipsergeschäfts, Renovationen und Reinigung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-05</lastFoscDate>
+    <lastFoscNumber>216</lastFoscNumber>
+    <lastFoscSequence>1005015771</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
