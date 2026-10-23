@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>e61d1845-02f5-4844-ae45-5c7fb83997f0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005014110</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Andace Sàrl, Lausanne</de>
+    <en>Change Andace Sàrl, Lausanne</en>
+    <it>Cambiamenti Andace Sàrl, Lausanne</it>
+    <fr>Mutation Andace Sàrl, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>17922</journalNumber>
+  <journalDate>2020-10-29</journalDate>
+  <publicationText>Andace Sàrl, à Lausanne, CHE-446.265.634 (FOSC du 01.07.2019, p. 0/1004664150). L'associée-gérante Senff Anouk cède 60 de ses 240 parts de CHF 100 à Ré Cédric, d'Entlebuch, à Lausanne, nouvel associé-gérant avec signature collective à deux, titulaire de 60 parts de CHF 100; Senff Anouk est désormais titulaire de 180 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Andace Sàrl</name>
+      <uid>CHE-446.265.634</uid>
+      <uidOrganisationId>446265634</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011857932</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Anouk Senff</addressLine1>
+        <street>Chemin du Village</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1012</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation, la détention, l'achat et la vente d'établissements publics tels que bars, cafés, restaurants, ainsi que tous services y relatifs (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>30000.00</nominal>
+      <paid>30000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Andace Sàrl</name>
+      <uid>CHE-446.265.634</uid>
+      <uidOrganisationId>446265634</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011857932</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Anouk Senff</addressLine1>
+        <street>Chemin du Village</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>1012</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation, la détention, l'achat et la vente d'établissements publics tels que bars, cafés, restaurants, ainsi que tous services y relatifs (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>30000.00</nominal>
+      <paid>30000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-01</lastFoscDate>
+    <lastFoscNumber>124</lastFoscNumber>
+    <lastFoscSequence>1004664150</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

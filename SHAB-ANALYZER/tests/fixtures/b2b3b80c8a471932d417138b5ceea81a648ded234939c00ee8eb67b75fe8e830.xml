@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>e8ab3fd1-22f5-4a78-9157-44be4cfe3daf</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005034173</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation HOLDENER ARCHITECTURES SARL, Meyrin</de>
+    <en>Change HOLDENER ARCHITECTURES SARL, Meyrin</en>
+    <it>Cambiamenti HOLDENER ARCHITECTURES SARL, Meyrin</it>
+    <fr>Mutation HOLDENER ARCHITECTURES SARL, Meyrin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20678</journalNumber>
+  <journalDate>2020-11-24</journalDate>
+  <publicationText>HOLDENER ARCHITECTURES SARL, à Meyrin, CHE-100.926.458 (FOSC du 23.07.2019, p. 0/1004682551). En complément de l'inscription n° 6886 du 12.05.2009 (FOSC du 18.05.2009, p. 8/5024030), dépôt d'un nouvel exemplaire des statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>HOLDENER ARCHITECTURES SARL</name>
+      <uid>CHE-100.926.458</uid>
+      <uidOrganisationId>100926458</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012219977</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de l'Aéroport</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1216</swissZipCode>
+        <town>Cointrin</town>
+      </address>
+    </company>
+    <purpose>travaux et mandats d'architecture, d'urbanisme et d'ingénieurs; construction, expertise et recherche dans le domaine immobilier et de la construction; achat et vente de biens, promotion, réalisation et surveillance de construction et d'exploitation de bâtiment et d'ouvrage.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>HOLDENER ARCHITECTURES SARL</name>
+      <uid>CHE-100.926.458</uid>
+      <uidOrganisationId>100926458</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012219977</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de l'Aéroport</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1216</swissZipCode>
+        <town>Cointrin</town>
+      </address>
+    </company>
+    <purpose>travaux et mandats d'architecture, d'urbanisme et d'ingénieurs; construction, expertise et recherche dans le domaine immobilier et de la construction; achat et vente de biens, promotion, réalisation et surveillance de construction et d'exploitation de bâtiment et d'ouvrage.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-07-23</lastFoscDate>
+    <lastFoscNumber>140</lastFoscNumber>
+    <lastFoscSequence>1004682551</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
