@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>123805bf-5012-4545-b7a4-2ef7018b7296</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005046343</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation Diorama Bethlehem AG in Liquidation, Einsiedeln</de>
+    <en>Change Diorama Bethlehem AG in Liquidation, Einsiedeln</en>
+    <it>Cambiamenti Diorama Bethlehem AG in Liquidation, Einsiedeln</it>
+    <fr>Mutation Diorama Bethlehem AG in Liquidation, Einsiedeln</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7188</journalNumber>
+  <journalDate>2020-12-09</journalDate>
+  <publicationText>Diorama Bethlehem AG in Liquidation, in Einsiedeln, CHE-106.899.848, Aktiengesellschaft (SHAB Nr. 141 vom 23.07.2020, Publ. 1004943496). Vermögensübertragung: Die Gesellschaft überträgt gemäss dem öffentlich beurkundeten Vermögensübertragungsvertrag vom 04.12.2020 und Inventar vom 21.02.2020 und 01.09.2020 Aktiven (inklusive der darin enthaltenen Liegenschaften GB Einsiedeln Nr. 893 und Nr. 1890) von CHF 240'605.50 und Fremdkapital von CHF 0.00 auf die Diorama Bethlehem Stiftung, in Einsiedeln (CHE-112.851.502). Gegenleistung: CHF 240'605.50 .</publicationText>
+  <commonsNew>
+    <company>
+      <name>Diorama Bethlehem AG in Liquidation</name>
+      <uid>CHE-106.899.848</uid>
+      <uidOrganisationId>106899848</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13000037010</code13>
+      <seat>Einsiedeln</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Benzigerstrasse</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>8840</swissZipCode>
+        <town>Einsiedeln</town>
+      </address>
+    </company>
+    <purpose>Betreibt die Ausstellung der grossen Weihnachtskrippe sowie das Mineralienmuseum in Einsiedeln; kann Kooperationen mit anderen Museen eingehen oder sich an anderen Museen beteiligen.</purpose>
+    <capital>
+      <nominal>60000.00</nominal>
+      <paid>60000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Diorama Bethlehem AG in Liquidation</name>
+      <uid>CHE-106.899.848</uid>
+      <uidOrganisationId>106899848</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13000037010</code13>
+      <seat>Einsiedeln</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Benzigerstrasse</street>
+        <houseNumber>23</houseNumber>
+        <swissZipCode>8840</swissZipCode>
+        <town>Einsiedeln</town>
+      </address>
+    </company>
+    <purpose>Betreibt die Ausstellung der grossen Weihnachtskrippe sowie das Mineralienmuseum in Einsiedeln; kann Kooperationen mit anderen Museen eingehen oder sich an anderen Museen beteiligen.</purpose>
+    <capital>
+      <nominal>60000.00</nominal>
+      <paid>60000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-23</lastFoscDate>
+    <lastFoscNumber>141</lastFoscNumber>
+    <lastFoscSequence>1004943496</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>0392c96e-af27-4ece-b5df-9d2e4da02445</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005056608</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation MB Maximal Bau GmbH, Kaiseraugst, neu MB Maximal Bau GmbH in Liquidation</de>
+    <en>Change MB Maximal Bau GmbH, Kaiseraugst, new MB Maximal Bau GmbH in Liquidation</en>
+    <it>Cambiamenti MB Maximal Bau GmbH, Kaiseraugst, nuovo MB Maximal Bau GmbH in Liquidation</it>
+    <fr>Mutation MB Maximal Bau GmbH, Kaiseraugst, nouveau MB Maximal Bau GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14160</journalNumber>
+  <journalDate>2020-12-18</journalDate>
+  <publicationText>MB Maximal Bau GmbH, in Kaiseraugst, CHE-114.032.981, Gesellschaft mit beschränkter Haftung (SHAB Nr. 110 vom 10.06.2020, Publ. 1004907377). Firma neu: MB Maximal Bau GmbH in Liquidation. Mit Verfügung des Gerichtspräsidiums Rheinfelden vom 15.12.2020 ist über diese Gesellschaft mit Wirkung ab dem 15.12.2020, 08:15 Uhr, der Konkurs eröffnet worden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MB Maximal Bau GmbH in Liquidation</name>
+      <uid>CHE-114.032.981</uid>
+      <uidOrganisationId>114032981</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40040301549</code13>
+      <seat>Kaiseraugst</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schwarzackerstrasse</street>
+        <houseNumber>60</houseNumber>
+        <swissZipCode>4303</swissZipCode>
+        <town>Kaiseraugst</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Baugeschäftes; die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften errichten, sich an anderen Unternehmen beteiligen sowie Grundeigentum erwerben, belasten, veräussern und verwalten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MB Maximal Bau GmbH</name>
+      <uid>CHE-114.032.981</uid>
+      <uidOrganisationId>114032981</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40040301549</code13>
+      <seat>Kaiseraugst</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schwarzackerstrasse</street>
+        <houseNumber>60</houseNumber>
+        <swissZipCode>4303</swissZipCode>
+        <town>Kaiseraugst</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Baugeschäftes; die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften errichten, sich an anderen Unternehmen beteiligen sowie Grundeigentum erwerben, belasten, veräussern und verwalten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-10</lastFoscDate>
+    <lastFoscNumber>110</lastFoscNumber>
+    <lastFoscSequence>1004907377</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
