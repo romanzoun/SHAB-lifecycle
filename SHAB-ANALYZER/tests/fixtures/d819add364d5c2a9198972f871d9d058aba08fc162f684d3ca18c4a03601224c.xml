@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>40166e74-67bc-42d1-907e-4f72ca1a45c3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005041282</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Pizzeria la Vendetta Sàrl, Avenches</de>
+    <en>Change Pizzeria la Vendetta Sàrl, Avenches</en>
+    <it>Cambiamenti Pizzeria la Vendetta Sàrl, Avenches</it>
+    <fr>Mutation Pizzeria la Vendetta Sàrl, Avenches</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20179</journalNumber>
+  <journalDate>2020-12-02</journalDate>
+  <publicationText>Pizzeria la Vendetta Sàrl, à Avenches, CHE-109.852.582 (FOSC du 15.03.2016, p. 0/2724323). Tas Tevfik cède 2 de ses 20 parts de CHF 1'000 au gérant Yaglicali Mehmet, nouvel associé avec 2 parts de CHF 1'000. Tas Tevfik reste titulaire de 18 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pizzeria la Vendetta Sàrl</name>
+      <uid>CHE-109.852.582</uid>
+      <uidOrganisationId>109852582</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710018162</code13>
+      <seat>Avenches</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Centrale</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1580</swissZipCode>
+        <town>Avenches</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la vente à l'emporter, la livraison à domicile ainsi que l'importation et l'exportation de pizzas et tous mets alimentaires (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pizzeria la Vendetta Sàrl</name>
+      <uid>CHE-109.852.582</uid>
+      <uidOrganisationId>109852582</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21710018162</code13>
+      <seat>Avenches</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Centrale</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1580</swissZipCode>
+        <town>Avenches</town>
+      </address>
+    </company>
+    <purpose>la société a pour but la vente à l'emporter, la livraison à domicile ainsi que l'importation et l'exportation de pizzas et tous mets alimentaires (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2016-03-15</lastFoscDate>
+    <lastFoscNumber>52</lastFoscNumber>
+    <lastFoscSequence>2724323</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>2ac0a509-67e9-417b-9676-82e9571cb3fe</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005059709</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Reci Haustechnik, Widnau</de>
+    <en>Change Reci Haustechnik, Widnau</en>
+    <it>Cambiamenti Reci Haustechnik, Widnau</it>
+    <fr>Mutation Reci Haustechnik, Widnau</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12721</journalNumber>
+  <journalDate>2020-12-22</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 51 vom 14.12.2020, publizierten TR-Eintrags Nr. 2'377 vom 11.03.2019 Reci Haustechnik, in Widnau, CHE-150.262.413, Einzelunternehmen (SHAB Nr. 51 vom 14.03.2019, Publ. 1004587746). Das Kantonsgericht des Kantons St. Gallen hat mit Entscheid vom 06.03.2019 die Beschwerde abgewiesen und den Konkurs per 06.03.2019, um 18.00 Uhr neu eröffnet. [nicht: Das Kantonsgericht des Kantons St. Gallen hat mit Entscheid vom 06.03.2019 die Beschwerde abgewiesen und den Konkurs neu eröffnet. Demnach ist das Einzelunternehmen aufgelöst.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Reci Haustechnik</name>
+      <uid>CHE-150.262.413</uid>
+      <uidOrganisationId>150262413</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010747112</code13>
+      <seat>Widnau</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Diepoldsauerstrasse</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>9443</swissZipCode>
+        <town>Widnau</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Haustechnikbereich, insbesondere Sanitär-, Heizung- und Brennerservice.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Reci Haustechnik</name>
+      <uid>CHE-150.262.413</uid>
+      <uidOrganisationId>150262413</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010747112</code13>
+      <seat>Widnau</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Diepoldsauerstrasse</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>9443</swissZipCode>
+        <town>Widnau</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Haustechnikbereich, insbesondere Sanitär-, Heizung- und Brennerservice.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-03-14</lastFoscDate>
+    <lastFoscNumber>51</lastFoscNumber>
+    <lastFoscSequence>1004587746</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>38e71218-58e2-4ca7-a81d-8bad99d243d7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005038856</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Swiss Line SL Sàrl, Cologny</de>
+    <en>Change Swiss Line SL Sàrl, Cologny</en>
+    <it>Cambiamenti Swiss Line SL Sàrl, Cologny</it>
+    <fr>Mutation Swiss Line SL Sàrl, Cologny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21099</journalNumber>
+  <journalDate>2020-11-30</journalDate>
+  <publicationText>Swiss Line SL Sàrl , à Cologny, CHE-346.425.989 (FOSC du 09.06.2020, p. 0/1004906659). Bastas Yetis, maintenant président, détient désormais 10 parts de CHF 1'000 par suite de cession de 10 parts de CHF 1'000 à Preira Nicolas Benoit, de France, à Ambilly, FRA, nouvel associé-gérant pour 10 parts de CHF 1'000 avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Swiss Line SL Sàrl</name>
+      <uid>CHE-346.425.989</uid>
+      <uidOrganisationId>346425989</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022840135</code13>
+      <seat>Cologny</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Tulette</street>
+        <houseNumber>3A</houseNumber>
+        <swissZipCode>1223</swissZipCode>
+        <town>Cologny</town>
+      </address>
+    </company>
+    <purpose>le service de limousines et taxis; le transport de personnes, courriers et colis; la location de véhicules avec ou sans chauffeur; la réparation et le nettoyage de véhicules; l'organisation de tous types de voyages et manifestations; toutes prestations liées à ces activités (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Swiss Line SL Sàrl</name>
+      <uid>CHE-346.425.989</uid>
+      <uidOrganisationId>346425989</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66022840135</code13>
+      <seat>Cologny</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin de la Tulette</street>
+        <houseNumber>3A</houseNumber>
+        <swissZipCode>1223</swissZipCode>
+        <town>Cologny</town>
+      </address>
+    </company>
+    <purpose>le service de limousines et taxis; le transport de personnes, courriers et colis; la location de véhicules avec ou sans chauffeur; la réparation et le nettoyage de véhicules; l'organisation de tous types de voyages et manifestations; toutes prestations liées à ces activités (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-09</lastFoscDate>
+    <lastFoscNumber>109</lastFoscNumber>
+    <lastFoscSequence>1004906659</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
