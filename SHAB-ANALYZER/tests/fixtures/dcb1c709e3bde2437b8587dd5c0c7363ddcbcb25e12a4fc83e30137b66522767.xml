@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>fd1a865e-fdc2-46b3-a4c1-4d8aec45cd33</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005026936</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-11-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Stiftung Alterszentrum Arosa, Arosa</de>
+    <en>Change Stiftung Alterszentrum Arosa, Arosa</en>
+    <it>Cambiamenti Stiftung Alterszentrum Arosa, Arosa</it>
+    <fr>Mutation Stiftung Alterszentrum Arosa, Arosa</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5286</journalNumber>
+  <journalDate>2020-11-16</journalDate>
+  <publicationText>Stiftung Alterszentrum Arosa, in Arosa, CHE-109.415.862, Stiftung (SHAB Nr. 227 vom 22.11.2019, Publ. 1004766185). Vermögensübertragung: Die Stiftung überträgt gemäss Vertrag vom 19.06.2020 und Verfügung der Aufsichtsbehörde vom 08.10.2020 Aktiven von CHF 1'851'515.00 und Passiven (Fremdkapital) von CHF 339'150.00 auf die Gesundheit Arosa AG (CHE-135.628.636), in Arosa. Gegenleistung: keine.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Stiftung Alterszentrum Arosa</name>
+      <uid>CHE-109.415.862</uid>
+      <uidOrganisationId>109415862</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35070002098</code13>
+      <seat>Arosa</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>Alterszentrum</addressLine1>
+        <street>Alteinstrasse</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>7050</swissZipCode>
+        <town>Arosa</town>
+      </address>
+    </company>
+    <purpose>Die Stiftung bezweckt den Betrieb eines Alters- und Pflegeheim für die Politische Gemeinde Arosa.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Stiftung Alterszentrum Arosa</name>
+      <uid>CHE-109.415.862</uid>
+      <uidOrganisationId>109415862</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35070002098</code13>
+      <seat>Arosa</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>Alterszentrum</addressLine1>
+        <street>Alteinstrasse</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>7050</swissZipCode>
+        <town>Arosa</town>
+      </address>
+    </company>
+    <purpose>Die Stiftung bezweckt den Betrieb eines Alters- und Pflegeheim für die Politische Gemeinde Arosa.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-22</lastFoscDate>
+    <lastFoscNumber>227</lastFoscNumber>
+    <lastFoscSequence>1004766185</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
