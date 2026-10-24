@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>96c65f9d-6266-427a-a970-29b6e3715fcc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005049615</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Perrin-Tecbat Sàrl, Nyon, neu Perrin-Tecbat Sàrl en liquidation</de>
+    <en>Change Perrin-Tecbat Sàrl, Nyon, new Perrin-Tecbat Sàrl en liquidation</en>
+    <it>Cambiamenti Perrin-Tecbat Sàrl, Nyon, nuovo Perrin-Tecbat Sàrl en liquidation</it>
+    <fr>Mutation Perrin-Tecbat Sàrl, Nyon, nouveau Perrin-Tecbat Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20836</journalNumber>
+  <journalDate>2020-12-11</journalDate>
+  <publicationText>Perrin-Tecbat Sàrl, à Nyon, CHE-445.896.915 (FOSC du 02.05.2018, p. 0/4207781). Selon décision de son assemblée des associés du 1er décembre 2020, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Perrin-Tecbat Sàrl en liquidation. Rentsch Nils, gérant et président, Gonin Christian, gérant, et Bonito Daniele, gérant et secrétaire, sont nommés liquidateurs avec signature collective à deux, Rentsch Nils et Bonito Daniele ne signant toutefois pas entre eux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Perrin-Tecbat Sàrl en liquidation</name>
+      <uid>CHE-445.896.915</uid>
+      <uidOrganisationId>445896915</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011618336</code13>
+      <seat>Nyon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Perrin Frères SA</addressLine1>
+        <street>Route de Saint-Cergue</street>
+        <houseNumber>112</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une entreprise totale avec étude, planification et construction d'ouvrage dans le domaine du bâtiment (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Perrin-Tecbat Sàrl</name>
+      <uid>CHE-445.896.915</uid>
+      <uidOrganisationId>445896915</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011618336</code13>
+      <seat>Nyon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Perrin Frères SA</addressLine1>
+        <street>Route de Saint-Cergue</street>
+        <houseNumber>112</houseNumber>
+        <swissZipCode>1260</swissZipCode>
+        <town>Nyon</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une entreprise totale avec étude, planification et construction d'ouvrage dans le domaine du bâtiment (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-05-02</lastFoscDate>
+    <lastFoscNumber>84</lastFoscNumber>
+    <lastFoscSequence>4207781</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
