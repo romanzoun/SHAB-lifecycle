@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>17579b2c-a2fb-42a7-bab8-25768cb249a1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005038152</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation R&amp;R Keramik-Naturstein GmbH in Liquidation, Lachen</de>
+    <en>Change R&amp;R Keramik-Naturstein GmbH in Liquidation, Lachen</en>
+    <it>Cambiamenti R&amp;R Keramik-Naturstein GmbH in Liquidation, Lachen</it>
+    <fr>Mutation R&amp;R Keramik-Naturstein GmbH in Liquidation, Lachen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6995</journalNumber>
+  <journalDate>2020-11-30</journalDate>
+  <publicationText>R&amp;R Keramik-Naturstein GmbH in Liquidation, in Lachen, CHE-439.604.599, Gesellschaft mit beschränkter Haftung (SHAB Nr. 203 vom 19.10.2020, Publ. 1005002578). Das Konkursverfahren ist mit Verfügung des Einzelrichters des Bezirksgerichts March vom 26.11.2020 mangels Aktiven eingestellt worden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>R&amp;R Keramik-Naturstein GmbH in Liquidation</name>
+      <uid>CHE-439.604.599</uid>
+      <uidOrganisationId>439604599</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13040194404</code13>
+      <seat>Lachen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Die Gesellschaft bezweckt den Handel und Verkauf von Keramik und Naturstein sowie die Erbringung sämtlicher damit zusammenhängenden Dienstleistungen. Die Gesellschaft kann alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern, oder die direkt oder indirekt damit in Zusammenhang stehen, Zweigniederlassungen im In- und Ausland errichten und sich an anderen Unternehmungen beteiligen oder sich mit diesen zusammenschliessen. Sie kann ferner Grundstücke und Wertschriften erwerben, halten und veräussern sowie Darlehen gewähren.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>R&amp;R Keramik-Naturstein GmbH in Liquidation</name>
+      <uid>CHE-439.604.599</uid>
+      <uidOrganisationId>439604599</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13040194404</code13>
+      <seat>Lachen</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Die Gesellschaft bezweckt den Handel und Verkauf von Keramik und Naturstein sowie die Erbringung sämtlicher damit zusammenhängenden Dienstleistungen. Die Gesellschaft kann alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern, oder die direkt oder indirekt damit in Zusammenhang stehen, Zweigniederlassungen im In- und Ausland errichten und sich an anderen Unternehmungen beteiligen oder sich mit diesen zusammenschliessen. Sie kann ferner Grundstücke und Wertschriften erwerben, halten und veräussern sowie Darlehen gewähren.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-19</lastFoscDate>
+    <lastFoscNumber>203</lastFoscNumber>
+    <lastFoscSequence>1005002578</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>21604b79-46a2-4376-858f-30a6662185c8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005056605</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Meli Services GmbH, Möhlin, neu Meli Services GmbH in Liquidation</de>
+    <en>Change Meli Services GmbH, Möhlin, new Meli Services GmbH in Liquidation</en>
+    <it>Cambiamenti Meli Services GmbH, Möhlin, nuovo Meli Services GmbH in Liquidation</it>
+    <fr>Mutation Meli Services GmbH, Möhlin, nouveau Meli Services GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14157</journalNumber>
+  <journalDate>2020-12-18</journalDate>
+  <publicationText>Meli Services GmbH, in Möhlin, CHE-311.910.391, Gesellschaft mit beschränkter Haftung (SHAB Nr. 216 vom 07.11.2019, Publ. 1004754553). Firma neu: Meli Services GmbH in Liquidation. Mit Verfügung des Gerichtspräsidiums Rheinfelden vom 16.12.2020 ist über diese Gesellschaft mit Wirkung ab dem 16.12.2020, 08.15 Uhr, der Konkurs eröffnet worden.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Meli Services GmbH in Liquidation</name>
+      <uid>CHE-311.910.391</uid>
+      <uidOrganisationId>311910391</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40044442910</code13>
+      <seat>Möhlin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>76</houseNumber>
+        <swissZipCode>4313</swissZipCode>
+        <town>Möhlin</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Baugeschäftes; die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften errichten, sich an anderen Unternehmen beteiligen sowie Grundeigentum erwerben, belasten, veräussern und verwalten.</purpose>
+    <capital>
+      <nominal>30000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Meli Services GmbH</name>
+      <uid>CHE-311.910.391</uid>
+      <uidOrganisationId>311910391</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40044442910</code13>
+      <seat>Möhlin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bahnhofstrasse</street>
+        <houseNumber>76</houseNumber>
+        <swissZipCode>4313</swissZipCode>
+        <town>Möhlin</town>
+      </address>
+    </company>
+    <purpose>Führen eines Gastronomiebetriebes, Erbringung von Dienstleistungen in diesen Bereichen, Handel mit Waren aller Art sowie Erbringung von Dienstleistungen im Informatikbereich, insbesondere Beratungen; kann Zweigniederlassungen und Tochtergesellschaften errichten, sich an anderen Unternehmen beteiligen, Grundeigentum erwerben, belasten, veräussern und verwalten, Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen.</purpose>
+    <capital>
+      <nominal>30000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-07</lastFoscDate>
+    <lastFoscNumber>216</lastFoscNumber>
+    <lastFoscSequence>1004754553</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

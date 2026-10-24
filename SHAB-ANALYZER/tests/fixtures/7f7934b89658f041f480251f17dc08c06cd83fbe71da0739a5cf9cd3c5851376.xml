@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>1d684367-362e-4d64-bbf0-8c7eac95699d</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005035725</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Fortinvest Immo GmbH, Geuensee</de>
+    <en>Change Fortinvest Immo GmbH, Geuensee</en>
+    <it>Cambiamenti Fortinvest Immo GmbH, Geuensee</it>
+    <fr>Mutation Fortinvest Immo GmbH, Geuensee</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10085</journalNumber>
+  <journalDate>2020-11-26</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 89 vom 08.05.2020, publizierten TR-Eintrags Nr. 3656 vom 05.05.2020 Fortinvest Immo GmbH, in Geuensee, CHE-261.855.888, Gesellschaft mit beschränkter Haftung (SHAB Nr. 89 vom 08.05.2020, Publ. 1004885415). Statutenänderung: 04.05.2020 [gestrichen: 25.04.2020].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fortinvest Immo GmbH</name>
+      <uid>CHE-261.855.888</uid>
+      <uidOrganisationId>261855888</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10048096658</code13>
+      <seat>Geuensee</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonnhalde</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>6232</swissZipCode>
+        <town>Geuensee</town>
+      </address>
+    </company>
+    <purpose>Kauf und Verkauf, Belastung, Vermietung und Verwaltung sowie Vermittlung von Immobilien im In- und Ausland; Beteiligungen; Vornahme von Finanzierungen; Eingehung von Garantien und Bürgschaften für Tochtergesellschaften und Dritte.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fortinvest Immo GmbH</name>
+      <uid>CHE-261.855.888</uid>
+      <uidOrganisationId>261855888</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10048096658</code13>
+      <seat>Geuensee</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Sonnhalde</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>6232</swissZipCode>
+        <town>Geuensee</town>
+      </address>
+    </company>
+    <purpose>Kauf und Verkauf, Belastung, Vermietung und Verwaltung sowie Vermittlung von Immobilien im In- und Ausland; Beteiligungen; Vornahme von Finanzierungen; Eingehung von Garantien und Bürgschaften für Tochtergesellschaften und Dritte.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-08</lastFoscDate>
+    <lastFoscNumber>89</lastFoscNumber>
+    <lastFoscSequence>1004885415</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
