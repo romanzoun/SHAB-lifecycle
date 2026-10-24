@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>8652f748-c681-4d20-b44d-840eeea91b4e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005051164</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation F&amp;B Service Training International (FBSTI), Cargouet, Neuchâtel</de>
+    <en>Change F&amp;B Service Training International (FBSTI), Cargouet, Neuchâtel</en>
+    <it>Cambiamenti F&amp;B Service Training International (FBSTI), Cargouet, Neuchâtel</it>
+    <fr>Mutation F&amp;B Service Training International (FBSTI), Cargouet, Neuchâtel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3887</journalNumber>
+  <journalDate>2020-12-14</journalDate>
+  <publicationText>F&amp;B Service Training International (FBSTI), Cargouet, à Neuchâtel, CHE-340.257.073 (FOSC du 03.11.2020, p. 0/1005014213). Par ordonnance du 26.10.2020, le Tribunal cantonal a suspendu l'exécution du jugement de faillite rendu le 05.10.2020. Par ordonnance du 07.12.2020, le Tribunal cantonal a classé le dossier, le recourant ayant renoncé à son recours.</publicationText>
+  <commonsNew>
+    <company>
+      <name>F&amp;B Service Training International (FBSTI), Cargouet</name>
+      <uid>CHE-340.257.073</uid>
+      <uidOrganisationId>340257073</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541108745</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Fleury</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>formation dans le domaine de la restauration et du service dans l'industrie hôtelière.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>F&amp;B Service Training International (FBSTI), Cargouet</name>
+      <uid>CHE-340.257.073</uid>
+      <uidOrganisationId>340257073</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541108745</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Fleury</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>formation dans le domaine de la restauration et du service dans l'industrie hôtelière.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-03</lastFoscDate>
+    <lastFoscNumber>214</lastFoscNumber>
+    <lastFoscSequence>1005014213</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
