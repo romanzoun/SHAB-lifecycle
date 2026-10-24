@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>49a84143-bf11-43ae-8138-3ed8fee6e6dc</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005037614</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Fondation en faveur du personnel de Imeta S.A., La Chaux-de-Fonds, neu Fondation en faveur du personnel de Imeta S.A. en liquidation</de>
+    <en>Change Fondation en faveur du personnel de Imeta S.A., La Chaux-de-Fonds, new Fondation en faveur du personnel de Imeta S.A. en liquidation</en>
+    <it>Cambiamenti Fondation en faveur du personnel de Imeta S.A., La Chaux-de-Fonds, nuovo Fondation en faveur du personnel de Imeta S.A. en liquidation</it>
+    <fr>Mutation Fondation en faveur du personnel de Imeta S.A., La Chaux-de-Fonds, nouveau Fondation en faveur du personnel de Imeta S.A. en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3658</journalNumber>
+  <journalDate>2020-11-27</journalDate>
+  <publicationText>Fondation en faveur du personnel de Imeta S.A., à La Chaux-de-Fonds, CHE-109.774.574 (FOSC du 20.07.2015, p. 0/2278663). La fondation est dissoute par décision de son autorité de surveillance du 05.10.2020. Sa liquidation est opérée sous le nom: Fondation en faveur du personnel de Imeta S.A. en liquidation. Liquidateurs: Dreyfuss Ruth, présidente, et Froidevaux Nicolas Jean Albert, secrétaire, membres du conseil de fondation, lesquels continuent de signer individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation en faveur du personnel de Imeta S.A. en liquidation</name>
+      <uid>CHE-109.774.574</uid>
+      <uidOrganisationId>109774574</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64502010288</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Ruth Dreyfuss</addressLine1>
+        <street>rue des Vingt-deux-Cantons</street>
+        <houseNumber>53</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>aider les membres du personnel de "Imeta S.A." ainsi que leurs familles, à supporter les difficultés économiques auxquelles ils seraient exposés sans leur faute, par suite de chômage, de maladie, d'accidents, d'invalidité, de vieillesse, de décès ou d'autres cas semblables.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation en faveur du personnel de Imeta S.A.</name>
+      <uid>CHE-109.774.574</uid>
+      <uidOrganisationId>109774574</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64502010288</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Ruth Dreyfuss</addressLine1>
+        <street>rue des Vingt-deux-Cantons</street>
+        <houseNumber>53</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>aider les membres du personnel de "Imeta S.A." ainsi que leurs familles, à supporter les difficultés économiques auxquelles ils seraient exposés sans leur faute, par suite de chômage, de maladie, d'accidents, d'invalidité, de vieillesse, de décès ou d'autres cas semblables.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-07-20</lastFoscDate>
+    <lastFoscNumber>137</lastFoscNumber>
+    <lastFoscSequence>2278663</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

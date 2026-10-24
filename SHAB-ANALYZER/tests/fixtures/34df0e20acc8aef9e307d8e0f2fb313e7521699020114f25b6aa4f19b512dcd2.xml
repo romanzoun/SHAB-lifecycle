@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>4232ea9d-5a78-4d15-a6fd-e72e38aa568a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005036536</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation FlowBank SA, Lancy</de>
+    <en>Change FlowBank SA, Lancy</en>
+    <it>Cambiamenti FlowBank SA, Lancy</it>
+    <fr>Mutation FlowBank SA, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20869</journalNumber>
+  <journalDate>2020-11-26</journalDate>
+  <publicationText>FlowBank SA, à Lancy, CHE-445.530.584 (FOSC du 10.11.2020, p. 0/1005019751). L'inscription No 19257 du 05.11.2020 est corrigée en ce sens que Verdial Arango Sergio signe en réalité collectivement à deux (et non pas collectivement à deux, sauf avec Loy William, Monchau Charles Henry, Bourdin Yoann, Castellan Philippe, Duret Ronny, Hossinger Matthias, Leszek Mélanie, Mathe ép. Cottard Lucile, Scheggia Gilda et Spagnulo Francesco).</publicationText>
+  <commonsNew>
+    <company>
+      <name>FlowBank SA</name>
+      <translations>(FlowBank AG) (FlowBank Ltd.)</translations>
+      <uid>CHE-445.530.584</uid>
+      <uidOrganisationId>445530584</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003330192</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Esplanade de Pont-Rouge</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy</town>
+      </address>
+    </company>
+    <purpose>exercice d'une activité de banque (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>36318066.00</nominal>
+      <paid>36318066.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>PricewaterhouseCoopers SA</name>
+        <country>CH</country>
+        <uid>CHE390062005</uid>
+        <uidOrganisationId>390062005</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FlowBank SA</name>
+      <translations>(FlowBank AG) (FlowBank Ltd.)</translations>
+      <uid>CHE-445.530.584</uid>
+      <uidOrganisationId>445530584</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003330192</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Esplanade de Pont-Rouge</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy</town>
+      </address>
+    </company>
+    <purpose>exercice d'une activité de banque (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>36318066.00</nominal>
+      <paid>36318066.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-10</lastFoscDate>
+    <lastFoscNumber>219</lastFoscNumber>
+    <lastFoscSequence>1005019751</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
