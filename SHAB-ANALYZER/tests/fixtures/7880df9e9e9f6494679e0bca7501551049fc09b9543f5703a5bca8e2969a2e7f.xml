@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>a7beef24-75f4-40a1-84c7-525999282882</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005036460</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation MUSICALIA, Jean-Claude Nicoud, Milvignes</de>
+    <en>Change MUSICALIA, Jean-Claude Nicoud, Milvignes</en>
+    <it>Cambiamenti MUSICALIA, Jean-Claude Nicoud, Milvignes</it>
+    <fr>Mutation MUSICALIA, Jean-Claude Nicoud, Milvignes</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3648</journalNumber>
+  <journalDate>2020-11-26</journalDate>
+  <publicationText>MUSICALIA, Jean-Claude Nicoud, à Milvignes, CHE-106.164.907 (FOSC du 19.12.2013, p. 0/7225830). Suite à une fusion de communes, la commune d'origine du titulaire est Rochefort.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MUSICALIA, Jean-Claude Nicoud</name>
+      <uid>CHE-106.164.907</uid>
+      <uidOrganisationId>106164907</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510042784</code13>
+      <seat>Milvignes</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Colombier, rue Haute</street>
+        <houseNumber>21a</houseNumber>
+        <swissZipCode>2013</swissZipCode>
+        <town>Colombier NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une école de musique et d'un magasin d'instruments de musique et d'accessoires.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MUSICALIA, Jean-Claude Nicoud</name>
+      <uid>CHE-106.164.907</uid>
+      <uidOrganisationId>106164907</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510042784</code13>
+      <seat>Milvignes</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Colombier, rue Haute</street>
+        <houseNumber>21a</houseNumber>
+        <swissZipCode>2013</swissZipCode>
+        <town>Colombier NE</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une école de musique et d'un magasin d'instruments de musique et d'accessoires.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225830</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

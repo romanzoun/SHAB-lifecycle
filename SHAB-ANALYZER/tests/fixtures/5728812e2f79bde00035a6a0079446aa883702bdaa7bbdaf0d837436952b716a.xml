@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>b463f242-edde-4c0c-928c-4adae08c1524</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005046736</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Lukashaus Stiftung, Grabs</de>
+    <en>Change Lukashaus Stiftung, Grabs</en>
+    <it>Cambiamenti Lukashaus Stiftung, Grabs</it>
+    <fr>Mutation Lukashaus Stiftung, Grabs</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>12048</journalNumber>
+  <journalDate>2020-12-09</journalDate>
+  <publicationText>Lukashaus Stiftung, in Grabs, CHE-109.683.598, Stiftung (SHAB Nr. 100 vom 24.05.2019, Publ. 1004637894). Vermögensübertragung: Die Stiftung überträgt gemäss Vertrag vom 21.07.2020 mit Nachtrag vom 27.11.2020 und Verfügung der Aufsichtsbehörde vom 08.09.2020 Aktiven von CHF 5'050'416.15 und Passiven (Fremdkapital) von CHF 3'373'638.75 auf die Lukashaus Sinn Stiftung, in Grabs (CHE-248.287.605). Gegenleistung: keine. Organisation neu: [Streichung aufgrund geänderter Eintragungsvorschriften.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Lukashaus Stiftung</name>
+      <uid>CHE-109.683.598</uid>
+      <uidOrganisationId>109683598</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32070509690</code13>
+      <seat>Grabs</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lukashausstrasse</street>
+        <houseNumber>2 -7</houseNumber>
+        <swissZipCode>9472</swissZipCode>
+        <town>Grabs</town>
+      </address>
+    </company>
+    <purpose>Begleitung, Betreuung und Pflege von Menschen mit einer geistigen, psychischen oder physischen Beeinträchtigung in christlicher Grundhaltung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Lukashaus Stiftung</name>
+      <uid>CHE-109.683.598</uid>
+      <uidOrganisationId>109683598</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32070509690</code13>
+      <seat>Grabs</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lukashausstrasse</street>
+        <houseNumber>2 -7</houseNumber>
+        <swissZipCode>9472</swissZipCode>
+        <town>Grabs</town>
+      </address>
+    </company>
+    <purpose>Begleitung, Betreuung und Pflege von Menschen mit einer geistigen, psychischen oder physischen Beeinträchtigung in christlicher Grundhaltung.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-24</lastFoscDate>
+    <lastFoscNumber>100</lastFoscNumber>
+    <lastFoscSequence>1004637894</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

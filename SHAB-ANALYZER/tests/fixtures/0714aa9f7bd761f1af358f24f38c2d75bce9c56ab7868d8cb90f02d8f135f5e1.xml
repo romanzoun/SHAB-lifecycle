@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>aa19e1e5-2743-4c85-8948-4b5b37bb1091</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005062030</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation M &amp; Cie Participations SCM, Genève</de>
+    <en>Change M &amp; Cie Participations SCM, Genève</en>
+    <it>Cambiamenti M &amp; Cie Participations SCM, Genève</it>
+    <fr>Mutation M &amp; Cie Participations SCM, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23202</journalNumber>
+  <journalDate>2020-12-23</journalDate>
+  <publicationText>M &amp; Cie Participations SCM, à Genève, CHE-216.606.563 (FOSC du 18.02.2020, p. 0/1004833361). La commandite de l'associé commanditaire D'Arenberg Etienne est portée de CHF 3'325'000.- à CHF 3'825'000.-, ses pouvoirs sont radiés.</publicationText>
+  <commonsNew>
+    <company>
+      <name>M &amp; Cie Participations SCM</name>
+      <uid>CHE-216.606.563</uid>
+      <uidOrganisationId>216606563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66036450199</code13>
+      <seat>Genève</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard Georges-Favon</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>réalisation d'opérations financières, notamment prise de détention d'une participation en commandite comme associée commanditaire de Mirabaud Partners &amp; Cie (CHE-303.884.260), à Collonge-Bellerive.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>M &amp; Cie Participations SCM</name>
+      <uid>CHE-216.606.563</uid>
+      <uidOrganisationId>216606563</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66036450199</code13>
+      <seat>Genève</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Boulevard Georges-Favon</street>
+        <houseNumber>29</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>réalisation d'opérations financières, notamment prise de détention d'une participation en commandite comme associée commanditaire de Mirabaud Partners &amp; Cie (CHE-303.884.260), à Collonge-Bellerive.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-18</lastFoscDate>
+    <lastFoscNumber>33</lastFoscNumber>
+    <lastFoscSequence>1004833361</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
