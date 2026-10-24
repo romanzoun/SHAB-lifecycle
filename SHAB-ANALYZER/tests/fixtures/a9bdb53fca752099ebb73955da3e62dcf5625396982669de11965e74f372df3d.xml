@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>54a31c97-13f1-44b6-9ff6-84581d8e63ba</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005062046</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Progestfonds SA, Genève</de>
+    <en>Change Progestfonds SA, Genève</en>
+    <it>Cambiamenti Progestfonds SA, Genève</it>
+    <fr>Mutation Progestfonds SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>23216</journalNumber>
+  <journalDate>2020-12-23</journalDate>
+  <publicationText>Progestfonds SA, à Genève, CHE-102.844.995 (FOSC du 17.11.2020, p. 0/1005025043). Les 1'000 actions nominatives de CHF 1'000 sont désormais liées selon statuts. Capital-actions: CHF 1'000'000, entièrement libéré, divisé en 1'000 actions de CHF 1'000, nominatives, liées selon statuts. Nouveaux statuts du 15.12.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Progestfonds SA</name>
+      <uid>CHE-102.844.995</uid>
+      <uidOrganisationId>102844995</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003019624</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Fontaine</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>administration et direction de fonds de placement, en particulier représentation de fonds de placement étrangers; acquisition de titres participatifs de sociétés ayant un but similaire; gestion de comptes de parts; prestations de services à des tiers relatives aux fonds de placement; agir comme distributeur.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>PricewaterhouseCoopers SA</name>
+        <country>CH</country>
+        <uid>CHE390062005</uid>
+        <uidOrganisationId>390062005</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Progestfonds SA</name>
+      <uid>CHE-102.844.995</uid>
+      <uidOrganisationId>102844995</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003019624</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de la Fontaine</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>administration et direction de fonds de placement, en particulier représentation de fonds de placement étrangers; acquisition de titres participatifs de sociétés ayant un but similaire; gestion de comptes de parts; prestations de services à des tiers relatives aux fonds de placement; agir comme distributeur.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>PricewaterhouseCoopers SA</name>
+        <country>CH</country>
+        <uid>CHE390062005</uid>
+        <uidOrganisationId>390062005</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-17</lastFoscDate>
+    <lastFoscNumber>224</lastFoscNumber>
+    <lastFoscSequence>1005025043</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>5c583d04-5ca1-4a88-a658-873ff2573e3c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005061472</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation Aquarama Swiss AG, Oberentfelden</de>
+    <en>Change Aquarama Swiss AG, Oberentfelden</en>
+    <it>Cambiamenti Aquarama Swiss AG, Oberentfelden</it>
+    <fr>Mutation Aquarama Swiss AG, Oberentfelden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>14451</journalNumber>
+  <journalDate>2020-12-23</journalDate>
+  <publicationText>Aquarama Swiss AG, in Oberentfelden, CHE-443.259.465, Aktiengesellschaft (SHAB Nr. 100 vom 26.05.2020, Publ. 1004896997). Bei der Kapitalherabsetzung vom 15.12.2020 wird das Aktienkapital von CHF 200'000.00 durch Vernichtung von 200 Namenaktien zu CHF 1'000.00 auf CHF 0.00 herabgesetzt. Gleichzeitig wird das Aktienkapital wieder auf CHF 200'000.00 erhöht durch Ausgabe von 200 Namenaktien zu CHF 1'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Aquarama Swiss AG</name>
+      <uid>CHE-443.259.465</uid>
+      <uidOrganisationId>443259465</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40034406805</code13>
+      <seat>Oberentfelden</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>5036</swissZipCode>
+        <town>Oberentfelden</town>
+      </address>
+    </company>
+    <purpose>Vertrieb von Maschinen und Anlagen sowie Erbringung von damit verbundenen Dienstleistungen, insbesondere im Bereich der Fahrzeugwaschtechnik; kann Zweigniederlassungen und Tochtergesellschaften errichten, sich an anderen Unternehmen beteiligen sowie Grundstücke erwerben, halten und veräussern.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Aquarama Swiss AG</name>
+      <uid>CHE-443.259.465</uid>
+      <uidOrganisationId>443259465</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH40034406805</code13>
+      <seat>Oberentfelden</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>42</houseNumber>
+        <swissZipCode>5036</swissZipCode>
+        <town>Oberentfelden</town>
+      </address>
+    </company>
+    <purpose>Vertrieb von Maschinen und Anlagen sowie Erbringung von damit verbundenen Dienstleistungen, insbesondere im Bereich der Fahrzeugwaschtechnik; kann Zweigniederlassungen und Tochtergesellschaften errichten, sich an anderen Unternehmen beteiligen sowie Grundstücke erwerben, halten und veräussern.</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-26</lastFoscDate>
+    <lastFoscNumber>100</lastFoscNumber>
+    <lastFoscSequence>1004896997</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

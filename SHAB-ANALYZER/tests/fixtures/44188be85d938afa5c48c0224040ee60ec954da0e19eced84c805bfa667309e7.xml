@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>5bccc5db-2b8c-4fb9-8128-1a2faac1ebab</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005044688</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Hima la Vie SA, Pully</de>
+    <en>Change Hima la Vie SA, Pully</en>
+    <it>Cambiamenti Hima la Vie SA, Pully</it>
+    <fr>Mutation Hima la Vie SA, Pully</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20448</journalNumber>
+  <journalDate>2020-12-07</journalDate>
+  <publicationText>Hima la Vie SA, à Pully, CHE-112.984.741 (FOSC du 15.05.2019, p. 0/1004630838). Procuration collective à deux est conférée à Hirsbrunner Dina, à Pully, et Masson Debora, à Villars-le-Terroir, toutes deux de Sumiswald.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hima la Vie SA</name>
+      <uid>CHE-112.984.741</uid>
+      <uidOrganisationId>112984741</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010474838</code13>
+      <seat>Pully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Charles-Ferdinand-Ramuz</street>
+        <houseNumber>101</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>fabrication, commercialisation, importation et exportation de produits alimentaires, particulièrement les produits de la marque "Hima".</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hima la Vie SA</name>
+      <uid>CHE-112.984.741</uid>
+      <uidOrganisationId>112984741</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010474838</code13>
+      <seat>Pully</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Charles-Ferdinand-Ramuz</street>
+        <houseNumber>101</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>fabrication, commercialisation, importation et exportation de produits alimentaires, particulièrement les produits de la marque "Hima".</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-15</lastFoscDate>
+    <lastFoscNumber>93</lastFoscNumber>
+    <lastFoscSequence>1004630838</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

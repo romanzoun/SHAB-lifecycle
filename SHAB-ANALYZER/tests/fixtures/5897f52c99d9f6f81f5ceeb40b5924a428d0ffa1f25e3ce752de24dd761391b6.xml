@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>5c6ef018-78e2-469b-9a75-eb63cc854f56</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005061137</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Real V1 Estate AG, Düdingen, neu Real V1 Estate AG in Liq.</de>
+    <en>Change Real V1 Estate AG, Düdingen, new Real V1 Estate AG in Liq.</en>
+    <it>Cambiamenti Real V1 Estate AG, Düdingen, nuovo Real V1 Estate AG in Liq.</it>
+    <fr>Mutation Real V1 Estate AG, Düdingen, nouveau Real V1 Estate AG in Liq.</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7362</journalNumber>
+  <journalDate>2020-12-23</journalDate>
+  <publicationText>Real V1 Estate AG, in Düdingen, CHE-101.272.754 (SHAB vom 19.12.2013, s. 0/7225828). Die Gesellschaft ist laut Beschluss der Generalversammlung vom 12.08.2020 aufgelöst. Neue Firma: Real V1 Estate AG in Liq. (Real V1 Estate SA en liq.) (Real V1 Estate Ltd in liq.). Eingetragene Person geändert: Zosso Raphael, Verwaltungsratsmitglied, Einzelunterschrift, neu Verwaltungsratsmitglied, Liquidator, Einzelunterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Real V1 Estate AG in Liq.</name>
+      <translations>(Real V1 Estate SA en liq.) (Real V1 Estate Ltd in liq.)</translations>
+      <uid>CHE-101.272.754</uid>
+      <uidOrganisationId>101272754</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706302434</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Veilchenweg</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Überbauung, Verwaltung, Vermittlung, Bewirtschaftung und Veräusserung von Immobilien; Führung von Hotel-, Gastro- und Freizeitbetrieben, Erbringung von Dienstleistungen, insbesondere Bankett- und Traiteur-Service, Handel mit Waren aller Art, insbesondere Lebensmitteln und Getränken. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Real V1 Estate AG</name>
+      <translations>(Real V1 Estate SA) (Real V1 Estate Ltd)</translations>
+      <uid>CHE-101.272.754</uid>
+      <uidOrganisationId>101272754</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706302434</code13>
+      <seat>Düdingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Veilchenweg</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>3186</swissZipCode>
+        <town>Düdingen</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Überbauung, Verwaltung, Vermittlung, Bewirtschaftung und Veräusserung von Immobilien; Führung von Hotel-, Gastro- und Freizeitbetrieben, Erbringung von Dienstleistungen, insbesondere Bankett- und Traiteur-Service, Handel mit Waren aller Art, insbesondere Lebensmitteln und Getränken. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

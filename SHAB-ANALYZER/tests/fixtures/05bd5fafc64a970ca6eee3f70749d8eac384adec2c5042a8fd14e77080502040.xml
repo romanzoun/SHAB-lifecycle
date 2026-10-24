@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>5a011675-d1dd-4f97-aad8-a9c00b276ba7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005048291</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation La Pierre de l'Age, Chexbres</de>
+    <en>Change Fondation La Pierre de l'Age, Chexbres</en>
+    <it>Cambiamenti Fondation La Pierre de l'Age, Chexbres</it>
+    <fr>Mutation Fondation La Pierre de l'Age, Chexbres</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20709</journalNumber>
+  <journalDate>2020-12-10</journalDate>
+  <publicationText>Fondation La Pierre de l'Age, à Chexbres, CHE-112.968.133 (FOSC du 02.12.2020, p. 0/1005037497). Nouveau membre du conseil de fondation avec signature collective à deux avec le/la président(e) ou le/la vice-président(e): Schüler Françoise, de et à Leysin.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation La Pierre de l'Age</name>
+      <uid>CHE-112.968.133</uid>
+      <uidOrganisationId>112968133</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010473367</code13>
+      <seat>Chexbres</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Fondation Claire Magnin</addressLine1>
+        <street>Chemin des Chènevières</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1071</swissZipCode>
+        <town>Chexbres</town>
+      </address>
+    </company>
+    <purpose>mise à disposition de la Fondation Claire Magnin de tout immeuble à usage d'établissements sanitaires et d'appartements protégés, ainsi que toute structure y afférente.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation La Pierre de l'Age</name>
+      <uid>CHE-112.968.133</uid>
+      <uidOrganisationId>112968133</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010473367</code13>
+      <seat>Chexbres</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Fondation Claire Magnin</addressLine1>
+        <street>Chemin des Chènevières</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1071</swissZipCode>
+        <town>Chexbres</town>
+      </address>
+    </company>
+    <purpose>mise à disposition de la Fondation Claire Magnin de tout immeuble à usage d'établissements sanitaires et d'appartements protégés, ainsi que toute structure y afférente.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-12-02</lastFoscDate>
+    <lastFoscNumber>235</lastFoscNumber>
+    <lastFoscSequence>1005037497</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
