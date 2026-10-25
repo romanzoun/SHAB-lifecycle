@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>e8357e9e-59b9-4ebd-b965-e25309f243fa</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005061798</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SOFTMESO SUISSE SARL, Pully</de>
+    <en>Change SOFTMESO SUISSE SARL, Pully</en>
+    <it>Cambiamenti SOFTMESO SUISSE SARL, Pully</it>
+    <fr>Mutation SOFTMESO SUISSE SARL, Pully</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>21643</journalNumber>
+  <journalDate>2020-12-23</journalDate>
+  <publicationText>SOFTMESO SUISSE SARL, à Pully, CHE-323.970.307 (FOSC du 02.08.2017, p. 0/3676469). Tronson-Prieur Sandrine cède 10 de ses 20 parts de CHF 1'000 à Tronson Marc, de France, à Pully, nouvel associé-gérant président, avec signature individuelle. Tronson-Prieur Sandrine reste titulaire de 10 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SOFTMESO SUISSE SARL</name>
+      <uid>CHE-323.970.307</uid>
+      <uidOrganisationId>323970307</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011754873</code13>
+      <seat>Pully</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Samson-Reymondin</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités de représentation commerciale et de conseils en marketing (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SOFTMESO SUISSE SARL</name>
+      <uid>CHE-323.970.307</uid>
+      <uidOrganisationId>323970307</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011754873</code13>
+      <seat>Pully</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Samson-Reymondin</street>
+        <houseNumber>20</houseNumber>
+        <swissZipCode>1009</swissZipCode>
+        <town>Pully</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités de représentation commerciale et de conseils en marketing (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-08-02</lastFoscDate>
+    <lastFoscNumber>147</lastFoscNumber>
+    <lastFoscSequence>3676469</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

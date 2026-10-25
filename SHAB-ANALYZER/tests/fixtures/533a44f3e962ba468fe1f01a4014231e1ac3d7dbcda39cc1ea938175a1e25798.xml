@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>df218170-ea19-478e-aa28-4b1927855ec3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005044715</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SolNanoTek SA, Bussigny, neu SolNanoTek SA en liquidation</de>
+    <en>Change SolNanoTek SA, Bussigny, new SolNanoTek SA en liquidation</en>
+    <it>Cambiamenti SolNanoTek SA, Bussigny, nuovo SolNanoTek SA en liquidation</it>
+    <fr>Mutation SolNanoTek SA, Bussigny, nouveau SolNanoTek SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>20473</journalNumber>
+  <journalDate>2020-12-07</journalDate>
+  <publicationText>SolNanoTek SA, à Bussigny, CHE-113.845.390 (FOSC du 28.08.2020, p. 0/1004967253). Par décision du 1er décembre 2020, la Cour des poursuites et faillites du Tribunal cantonal a rejeté le recours et confirmé le prononcé, la faillite prenant effet le 1er décembre 2020, à 16h15. La raison de commerce devient: SolNanoTek SA en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SolNanoTek SA en liquidation</name>
+      <uid>CHE-113.845.390</uid>
+      <uidOrganisationId>113845390</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010519119</code13>
+      <seat>Bussigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Bosquet</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>1030</swissZipCode>
+        <town>Bussigny</town>
+      </address>
+    </company>
+    <purpose>développement et commercialisation des énergies renouvelables liés à la nanotechnologie et énergies solaires.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SolNanoTek SA</name>
+      <uid>CHE-113.845.390</uid>
+      <uidOrganisationId>113845390</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010519119</code13>
+      <seat>Bussigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Bosquet</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>1030</swissZipCode>
+        <town>Bussigny</town>
+      </address>
+    </company>
+    <purpose>développement et commercialisation des énergies renouvelables liés à la nanotechnologie et énergies solaires.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-08-28</lastFoscDate>
+    <lastFoscNumber>167</lastFoscNumber>
+    <lastFoscSequence>1004967253</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
