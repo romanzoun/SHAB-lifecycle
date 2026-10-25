@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>d8608800-5102-4119-9fb3-b61787f15e88</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005040312</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Elektrizitätswerke des Kantons Zürich (EKZ), Zürich</de>
+    <en>Change Elektrizitätswerke des Kantons Zürich (EKZ), Zürich</en>
+    <it>Cambiamenti Elektrizitätswerke des Kantons Zürich (EKZ), Zürich</it>
+    <fr>Mutation Elektrizitätswerke des Kantons Zürich (EKZ), Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>46369</journalNumber>
+  <journalDate>2020-12-02</journalDate>
+  <publicationText>Elektrizitätswerke des Kantons Zürich (EKZ), in Zürich, CHE-108.954.688, Besondere Rechtsformen (SHAB Nr. 200 vom 16.10.2019, Publ. 1004738449). Vermögensübertragung: Das Institut des öffentlichen Rechts überträgt gemäss Vertrag vom 30.11.2020, Inventar per 04.09.2020 und Beschluss des Verwaltungsrats vom 12.11.2020 Aktiven von CHF 126'994'000.00 und Passiven (Fremdkapital) von CHF 120'452'000.00 auf die Primeo Energie AG, in Münchenstein (CHE-109.319.916). Gegenleistung: CHF 6'542'000.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Elektrizitätswerke des Kantons Zürich (EKZ)</name>
+      <uid>CHE-108.954.688</uid>
+      <uidOrganisationId>108954688</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02089000022</code13>
+      <seat>Zürich</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dreikönigstrasse</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>8002</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Der Kanton Zürich erstellt und betreibt Elektrizitätswerke zum Zwecke der Abgabe elektrischer Energie zu billigem Preise. Er kann auch an der Erstellung und dem Betriebe solcher Werke sich beteiligen oder elektrische Energie mieten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Elektrizitätswerke des Kantons Zürich (EKZ)</name>
+      <uid>CHE-108.954.688</uid>
+      <uidOrganisationId>108954688</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02089000022</code13>
+      <seat>Zürich</seat>
+      <legalForm>0117</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Dreikönigstrasse</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>8002</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Der Kanton Zürich erstellt und betreibt Elektrizitätswerke zum Zwecke der Abgabe elektrischer Energie zu billigem Preise. Er kann auch an der Erstellung und dem Betriebe solcher Werke sich beteiligen oder elektrische Energie mieten.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-16</lastFoscDate>
+    <lastFoscNumber>200</lastFoscNumber>
+    <lastFoscSequence>1004738449</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

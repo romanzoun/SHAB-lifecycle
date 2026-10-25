@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>d17dcbdf-f7a2-4b77-b6ac-a871b92cbbc7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005061893</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-29</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation MJM Marketing S.A. en liquidation, Cornaux</de>
+    <en>Change MJM Marketing S.A. en liquidation, Cornaux</en>
+    <it>Cambiamenti MJM Marketing S.A. en liquidation, Cornaux</it>
+    <fr>Mutation MJM Marketing S.A. en liquidation, Cornaux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4096</journalNumber>
+  <journalDate>2020-12-23</journalDate>
+  <publicationText>MJM Marketing S.A. en liquidation, à Cornaux, CHE-106.462.428 (FOSC du 22.10.2020, p. 0/1005006346). Par arrêt du 16.12.2020, le Tribunal cantonal a admis l'appel et annulé la décision du Tribunal civil du 28.09.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>MJM Marketing S.A. en liquidation</name>
+      <uid>CHE-106.462.428</uid>
+      <uidOrganisationId>106462428</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07330016481</code13>
+      <seat>Cornaux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>étude, création et réalisation de tous projets dans le domaine de la publicité et des relations publiques (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>MJM Marketing S.A. en liquidation</name>
+      <uid>CHE-106.462.428</uid>
+      <uidOrganisationId>106462428</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH07330016481</code13>
+      <seat>Cornaux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>étude, création et réalisation de tous projets dans le domaine de la publicité et des relations publiques (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-22</lastFoscDate>
+    <lastFoscNumber>206</lastFoscNumber>
+    <lastFoscSequence>1005006346</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

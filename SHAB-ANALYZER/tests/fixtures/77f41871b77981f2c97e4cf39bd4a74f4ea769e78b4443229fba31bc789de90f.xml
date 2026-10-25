@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>d4ea6439-c017-4880-948d-e1f91ba01cf2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005050482</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Les Charmoises immobilier SA, Bulle</de>
+    <en>Change Les Charmoises immobilier SA, Bulle</en>
+    <it>Cambiamenti Les Charmoises immobilier SA, Bulle</it>
+    <fr>Mutation Les Charmoises immobilier SA, Bulle</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7072</journalNumber>
+  <journalDate>2020-12-14</journalDate>
+  <publicationText>Les Charmoises immobilier SA, à Bulle, CHE-102.894.059 (FOSC du 25.11.2019, p. 0/1004767108). Transfert de patrimoine: Selon contrat du 11.11.2020, la société a transféré des actifs pour CHF 2'872'015.75 et des passifs envers les tiers pour CHF 75'000, soit un actif net de CHF 2'797.015.75, à la société Les Charmoises holding SA (CHE-170.322.573), à Crésuz. Contre-prestation: aucune.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Les Charmoises immobilier SA</name>
+      <uid>CHE-102.894.059</uid>
+      <uidOrganisationId>102894059</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21704304049</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Saint-Denis</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1630</swissZipCode>
+        <town>Bulle</town>
+      </address>
+    </company>
+    <purpose>vente, gérance, courtage, achat et construction d'immeubles en entreprise générale (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Les Charmoises immobilier SA</name>
+      <uid>CHE-102.894.059</uid>
+      <uidOrganisationId>102894059</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21704304049</code13>
+      <seat>Bulle</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Saint-Denis</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1630</swissZipCode>
+        <town>Bulle</town>
+      </address>
+    </company>
+    <purpose>vente, gérance, courtage, achat et construction d'immeubles en entreprise générale (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-25</lastFoscDate>
+    <lastFoscNumber>228</lastFoscNumber>
+    <lastFoscSequence>1004767108</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

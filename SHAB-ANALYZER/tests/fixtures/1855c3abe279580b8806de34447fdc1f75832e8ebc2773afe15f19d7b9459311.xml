@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>d7f83150-cc3b-4f08-8411-7b41e3a98925</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005040771</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Pontacol AG, Schmitten (FR)</de>
+    <en>Change Pontacol AG, Schmitten (FR)</en>
+    <it>Cambiamenti Pontacol AG, Schmitten (FR)</it>
+    <fr>Mutation Pontacol AG, Schmitten (FR)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6827</journalNumber>
+  <journalDate>2020-12-02</journalDate>
+  <publicationText>Pontacol AG, in Schmitten FR, CHE-419.864.938 (SHAB vom 16.10.2020, s. 0/1005001638). Abspaltung: Die Gesellschaft übernimmt von der Emerell AG (CHE-105.981.097), in Neuenkirch, einen Teil des Vermögens. Die Gesellschaft übernimmt dabei gemäss Spaltungsvertrag vom 15.09.2020 Aktiven von CHF 28'669'442.80 und Passiven (Fremdkapital) von CHF 25'469'442.80. Da die Aktionäre der übertragenden sowie der übernehmenden Gesellschaft identisch sind und somit die mitgliedschaftliche Kontinuität gewährleistet ist, findet weder eine Kapitalerhöhung noch eine Aktienzuteilung statt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pontacol AG</name>
+      <translations>(Pontacol SA) (Pontacol Inc)</translations>
+      <uid>CHE-419.864.938</uid>
+      <uidOrganisationId>419864938</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735620187</code13>
+      <seat>Schmitten (FR)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>3185</swissZipCode>
+        <town>Schmitten FR</town>
+      </address>
+    </company>
+    <purpose>Entwicklung und Vertrieb von Klebstoffen, Klebefilmen sowie anderer chemisch-technischer Produkte (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pontacol AG</name>
+      <translations>(Pontacol SA) (Pontacol Inc)</translations>
+      <uid>CHE-419.864.938</uid>
+      <uidOrganisationId>419864938</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735620187</code13>
+      <seat>Schmitten (FR)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>3185</swissZipCode>
+        <town>Schmitten FR</town>
+      </address>
+    </company>
+    <purpose>Entwicklung und Vertrieb von Klebstoffen, Klebefilmen sowie anderer chemisch-technischer Produkte (Nebenzweck gemäss Statuten).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-16</lastFoscDate>
+    <lastFoscNumber>202</lastFoscNumber>
+    <lastFoscSequence>1005001638</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
