@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>bc9096d9-488f-46a3-bd80-4f57da520a1a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005076278</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SO</cantons>
+  <title>
+    <de>Mutation Dan Tours Daniel Kiefer, Schönenwerd</de>
+    <en>Change Dan Tours Daniel Kiefer, Schönenwerd</en>
+    <it>Cambiamenti Dan Tours Daniel Kiefer, Schönenwerd</it>
+    <fr>Mutation Dan Tours Daniel Kiefer, Schönenwerd</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>202</journalNumber>
+  <journalDate>2021-01-13</journalDate>
+  <publicationText>Dan Tours Daniel Kiefer, in Schönenwerd, CHE-108.585.384, Einzelunternehmen (SHAB Nr. 63 vom 30.03.2007, S.13, Publ. 3865520). [gestrichen: Weitere Geschäftsstelle: Okay Reisen, Vordere Vorstadt 10, 5001 Aarau].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Dan Tours Daniel Kiefer</name>
+      <uid>CHE-108.585.384</uid>
+      <uidOrganisationId>108585384</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH24910035825</code13>
+      <seat>Schönenwerd</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Oltnerstrasse</street>
+        <houseNumber>44</houseNumber>
+        <swissZipCode>5012</swissZipCode>
+        <town>Schönenwerd</town>
+      </address>
+    </company>
+    <purpose>Organisation, Verkauf, Durchführung und Begleitung von Reisen und Tauchkursen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Dan Tours Daniel Kiefer</name>
+      <uid>CHE-108.585.384</uid>
+      <uidOrganisationId>108585384</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH24910035825</code13>
+      <seat>Schönenwerd</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Oltnerstrasse</street>
+        <houseNumber>44</houseNumber>
+        <swissZipCode>5012</swissZipCode>
+        <town>Schönenwerd</town>
+      </address>
+    </company>
+    <purpose>Organisation, Verkauf, Durchführung und Begleitung von Reisen und Tauchkursen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2007-03-30</lastFoscDate>
+    <lastFoscNumber>63</lastFoscNumber>
+    <lastFoscSequence>3865520</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Solothurn</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
