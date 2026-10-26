@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>a914c72d-2a6c-4e30-b09f-758a86cb4241</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005084753</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Symbiose, Terreaux Stéphane, Sorens</de>
+    <en>Change Symbiose, Terreaux Stéphane, Sorens</en>
+    <it>Cambiamenti Symbiose, Terreaux Stéphane, Sorens</it>
+    <fr>Mutation Symbiose, Terreaux Stéphane, Sorens</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>864</journalNumber>
+  <journalDate>2021-01-22</journalDate>
+  <publicationText>Symbiose, Terreaux Stéphane, à Sorens, CHE-359.258.838 (FOSC du 14.01.2021, p. 0/1005073691). Par arrêt du 21.01.2021, le Tribunal cantonal de Fribourg a accordé l'effet suspensif au recours interjeté le 20.01.2021 contre la décision du 04.01.2021 (art. 159, al. 1 let.b ORC).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Symbiose, Terreaux Stéphane</name>
+      <uid>CHE-359.258.838</uid>
+      <uidOrganisationId>359258838</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735505126</code13>
+      <seat>Sorens</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jorettes</street>
+        <houseNumber>91</houseNumber>
+        <swissZipCode>1642</swissZipCode>
+        <town>Sorens</town>
+      </address>
+    </company>
+    <purpose>Menuiserie, rénovation et magasin d'alimentation biologique et locale.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Symbiose, Terreaux Stéphane</name>
+      <uid>CHE-359.258.838</uid>
+      <uidOrganisationId>359258838</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735505126</code13>
+      <seat>Sorens</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jorettes</street>
+        <houseNumber>91</houseNumber>
+        <swissZipCode>1642</swissZipCode>
+        <town>Sorens</town>
+      </address>
+    </company>
+    <purpose>Menuiserie, rénovation et magasin d'alimentation biologique et locale.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-01-14</lastFoscDate>
+    <lastFoscNumber>9</lastFoscNumber>
+    <lastFoscSequence>1005073691</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
