@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>73f8437b-3a08-44a3-a2c8-4c2ed954628e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005080003</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Picodrill SA, Yverdon-les-Bains, neu Picodrill SA en liquidation</de>
+    <en>Change Picodrill SA, Yverdon-les-Bains, new Picodrill SA en liquidation</en>
+    <it>Cambiamenti Picodrill SA, Yverdon-les-Bains, nuovo Picodrill SA en liquidation</it>
+    <fr>Mutation Picodrill SA, Yverdon-les-Bains, nouveau Picodrill SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1175</journalNumber>
+  <journalDate>2021-01-18</journalDate>
+  <publicationText>Picodrill SA, à Yverdon-les-Bains, CHE-113.854.331 (FOSC du 03.11.2020, p. 0/1005014156). Selon décision de son assemblée générale du 12.01.2021, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Picodrill SA en liquidation. Les 266'443 actions nominatives de CHF 1, privilégiées quant au produit de liquidation, et 151'343 actions nominatives de CHF 1 ne sont désormais plus restreintes quant à la transmissibilité (art. 685a, al. 3 CO). Evard Steeve, dont la procuration est éteinte, est élu liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Picodrill SA en liquidation</name>
+      <uid>CHE-113.854.331</uid>
+      <uidOrganisationId>113854331</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010519708</code13>
+      <seat>Yverdon-les-Bains</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Vingt-Quatre-Janvier</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1400</swissZipCode>
+        <town>Yverdon-les-Bains</town>
+      </address>
+    </company>
+    <purpose>recherche et développement, détention de brevets, prise et octroi de licences dans le domaine des nanotechnologies; production et vente de produits y relatifs.</purpose>
+    <capital>
+      <nominal>417786.00</nominal>
+      <paid>417786.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Picodrill SA</name>
+      <uid>CHE-113.854.331</uid>
+      <uidOrganisationId>113854331</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010519708</code13>
+      <seat>Yverdon-les-Bains</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue du Vingt-Quatre-Janvier</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1400</swissZipCode>
+        <town>Yverdon-les-Bains</town>
+      </address>
+    </company>
+    <purpose>recherche et développement, détention de brevets, prise et octroi de licences dans le domaine des nanotechnologies; production et vente de produits y relatifs.</purpose>
+    <capital>
+      <nominal>417786.00</nominal>
+      <paid>417786.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-03</lastFoscDate>
+    <lastFoscNumber>214</lastFoscNumber>
+    <lastFoscSequence>1005014156</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
