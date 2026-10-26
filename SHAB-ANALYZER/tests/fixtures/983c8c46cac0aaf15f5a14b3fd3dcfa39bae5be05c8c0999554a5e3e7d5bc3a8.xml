@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.10/HR02-export.xsd">
+<meta>
+  <id>f28851b8-1069-4c48-af84-6f2a8d3ecbca</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005044049</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2020-12-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Perlen Papier AG, Root</de>
+    <en>Change Perlen Papier AG, Root</en>
+    <it>Cambiamenti Perlen Papier AG, Root</it>
+    <fr>Mutation Perlen Papier AG, Root</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>10471</journalNumber>
+  <journalDate>2020-12-07</journalDate>
+  <publicationText>Perlen Papier AG, in Root, CHE-101.290.433, Aktiengesellschaft (SHAB Nr. 233 vom 30.11.2020, Publ. 1005034500). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vertrag vom 25.11.2020 Aktiven von CHF 98'675'870.00 auf die neue Perlen Papier Immobilien AG, in Root (CHE-355.637.792). Gegenleistung: 1'000 Namenaktien zu CHF 1'000.00 und Darlehensforderung von CHF 97'675'870.00.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Perlen Papier AG</name>
+      <uid>CHE-101.290.433</uid>
+      <uidOrganisationId>101290433</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10030159724</code13>
+      <seat>Root</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Perlenring</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6035</swissZipCode>
+        <town>Perlen</town>
+      </address>
+    </company>
+    <purpose>Herstellung, Verarbeitung und Vertrieb von Papier, Papierrohstoffen und verwandten Produkten; Erwerb, Verwaltung und Veräusserung von Grundeigentum, Wertschriften, Beteiligungen sowie Immaterialgüterrechten.</purpose>
+    <capital>
+      <nominal>81000000.00</nominal>
+      <paid>81000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Perlen Papier AG</name>
+      <uid>CHE-101.290.433</uid>
+      <uidOrganisationId>101290433</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10030159724</code13>
+      <seat>Root</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Perlenring</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>6035</swissZipCode>
+        <town>Perlen</town>
+      </address>
+    </company>
+    <purpose>Herstellung, Verarbeitung und Vertrieb von Papier, Papierrohstoffen und verwandten Produkten; Erwerb, Verwaltung und Veräusserung von Grundeigentum, Wertschriften, Beteiligungen sowie Immaterialgüterrechten.</purpose>
+    <capital>
+      <nominal>81000000.00</nominal>
+      <paid>81000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-30</lastFoscDate>
+    <lastFoscNumber>233</lastFoscNumber>
+    <lastFoscSequence>1005034500</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
