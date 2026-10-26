@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>2fc4c222-6ead-4545-81f8-272c959ffdc5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005086465</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Collectif architecture Sàrl, Lancy</de>
+    <en>Change Collectif architecture Sàrl, Lancy</en>
+    <it>Cambiamenti Collectif architecture Sàrl, Lancy</it>
+    <fr>Mutation Collectif architecture Sàrl, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1814</journalNumber>
+  <journalDate>2021-01-25</journalDate>
+  <publicationText>Collectif architecture Sàrl, à Lancy, CHE-209.266.137 (FOSC du 16.05.2019, p. 0/1004631950). Zimmermann Xavier Yan détient désormais 50 parts de CHF 100 par suite de cession de 49 parts de CHF 100 à Chung Kevin Cheeshioung qui détient désormais 150 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Collectif architecture Sàrl</name>
+      <uid>CHE-209.266.137</uid>
+      <uidOrganisationId>209266137</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66014600188</code13>
+      <seat>Lancy</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jeunes</street>
+        <houseNumber>4 BIS</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>bureau d'architecture; services de conception, de suivi et d'exécution de projets d'architecture, en Suisse et à l'étranger (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Collectif architecture Sàrl</name>
+      <uid>CHE-209.266.137</uid>
+      <uidOrganisationId>209266137</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66014600188</code13>
+      <seat>Lancy</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route des Jeunes</street>
+        <houseNumber>4 BIS</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Les Acacias</town>
+      </address>
+    </company>
+    <purpose>bureau d'architecture; services de conception, de suivi et d'exécution de projets d'architecture, en Suisse et à l'étranger (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-05-16</lastFoscDate>
+    <lastFoscNumber>94</lastFoscNumber>
+    <lastFoscSequence>1004631950</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
