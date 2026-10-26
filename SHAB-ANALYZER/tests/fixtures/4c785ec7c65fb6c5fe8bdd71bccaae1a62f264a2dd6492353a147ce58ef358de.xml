@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>0c187fca-bf7f-49a5-af2f-a4759f14e7bb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005073039</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-13</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Lémania Voyages S.A., Puidoux</de>
+    <en>Change Lémania Voyages S.A., Puidoux</en>
+    <it>Cambiamenti Lémania Voyages S.A., Puidoux</it>
+    <fr>Mutation Lémania Voyages S.A., Puidoux</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>554</journalNumber>
+  <journalDate>2021-01-08</journalDate>
+  <publicationText>Lémania Voyages S.A., à Puidoux, CHE-106.045.289 (FOSC du 28.12.2020, p. 0/1005060046). Le siège de la succursale de Bagnes, dont le no d'identification des entreprises est (CHE-338.949.983), devient Val de Bagnes.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Lémania Voyages S.A.</name>
+      <uid>CHE-106.045.289</uid>
+      <uidOrganisationId>106045289</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001002824</code13>
+      <seat>Puidoux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Village</street>
+        <houseNumber>10 D</houseNumber>
+        <swissZipCode>1070</swissZipCode>
+        <town>Puidoux</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le transport de personnes, l'organisation d'excursions et de voyages, l'achat, la vente et la location de tous véhicules automobiles, et toute opération mobilière ou immobilière convergente en rapport avec cette activité, tant en Suisse qu'à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>F&amp;S Fiduciaire et Services Sàrl</name>
+        <country>CH</country>
+        <uid>CHE116298538</uid>
+        <uidOrganisationId>116298538</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Lémania Voyages S.A.</name>
+      <uid>CHE-106.045.289</uid>
+      <uidOrganisationId>106045289</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001002824</code13>
+      <seat>Puidoux</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Village</street>
+        <houseNumber>10 D</houseNumber>
+        <swissZipCode>1070</swissZipCode>
+        <town>Puidoux</town>
+      </address>
+    </company>
+    <purpose>la société a pour but le transport de personnes, l'organisation d'excursions et de voyages, l'achat, la vente et la location de tous véhicules automobiles, et toute opération mobilière ou immobilière convergente en rapport avec cette activité, tant en Suisse qu'à l'étranger (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>F&amp;S Fiduciaire et Services Sàrl</name>
+        <country>CH</country>
+        <uid>CHE116298538</uid>
+        <uidOrganisationId>116298538</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-12-28</lastFoscDate>
+    <lastFoscNumber>252</lastFoscNumber>
+    <lastFoscSequence>1005060046</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>0af358a9-1eee-4a72-994f-760eefe5e511</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005074291</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-14</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation L'Huillier Holding SA, Collonge-Bellerive</de>
+    <en>Change L'Huillier Holding SA, Collonge-Bellerive</en>
+    <it>Cambiamenti L'Huillier Holding SA, Collonge-Bellerive</it>
+    <fr>Mutation L'Huillier Holding SA, Collonge-Bellerive</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>727</journalNumber>
+  <journalDate>2021-01-11</journalDate>
+  <publicationText>L'Huillier Holding SA, à Collonge-Bellerive, CHE-113.921.281 (FOSC du 19.12.2013, p. 0/7225832). Division des 9'090 actions de CHF 11 en 90'900 actions de CHF 1.10. Capital-actions: CHF 109'989, entièrement libéré, divisé en 99'990 actions de CHF 1, 10, nominatives. Nouveaux statuts du 22.12.2020.</publicationText>
+  <commonsNew>
+    <company>
+      <name>L'Huillier Holding SA</name>
+      <uid>CHE-113.921.281</uid>
+      <uidOrganisationId>113921281</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66027470079</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Port-de-Bellerive</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>1245</swissZipCode>
+        <town>Collonge-Bellerive</town>
+      </address>
+    </company>
+    <purpose>société holding ayant pour but la prise et gestion de participations dans toutes les entreprises, et leur financement sous quelque forme que ce soit, à l'exclusion d'opérations prohibées par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>109989.00</nominal>
+      <paid>109989.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>L'Huillier Holding SA</name>
+      <uid>CHE-113.921.281</uid>
+      <uidOrganisationId>113921281</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66027470079</code13>
+      <seat>Collonge-Bellerive</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin du Port-de-Bellerive</street>
+        <houseNumber>49</houseNumber>
+        <swissZipCode>1245</swissZipCode>
+        <town>Collonge-Bellerive</town>
+      </address>
+    </company>
+    <purpose>société holding ayant pour but la prise et gestion de participations dans toutes les entreprises, et leur financement sous quelque forme que ce soit, à l'exclusion d'opérations prohibées par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>109989.00</nominal>
+      <paid>109989.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225832</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
