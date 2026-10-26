@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>9ff31d3d-ad0c-4fa9-8861-6a5129df15db</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005079363</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>NW</cantons>
+  <title>
+    <de>Mutation TS Baumanagement Thomas Schwizer, Hergiswil (NW)</de>
+    <en>Change TS Baumanagement Thomas Schwizer, Hergiswil (NW)</en>
+    <it>Cambiamenti TS Baumanagement Thomas Schwizer, Hergiswil (NW)</it>
+    <fr>Mutation TS Baumanagement Thomas Schwizer, Hergiswil (NW)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>107</journalNumber>
+  <journalDate>2021-01-18</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 218 vom 11.11.2019 publizierten TR-Eintrag Nr. 1'623 vom 06.11.2019 TS Baumanagement Thomas Schwizer, in Hergiswil (NW), CHE-323.107.998, Einzelunternehmen (SHAB Nr. 218 vom 11.11.2019, Publ. 1004756379). [Nachtrag zum Eintrag des Konkurswiderrufs vom 06.11.2019: Anlässlich des Eintrags des Konkurswiderrufs wurde die Bemerkung zur Konkurseröffnung nicht gestrichen:] [gestrichen: Mit Entscheid vom 15.10.2019 hat das Kantonsgericht Nidwalden den Konkurs über den Inhaber dieses Einzelunternehmens mit Wirkung ab dem 15.10.2019, 10.15 Uhr, eröffnet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>TS Baumanagement Thomas Schwizer</name>
+      <uid>CHE-323.107.998</uid>
+      <uidOrganisationId>323107998</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH15010038400</code13>
+      <seat>Hergiswil (NW)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pilatusstrasse</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>6052</swissZipCode>
+        <town>Hergiswil NW</town>
+      </address>
+    </company>
+    <purpose>Erbringen von Projektentwicklungen, Bauherrenberatungen, Bauleitung für Wohn- und Gewerbebauten, Übernahme von Generalunternehmungs- und Totalunternehmeraufträgen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TS Baumanagement Thomas Schwizer</name>
+      <uid>CHE-323.107.998</uid>
+      <uidOrganisationId>323107998</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH15010038400</code13>
+      <seat>Hergiswil (NW)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pilatusstrasse</street>
+        <houseNumber>22</houseNumber>
+        <swissZipCode>6052</swissZipCode>
+        <town>Hergiswil NW</town>
+      </address>
+    </company>
+    <purpose>Erbringen von Projektentwicklungen, Bauherrenberatungen, Bauleitung für Wohn- und Gewerbebauten, Übernahme von Generalunternehmungs- und Totalunternehmeraufträgen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-11-11</lastFoscDate>
+    <lastFoscNumber>218</lastFoscNumber>
+    <lastFoscSequence>1004756379</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Nidwalden</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
