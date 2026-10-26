@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>1ac56576-5dac-4a36-96ad-91ef8488a19c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005085150</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-27</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Association Suisse d'Organisation et de Management ASO, Lausanne, neu Association Suisse d'Organisation et de Management ASO en liquidation</de>
+    <en>Change Association Suisse d'Organisation et de Management ASO, Lausanne, new Association Suisse d'Organisation et de Management ASO en liquidation</en>
+    <it>Cambiamenti Association Suisse d'Organisation et de Management ASO, Lausanne, nuovo Association Suisse d'Organisation et de Management ASO en liquidation</it>
+    <fr>Mutation Association Suisse d'Organisation et de Management ASO, Lausanne, nouveau Association Suisse d'Organisation et de Management ASO en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1541</journalNumber>
+  <journalDate>2021-01-22</journalDate>
+  <publicationText>Association Suisse d'Organisation et de Management ASO, à Lausanne, CHE-436.695.849 (FOSC du 22.11.2018, p. 0/1004503844). Selon décision de son assemblée générale du 8 septembre 2020, l'association a prononcé sa dissolution. La liquidation est opérée sous le nom: Association Suisse d'Organisation et de Management ASO en liquidation, par Tièche Frank, de Reconvilier, à Rue, élu liquidateur avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Association Suisse d'Organisation et de Management ASO en liquidation</name>
+      <uid>CHE-436.695.849</uid>
+      <uidOrganisationId>436695849</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011576629</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Benjamin-Constant</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>l'association a pour buts: l'échange d'expérience entre organisateurs et personnes privées ou publiques particulièrement intéressées aux problèmes d'organisation des entreprises, de management de projets, de qualité et de coaching; leur formation et leur perfectionnement, ainsi que la promotion de la collaboration entre sciences et la pratique dans le domaine de la théorie de l'organisation (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Association Suisse d'Organisation et de Management ASO</name>
+      <uid>CHE-436.695.849</uid>
+      <uidOrganisationId>436695849</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011576629</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue Benjamin-Constant</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>l'association a pour buts: l'échange d'expérience entre organisateurs et personnes privées ou publiques particulièrement intéressées aux problèmes d'organisation des entreprises, de management de projets, de qualité et de coaching; leur formation et leur perfectionnement, ainsi que la promotion de la collaboration entre sciences et la pratique dans le domaine de la théorie de l'organisation (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-22</lastFoscDate>
+    <lastFoscNumber>227</lastFoscNumber>
+    <lastFoscSequence>1004503844</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
