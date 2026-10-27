@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>3b8c5a9d-ed77-4c3c-9edf-2a0d76e20946</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005097650</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Comerge AG, Zürich</de>
+    <en>Change Comerge AG, Zürich</en>
+    <it>Cambiamenti Comerge AG, Zürich</it>
+    <fr>Mutation Comerge AG, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5991</journalNumber>
+  <journalDate>2021-02-08</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 27 vom 09.02.2021 publizierten TR-Eintrag Nr. 5554 vom 04.02.2021 Comerge AG, in Zürich, CHE-114.158.033, Aktiengesellschaft (SHAB Nr. 27 vom 09.02.2021, Publ. 1005095209). Bei folgender juristischen Person wurde der "bisher"-Text nicht richtig aufgeführt: BDO AG (CHE-105.952.747), in Zürich, Revisionsstelle [bisher: BDO AG (CH-020.3.927.906-5)].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Comerge AG</name>
+      <uid>CHE-114.158.033</uid>
+      <uidOrganisationId>114158033</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030322423</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bubenbergstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>8045</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Entwicklung von Experten-Know-How auf dem Gebiet der Software-Entwicklung und -Architektur und die Erbringung von Dienstleistungen auf diesem Gebiet. Sie kann sich an andern Unternehmen beteiligen, Grundstücke erwerben und verkaufen sowie alles tun, was geeignet ist, den Zweck der Gesellschaft zu fördern oder mit diesem in Zusammenhang steht.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>BDO AG</name>
+        <country>CH</country>
+        <uid>CHE105952747</uid>
+        <uidOrganisationId>105952747</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Comerge AG</name>
+      <uid>CHE-114.158.033</uid>
+      <uidOrganisationId>114158033</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02030322423</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bubenbergstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>8045</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Die Gesellschaft bezweckt die Entwicklung von Experten-Know-How auf dem Gebiet der Software-Entwicklung und -Architektur und die Erbringung von Dienstleistungen auf diesem Gebiet. Sie kann sich an andern Unternehmen beteiligen, Grundstücke erwerben und verkaufen sowie alles tun, was geeignet ist, den Zweck der Gesellschaft zu fördern oder mit diesem in Zusammenhang steht.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-02-09</lastFoscDate>
+    <lastFoscNumber>27</lastFoscNumber>
+    <lastFoscSequence>1005095209</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
