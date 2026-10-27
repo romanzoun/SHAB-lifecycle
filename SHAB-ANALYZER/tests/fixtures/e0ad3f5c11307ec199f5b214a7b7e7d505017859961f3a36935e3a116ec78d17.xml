@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>e838d0ef-89ef-41ba-ba04-1b10ea543dcb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005072054</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Roussillon Fleurs Sàrl, Meyrin</de>
+    <en>Change Roussillon Fleurs Sàrl, Meyrin</en>
+    <it>Cambiamenti Roussillon Fleurs Sàrl, Meyrin</it>
+    <fr>Mutation Roussillon Fleurs Sàrl, Meyrin</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>540</journalNumber>
+  <journalDate>2021-01-07</journalDate>
+  <publicationText>Roussillon Fleurs Sàrl, à Meyrin, CHE-365.510.420 (FOSC du 05.05.2020, p. 0/1004883626). Abbt Rémy détient désormais 12 parts de CHF 1'000 par suite de cession de 8 parts de CHF 1'000 à Roussillon Fleurs Sàrl (CHE-365.510.420), à Meyrin, qui les a cédées à, Wertz Lucie, désormais associé-gérante pour 8 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Roussillon Fleurs Sàrl</name>
+      <uid>CHE-365.510.420</uid>
+      <uidOrganisationId>365510420</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012620209</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Ceps</street>
+        <houseNumber>70</houseNumber>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>production et commercialisation de plantes et fleurs coupées (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Roussillon Fleurs Sàrl</name>
+      <uid>CHE-365.510.420</uid>
+      <uidOrganisationId>365510420</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66012620209</code13>
+      <seat>Meyrin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Ceps</street>
+        <houseNumber>70</houseNumber>
+        <swissZipCode>1217</swissZipCode>
+        <town>Meyrin</town>
+      </address>
+    </company>
+    <purpose>production et commercialisation de plantes et fleurs coupées (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-05-05</lastFoscDate>
+    <lastFoscNumber>86</lastFoscNumber>
+    <lastFoscSequence>1004883626</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
