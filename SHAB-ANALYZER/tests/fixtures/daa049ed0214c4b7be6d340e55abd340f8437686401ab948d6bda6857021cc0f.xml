@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>1d721ae1-fc75-4062-9f76-4116b3a825c4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005107846</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation carworx Tobler, Wil (SG)</de>
+    <en>Change carworx Tobler, Wil (SG)</en>
+    <it>Cambiamenti carworx Tobler, Wil (SG)</it>
+    <fr>Mutation carworx Tobler, Wil (SG)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1762</journalNumber>
+  <journalDate>2021-02-18</journalDate>
+  <publicationText>carworx Tobler, in Wil (SG), CHE-410.422.008, Einzelunternehmen (SHAB Nr. 33 vom 17.02.2021, Publ. 1005103361). Mit Entscheid vom 16.02.2021 hat das Kantonsgericht des Kantons St. Gallen der Beschwerde gegen den Entscheid des Konkursrichters des Kreisgerichts Wil SG vom 10.02.2021 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen. [gestrichen: Über den Inhaber dieses Einzelunternehmens ist mit Entscheid des Konkursrichters des Kreisgerichts Wil SG vom 10.02.2021 mit Wirkung ab dem 10.02.2021, 09:15 Uhr der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>carworx Tobler</name>
+      <uid>CHE-410.422.008</uid>
+      <uidOrganisationId>410422008</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010860515</code13>
+      <seat>Wil (SG)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>45a</houseNumber>
+        <swissZipCode>9552</swissZipCode>
+        <town>Bronschhofen</town>
+      </address>
+    </company>
+    <purpose>Handel mit Fahrzeugen und Zubehör und Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>carworx Tobler</name>
+      <uid>CHE-410.422.008</uid>
+      <uidOrganisationId>410422008</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010860515</code13>
+      <seat>Wil (SG)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>45a</houseNumber>
+        <swissZipCode>9552</swissZipCode>
+        <town>Bronschhofen</town>
+      </address>
+    </company>
+    <purpose>Handel mit Fahrzeugen und Zubehör und Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-02-17</lastFoscDate>
+    <lastFoscNumber>33</lastFoscNumber>
+    <lastFoscSequence>1005103361</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

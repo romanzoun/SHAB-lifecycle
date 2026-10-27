@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>1a8045d9-5893-403a-8e4e-51fba5d563ae</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005098065</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation reton.ch - Schneider, Tafers</de>
+    <en>Change reton.ch - Schneider, Tafers</en>
+    <it>Cambiamenti reton.ch - Schneider, Tafers</it>
+    <fr>Mutation reton.ch - Schneider, Tafers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1261</journalNumber>
+  <journalDate>2021-02-08</journalDate>
+  <publicationText>reton.ch - Schneider, in Tafers, CHE-322.442.537 (SHAB vom 08.01.2021, s. 0/1005068725). Die Eintragungen Nr. 5167 vom 18.08.2016 (SHAB vom 23.08.2016, Id 3015885) und Nr. 291 vom 05.01.2021 (SHAB vom 08.01.2021, Id 1005068725) sind wie folgt berichtigt: die richtige UID-Nummer lautet CHE-455.333.973 (und nicht CHE-322.442.537). Amtliche Eintragung infolge Fusion der Gemeinden Alterswil, St. Antoni und Tafers, Inkrafttreten am 01.01.2021. Neue Sitzbezeichnung: Tafers.</publicationText>
+  <commonsNew>
+    <company>
+      <name>reton.ch - Schneider</name>
+      <uid>CHE-455.333.973</uid>
+      <uidOrganisationId>455333973</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735615886</code13>
+      <seat>Tafers</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wengliswil</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>1715</swissZipCode>
+        <town>Alterswil FR</town>
+      </address>
+    </company>
+    <purpose>Sämtliche Dienstleistungen im Bereich Ton- und Veranstaltungstechnik, Film und Fotographie sowie Vermietung, Installation, Betrieb und Handel von Geräten und elektronischen Einrichtungen aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>reton.ch - Schneider</name>
+      <uid>CHE-322.442.537</uid>
+      <uidOrganisationId>322442537</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735615886</code13>
+      <seat>Tafers</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wengliswil</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>1715</swissZipCode>
+        <town>Alterswil FR</town>
+      </address>
+    </company>
+    <purpose>Sämtliche Dienstleistungen im Bereich Ton- und Veranstaltungstechnik, Film und Fotographie sowie Vermietung, Installation, Betrieb und Handel von Geräten und elektronischen Einrichtungen aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-01-08</lastFoscDate>
+    <lastFoscNumber>5</lastFoscNumber>
+    <lastFoscSequence>1005068725</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>true</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

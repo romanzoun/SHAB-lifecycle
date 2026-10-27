@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>16383472-2a6d-4a0b-9eb7-450830607b79</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005103386</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Plattenbeläge Wohlwend, Sennwald</de>
+    <en>Change Plattenbeläge Wohlwend, Sennwald</en>
+    <it>Cambiamenti Plattenbeläge Wohlwend, Sennwald</it>
+    <fr>Mutation Plattenbeläge Wohlwend, Sennwald</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1591</journalNumber>
+  <journalDate>2021-02-12</journalDate>
+  <publicationText>Plattenbeläge Wohlwend, in Sennwald, CHE-210.541.623, Einzelunternehmen (SHAB Nr. 19 vom 28.01.2021, Publ. 1005086068). Mit Entscheid vom 10.02.2021 hat das Kantonsgericht des Kantons St. Gallen der Beschwerde gegen den Entscheid des Konkursrichters des Kreisgerichts Werdenberg-Sarganserland vom 21.01.2021 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen. [gestrichen: Über den Inhaber dieses Einzelunternehmens ist mit Entscheid der Konkursrichterin des Kreisgerichts Werdenberg-Sarganserland vom 21.01.2021 mit Wirkung ab dem 21.01.2021, 18.00 Uhr der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Plattenbeläge Wohlwend</name>
+      <uid>CHE-210.541.623</uid>
+      <uidOrganisationId>210541623</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010880604</code13>
+      <seat>Sennwald</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lögert</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>9466</swissZipCode>
+        <town>Sennwald</town>
+      </address>
+    </company>
+    <purpose>Handel mit Platten, Verlegen von Keramischen- und Natursteinbelägen, verlegen von Terrassenplatten. Handel mit Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Plattenbeläge Wohlwend</name>
+      <uid>CHE-210.541.623</uid>
+      <uidOrganisationId>210541623</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010880604</code13>
+      <seat>Sennwald</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Lögert</street>
+        <houseNumber>24</houseNumber>
+        <swissZipCode>9466</swissZipCode>
+        <town>Sennwald</town>
+      </address>
+    </company>
+    <purpose>Handel mit Platten, Verlegen von Keramischen- und Natursteinbelägen, verlegen von Terrassenplatten. Handel mit Waren aller Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-01-28</lastFoscDate>
+    <lastFoscNumber>19</lastFoscNumber>
+    <lastFoscSequence>1005086068</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

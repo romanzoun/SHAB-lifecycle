@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>1fe90c2d-24aa-4490-80ad-e8b464d528ea</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005091254</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Haller Wasser + partner SA, Carouge (GE)</de>
+    <en>Change Haller Wasser + partner SA, Carouge (GE)</en>
+    <it>Cambiamenti Haller Wasser + partner SA, Carouge (GE)</it>
+    <fr>Mutation Haller Wasser + partner SA, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2283</journalNumber>
+  <journalDate>2021-01-29</journalDate>
+  <publicationText>Haller Wasser + partner SA, à Carouge (GE), CHE-424.520.752 (FOSC du 17.12.2019, p. 0/1004785913). Transformation de 40 actions de CHF 100, nominatives, liées selon statuts, en 400 actions de CHF 10, nominatives, liées selon statuts et priviliégiées quant au droit de vote. Capital-actions: CHF 134'000, libéré à concurrence de CHF 134'000, divisé en 400 actions de CHF 10, priviliégiées quant au droit de vote, et 1'300 actions de CHF 100, toutes nominatives, liées selon statuts. Statuts modifiés le 01.12.2020 y compris sur des points non soumis à publications.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Haller Wasser + partner SA</name>
+      <uid>CHE-424.520.752</uid>
+      <uidOrganisationId>424520752</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030230111</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Blavignac</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un bureau d'étude d'ingénieur géomètre breveté et de géomatique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>134000.00</nominal>
+      <paid>134000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Haller Wasser + partner SA</name>
+      <uid>CHE-424.520.752</uid>
+      <uidOrganisationId>424520752</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030230111</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Blavignac</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge (GE)</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un bureau d'étude d'ingénieur géomètre breveté et de géomatique (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>134000.00</nominal>
+      <paid>134000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-17</lastFoscDate>
+    <lastFoscNumber>244</lastFoscNumber>
+    <lastFoscSequence>1004785913</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
