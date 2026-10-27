@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>07af54cc-b155-44e4-84bc-45c6765b287e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005105706</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Wohnbau AG Klosters in Liquidation, Klosters</de>
+    <en>Change Wohnbau AG Klosters in Liquidation, Klosters</en>
+    <it>Cambiamenti Wohnbau AG Klosters in Liquidation, Klosters</it>
+    <fr>Mutation Wohnbau AG Klosters in Liquidation, Klosters</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1188</journalNumber>
+  <journalDate>2021-02-16</journalDate>
+  <publicationText>Wohnbau AG Klosters in Liquidation, in Klosters-Serneus, CHE-102.798.645, Aktiengesellschaft (SHAB Nr. 168 vom 31.08.2020, Publ. 1004968066). Sitz neu: Klosters. [Anpassung des Sitzes und der Personenangaben infolge Namensänderung der Gemeinde].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Wohnbau AG Klosters in Liquidation</name>
+      <uid>CHE-102.798.645</uid>
+      <uidOrganisationId>102798645</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030052880</code13>
+      <seat>Klosters</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o C. Bergmann</addressLine1>
+        <street>Haus im Bild</street>
+        <swissZipCode>7250</swissZipCode>
+        <town>Klosters</town>
+      </address>
+    </company>
+    <purpose>Kauf und Verkauf sowie Bau und Verwaltung von Liegenschaften aller Art für eigene und fremde Rechnung, vornehmlich in Klosters. Im weiteren kann sie alle mit dem Baugewerbe und dem Gesellschaftszweck direkt oder indirekt zusammenhängenden Geschäfte tätigen und sich an anderen Unternehmen beteiligen.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Wohnbau AG Klosters in Liquidation</name>
+      <uid>CHE-102.798.645</uid>
+      <uidOrganisationId>102798645</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030052880</code13>
+      <seat>Klosters</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o C. Bergmann</addressLine1>
+        <street>Haus im Bild</street>
+        <swissZipCode>7250</swissZipCode>
+        <town>Klosters</town>
+      </address>
+    </company>
+    <purpose>Kauf und Verkauf sowie Bau und Verwaltung von Liegenschaften aller Art für eigene und fremde Rechnung, vornehmlich in Klosters. Im weiteren kann sie alle mit dem Baugewerbe und dem Gesellschaftszweck direkt oder indirekt zusammenhängenden Geschäfte tätigen und sich an anderen Unternehmen beteiligen.</purpose>
+    <capital>
+      <nominal>150000.00</nominal>
+      <paid>150000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-08-31</lastFoscDate>
+    <lastFoscNumber>168</lastFoscNumber>
+    <lastFoscSequence>1004968066</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

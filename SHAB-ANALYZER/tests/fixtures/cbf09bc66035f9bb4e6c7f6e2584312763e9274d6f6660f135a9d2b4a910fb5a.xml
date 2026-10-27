@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>13d67b56-3771-4178-ab8a-b0c54065d829</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005104350</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation FRIDOLIN GmbH, Ried bei Kerzers, neu FRIDOLIN GmbH in Liquidation</de>
+    <en>Change FRIDOLIN GmbH, Ried bei Kerzers, new FRIDOLIN GmbH in Liquidation</en>
+    <it>Cambiamenti FRIDOLIN GmbH, Ried bei Kerzers, nuovo FRIDOLIN GmbH in Liquidation</it>
+    <fr>Mutation FRIDOLIN GmbH, Ried bei Kerzers, nouveau FRIDOLIN GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1424</journalNumber>
+  <journalDate>2021-02-15</journalDate>
+  <publicationText>FRIDOLIN GmbH, in Ried bei Kerzers, CHE-102.923.212 (SHAB vom 19.12.2013, s. 0/7225828). Die Gesellschaft wird gemäss Beschluss der Gesellschafterversammlung vom 03.02.2021 aufgelöst. Neue Firma: FRIDOLIN GmbH in Liquidation. Eingetragene Person geändert: Berno Venanzio, korrekterweise Berno Venanzio Daniele, Gesellschafter, 190 Stammanteile zu CHF 100, Geschäftsführer, Einzelunterschrift, neu Gesellschafter, 190 Stammanteile zu CHF 100, Geschäftsführer, Liquidator, Einzelunterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>FRIDOLIN GmbH in Liquidation</name>
+      <uid>CHE-102.923.212</uid>
+      <uidOrganisationId>102923212</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705401441</code13>
+      <seat>Ried bei Kerzers</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>GWZ Widalmi</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>3216</swissZipCode>
+        <town>Ried b. Kerzers</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Restaurants, Bar und Dancings.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FRIDOLIN GmbH</name>
+      <uid>CHE-102.923.212</uid>
+      <uidOrganisationId>102923212</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21705401441</code13>
+      <seat>Ried bei Kerzers</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>GWZ Widalmi</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>3216</swissZipCode>
+        <town>Ried b. Kerzers</town>
+      </address>
+    </company>
+    <purpose>Betrieb eines Restaurants, Bar und Dancings.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

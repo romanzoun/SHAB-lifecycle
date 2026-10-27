@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>15da8082-4ff3-47cf-8c84-dfe86bd06191</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005096130</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Asceneuron SA, Ecublens (VD)</de>
+    <en>Change Asceneuron SA, Ecublens (VD)</en>
+    <it>Cambiamenti Asceneuron SA, Ecublens (VD)</it>
+    <fr>Mutation Asceneuron SA, Ecublens (VD)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2481</journalNumber>
+  <journalDate>2021-02-04</journalDate>
+  <publicationText>Asceneuron SA, à Ecublens (VD), CHE-181.731.651 (FOSC du 17.04.2020, p. 0/1004872991). Statuts modifiés le 14.01.2021. L'assemblée générale a modifié une clause statutaire relative à une augmentation conditionnelle du capital (selon décision du 1er juillet 2013) par décision du 14 janvier 2021. Pour les détails, voir les statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Asceneuron SA</name>
+      <translations>(Asceneuron Ltd) (Asceneuron AG)</translations>
+      <uid>CHE-181.731.651</uid>
+      <uidOrganisationId>181731651</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011134197</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>EPFL Innovation Park, Bâtiment B</street>
+        <swissZipCode>1015</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités en matière de recherche, de développement, de fabrication et de commercialisation de thérapies dans le domaine des sciences de la vie et toutes autres activités liées à son but (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>399765.00</nominal>
+      <paid>399765.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Asceneuron SA</name>
+      <translations>(Asceneuron Ltd) (Asceneuron AG)</translations>
+      <uid>CHE-181.731.651</uid>
+      <uidOrganisationId>181731651</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011134197</code13>
+      <seat>Ecublens (VD)</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>EPFL Innovation Park, Bâtiment B</street>
+        <swissZipCode>1015</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>la société a pour but toutes activités en matière de recherche, de développement, de fabrication et de commercialisation de thérapies dans le domaine des sciences de la vie et toutes autres activités liées à son but (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>399765.00</nominal>
+      <paid>399765.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-04-17</lastFoscDate>
+    <lastFoscNumber>74</lastFoscNumber>
+    <lastFoscSequence>1004872991</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
