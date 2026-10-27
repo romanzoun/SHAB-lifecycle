@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>d358fa66-49e3-4f47-a403-15d48d81806e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005068706</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation NEUSTRAG AG Bauunternehmung in Liquidation, Bösingen</de>
+    <en>Change NEUSTRAG AG Bauunternehmung in Liquidation, Bösingen</en>
+    <it>Cambiamenti NEUSTRAG AG Bauunternehmung in Liquidation, Bösingen</it>
+    <fr>Mutation NEUSTRAG AG Bauunternehmung in Liquidation, Bösingen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>273</journalNumber>
+  <journalDate>2021-01-05</journalDate>
+  <publicationText>NEUSTRAG AG Bauunternehmung in Liquidation, in Bösingen, CHE-107.881.578 (FOSC du 17.12.2020, p. 0/1005050487). Mit Entscheid vom 31.12.2020 hat das Kantonsgericht Freiburg dem Rekurs vom 24.12.2020 gegen das Konkurseröffnungsurteil vom 10.12.2020 die aufschiebende Wirkung erteilt (Art. 159 HRegV).</publicationText>
+  <commonsNew>
+    <company>
+      <name>NEUSTRAG AG Bauunternehmung in Liquidation</name>
+      <uid>CHE-107.881.578</uid>
+      <uidOrganisationId>107881578</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706302228</code13>
+      <seat>Bösingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>3178</swissZipCode>
+        <town>Bösingen</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Bauunternehmung für Tief- und Strassenbauarbeiten (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>NEUSTRAG AG Bauunternehmung in Liquidation</name>
+      <uid>CHE-107.881.578</uid>
+      <uidOrganisationId>107881578</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706302228</code13>
+      <seat>Bösingen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Industriestrasse</street>
+        <houseNumber>43</houseNumber>
+        <swissZipCode>3178</swissZipCode>
+        <town>Bösingen</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Bauunternehmung für Tief- und Strassenbauarbeiten (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-12-17</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>1005050487</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

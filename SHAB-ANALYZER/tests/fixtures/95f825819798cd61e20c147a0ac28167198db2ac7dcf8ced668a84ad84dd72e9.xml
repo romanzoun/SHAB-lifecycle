@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>d4ef9bc8-81a6-4be2-8820-cb7e2326e8aa</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005066150</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-01-07</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Big Carrelage Mulaj, Vully-les-Lacs</de>
+    <en>Change Big Carrelage Mulaj, Vully-les-Lacs</en>
+    <it>Cambiamenti Big Carrelage Mulaj, Vully-les-Lacs</it>
+    <fr>Mutation Big Carrelage Mulaj, Vully-les-Lacs</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>38</journalNumber>
+  <journalDate>2021-01-04</journalDate>
+  <publicationText>Big Carrelage Mulaj, à Vully-les-Lacs, CHE-156.117.956 (FOSC du 22.09.2020, p. 0/1004983686). Aucune opposition motivée n'ayant été présentée ou l'entreprise individuelle ayant cessé ses activités, elle est radiée d'office, conformément à l'art. 159, al. 5, let. a aORC.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Big Carrelage Mulaj</name>
+      <uid>CHE-156.117.956</uid>
+      <uidOrganisationId>156117956</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011865875</code13>
+      <seat>Vully-les-Lacs</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Salavaux</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1585</swissZipCode>
+        <town>Salavaux</town>
+      </address>
+    </company>
+    <purpose>pose de carrelages.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Big Carrelage Mulaj</name>
+      <uid>CHE-156.117.956</uid>
+      <uidOrganisationId>156117956</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011865875</code13>
+      <seat>Vully-les-Lacs</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Salavaux</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>1585</swissZipCode>
+        <town>Salavaux</town>
+      </address>
+    </company>
+    <purpose>pose de carrelages.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-09-22</lastFoscDate>
+    <lastFoscNumber>184</lastFoscNumber>
+    <lastFoscSequence>1004983686</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
