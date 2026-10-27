@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>2327a5c6-d73f-433e-b2d0-923a97a8a872</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005111411</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation DreamCars-Rental Sàrl, Paudex, neu DreamCars-Rental Sàrl en liquidation</de>
+    <en>Change DreamCars-Rental Sàrl, Paudex, new DreamCars-Rental Sàrl en liquidation</en>
+    <it>Cambiamenti DreamCars-Rental Sàrl, Paudex, nuovo DreamCars-Rental Sàrl en liquidation</it>
+    <fr>Mutation DreamCars-Rental Sàrl, Paudex, nouveau DreamCars-Rental Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3918</journalNumber>
+  <journalDate>2021-02-23</journalDate>
+  <publicationText>DreamCars-Rental Sàrl, à Paudex, CHE-356.864.965 (FOSC du 19.12.2013, p. 0/7225834). Selon décision de son assemblée des associés du 19.02.2021, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: DreamCars-Rental Sàrl en liquidation. Leibzig Pascal, maintenant de Estavayer, est nommé liquidateur.</publicationText>
+  <commonsNew>
+    <company>
+      <name>DreamCars-Rental Sàrl en liquidation</name>
+      <uid>CHE-356.864.965</uid>
+      <uidOrganisationId>356864965</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011032887</code13>
+      <seat>Paudex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Peupliers</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1094</swissZipCode>
+        <town>Paudex</town>
+      </address>
+    </company>
+    <purpose>la location et le commerce de véhicules automobiles, deux-roues, bateaux et autres moyens de transport; le service de chauffeurs et autres prestations se rapportant à l'automobile (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>DreamCars-Rental Sàrl</name>
+      <uid>CHE-356.864.965</uid>
+      <uidOrganisationId>356864965</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011032887</code13>
+      <seat>Paudex</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Peupliers</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>1094</swissZipCode>
+        <town>Paudex</town>
+      </address>
+    </company>
+    <purpose>la location et le commerce de véhicules automobiles, deux-roues, bateaux et autres moyens de transport; le service de chauffeurs et autres prestations se rapportant à l'automobile (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

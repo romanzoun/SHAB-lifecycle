@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>269ddbaa-358a-4d7a-9800-52018989a142</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005110410</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation STANHOPE CAPITAL (SWITZERLAND) SA, Genève</de>
+    <en>Change STANHOPE CAPITAL (SWITZERLAND) SA, Genève</en>
+    <it>Cambiamenti STANHOPE CAPITAL (SWITZERLAND) SA, Genève</it>
+    <fr>Mutation STANHOPE CAPITAL (SWITZERLAND) SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4053</journalNumber>
+  <journalDate>2021-02-22</journalDate>
+  <publicationText>STANHOPE CAPITAL (SWITZERLAND) SA, à Genève, CHE-114.257.882 (FOSC du 12.01.2021, p. 0/1005071937). Nouveaux bons de jouissance: 73'508 bons nominatifs, liées selon statuts, donnant droit à une part du produit de liquidation Statuts modifiés le 12.02.2021.</publicationText>
+  <commonsNew>
+    <company>
+      <name>STANHOPE CAPITAL (SWITZERLAND) SA</name>
+      <uid>CHE-114.257.882</uid>
+      <uidOrganisationId>114257882</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66057800080</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>square de l'Académie</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>rendre des services dans la gestion de fortune et le conseil financier (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>30000000.00</nominal>
+      <paid>30000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>STANHOPE CAPITAL (SWITZERLAND) SA</name>
+      <uid>CHE-114.257.882</uid>
+      <uidOrganisationId>114257882</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66057800080</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>square de l'Académie</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>rendre des services dans la gestion de fortune et le conseil financier (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>30000000.00</nominal>
+      <paid>30000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-01-12</lastFoscDate>
+    <lastFoscNumber>7</lastFoscNumber>
+    <lastFoscSequence>1005071937</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
