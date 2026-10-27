@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>4951aca9-da91-447f-9704-cb0999ae3a8a</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005110521</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>ZH</cantons>
+  <title>
+    <de>Mutation Dolder Kunsteisbahn AG, Zürich</de>
+    <en>Change Dolder Kunsteisbahn AG, Zürich</en>
+    <it>Cambiamenti Dolder Kunsteisbahn AG, Zürich</it>
+    <fr>Mutation Dolder Kunsteisbahn AG, Zürich</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8244</journalNumber>
+  <journalDate>2021-02-23</journalDate>
+  <publicationText>Nachtrag zum im SHAB Nr. 35 vom 19.02.2021 publizierten TR-Eintrag Nr. 7'212 vom 16.02.2021 Dolder Kunsteisbahn AG, in Zürich, CHE-103.445.646, Aktiengesellschaft (SHAB Nr. 35 vom 19.02.2021, Publ. 1005105058). Der korrekte Bishertext der Revisionsstelle wäre: [bisher: PricewaterhouseCoopers AG (CH-020.3.020.876-5), in Zürich, Revisionsstelle].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Dolder Kunsteisbahn AG</name>
+      <uid>CHE-103.445.646</uid>
+      <uidOrganisationId>103445646</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039069573</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Dolder Hotel AG</addressLine1>
+        <street>Kurhausstrasse</street>
+        <houseNumber>65</houseNumber>
+        <swissZipCode>8032</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Betrieb der Dolder Kunsteisbahn auf dem Areal Kataster Nr. 4042, Grundbuchblatt 2162 Hottingen/Zürich, mit einer Grösse von ca. 18'602 m2 an der Adlisbergstrasse, Zürich 7.</purpose>
+    <capital>
+      <nominal>420000.00</nominal>
+      <paid>420000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Dolder Kunsteisbahn AG</name>
+      <uid>CHE-103.445.646</uid>
+      <uidOrganisationId>103445646</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02039069573</code13>
+      <seat>Zürich</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Dolder Hotel AG</addressLine1>
+        <street>Kurhausstrasse</street>
+        <houseNumber>65</houseNumber>
+        <swissZipCode>8032</swissZipCode>
+        <town>Zürich</town>
+      </address>
+    </company>
+    <purpose>Betrieb der Dolder Kunsteisbahn auf dem Areal Kataster Nr. 4042, Grundbuchblatt 2162 Hottingen/Zürich, mit einer Grösse von ca. 18'602 m2 an der Adlisbergstrasse, Zürich 7.</purpose>
+    <capital>
+      <nominal>420000.00</nominal>
+      <paid>420000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-02-19</lastFoscDate>
+    <lastFoscNumber>35</lastFoscNumber>
+    <lastFoscSequence>1005105058</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Zürich</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

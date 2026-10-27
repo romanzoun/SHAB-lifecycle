@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>48c731a4-dc0c-4f55-a3dd-c899dbebd422</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005111451</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Pure Mountain-Sport Sàrl, Gryon, neu Pure Mountain-Sport Sàrl en liquidation</de>
+    <en>Change Pure Mountain-Sport Sàrl, Gryon, new Pure Mountain-Sport Sàrl en liquidation</en>
+    <it>Cambiamenti Pure Mountain-Sport Sàrl, Gryon, nuovo Pure Mountain-Sport Sàrl en liquidation</it>
+    <fr>Mutation Pure Mountain-Sport Sàrl, Gryon, nouveau Pure Mountain-Sport Sàrl en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3955</journalNumber>
+  <journalDate>2021-02-23</journalDate>
+  <publicationText>Pure Mountain-Sport Sàrl, à Gryon, CHE-115.133.076 (FOSC du 19.12.2013, p. 0/7225834). Selon décision de son assemblée des associés du 19.02.2021, la société a prononcé sa dissolution. La liquidation est opérée sous la raison de commerce: Pure Mountain-Sport Sàrl en liquidation. Nicole Marc-André, dont le prénom exact est Marc André, Grec Jérôme, et Setterberg Per, maintenant de Chavannes-de-Bogis, sont nommés liquidateurs.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Pure Mountain-Sport Sàrl en liquidation</name>
+      <uid>CHE-115.133.076</uid>
+      <uidOrganisationId>115133076</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010618725</code13>
+      <seat>Gryon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de la Barboleuse 9, résidence Le Mémoret A</street>
+        <swissZipCode>1882</swissZipCode>
+        <town>Gryon</town>
+      </address>
+    </company>
+    <purpose>le commerce d'articles de sport et de confection, la location de matériel de sport, l'organisation de toutes activités sportives et touristiques, ainsi que toutes opérations en rapport avec l'activité principale (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20100.00</nominal>
+      <paid>20100.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Pure Mountain-Sport Sàrl</name>
+      <uid>CHE-115.133.076</uid>
+      <uidOrganisationId>115133076</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010618725</code13>
+      <seat>Gryon</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Place de la Barboleuse 9, résidence Le Mémoret A</street>
+        <swissZipCode>1882</swissZipCode>
+        <town>Gryon</town>
+      </address>
+    </company>
+    <purpose>le commerce d'articles de sport et de confection, la location de matériel de sport, l'organisation de toutes activités sportives et touristiques, ainsi que toutes opérations en rapport avec l'activité principale (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20100.00</nominal>
+      <paid>20100.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225834</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
