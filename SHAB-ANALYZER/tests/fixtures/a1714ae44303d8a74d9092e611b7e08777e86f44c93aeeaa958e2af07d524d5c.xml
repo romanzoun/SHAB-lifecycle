@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>90412f8c-9366-418f-bc7f-95eb020b76ea</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005106662</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation LS Sanitaire Seferaj, Cugy (FR)</de>
+    <en>Change LS Sanitaire Seferaj, Cugy (FR)</en>
+    <it>Cambiamenti LS Sanitaire Seferaj, Cugy (FR)</it>
+    <fr>Mutation LS Sanitaire Seferaj, Cugy (FR)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1487</journalNumber>
+  <journalDate>2021-02-17</journalDate>
+  <publicationText>LS Sanitaire Seferaj, à Cugy FR, CHE-227.668.982 (FOSC du 01.02.2021, p. 0/1005088282). Par arrêt du 15.02.2021, le Tribunal cantonal de Fribourg a accordé l'effet suspensif au recours interjeté le 08.02.2021 contre la décision du 26.01.2021 (art. 159, al. 1 let. b ORC).</publicationText>
+  <commonsNew>
+    <company>
+      <name>LS Sanitaire Seferaj</name>
+      <uid>CHE-227.668.982</uid>
+      <uidOrganisationId>227668982</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735679766</code13>
+      <seat>Cugy (FR)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Fétigny</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1482</swissZipCode>
+        <town>Cugy FR</town>
+      </address>
+    </company>
+    <purpose>Entreprise de chauffage, sanitaire, ventilation et dépannage.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>LS Sanitaire Seferaj</name>
+      <uid>CHE-227.668.982</uid>
+      <uidOrganisationId>227668982</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735679766</code13>
+      <seat>Cugy (FR)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Fétigny</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1482</swissZipCode>
+        <town>Cugy FR</town>
+      </address>
+    </company>
+    <purpose>Entreprise de chauffage, sanitaire, ventilation et dépannage.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-02-01</lastFoscDate>
+    <lastFoscNumber>21</lastFoscNumber>
+    <lastFoscSequence>1005088282</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

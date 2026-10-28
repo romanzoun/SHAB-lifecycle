@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>90bf0a0e-1998-4f78-b2c5-889514fd6627</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005102147</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Dani Zarn GmbH, Klosters</de>
+    <en>Change Dani Zarn GmbH, Klosters</en>
+    <it>Cambiamenti Dani Zarn GmbH, Klosters</it>
+    <fr>Mutation Dani Zarn GmbH, Klosters</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>998</journalNumber>
+  <journalDate>2021-02-11</journalDate>
+  <publicationText>Dani Zarn GmbH, in Klosters-Serneus, CHE-209.877.430, Gesellschaft mit beschränkter Haftung (SHAB Nr. 68 vom 10.04.2015, S.0, Publ. 2089735). Sitz neu: Klosters. [Anpassung des Sitzes infolge Namenänderung der Gemeinde].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Dani Zarn GmbH</name>
+      <uid>CHE-209.877.430</uid>
+      <uidOrganisationId>209877430</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35040041137</code13>
+      <seat>Klosters</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Landstrasse</street>
+        <houseNumber>209</houseNumber>
+        <swissZipCode>7250</swissZipCode>
+        <town>Klosters</town>
+      </address>
+    </company>
+    <purpose>Schreinereiarbeiten, Erstellen von Möbeln, Innenausbauten, Küchenbau, Handel mit Möbel und Küchengeräten, Montagearbeiten sowie Handel mit Waren aller Art; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Dani Zarn GmbH</name>
+      <uid>CHE-209.877.430</uid>
+      <uidOrganisationId>209877430</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35040041137</code13>
+      <seat>Klosters</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Landstrasse</street>
+        <houseNumber>209</houseNumber>
+        <swissZipCode>7250</swissZipCode>
+        <town>Klosters</town>
+      </address>
+    </company>
+    <purpose>Schreinereiarbeiten, Erstellen von Möbeln, Innenausbauten, Küchenbau, Handel mit Möbel und Küchengeräten, Montagearbeiten sowie Handel mit Waren aller Art; vollständige Zweckumschreibung gemäss Statuten.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-04-10</lastFoscDate>
+    <lastFoscNumber>68</lastFoscNumber>
+    <lastFoscSequence>2089735</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>true</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

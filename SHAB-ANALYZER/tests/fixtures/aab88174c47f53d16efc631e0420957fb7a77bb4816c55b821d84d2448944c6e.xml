@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>9e246639-bd49-4520-9fc4-d5715365a4ae</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005098204</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AR</cantons>
+  <secondaryTenants>
+    <tenantCode>kabar</tenantCode>
+    <publicationDate>2021-02-11</publicationDate>
+  </secondaryTenants>
+  <title>
+    <de>Mutation Active English Learning Monica Krieg, Teufen (AR)</de>
+    <en>Change Active English Learning Monica Krieg, Teufen (AR)</en>
+    <it>Cambiamenti Active English Learning Monica Krieg, Teufen (AR)</it>
+    <fr>Mutation Active English Learning Monica Krieg, Teufen (AR)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>225</journalNumber>
+  <journalDate>2021-02-08</journalDate>
+  <publicationText>Active English Learning Monica Krieg, in Teufen (AR), CHE-277.216.702, Einzelunternehmen (SHAB Nr. 7 vom 12.01.2021, Publ. 1005071500). Das Einzelunternehmen wird auf Begehren der Inhaberin wieder im Handelsregister eingetragen. [bisher: Löschungsgrund: Das Einzelunternehmen wird infolge Fehlens der gesetzlichen Voraussetzungen der Eintragungspflicht auf Begehren der Inhaberin gelöscht.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Active English Learning Monica Krieg</name>
+      <uid>CHE-277.216.702</uid>
+      <uidOrganisationId>277216702</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30010197262</code13>
+      <seat>Teufen (AR)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rütiholzstrasse</street>
+        <houseNumber>15b</houseNumber>
+        <swissZipCode>9052</swissZipCode>
+        <town>Niederteufen</town>
+      </address>
+    </company>
+    <purpose>Englischunterricht in einer aktiven, positiven Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Active English Learning Monica Krieg</name>
+      <uid>CHE-277.216.702</uid>
+      <uidOrganisationId>277216702</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH30010197262</code13>
+      <seat>Teufen (AR)</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rütiholzstrasse</street>
+        <houseNumber>15b</houseNumber>
+        <swissZipCode>9052</swissZipCode>
+        <town>Niederteufen</town>
+      </address>
+    </company>
+    <purpose>Englischunterricht in einer aktiven, positiven Art.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-01-12</lastFoscDate>
+    <lastFoscNumber>7</lastFoscNumber>
+    <lastFoscSequence>1005071500</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>true</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Appenzell A.Rh.</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
