@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>bfaa26d1-4e91-40fa-b634-efad3ef10575</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005102687</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Daiwa Capital Markets Europe Limited, Londres, succursale de Genève, Genève</de>
+    <en>Change Daiwa Capital Markets Europe Limited, Londres, succursale de Genève, Genève</en>
+    <it>Cambiamenti Daiwa Capital Markets Europe Limited, Londres, succursale de Genève, Genève</it>
+    <fr>Mutation Daiwa Capital Markets Europe Limited, Londres, succursale de Genève, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3308</journalNumber>
+  <journalDate>2021-02-11</journalDate>
+  <publicationText>Daiwa Capital Markets Europe Limited, Londres, succursale de Genève, à Genève, CHE-105.091.370 (FOSC du 05.03.2020, p. 0/1004846175). Kerin Ewa, de Grande-Bretagne, à Londres, GBR, signe individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Daiwa Capital Markets Europe Limited, Londres, succursale de Genève</name>
+      <uid>CHE-105.091.370</uid>
+      <uidOrganisationId>105091370</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003679996</code13>
+      <seat>Genève</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Rhône</street>
+        <houseNumber>50</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>services dans le domaine des investissements, en qualité de négociant en valeurs mobilières.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Daiwa Capital Markets Europe Limited, Londres, succursale de Genève</name>
+      <uid>CHE-105.091.370</uid>
+      <uidOrganisationId>105091370</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66003679996</code13>
+      <seat>Genève</seat>
+      <legalForm>0111</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue du Rhône</street>
+        <houseNumber>50</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>services dans le domaine des investissements, en qualité de négociant en valeurs mobilières.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-05</lastFoscDate>
+    <lastFoscNumber>45</lastFoscNumber>
+    <lastFoscSequence>1004846175</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

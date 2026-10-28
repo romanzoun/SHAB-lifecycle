@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>be5ad502-2b6b-46b0-815d-cb8390b5b8a5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005102370</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Presca Sàrl, Prilly</de>
+    <en>Change Presca Sàrl, Prilly</en>
+    <it>Cambiamenti Presca Sàrl, Prilly</it>
+    <fr>Mutation Presca Sàrl, Prilly</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3112</journalNumber>
+  <journalDate>2021-02-11</journalDate>
+  <publicationText>Presca Sàrl, à Prilly, CHE-384.560.163 (FOSC du 18.06.2020, p. 0/1004914102). Preti Etienne engage désormais la société par sa signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Presca Sàrl</name>
+      <uid>CHE-384.560.163</uid>
+      <uidOrganisationId>384560163</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011908924</code13>
+      <seat>Prilly</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Alexandre Mosca</addressLine1>
+        <street>Avenue de Jolimont</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1008</swissZipCode>
+        <town>Prilly</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une entreprise de création, gestion, exploitation et développement de services, applications et plateformes dans le domaine de l'informatique, vente de logiciels (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Presca Sàrl</name>
+      <uid>CHE-384.560.163</uid>
+      <uidOrganisationId>384560163</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011908924</code13>
+      <seat>Prilly</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Alexandre Mosca</addressLine1>
+        <street>Avenue de Jolimont</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1008</swissZipCode>
+        <town>Prilly</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une entreprise de création, gestion, exploitation et développement de services, applications et plateformes dans le domaine de l'informatique, vente de logiciels (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-18</lastFoscDate>
+    <lastFoscNumber>116</lastFoscNumber>
+    <lastFoscSequence>1004914102</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
