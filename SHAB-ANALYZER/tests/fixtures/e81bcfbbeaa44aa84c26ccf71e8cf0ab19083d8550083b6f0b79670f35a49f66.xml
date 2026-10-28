@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>ea221b00-49f4-4c75-bc9d-8613450d8de5</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005099792</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation ALIMENTARIUM, Vevey</de>
+    <en>Change ALIMENTARIUM, Vevey</en>
+    <it>Cambiamenti ALIMENTARIUM, Vevey</it>
+    <fr>Mutation ALIMENTARIUM, Vevey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2803</journalNumber>
+  <journalDate>2021-02-09</journalDate>
+  <publicationText>ALIMENTARIUM, à Vevey, CHE-107.991.853 (FOSC du 09.12.2020, p. 0/1005043507). Nouveaux membres du conseil de fondation: Thiébaud Jean Christophe, de Rochefort, à Corsier-sur-Vevey, avec signature collective à deux, et Trajkovic Karamata Jelena, de Genève, à Puidoux, sans signature.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ALIMENTARIUM</name>
+      <uid>CHE-107.991.853</uid>
+      <uidOrganisationId>107991853</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001683451</code13>
+      <seat>Vevey</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Angle rue du Léman-quai Perdonnet</street>
+        <swissZipCode>1800</swissZipCode>
+        <town>Vevey</town>
+      </address>
+    </company>
+    <purpose>la Fondation est une institution culturelle qui a pour but d'exploiter l'actuel musée et de le développer en une référence internationale sur l'alimentation et la nutrition humaine dans le monde et à travers les âges, avec une plateforme d'apprentissage digitale et physique interconnectée. Elle partage son expertise avec le grand public de tous les âges et avec des professionnels de l'alimentation et de la nutrition.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ALIMENTARIUM</name>
+      <uid>CHE-107.991.853</uid>
+      <uidOrganisationId>107991853</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001683451</code13>
+      <seat>Vevey</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Angle rue du Léman-quai Perdonnet</street>
+        <swissZipCode>1800</swissZipCode>
+        <town>Vevey</town>
+      </address>
+    </company>
+    <purpose>la Fondation est une institution culturelle qui a pour but d'exploiter l'actuel musée et de le développer en une référence internationale sur l'alimentation et la nutrition humaine dans le monde et à travers les âges, avec une plateforme d'apprentissage digitale et physique interconnectée. Elle partage son expertise avec le grand public de tous les âges et avec des professionnels de l'alimentation et de la nutrition.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-12-09</lastFoscDate>
+    <lastFoscNumber>240</lastFoscNumber>
+    <lastFoscSequence>1005043507</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

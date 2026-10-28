@@ -325,6 +325,7 @@ from .parser420 import extract_parser420_leftovers
 from .parser421 import extract_parser421_leftovers
 from .parser422 import extract_parser422_leftovers
 from .parser423 import extract_parser423_leftovers
+from .parser424 import extract_parser424_leftovers
 from .parser320 import extract_parser320_leftovers
 from .parser319 import extract_parser319_leftovers
 from .parser318 import extract_parser318_leftovers
@@ -3025,6 +3026,10 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
         meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
     )
+    parser424_events, leftover = extract_parser424_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
+    )
     events = (
         xml_events
         + person_events
@@ -3338,6 +3343,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser421_events
         + parser422_events
         + parser423_events
+        + parser424_events
         + parser320_events
         + parser319_events
         + parser318_events
