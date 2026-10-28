@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>62668f28-ea71-4688-917d-3a1a10d7dddb</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005104951</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation SOLD Sàrl, Carouge (GE)</de>
+    <en>Change SOLD Sàrl, Carouge (GE)</en>
+    <it>Cambiamenti SOLD Sàrl, Carouge (GE)</it>
+    <fr>Mutation SOLD Sàrl, Carouge (GE)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3565</journalNumber>
+  <journalDate>2021-02-15</journalDate>
+  <publicationText>SOLD Sàrl, à Carouge GE, CHE-497.629.936 (FOSC du 26.06.2015, p. 0/2233413). Vellas Joël, maintenant domicilié à Genève, désormais président, détient désormais 100 parts de CHF 100 par suite de cession de 100 parts de CHF 100 à Tétaz Alexandre, de Boudry, à Genthod, nouvel associé-gérant pour 100 parts de CHF 100 avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SOLD Sàrl</name>
+      <uid>CHE-497.629.936</uid>
+      <uidOrganisationId>497629936</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66051270159</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Veyrier</street>
+        <houseNumber>31 BIS</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>exploitation de magasins d'articles de sport, notamment de vélos neufs et d'occasion, ainsi que tous accessoires (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SOLD Sàrl</name>
+      <uid>CHE-497.629.936</uid>
+      <uidOrganisationId>497629936</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66051270159</code13>
+      <seat>Carouge (GE)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Veyrier</street>
+        <houseNumber>31 BIS</houseNumber>
+        <swissZipCode>1227</swissZipCode>
+        <town>Carouge GE</town>
+      </address>
+    </company>
+    <purpose>exploitation de magasins d'articles de sport, notamment de vélos neufs et d'occasion, ainsi que tous accessoires (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-06-26</lastFoscDate>
+    <lastFoscNumber>121</lastFoscNumber>
+    <lastFoscSequence>2233413</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

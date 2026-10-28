@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>560ca016-3071-47a9-b7e5-e30ba048a87e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005096376</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation FOX Group SA, Satigny</de>
+    <en>Change FOX Group SA, Satigny</en>
+    <it>Cambiamenti FOX Group SA, Satigny</it>
+    <fr>Mutation FOX Group SA, Satigny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2731</journalNumber>
+  <journalDate>2021-02-04</journalDate>
+  <publicationText>FOX Group SA, à Satigny, CHE-330.365.873 (FOSC du 09.01.2020, p. 0/1004800629). L'inscription 270 du 06.01.2020 (FOSC du 09.01.2020) est rectifiée en ce sens que la raison sociale de l'une des sociétés dont les actions ont fait l'objet de l'aport en nature est : "Fiduciaire FISCAL &amp; FACILE SA", (CHE-104.355.247) et non Fiduciaire FISCALE &amp; FACILE SA.</publicationText>
+  <commonsNew>
+    <company>
+      <name>FOX Group SA</name>
+      <uid>CHE-330.365.873</uid>
+      <uidOrganisationId>330365873</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66051220197</code13>
+      <seat>Satigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Mandement</street>
+        <houseNumber>197</houseNumber>
+        <swissZipCode>1242</swissZipCode>
+        <town>Satigny</town>
+      </address>
+    </company>
+    <purpose>dans le sens d'une holding, achat, vente, administration, détention et gestion de participations dans le domaine financier, commercial, industriel et immobilier en Suisse et à l'étranger sous quelque forme que ce soit ainsi que toute tâche se rapportant au but directement ou indirectement, à l'exception des opérations prohibées par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>FOX Group SA</name>
+      <uid>CHE-330.365.873</uid>
+      <uidOrganisationId>330365873</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66051220197</code13>
+      <seat>Satigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Mandement</street>
+        <houseNumber>197</houseNumber>
+        <swissZipCode>1242</swissZipCode>
+        <town>Satigny</town>
+      </address>
+    </company>
+    <purpose>dans le sens d'une holding, achat, vente, administration, détention et gestion de participations dans le domaine financier, commercial, industriel et immobilier en Suisse et à l'étranger sous quelque forme que ce soit ainsi que toute tâche se rapportant au but directement ou indirectement, à l'exception des opérations prohibées par la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>200000.00</nominal>
+      <paid>200000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-01-09</lastFoscDate>
+    <lastFoscNumber>5</lastFoscNumber>
+    <lastFoscSequence>1004800629</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
