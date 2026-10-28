@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>c62ef4f7-cc16-47b5-be08-b40e934107f0</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005092343</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Cours Mathix Sàrl, Lutry</de>
+    <en>Change Cours Mathix Sàrl, Lutry</en>
+    <it>Cambiamenti Cours Mathix Sàrl, Lutry</it>
+    <fr>Mutation Cours Mathix Sàrl, Lutry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2213</journalNumber>
+  <journalDate>2021-02-01</journalDate>
+  <publicationText>Cours Mathix Sàrl, à Lutry, CHE-113.570.483 (FOSC du 04.03.2014, p. 0/1378277). André Bruno, qui est nommé président, cède 6 de ses 20 parts de CHF 1'000 à Gamboa Flores Pablo, du Chili, à Epalinges, nouvel associé-gérant avec signature individuelle, titulaire 6 parts de CHF 1'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Cours Mathix Sàrl</name>
+      <uid>CHE-113.570.483</uid>
+      <uidOrganisationId>113570483</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010502311</code13>
+      <seat>Lutry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Bruno André.</addressLine1>
+        <street>Rue du Village</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>1095</swissZipCode>
+        <town>Lutry</town>
+      </address>
+    </company>
+    <purpose>organisation et direction d'instituts dispensant des cours de rattrapage et de perfectionnement dans les branches des mathématiques et de la physique; organisation d'études surveillées.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Cours Mathix Sàrl</name>
+      <uid>CHE-113.570.483</uid>
+      <uidOrganisationId>113570483</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010502311</code13>
+      <seat>Lutry</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Bruno André.</addressLine1>
+        <street>Rue du Village</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>1095</swissZipCode>
+        <town>Lutry</town>
+      </address>
+    </company>
+    <purpose>organisation et direction d'instituts dispensant des cours de rattrapage et de perfectionnement dans les branches des mathématiques et de la physique; organisation d'études surveillées.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2014-03-04</lastFoscDate>
+    <lastFoscNumber>43</lastFoscNumber>
+    <lastFoscSequence>1378277</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

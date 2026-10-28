@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>cc8758b9-75bb-48c0-b6e2-2ddd9e335540</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005103863</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation NORD FINANCIAL SERVICES SA, Genève</de>
+    <en>Change NORD FINANCIAL SERVICES SA, Genève</en>
+    <it>Cambiamenti NORD FINANCIAL SERVICES SA, Genève</it>
+    <fr>Mutation NORD FINANCIAL SERVICES SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3458</journalNumber>
+  <journalDate>2021-02-12</journalDate>
+  <publicationText>NORD FINANCIAL SERVICES SA, à Genève, CHE-100.910.813 (FOSC du 10.11.2020, p. 0/1005019779). Administration: Leone Tonino, secrétaire, et Davidson Jeffrey, des USA, à Rome, ITA, président, lesquels signent individuellement; les pouvoirs de Leone Tonino sont modifiés en ce sens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>NORD FINANCIAL SERVICES SA</name>
+      <uid>CHE-100.910.813</uid>
+      <uidOrganisationId>100910813</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002329984</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o SOFIREGE SA</addressLine1>
+        <street>rue Ferdinand-Hodler</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>acquisition, souscription, vente, gestion de participations dans les domaines immobiliers, commerciaux et financiers, dans le respect de la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>NORD FINANCIAL SERVICES SA</name>
+      <uid>CHE-100.910.813</uid>
+      <uidOrganisationId>100910813</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66002329984</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o SOFIREGE SA</addressLine1>
+        <street>rue Ferdinand-Hodler</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1207</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>acquisition, souscription, vente, gestion de participations dans les domaines immobiliers, commerciaux et financiers, dans le respect de la LFAIE (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-10</lastFoscDate>
+    <lastFoscNumber>219</lastFoscNumber>
+    <lastFoscSequence>1005019779</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

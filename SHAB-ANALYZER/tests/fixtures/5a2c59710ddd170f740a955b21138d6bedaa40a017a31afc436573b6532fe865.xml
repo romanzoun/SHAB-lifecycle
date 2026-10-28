@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>cc8a0f6f-5b7d-4cbe-96f2-ef67fca1e1b1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005107903</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Gotschna Taxi GmbH, Davos</de>
+    <en>Change Gotschna Taxi GmbH, Davos</en>
+    <it>Cambiamenti Gotschna Taxi GmbH, Davos</it>
+    <fr>Mutation Gotschna Taxi GmbH, Davos</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1267</journalNumber>
+  <journalDate>2021-02-18</journalDate>
+  <publicationText>Gotschna Taxi GmbH, in Davos, CHE-495.974.196, schweizerische Zweigniederlassung (SHAB Nr. 143 vom 26.07.2013, S.0, Publ. 1000471), Hauptsitz in: Klosters-Serneus. Neue Identifikationsnummer Hauptsitz: CHE-404.686.958 [bisher: Identifikationsnummer Hauptsitz: CH-350.4.003.515-7 ]. Hauptsitz neu: Klosters [bisher: Klosters-Serneus]. Bemerkungen zum Hauptsitz neu: [Anpassung des Sitzes infolge Namensänderung der Gemeinde].</publicationText>
+  <commonsNew>
+    <company>
+      <name>Gotschna Taxi GmbH</name>
+      <uid>CHE-495.974.196</uid>
+      <uidOrganisationId>495974196</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35090011433</code13>
+      <seat>Davos</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wildboden</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>7270</swissZipCode>
+        <town>Davos Platz</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Gotschna Taxi GmbH</name>
+      <country>CH</country>
+      <uid>CHE-404.686.958</uid>
+      <uidOrganisationId>404686958</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Gotschna Taxi GmbH</name>
+      <uid>CHE-495.974.196</uid>
+      <uidOrganisationId>495974196</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35090011433</code13>
+      <seat>Davos</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Wildboden</street>
+        <houseNumber>6</houseNumber>
+        <swissZipCode>7270</swissZipCode>
+        <town>Davos Platz</town>
+      </address>
+    </company>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>Gotschna Taxi GmbH</name>
+      <country>CH</country>
+      <uid>CHE-404.686.958</uid>
+      <uidOrganisationId>404686958</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-07-26</lastFoscDate>
+    <lastFoscNumber>143</lastFoscNumber>
+    <lastFoscSequence>1000471</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
