@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>df25c78a-0d3e-4b1e-930f-82e6154a8631</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005089544</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation Otra-Schiffahrt AG in Liquidation, Basel</de>
+    <en>Change Otra-Schiffahrt AG in Liquidation, Basel</en>
+    <it>Cambiamenti Otra-Schiffahrt AG in Liquidation, Basel</it>
+    <fr>Mutation Otra-Schiffahrt AG in Liquidation, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>590</journalNumber>
+  <journalDate>2021-01-28</journalDate>
+  <publicationText>Otra-Schiffahrt AG in Liquidation, in Basel, CHE-108.035.511, Aktiengesellschaft (SHAB Nr. 216 vom 05.11.2020, Publ. 1005015860). Das Zivilgericht Basel-Stadt hat mit Entscheid vom 08.01.2021 die Wiedereintragung der am 02.11.2020 gelöschten Gesellschaft in das Handelsregister angeordnet, Petrus Gerardus Boontjes, niederländischer Staatsangehöriger, in Matzendorf, als Liquidator eingesetzt und folgende Adresse als Liquidationsadresse bestimmt: c/o CONCENTUS SHIPPING AG, Birsigstrasse 4, 4054 Basel.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Otra-Schiffahrt AG in Liquidation</name>
+      <uid>CHE-108.035.511</uid>
+      <uidOrganisationId>108035511</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030042562</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Birsigstr.</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>4054</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Betrieb der Binnenschiffahrt, Kauf, Verkauf, Miete und Vermietung von Schiffen aller Art sowie Abwicklung damit zusammenhängender Geschäfte. Die Gesellschaft kann Handel mit Baustoffen aller Art sowie Umschlags- und Speditionsgeschäfte tätigen und sich an gleichen oder ähnlichen Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Otra-Schiffahrt AG in Liquidation</name>
+      <uid>CHE-108.035.511</uid>
+      <uidOrganisationId>108035511</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030042562</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Birsigstr.</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>4054</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Betrieb der Binnenschiffahrt, Kauf, Verkauf, Miete und Vermietung von Schiffen aller Art sowie Abwicklung damit zusammenhängender Geschäfte. Die Gesellschaft kann Handel mit Baustoffen aller Art sowie Umschlags- und Speditionsgeschäfte tätigen und sich an gleichen oder ähnlichen Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-05</lastFoscDate>
+    <lastFoscNumber>216</lastFoscNumber>
+    <lastFoscSequence>1005015860</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

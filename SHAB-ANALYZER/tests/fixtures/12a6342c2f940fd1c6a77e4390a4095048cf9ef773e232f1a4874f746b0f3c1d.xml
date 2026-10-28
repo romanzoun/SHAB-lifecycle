@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>e23fa23a-5179-4a48-9bdd-f23c4943b433</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005110059</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>AG</cantons>
+  <title>
+    <de>Mutation ESSENTIA AG in Liquidation, Spreitenbach, neu ESSENTIA AG</de>
+    <en>Change ESSENTIA AG in Liquidation, Spreitenbach, new ESSENTIA AG</en>
+    <it>Cambiamenti ESSENTIA AG in Liquidation, Spreitenbach, nuovo ESSENTIA AG</it>
+    <fr>Mutation ESSENTIA AG in Liquidation, Spreitenbach, nouveau ESSENTIA AG</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2400</journalNumber>
+  <journalDate>2021-02-22</journalDate>
+  <publicationText>ESSENTIA AG in Liquidation, in Spreitenbach, CHE-253.745.140, Aktiengesellschaft (SHAB Nr. 250 vom 23.12.2020, Publ. 1005056598). Firma neu: ESSENTIA AG. Mit Verfügung des Obergerichts des Kantons Aargau vom 18.02.2021 wurde das Konkursbegehren aufgehoben. Infolgedessen besteht die Gesellschaft entsprechend den früheren Eintragungen weiter. [bisher: Mit Verfügung des Gerichtspräsidiums Baden vom 15.12.2020 ist über diese Gesellschaft mit Wirkung ab dem 15.12.2020, 10.00 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>ESSENTIA AG</name>
+      <uid>CHE-253.745.140</uid>
+      <uidOrganisationId>253745140</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130164593</code13>
+      <seat>Spreitenbach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fegistrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>8957</swissZipCode>
+        <town>Spreitenbach</town>
+      </address>
+    </company>
+    <purpose>Planung, Bauleitung sowie Bau von Neu- und Umbauten jeglicher Art, im Auftrage Dritter, wie auch als Generalunternehmer; kann alle anderen Arbeiten und Dienstleistungen im Bausektor erbringen, Zweigniederlassungen errichten, sich an anderen Unternehmen beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie Grundstücke erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ESSENTIA AG in Liquidation</name>
+      <uid>CHE-253.745.140</uid>
+      <uidOrganisationId>253745140</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH50130164593</code13>
+      <seat>Spreitenbach</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fegistrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>8957</swissZipCode>
+        <town>Spreitenbach</town>
+      </address>
+    </company>
+    <purpose>Planung, Bauleitung sowie Bau von Neu- und Umbauten jeglicher Art, im Auftrage Dritter, wie auch als Generalunternehmer; kann alle anderen Arbeiten und Dienstleistungen im Bausektor erbringen, Zweigniederlassungen errichten, sich an anderen Unternehmen beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie Grundstücke erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-12-23</lastFoscDate>
+    <lastFoscNumber>250</lastFoscNumber>
+    <lastFoscSequence>1005056598</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Aargau</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

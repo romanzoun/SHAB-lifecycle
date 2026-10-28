@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>e1b58cdc-190c-4cfd-9506-549a896333d7</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005098759</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Entreprise CHAVAZ SA, Veyrier</de>
+    <en>Change Entreprise CHAVAZ SA, Veyrier</en>
+    <it>Cambiamenti Entreprise CHAVAZ SA, Veyrier</it>
+    <fr>Mutation Entreprise CHAVAZ SA, Veyrier</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2943</journalNumber>
+  <journalDate>2021-02-08</journalDate>
+  <publicationText>Entreprise CHAVAZ SA, à Veyrier, CHE-142.084.405 (FOSC du 14.06.2017, p. 0/3579991). Administration: Chavaz Jean-Charles, nommé président, Chavaz Vincent, jusqu'ici directeur, et Chavaz Mathieu, d'Onex, à Veyrier, lesquels signent individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Entreprise CHAVAZ SA</name>
+      <uid>CHE-142.084.405</uid>
+      <uidOrganisationId>142084405</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030950121</code13>
+      <seat>Veyrier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Pas-de-l'Echelle</street>
+        <houseNumber>97</houseNumber>
+        <swissZipCode>1255</swissZipCode>
+        <town>Veyrier</town>
+      </address>
+    </company>
+    <purpose>tous services et prestations dans le domaine du transport, de la manutention, de la gestion et de la commercialisation de granulats, déblais et autres matériaux, ainsi que toutes activités y relatives (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>PKF Fiduciaire SA</name>
+        <country>CH</country>
+        <uid>CHE103327449</uid>
+        <uidOrganisationId>103327449</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Entreprise CHAVAZ SA</name>
+      <uid>CHE-142.084.405</uid>
+      <uidOrganisationId>142084405</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66030950121</code13>
+      <seat>Veyrier</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route du Pas-de-l'Echelle</street>
+        <houseNumber>97</houseNumber>
+        <swissZipCode>1255</swissZipCode>
+        <town>Veyrier</town>
+      </address>
+    </company>
+    <purpose>tous services et prestations dans le domaine du transport, de la manutention, de la gestion et de la commercialisation de granulats, déblais et autres matériaux, ainsi que toutes activités y relatives (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2017-06-14</lastFoscDate>
+    <lastFoscNumber>113</lastFoscNumber>
+    <lastFoscSequence>3579991</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
