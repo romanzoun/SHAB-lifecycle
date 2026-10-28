@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>6c62fe2f-6401-4e1e-9ce1-1ba2bec7e834</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005095100</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Régie du Rhône SA, Lancy</de>
+    <en>Change Régie du Rhône SA, Lancy</en>
+    <it>Cambiamenti Régie du Rhône SA, Lancy</it>
+    <fr>Mutation Régie du Rhône SA, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2621</journalNumber>
+  <journalDate>2021-02-03</journalDate>
+  <publicationText>Régie du Rhône SA, à Lancy, CHE-106.728.862 (FOSC du 12.01.2021, p. 0/1005072053). Signature collective à deux à été conférée à Lenzi Yann, nommé sous-directeur; sa procuration est radiée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Régie du Rhône SA</name>
+      <uid>CHE-106.728.862</uid>
+      <uidOrganisationId>106728862</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66011749909</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Olliquettes</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Petit-Lancy</town>
+      </address>
+    </company>
+    <purpose>gérance d'immeubles, promotion, courtage, achat vente et investissements dans le domaine immobilier, toute activité s'y rapportant.</purpose>
+    <capital>
+      <nominal>3000000.00</nominal>
+      <paid>3000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Régie du Rhône SA</name>
+      <uid>CHE-106.728.862</uid>
+      <uidOrganisationId>106728862</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66011749909</code13>
+      <seat>Lancy</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Olliquettes</street>
+        <houseNumber>10</houseNumber>
+        <swissZipCode>1213</swissZipCode>
+        <town>Petit-Lancy</town>
+      </address>
+    </company>
+    <purpose>gérance d'immeubles, promotion, courtage, achat vente et investissements dans le domaine immobilier, toute activité s'y rapportant.</purpose>
+    <capital>
+      <nominal>3000000.00</nominal>
+      <paid>3000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-01-12</lastFoscDate>
+    <lastFoscNumber>7</lastFoscNumber>
+    <lastFoscSequence>1005072053</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
