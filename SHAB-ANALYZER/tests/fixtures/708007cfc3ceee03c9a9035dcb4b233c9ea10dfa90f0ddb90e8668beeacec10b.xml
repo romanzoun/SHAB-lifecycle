@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>b3e63ed2-32b9-4d38-86ca-d6c26a846ba3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005103677</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Asile des aveugles, Lausanne</de>
+    <en>Change Asile des aveugles, Lausanne</en>
+    <it>Cambiamenti Asile des aveugles, Lausanne</it>
+    <fr>Mutation Asile des aveugles, Lausanne</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3174</journalNumber>
+  <journalDate>2021-02-12</journalDate>
+  <publicationText>Asile des aveugles, à Lausanne, CHE-109.382.412 (FOSC du 28.09.2020, p. 0/1004987402). Nouveau membre du conseil de fondation avec signature collective à deux, pas avec Briod Jean-Denis, Bonard Corinne, Dieu François, Pralong François et Thibaud Jean-Luc: Chapiron-Michel Delphine, de et à Préverenges.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Asile des aveugles</name>
+      <uid>CHE-109.382.412</uid>
+      <uidOrganisationId>109382412</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000970733</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de France</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>lutter contre la cécité et en prévenir ou atténuer les conséquences.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Asile des aveugles</name>
+      <uid>CHE-109.382.412</uid>
+      <uidOrganisationId>109382412</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55000970733</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de France</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1004</swissZipCode>
+        <town>Lausanne</town>
+      </address>
+    </company>
+    <purpose>lutter contre la cécité et en prévenir ou atténuer les conséquences.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-09-28</lastFoscDate>
+    <lastFoscNumber>188</lastFoscNumber>
+    <lastFoscSequence>1004987402</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

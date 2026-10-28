@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>a52ef566-1ff3-45ff-bd8a-68f3e4da633f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005097427</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation GRAU Electricité SA, Monthey</de>
+    <en>Change GRAU Electricité SA, Monthey</en>
+    <it>Cambiamenti GRAU Electricité SA, Monthey</it>
+    <fr>Mutation GRAU Electricité SA, Monthey</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1909</journalNumber>
+  <journalDate>2021-02-05</journalDate>
+  <publicationText>GRAU Electricité SA, à Monthey, CHE-105.758.518, société anonyme (No. FOSC 239 du 07.12.2012, Publ. 6965064). Nouvelle succursale: Troistorrents (CHE-431.807.029) [précédemment: Morgins (Troistorrents)].</publicationText>
+  <commonsNew>
+    <company>
+      <name>GRAU Electricité SA</name>
+      <uid>CHE-105.758.518</uid>
+      <uidOrganisationId>105758518</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130027236</code13>
+      <seat>Monthey</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de l'Industrie</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1870</swissZipCode>
+        <town>Monthey</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise d'installations électriques, d'un magasin de vente d'articles y relatifs ainsi que toute activité mobilière, immobilière, financière et commerciale en relation directe ou indirecte avec ce but</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>GRAU Electricité SA</name>
+      <uid>CHE-105.758.518</uid>
+      <uidOrganisationId>105758518</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62130027236</code13>
+      <seat>Monthey</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de l'Industrie</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>1870</swissZipCode>
+        <town>Monthey</town>
+      </address>
+    </company>
+    <purpose>exploitation d'une entreprise d'installations électriques, d'un magasin de vente d'articles y relatifs ainsi que toute activité mobilière, immobilière, financière et commerciale en relation directe ou indirecte avec ce but</purpose>
+    <capital>
+      <nominal>300000.00</nominal>
+      <paid>300000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2012-12-07</lastFoscDate>
+    <lastFoscNumber>239</lastFoscNumber>
+    <lastFoscSequence>6965064</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Bas-Valais</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
