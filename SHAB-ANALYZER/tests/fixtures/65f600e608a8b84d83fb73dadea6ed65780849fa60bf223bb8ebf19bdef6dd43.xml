@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>842788c0-86db-4d0c-b3b8-f5c70e2b56f4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005101464</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation NESSELL SA, Chêne-Bourg</de>
+    <en>Change NESSELL SA, Chêne-Bourg</en>
+    <it>Cambiamenti NESSELL SA, Chêne-Bourg</it>
+    <fr>Mutation NESSELL SA, Chêne-Bourg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3206</journalNumber>
+  <journalDate>2021-02-10</journalDate>
+  <publicationText>NESSELL SA, à Chêne-Bourg, CHE-171.259.807 (FOSC du 28.04.2015, p. 0/2122625). Signature individuelle a été conférée à Knafo David, maintenant domicilié à Genève; sa procuration est radiée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>NESSELL SA</name>
+      <uid>CHE-171.259.807</uid>
+      <uidOrganisationId>171259807</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007850120</code13>
+      <seat>Chêne-Bourg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Peillonnex</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>1225</swissZipCode>
+        <town>Chêne-Bourg</town>
+      </address>
+    </company>
+    <purpose>toutes opérations immobilières, soit achat, vente, promotions immobilières, courtage et gestion d'actifs immobiliers, à l'exclusion des opérations prohibées par la LFAIE; fabrication, commercialisation, importation ou exportation de produits commerciaux et industriels de tout type (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>NESSELL SA</name>
+      <uid>CHE-171.259.807</uid>
+      <uidOrganisationId>171259807</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66007850120</code13>
+      <seat>Chêne-Bourg</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Peillonnex</street>
+        <houseNumber>37</houseNumber>
+        <swissZipCode>1225</swissZipCode>
+        <town>Chêne-Bourg</town>
+      </address>
+    </company>
+    <purpose>toutes opérations immobilières, soit achat, vente, promotions immobilières, courtage et gestion d'actifs immobiliers, à l'exclusion des opérations prohibées par la LFAIE; fabrication, commercialisation, importation ou exportation de produits commerciaux et industriels de tout type (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-04-28</lastFoscDate>
+    <lastFoscNumber>80</lastFoscNumber>
+    <lastFoscSequence>2122625</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>8a3181ab-c8cf-40d8-8449-5b95b56f40e3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005102471</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation IPSUM Sàrl, Saint-Légier-La Chiésaz</de>
+    <en>Change IPSUM Sàrl, Saint-Légier-La Chiésaz</en>
+    <it>Cambiamenti IPSUM Sàrl, Saint-Légier-La Chiésaz</it>
+    <fr>Mutation IPSUM Sàrl, Saint-Légier-La Chiésaz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3090</journalNumber>
+  <journalDate>2021-02-11</journalDate>
+  <publicationText>IPSUM Sàrl, à Saint-Légier-La Chiésaz, CHE-296.980.904 (FOSC du 25.03.2015, p. 0/2062423). Meldem Christian cède 100 de ses 200 parts de CHF 100 à Meldem Mirian, de Bière, à Saint-Légier-La Chiésaz, nouvelle associée sans signature, avec 100 parts de CHF 100; Meldem Christian reste titulaire de 100 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>IPSUM Sàrl</name>
+      <uid>CHE-296.980.904</uid>
+      <uidOrganisationId>296980904</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011597902</code13>
+      <seat>Saint-Légier-La Chiésaz</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Aveneyres</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>1806</swissZipCode>
+        <town>St-Légier-La Chiésaz</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une bureau d'ingénieurs civils (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>IPSUM Sàrl</name>
+      <uid>CHE-296.980.904</uid>
+      <uidOrganisationId>296980904</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011597902</code13>
+      <seat>Saint-Légier-La Chiésaz</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin des Aveneyres</street>
+        <houseNumber>26</houseNumber>
+        <swissZipCode>1806</swissZipCode>
+        <town>St-Légier-La Chiésaz</town>
+      </address>
+    </company>
+    <purpose>la société a pour but l'exploitation d'une bureau d'ingénieurs civils (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2015-03-25</lastFoscDate>
+    <lastFoscNumber>58</lastFoscNumber>
+    <lastFoscSequence>2062423</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
