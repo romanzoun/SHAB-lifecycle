@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>92889b2f-b573-4c8e-9c42-8eaa6338e12e</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005115827</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Anergis S.A. en liquidation, Epalinges</de>
+    <en>Change Anergis S.A. en liquidation, Epalinges</en>
+    <it>Cambiamenti Anergis S.A. en liquidation, Epalinges</it>
+    <fr>Mutation Anergis S.A. en liquidation, Epalinges</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4297</journalNumber>
+  <journalDate>2021-03-01</journalDate>
+  <publicationText>Anergis S.A. en liquidation, à Epalinges, CHE-109.310.720 (FOSC du 25.01.2021, p. 0/1005082600). Rectificatif: l'inscription n° 1312 du 20.01.2021 (FOSC du 25.01.2021, p. 0/100508260) est rectifiée en ce sens que l'adresse de liquidation exacte est Place Saint-François 7, c/o Carrard Consulting SA, 1003 Lausanne (et non Place de Saint-François 7, c/o Carrard Consulting SA, 1205 Genève, comme publié).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Anergis S.A. en liquidation</name>
+      <uid>CHE-109.310.720</uid>
+      <uidOrganisationId>109310720</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010262839</code13>
+      <seat>Epalinges</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Corniche</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1066</swissZipCode>
+        <town>Epalinges</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Carrard Consulting SA</addressLine1>
+        <street>Place Saint-François</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1003</swissZipCode>
+        <town>Lausanne</town>
+      </liqAddress>
+    </company>
+    <purpose>développement de thérapies anti-allergiques et immunitaires.</purpose>
+    <capital>
+      <nominal>3258847.00</nominal>
+      <paid>3258847.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Anergis S.A. en liquidation</name>
+      <uid>CHE-109.310.720</uid>
+      <uidOrganisationId>109310720</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010262839</code13>
+      <seat>Epalinges</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Corniche</street>
+        <houseNumber>4</houseNumber>
+        <swissZipCode>1066</swissZipCode>
+        <town>Epalinges</town>
+      </address>
+      <liqAddress>
+        <addressLine1>c/o Carrard Consulting SA</addressLine1>
+        <street>Place de Saint-François</street>
+        <houseNumber>7</houseNumber>
+        <swissZipCode>1205</swissZipCode>
+        <town>Genève</town>
+      </liqAddress>
+    </company>
+    <purpose>développement de thérapies anti-allergiques et immunitaires.</purpose>
+    <capital>
+      <nominal>3258847.00</nominal>
+      <paid>3258847.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-01-25</lastFoscDate>
+    <lastFoscNumber>16</lastFoscNumber>
+    <lastFoscSequence>1005082600</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>true</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

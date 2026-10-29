@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>94b8aeb3-dff2-4fd3-9f67-eeb12b605ca3</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005130726</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-23</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SZ</cantons>
+  <title>
+    <de>Mutation Peter Kistler-Hinder, Reichenburg</de>
+    <en>Change Peter Kistler-Hinder, Reichenburg</en>
+    <it>Cambiamenti Peter Kistler-Hinder, Reichenburg</it>
+    <fr>Mutation Peter Kistler-Hinder, Reichenburg</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1739</journalNumber>
+  <journalDate>2021-03-18</journalDate>
+  <publicationText>Peter Kistler-Hinder, in Reichenburg, CHE-110.456.709, Einzelunternehmen (SHAB Nr. 187 vom 26.09.2012, S.0, Publ. 6863942). Vermögensübertragung: Der Geschäftsinhaber überträgt gemäss Vermögensübertragungsvertrag vom 05.03.2021 und Bilanz per 01.01.2021 Aktiven von CHF 806'620.90 und Fremdkapital von CHF 233'862.85 auf die Kistler Gemüsebau AG, in Reichenburg (CHE-136.780.028). Gegenleistung: 100 Namenaktien zu CHF 1'000.00 und eine Gutschrift als Forderung von CHF 472'758.05.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Peter Kistler-Hinder</name>
+      <uid>CHE-110.456.709</uid>
+      <uidOrganisationId>110456709</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13000068321</code13>
+      <seat>Reichenburg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neulandstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>8864</swissZipCode>
+        <town>Reichenburg</town>
+      </address>
+    </company>
+    <purpose>Gemüsebau.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Peter Kistler-Hinder</name>
+      <uid>CHE-110.456.709</uid>
+      <uidOrganisationId>110456709</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH13000068321</code13>
+      <seat>Reichenburg</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Neulandstrasse</street>
+        <houseNumber>1</houseNumber>
+        <swissZipCode>8864</swissZipCode>
+        <town>Reichenburg</town>
+      </address>
+    </company>
+    <purpose>Gemüsebau.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2012-09-26</lastFoscDate>
+    <lastFoscNumber>187</lastFoscNumber>
+    <lastFoscSequence>6863942</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Schwyz</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

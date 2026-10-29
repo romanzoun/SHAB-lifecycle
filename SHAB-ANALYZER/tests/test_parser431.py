@@ -43,7 +43,7 @@ def test_fixture_integrity(digest):
 def test_complete_and_unchanged_old_payloads(index):
     result, old, (args, kwargs) = captured(index)
     added, rest = extract(*args, **kwargs)
-    assert PARSER_VERSION == 432
+    assert PARSER_VERSION == 433
     assert result.status == 'FULLY_PARSED' and result.leftover_text == ''
     assert len(added) == COUNTS[index] and rest == ''
     assert old.leftover_text == args[0]
