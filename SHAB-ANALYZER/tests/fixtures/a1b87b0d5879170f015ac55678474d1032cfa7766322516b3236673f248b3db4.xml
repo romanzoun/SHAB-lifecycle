@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>32916fad-1084-4348-9bee-59e0fdf6e153</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005123059</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Schreinerei Stocker AG, Lalden</de>
+    <en>Change Schreinerei Stocker AG, Lalden</en>
+    <it>Cambiamenti Schreinerei Stocker AG, Lalden</it>
+    <fr>Mutation Schreinerei Stocker AG, Lalden</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>340</journalNumber>
+  <journalDate>2021-03-09</journalDate>
+  <publicationText>Schreinerei Stocker AG, in Lalden, CHE-101.182.795, Aktiengesellschaft (SHAB Nr. 173 vom 07.09.2020, Publ. 1004973483). Die mit Entscheid vom 28.08.2020 gewährte Nachlassstundung wird mit Wirkung ab dem 01.03.2021 um weitere drei Monate bis zum 01.06.2021 verlängert.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Schreinerei Stocker AG</name>
+      <uid>CHE-101.182.795</uid>
+      <uidOrganisationId>101182795</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH60030014634</code13>
+      <seat>Lalden</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chrizigrund</street>
+        <swissZipCode>3931</swissZipCode>
+        <town>Lalden</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Schreinerei und aller damit verwandten oder verbundenen Tätigkeiten. Beteiligung an Betrieben oder an der Errichtung von Gesellschaften, die direkt oder indirekt diesen Zweck verfolgen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Schreinerei Stocker AG</name>
+      <uid>CHE-101.182.795</uid>
+      <uidOrganisationId>101182795</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH60030014634</code13>
+      <seat>Lalden</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chrizigrund</street>
+        <swissZipCode>3931</swissZipCode>
+        <town>Lalden</town>
+      </address>
+    </company>
+    <purpose>Betrieb einer Schreinerei und aller damit verwandten oder verbundenen Tätigkeiten. Beteiligung an Betrieben oder an der Errichtung von Gesellschaften, die direkt oder indirekt diesen Zweck verfolgen.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-09-07</lastFoscDate>
+    <lastFoscNumber>173</lastFoscNumber>
+    <lastFoscSequence>1004973483</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt Oberwallis</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
