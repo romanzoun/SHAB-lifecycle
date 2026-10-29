@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>8f583d0f-8162-4ca6-9205-0ee1ba9e5677</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005116016</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-04</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation WeMaidIT SA, Genève</de>
+    <en>Change WeMaidIT SA, Genève</en>
+    <it>Cambiamenti WeMaidIT SA, Genève</it>
+    <fr>Mutation WeMaidIT SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4556</journalNumber>
+  <journalDate>2021-03-01</journalDate>
+  <publicationText>WeMaidIT SA, à Genève, CHE-277.365.791 (FOSC du 16.06.2020, p. 0/1004912155). L'inscription 4282 du 28.02.2020 (FOSC du 04.03.2020 p. 1004845047) est complétée en ce sens que les actions sont liées selon statuts. Division des 1'000 actions de CHF 100, nominatives, liées selon statuts, en 1'000'000 actions de CHF 0.10. Capital-actions: CHF 100'000, libéré à concurrence de CHF 50'000, divisé en 1'000'000 actions de CHF 0.10, nominatives, liées selon statuts. Statuts modifiés le 22.02.2021.</publicationText>
+  <commonsNew>
+    <company>
+      <name>WeMaidIT SA</name>
+      <uid>CHE-277.365.791</uid>
+      <uidOrganisationId>277365791</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66061620157</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o RF Rhône Finance (Geneva) SA</addressLine1>
+        <street>rue du Mont-Blanc</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>tous conseils en entreprise, notamment dans le domaine juridique, fiscal, fusion, acquisition, organisationnel, IT (information technologie) et structuration d'entreprise (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>WeMaidIT SA</name>
+      <uid>CHE-277.365.791</uid>
+      <uidOrganisationId>277365791</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66061620157</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o RF Rhône Finance (Geneva) SA</addressLine1>
+        <street>rue du Mont-Blanc</street>
+        <houseNumber>14</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>tous conseils en entreprise, notamment dans le domaine juridique, fiscal, fusion, acquisition, organisationnel, IT (information technologie) et structuration d'entreprise (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-16</lastFoscDate>
+    <lastFoscNumber>114</lastFoscNumber>
+    <lastFoscSequence>1004912155</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

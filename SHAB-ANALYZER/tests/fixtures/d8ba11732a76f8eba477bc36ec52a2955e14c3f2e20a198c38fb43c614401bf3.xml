@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>8320d64a-cb7f-4962-a99b-4f6308bc41dd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005114761</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-03</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Leonie AG en liquidation, Crans-Montana</de>
+    <en>Change Leonie AG en liquidation, Crans-Montana</en>
+    <it>Cambiamenti Leonie AG en liquidation, Crans-Montana</it>
+    <fr>Mutation Leonie AG en liquidation, Crans-Montana</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>964</journalNumber>
+  <journalDate>2021-02-26</journalDate>
+  <publicationText>Leonie AG en liquidation, à Crans-Montana, CHE-270.143.456, société anonyme (No. FOSC 37 du 23.02.2021, Publ. 1005108205). Cette raison de commerce a été radiée par erreur sans les autorisations des autorités fiscales, elle est donc réinscrite.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Leonie AG en liquidation</name>
+      <translations>(Leonie SA)</translations>
+      <uid>CHE-270.143.456</uid>
+      <uidOrganisationId>270143456</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630162869</code13>
+      <seat>Crans-Montana</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lens-Crans</street>
+        <houseNumber>124</houseNumber>
+        <swissZipCode>3963</swissZipCode>
+        <town>Crans-Montana</town>
+      </address>
+    </company>
+    <purpose>L'acquisition, l'administration et la vente d'immobilier, en Suisse et à l'étranger, ainsi que de participations à toutes entreprises suisse ou étrangère (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Leonie AG en liquidation</name>
+      <translations>(Leonie SA)</translations>
+      <uid>CHE-270.143.456</uid>
+      <uidOrganisationId>270143456</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH62630162869</code13>
+      <seat>Crans-Montana</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Lens-Crans</street>
+        <houseNumber>124</houseNumber>
+        <swissZipCode>3963</swissZipCode>
+        <town>Crans-Montana</town>
+      </address>
+    </company>
+    <purpose>L'acquisition, l'administration et la vente d'immobilier, en Suisse et à l'étranger, ainsi que de participations à toutes entreprises suisse ou étrangère (cf. statuts pour but complet)</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-02-23</lastFoscDate>
+    <lastFoscNumber>37</lastFoscNumber>
+    <lastFoscSequence>1005108205</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Valais Central</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

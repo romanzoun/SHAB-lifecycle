@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>83290e75-54cb-4874-91d8-130703611082</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005112639</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-01</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Netco SA, Neuchâtel</de>
+    <en>Change Netco SA, Neuchâtel</en>
+    <it>Cambiamenti Netco SA, Neuchâtel</it>
+    <fr>Mutation Netco SA, Neuchâtel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1451</journalNumber>
+  <journalDate>2021-02-24</journalDate>
+  <publicationText>Netco SA, à Neuchâtel, CHE-446.600.997 (FOSC du 16.12.2019, p. 0/1004784544). Administration: Körpe Kemal, président, Chen Ang, et Villena Alcala Oscar Roberto, d'Espagne, à La Chaux-de-Fonds, lesquels signent collectivement à trois. Les pouvoirs de Körpe Kemal et Chen Ang sont modifiés en ce sens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Netco SA</name>
+      <uid>CHE-446.600.997</uid>
+      <uidOrganisationId>446600997</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541204005</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de l'Ecluse</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>acquisition, détention, gestion et aliénation d'immeubles, à l'exception des opérations prohibées par la LFAIE (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Netco SA</name>
+      <uid>CHE-446.600.997</uid>
+      <uidOrganisationId>446600997</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64541204005</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de l'Ecluse</street>
+        <houseNumber>38</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>acquisition, détention, gestion et aliénation d'immeubles, à l'exception des opérations prohibées par la LFAIE (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-16</lastFoscDate>
+    <lastFoscNumber>243</lastFoscNumber>
+    <lastFoscSequence>1004784544</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
