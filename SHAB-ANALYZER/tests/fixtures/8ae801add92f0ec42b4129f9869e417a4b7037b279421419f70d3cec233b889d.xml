@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>02d64754-1d7d-4c91-bbad-a4c0a12039a9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005135264</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-26</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Deban Trading SA, Genève</de>
+    <en>Change Deban Trading SA, Genève</en>
+    <it>Cambiamenti Deban Trading SA, Genève</it>
+    <fr>Mutation Deban Trading SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6298</journalNumber>
+  <journalDate>2021-03-23</journalDate>
+  <publicationText>Deban Trading SA, à Genève, CHE-101.876.840 (FOSC du 22.01.2021, p. 0/1005081505). Administration: Taji-Farouki David, jusqu'ici directeur, nommé président et Weber William, maintenant domicilié à Dardagny, lesquels continuent à signer individuellement.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Deban Trading SA</name>
+      <uid>CHE-101.876.840</uid>
+      <uidOrganisationId>101876840</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004279885</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue de Champel</street>
+        <houseNumber>57</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>commerce de produits industriels et de matières premières, participations dans des sociétés similaires.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Fiduciaire "La Gestion", Renato Di Naccio</name>
+        <country>CH</country>
+        <uid>CHE116029866</uid>
+        <uidOrganisationId>116029866</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Deban Trading SA</name>
+      <uid>CHE-101.876.840</uid>
+      <uidOrganisationId>101876840</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66004279885</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>avenue de Champel</street>
+        <houseNumber>57</houseNumber>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>commerce de produits industriels et de matières premières, participations dans des sociétés similaires.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Fiduciaire "La Gestion", Renato Di Naccio</name>
+        <country>CH</country>
+        <uid>CHE116029866</uid>
+        <uidOrganisationId>116029866</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-01-22</lastFoscDate>
+    <lastFoscNumber>15</lastFoscNumber>
+    <lastFoscSequence>1005081505</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
