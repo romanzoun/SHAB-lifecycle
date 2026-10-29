@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>587092f4-a94a-4795-98dc-19221d828731</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005113565</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-02</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Association Entre &amp; Aide, Morges</de>
+    <en>Change Association Entre &amp; Aide, Morges</en>
+    <it>Cambiamenti Association Entre &amp; Aide, Morges</it>
+    <fr>Mutation Association Entre &amp; Aide, Morges</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4111</journalNumber>
+  <journalDate>2021-02-25</journalDate>
+  <publicationText>Association Entre &amp; Aide, à Morges, CHE-190.260.917 (FOSC du 20.11.2020, p. 0/1005028358). Nouveau membre du comité avec signature collective à deux, avec la présidente ou la vice-présidente: Gay Frank Olivier, de Sion, à Fully, secrétaire.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Association Entre &amp; Aide</name>
+      <uid>CHE-190.260.917</uid>
+      <uidOrganisationId>190260917</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011810423</code13>
+      <seat>Morges</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Triolet</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>l'association a pour but la transmission et la promotion de l'action de se dépasser, d'aller au-delà de ses limites et de ses possibilités dans tous les domaines de la vie, pour avoir une vision différente et bénéfique de sa propre vie; l'association a aussi pour but d'accompagner, de prendre soin de personnes qui sont dans des phases de vie mouvementées (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Association Entre &amp; Aide</name>
+      <uid>CHE-190.260.917</uid>
+      <uidOrganisationId>190260917</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011810423</code13>
+      <seat>Morges</seat>
+      <legalForm>0109</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Chemin du Triolet</street>
+        <houseNumber>2</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>l'association a pour but la transmission et la promotion de l'action de se dépasser, d'aller au-delà de ses limites et de ses possibilités dans tous les domaines de la vie, pour avoir une vision différente et bénéfique de sa propre vie; l'association a aussi pour but d'accompagner, de prendre soin de personnes qui sont dans des phases de vie mouvementées (pour but complet cf. statuts).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-20</lastFoscDate>
+    <lastFoscNumber>227</lastFoscNumber>
+    <lastFoscSequence>1005028358</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>6548ba1a-0fe5-4681-ab13-6a891378f6d8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005125074</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-16</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation ARR ZVEROTIC Quality Management, Uzwil</de>
+    <en>Change ARR ZVEROTIC Quality Management, Uzwil</en>
+    <it>Cambiamenti ARR ZVEROTIC Quality Management, Uzwil</it>
+    <fr>Mutation ARR ZVEROTIC Quality Management, Uzwil</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2695</journalNumber>
+  <journalDate>2021-03-11</journalDate>
+  <publicationText>ARR ZVEROTIC Quality Management, in Uzwil, CHE-185.049.713, Einzelunternehmen (SHAB Nr. 249 vom 22.12.2020, Publ. 1005054984). Mit Entscheid des Kreisgerichts Wil vom 09.03.2021 wurde eine definitive Nachlassstundung für die Dauer von 6 Monaten gewährt. [bisher: Mit Entscheid des Kreisgerichts Wil vom 15.12.2020 wurde eine provisorische Nachlassstundung für die Dauer von 3 Monaten gewährt.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>ARR ZVEROTIC Quality Management</name>
+      <uid>CHE-185.049.713</uid>
+      <uidOrganisationId>185049713</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010891949</code13>
+      <seat>Uzwil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bankstrasse</street>
+        <houseNumber>8a</houseNumber>
+        <swissZipCode>9244</swissZipCode>
+        <town>Niederuzwil</town>
+      </address>
+    </company>
+    <purpose>Projekt- und Qualitätsmanagement (Beratung).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ARR ZVEROTIC Quality Management</name>
+      <uid>CHE-185.049.713</uid>
+      <uidOrganisationId>185049713</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH32010891949</code13>
+      <seat>Uzwil</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Bankstrasse</street>
+        <houseNumber>8a</houseNumber>
+        <swissZipCode>9244</swissZipCode>
+        <town>Niederuzwil</town>
+      </address>
+    </company>
+    <purpose>Projekt- und Qualitätsmanagement (Beratung).</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-12-22</lastFoscDate>
+    <lastFoscNumber>249</lastFoscNumber>
+    <lastFoscSequence>1005054984</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

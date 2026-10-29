@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>5ad80ce0-87ab-4747-8691-bfdc3bb08823</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005130078</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Daniel Campiche S.à r.l., Morges</de>
+    <en>Change Daniel Campiche S.à r.l., Morges</en>
+    <it>Cambiamenti Daniel Campiche S.à r.l., Morges</it>
+    <fr>Mutation Daniel Campiche S.à r.l., Morges</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5266</journalNumber>
+  <journalDate>2021-03-17</journalDate>
+  <publicationText>Daniel Campiche S.à r.l., à Morges, CHE-106.974.384 (FOSC du 22.10.2020, p. 0/1005006217). Triat-Duckert Florence cède 300 de ses 500 parts de CHF 100 à Sprauel Philippe, nouvel associé avec 300 parts de CHF 100. Triat-Duckert Florence reste titulaire de 200 parts de CHF 100.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Daniel Campiche S.à r.l.</name>
+      <uid>CHE-106.974.384</uid>
+      <uidOrganisationId>106974384</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001693834</code13>
+      <seat>Morges</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un commerce de librairie, papeterie, articles de bureaux et tous produits s'y rapportant.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Daniel Campiche S.à r.l.</name>
+      <uid>CHE-106.974.384</uid>
+      <uidOrganisationId>106974384</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001693834</code13>
+      <seat>Morges</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Grand-Rue</street>
+        <houseNumber>66</houseNumber>
+        <swissZipCode>1110</swissZipCode>
+        <town>Morges</town>
+      </address>
+    </company>
+    <purpose>exploitation d'un commerce de librairie, papeterie, articles de bureaux et tous produits s'y rapportant.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-22</lastFoscDate>
+    <lastFoscNumber>206</lastFoscNumber>
+    <lastFoscSequence>1005006217</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
