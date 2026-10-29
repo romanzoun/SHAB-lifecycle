@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>56a3f14f-bde6-4afa-827f-d0141eb0a26b</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005123184</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation DIMENSION SA, Genève</de>
+    <en>Change DIMENSION SA, Genève</en>
+    <it>Cambiamenti DIMENSION SA, Genève</it>
+    <fr>Mutation DIMENSION SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5147</journalNumber>
+  <journalDate>2021-03-09</journalDate>
+  <publicationText>DIMENSION SA, succursale à Genève, CHE-434.338.870, société ayant son siège à Lausanne (FOSC du 19.06.2020, p. 0/1004915689). Le siège principal de la société DIMENSION SA (CHE-114.165.257) a été radié par suite de fusion avec la société Dimension Corporate Finance SA (CHE-102.217.315). Les inscriptions de la succursale sont maintenues selon l'article 112 al. 1 ORC. Nouvelle raison sociale et numéro d'identification du siège principal: DIMENSION SA (CHE-102.217.315).</publicationText>
+  <commonsNew>
+    <company>
+      <name>DIMENSION SA</name>
+      <uid>CHE-434.338.870</uid>
+      <uidOrganisationId>434338870</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66055370152</code13>
+      <seat>Genève</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>quai de l'Ile</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>(cf. siège principal)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+    <headOffice>
+      <name>DIMENSION SA</name>
+      <country>CH</country>
+      <uid>CHE-102.217.315</uid>
+      <uidOrganisationId>102217315</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+    </headOffice>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>DIMENSION SA</name>
+      <uid>CHE-434.338.870</uid>
+      <uidOrganisationId>434338870</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66055370152</code13>
+      <seat>Genève</seat>
+      <legalForm>0151</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>quai de l'Ile</street>
+        <houseNumber>17</houseNumber>
+        <swissZipCode>1204</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>(cf. siège principal)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-06-19</lastFoscDate>
+    <lastFoscNumber>117</lastFoscNumber>
+    <lastFoscSequence>1004915689</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
