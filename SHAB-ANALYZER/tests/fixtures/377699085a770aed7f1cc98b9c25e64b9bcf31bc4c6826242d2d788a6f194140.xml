@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>76bdfbd2-1644-42cf-8de0-aa737e8bd3e8</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005117178</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-05</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation ACUB Sàrl, Lancy</de>
+    <en>Change ACUB Sàrl, Lancy</en>
+    <it>Cambiamenti ACUB Sàrl, Lancy</it>
+    <fr>Mutation ACUB Sàrl, Lancy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4582</journalNumber>
+  <journalDate>2021-03-02</journalDate>
+  <publicationText>ACUB Sàrl, à Lancy, CHE-115.980.544 (FOSC du 13.11.2018, p. 0/1004496963). Roy Camille détient désormais 67 parts de CHF 200 par suite de cession de 33 parts de CHF 200 à Barthole Eric, de France, à Cologny, nouvel associé-gérant pour 33 parts de CHF 200 avec signature individuelle.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ACUB Sàrl</name>
+      <uid>CHE-115.980.544</uid>
+      <uidOrganisationId>115980544</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66021770106</code13>
+      <seat>Lancy</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Pontets</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy</town>
+      </address>
+    </company>
+    <purpose>prestation d'architecture, BIM Building Information Modeling (management, formation etc.), imagerie et modélisation 3D, visites virtuelles, photographie immobilière et toutes activités s'y rapportant (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ACUB Sàrl</name>
+      <uid>CHE-115.980.544</uid>
+      <uidOrganisationId>115980544</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66021770106</code13>
+      <seat>Lancy</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>chemin des Pontets</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1212</swissZipCode>
+        <town>Grand-Lancy</town>
+      </address>
+    </company>
+    <purpose>prestation d'architecture, BIM Building Information Modeling (management, formation etc.), imagerie et modélisation 3D, visites virtuelles, photographie immobilière et toutes activités s'y rapportant (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-11-13</lastFoscDate>
+    <lastFoscNumber>220</lastFoscNumber>
+    <lastFoscSequence>1004496963</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

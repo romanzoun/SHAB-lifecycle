@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>698c6b25-fbc6-4763-816c-a2acaa9567aa</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005120267</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BS</cantons>
+  <title>
+    <de>Mutation TACK Schuh Holding AG in Liquidation, Basel</de>
+    <en>Change TACK Schuh Holding AG in Liquidation, Basel</en>
+    <it>Cambiamenti TACK Schuh Holding AG in Liquidation, Basel</it>
+    <fr>Mutation TACK Schuh Holding AG in Liquidation, Basel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1412</journalNumber>
+  <journalDate>2021-03-05</journalDate>
+  <publicationText>TACK Schuh Holding AG in Liquidation, in Basel, CHE-105.120.066, Aktiengesellschaft (SHAB Nr. 73 vom 17.04.2013, S.0, Publ. 7152278). Das Zivilgericht Basel-Stadt hat mit Entscheid vom 11.02.2021 die Wiedereintragung der am 12.04.2013 gelöschten Gesellschaft in das Handelsregister angeordnet, Roland Meier, von Niederhasli, in Allschwil, als Liquidator eingesetzt und folgende Adresse als Liquidationsadresse bestimmt: c/o RM Unternehmens- &amp; Steuerberatung AG, Herr Roland Meier, Kanonengasse 31, 4051 Basel.</publicationText>
+  <commonsNew>
+    <company>
+      <name>TACK Schuh Holding AG in Liquidation</name>
+      <uid>CHE-105.120.066</uid>
+      <uidOrganisationId>105120066</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030122477</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o COLL-Control AG</addressLine1>
+        <street>Claragraben</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>4058</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Finanzierung, Verwaltung und Kontrolle von Beteiligungen und Vermögenswerten jeder Art. Die Gesellschaft kann sich an ähnlichen Unternehmungen beteiligen und Liegenschaften erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>10000000.00</nominal>
+      <paid>10000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>TACK Schuh Holding AG in Liquidation</name>
+      <uid>CHE-105.120.066</uid>
+      <uidOrganisationId>105120066</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH27030122477</code13>
+      <seat>Basel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o COLL-Control AG</addressLine1>
+        <street>Claragraben</street>
+        <houseNumber>54</houseNumber>
+        <swissZipCode>4058</swissZipCode>
+        <town>Basel</town>
+      </address>
+    </company>
+    <purpose>Erwerb, Finanzierung, Verwaltung und Kontrolle von Beteiligungen und Vermögenswerten jeder Art. Die Gesellschaft kann sich an ähnlichen Unternehmungen beteiligen und Liegenschaften erwerben, verwalten und veräussern.</purpose>
+    <capital>
+      <nominal>10000000.00</nominal>
+      <paid>10000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-04-17</lastFoscDate>
+    <lastFoscNumber>73</lastFoscNumber>
+    <lastFoscSequence>7152278</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>true</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Basel-Stadt</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
