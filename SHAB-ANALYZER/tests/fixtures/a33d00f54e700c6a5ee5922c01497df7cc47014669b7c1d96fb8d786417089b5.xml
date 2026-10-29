@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>ee88f9f4-b95f-4e46-be55-3ff2ca44f37f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005109668</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-02-25</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation Hofstetter's Tuning World, Schüpfheim</de>
+    <en>Change Hofstetter's Tuning World, Schüpfheim</en>
+    <it>Cambiamenti Hofstetter's Tuning World, Schüpfheim</it>
+    <fr>Mutation Hofstetter's Tuning World, Schüpfheim</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1676</journalNumber>
+  <journalDate>2021-02-22</journalDate>
+  <publicationText>Hofstetter's Tuning World, in Schüpfheim, CHE-394.282.132, Einzelunternehmen (SHAB Nr. 205 vom 23.10.2019, Publ. 1004743197). Das Konkursverfahren wurde mit Entscheid vom 12.02.2021 des Bezirksgerichts Willisau als geschlossen erklärt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Hofstetter's Tuning World</name>
+      <uid>CHE-394.282.132</uid>
+      <uidOrganisationId>394282132</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10018078821</code13>
+      <seat>Schüpfheim</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>6170</swissZipCode>
+        <town>Schüpfheim</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Bereich Fahrzeuge, insbesondere Reparaturen, Lackierungen, Transport, Reifenservice; Handel mit Waren aller Art, insbesondere Fahrzeugen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Hofstetter's Tuning World</name>
+      <uid>CHE-394.282.132</uid>
+      <uidOrganisationId>394282132</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10018078821</code13>
+      <seat>Schüpfheim</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Hauptstrasse</street>
+        <houseNumber>16</houseNumber>
+        <swissZipCode>6170</swissZipCode>
+        <town>Schüpfheim</town>
+      </address>
+    </company>
+    <purpose>Erbringung von Dienstleistungen im Bereich Fahrzeuge, insbesondere Reparaturen, Lackierungen, Transport, Reifenservice; Handel mit Waren aller Art, insbesondere Fahrzeugen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-10-23</lastFoscDate>
+    <lastFoscNumber>205</lastFoscNumber>
+    <lastFoscSequence>1004743197</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
