@@ -40,7 +40,7 @@ def test_complete_and_unchanged_legacy_payloads(digest):
     import shab_analyzer.parse as parser
     result, (args, kwargs) = captured(digest)
     added, rest = extract_parser401_leftovers(*args, **kwargs)
-    assert PARSER_VERSION == 441
+    assert PARSER_VERSION == 442
     assert result.status == 'FULLY_PARSED' and not result.leftover_text
     assert len(added) == COUNTS[SUPPLIED_SHA256.index(digest)] and not rest
     with patch.object(parser, 'extract_parser401_leftovers', lambda text, *a, **kw: ([], text)):

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>f61fca6a-9aec-4887-9d44-e6ed42d449b2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005132511</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-24</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS, Lausanne, neu SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS en liquidation</de>
+    <en>Change SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS, Lausanne, new SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS en liquidation</en>
+    <it>Cambiamenti SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS, Lausanne, nuovo SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS en liquidation</it>
+    <fr>Mutation SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS, Lausanne, nouveau SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5514</journalNumber>
+  <journalDate>2021-03-19</journalDate>
+  <publicationText>SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS, à Lausanne, CHE-421.956.863 (FOSC du 20.11.2020, p. 0/1005028417). Par décision du président du Tribunal de l'arrondissement de Lausanne du 26.02.2021, la société a été déclarée dissoute conformément aux articles 154 aORC et 908 CO; sa liquidation a été ordonnée selon les dispositions applicables à la faillite. La raison de commerce devient: SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS en liquidation</name>
+      <uid>CHE-421.956.863</uid>
+      <uidOrganisationId>421956863</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011859640</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>la société a pour but, tant en Suisse qu'à l'étranger, de favoriser par une action et une cohésion commune les intérêts économiques de ses membres, des personnes morales ou physiques par la mise en place et le développement de nouvelles technologies dans le domaine de la finance visant à la sécurisation et au chiffrement de l'information (pour but complet cf. statuts)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SOCIETE COOPERATIVE ITC INTERNATIONAL TECHNOLOGY SWISS</name>
+      <uid>CHE-421.956.863</uid>
+      <uidOrganisationId>421956863</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55011859640</code13>
+      <seat>Lausanne</seat>
+      <legalForm>0108</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>la société a pour but, tant en Suisse qu'à l'étranger, de favoriser par une action et une cohésion commune les intérêts économiques de ses membres, des personnes morales ou physiques par la mise en place et le développement de nouvelles technologies dans le domaine de la finance visant à la sécurisation et au chiffrement de l'information (pour but complet cf. statuts)</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-20</lastFoscDate>
+    <lastFoscNumber>227</lastFoscNumber>
+    <lastFoscSequence>1005028417</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
