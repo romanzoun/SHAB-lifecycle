@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>dd9976c5-f44f-417a-b02b-2b06f1bed86f</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005120681</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation PLCO Pipelines Construction SA, Savigny, neu PLCO Pipelines Construction SA en liquidation</de>
+    <en>Change PLCO Pipelines Construction SA, Savigny, new PLCO Pipelines Construction SA en liquidation</en>
+    <it>Cambiamenti PLCO Pipelines Construction SA, Savigny, nuovo PLCO Pipelines Construction SA en liquidation</it>
+    <fr>Mutation PLCO Pipelines Construction SA, Savigny, nouveau PLCO Pipelines Construction SA en liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4673</journalNumber>
+  <journalDate>2021-03-05</journalDate>
+  <publicationText>PLCO Pipelines Construction SA, à Savigny, CHE-111.697.138 (FOSC du 23.12.2020, p. 0/1005056831). Par arrêt du 26.02.2021, Le président du Tribunal cantonal de la Cour des poursuites et faillites a rejeté le recours, et confirmé le jugement de faillite du 01.12.2020 prend effet le 26.02.201, à 16h00. La raison de commerce redevient PLCO Pipelines Construction SA en liquidation.</publicationText>
+  <commonsNew>
+    <company>
+      <name>PLCO Pipelines Construction SA en liquidation</name>
+      <uid>CHE-111.697.138</uid>
+      <uidOrganisationId>111697138</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010397978</code13>
+      <seat>Savigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Claie-aux-Moines</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1073</swissZipCode>
+        <town>Savigny</town>
+      </address>
+    </company>
+    <purpose>construction, installation et entretien de conduites et de tuyaux pour le transport de tout fluide et d'installations annexes, y compris de tout ouvrage et système d'équipement industriel.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PLCO Pipelines Construction SA</name>
+      <uid>CHE-111.697.138</uid>
+      <uidOrganisationId>111697138</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010397978</code13>
+      <seat>Savigny</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de la Claie-aux-Moines</street>
+        <houseNumber>15</houseNumber>
+        <swissZipCode>1073</swissZipCode>
+        <town>Savigny</town>
+      </address>
+    </company>
+    <purpose>construction, installation et entretien de conduites et de tuyaux pour le transport de tout fluide et d'installations annexes, y compris de tout ouvrage et système d'équipement industriel.</purpose>
+    <capital>
+      <nominal>500000.00</nominal>
+      <paid>500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-12-23</lastFoscDate>
+    <lastFoscNumber>250</lastFoscNumber>
+    <lastFoscSequence>1005056831</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

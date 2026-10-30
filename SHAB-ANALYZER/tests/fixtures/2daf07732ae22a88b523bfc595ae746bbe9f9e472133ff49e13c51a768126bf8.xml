@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>d88b6d38-8b76-4ba5-a3aa-6daff7513531</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005126067</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-17</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation abegglen.net GmbH, Schmitten (FR)</de>
+    <en>Change abegglen.net GmbH, Schmitten (FR)</en>
+    <it>Cambiamenti abegglen.net GmbH, Schmitten (FR)</it>
+    <fr>Mutation abegglen.net GmbH, Schmitten (FR)</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2041</journalNumber>
+  <journalDate>2021-03-12</journalDate>
+  <publicationText>abegglen.net GmbH, in Schmitten FR, CHE-414.236.930 (FOSC du 05.08.2020, p. 0/1004952033). Geslöschte Person: Abegglen Rosa Maria, Gesellschafterin, Geschäftsführerin, Einzelunterschrift. Neu eingetragene Person: Abegglen Heinz, von Ringgenberg BE, in Schmitten FR, Gesellschafter, 200 Stammanteile zu CHF 100, Geschäftsführer, Einzelunterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>abegglen.net GmbH</name>
+      <uid>CHE-414.236.930</uid>
+      <uidOrganisationId>414236930</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735568009</code13>
+      <seat>Schmitten (FR)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pergolastrasse</street>
+        <houseNumber>26 C</houseNumber>
+        <swissZipCode>3185</swissZipCode>
+        <town>Schmitten FR</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Verkauf von Gütern, insbesondere Internetprodukte sowie Erbringung damit zusammenhängender Dienstleistungen (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>abegglen.net GmbH</name>
+      <uid>CHE-414.236.930</uid>
+      <uidOrganisationId>414236930</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735568009</code13>
+      <seat>Schmitten (FR)</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Pergolastrasse</street>
+        <houseNumber>26 C</houseNumber>
+        <swissZipCode>3185</swissZipCode>
+        <town>Schmitten FR</town>
+      </address>
+    </company>
+    <purpose>Handel mit und Verkauf von Gütern, insbesondere Internetprodukte sowie Erbringung damit zusammenhängender Dienstleistungen (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-08-05</lastFoscDate>
+    <lastFoscNumber>150</lastFoscNumber>
+    <lastFoscSequence>1004952033</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
