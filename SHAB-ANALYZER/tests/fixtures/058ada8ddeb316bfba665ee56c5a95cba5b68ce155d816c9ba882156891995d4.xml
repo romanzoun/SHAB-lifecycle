@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>b56355ad-d344-4f3c-820a-7f3d05cbb482</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005123254</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>JU</cantons>
+  <title>
+    <de>Mutation ARTCONCEPT, Gaignat Vincent, Courgenay</de>
+    <en>Change ARTCONCEPT, Gaignat Vincent, Courgenay</en>
+    <it>Cambiamenti ARTCONCEPT, Gaignat Vincent, Courgenay</it>
+    <fr>Mutation ARTCONCEPT, Gaignat Vincent, Courgenay</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>316</journalNumber>
+  <journalDate>2021-03-09</journalDate>
+  <publicationText>ARTCONCEPT, Gaignat Vincent, à Courgenay, CHE-112.336.648, entreprise individuelle (No. FOSC 115 du 18.06.2018, Publ. 4297081). Par décision du 05.03.2021, le Juge civil du Tribunal de Première Instance à Porrentruy a révoqué la faillite du titulaire.</publicationText>
+  <commonsNew>
+    <company>
+      <name>ARTCONCEPT, Gaignat Vincent</name>
+      <uid>CHE-112.336.648</uid>
+      <uidOrganisationId>112336648</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67010036904</code13>
+      <seat>Courgenay</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Sedrac</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>2950</swissZipCode>
+        <town>Courgenay</town>
+      </address>
+    </company>
+    <purpose>Création et entretien de jardins.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>ARTCONCEPT, Gaignat Vincent</name>
+      <uid>CHE-112.336.648</uid>
+      <uidOrganisationId>112336648</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH67010036904</code13>
+      <seat>Courgenay</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Rue Sedrac</street>
+        <houseNumber>25</houseNumber>
+        <swissZipCode>2950</swissZipCode>
+        <town>Courgenay</town>
+      </address>
+    </company>
+    <purpose>Création et entretien de jardins.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-06-18</lastFoscDate>
+    <lastFoscNumber>115</lastFoscNumber>
+    <lastFoscSequence>4297081</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton du Jura</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

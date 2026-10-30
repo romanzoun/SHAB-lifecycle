@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>a6ac5636-319f-494d-b83d-d1aba7399b06</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005128964</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-19</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation SICPA HOLDING SA, Prilly</de>
+    <en>Change SICPA HOLDING SA, Prilly</en>
+    <it>Cambiamenti SICPA HOLDING SA, Prilly</it>
+    <fr>Mutation SICPA HOLDING SA, Prilly</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5200</journalNumber>
+  <journalDate>2021-03-16</journalDate>
+  <publicationText>SICPA HOLDING SA, à Prilly, CHE-103.499.441 (FOSC du 07.12.2020, p. 0/1005041292). Statuts modifiés le 08.03.2021. Les 45'000 bons de participation au porteur de CHF 1 sont convertis en 45'000 bons de participation nominatifs de CHF 1. Suppression des 2 bons de jouissance nominatifs donnant droit à une part du bénéfice net de la société et du produit de liquidation net.</publicationText>
+  <commonsNew>
+    <company>
+      <name>SICPA HOLDING SA</name>
+      <uid>CHE-103.499.441</uid>
+      <uidOrganisationId>103499441</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030207816</code13>
+      <seat>Prilly</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de Florissant</street>
+        <houseNumber>41</houseNumber>
+        <swissZipCode>1008</swissZipCode>
+        <town>Prilly</town>
+      </address>
+    </company>
+    <purpose>prise et gérance de participations dans toute affaire commerciale, industrielle, financière et immobilière; toute activité y relative.</purpose>
+    <capital>
+      <nominal>105000.00</nominal>
+      <paid>105000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Deloitte SA</name>
+        <country>CH</country>
+        <uid>CHE281829115</uid>
+        <uidOrganisationId>281829115</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>SICPA HOLDING SA</name>
+      <uid>CHE-103.499.441</uid>
+      <uidOrganisationId>103499441</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH17030207816</code13>
+      <seat>Prilly</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Avenue de Florissant</street>
+        <houseNumber>41</houseNumber>
+        <swissZipCode>1008</swissZipCode>
+        <town>Prilly</town>
+      </address>
+    </company>
+    <purpose>prise et gérance de participations dans toute affaire commerciale, industrielle, financière et immobilière; toute activité y relative.</purpose>
+    <capital>
+      <nominal>105000.00</nominal>
+      <paid>105000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-12-07</lastFoscDate>
+    <lastFoscNumber>238</lastFoscNumber>
+    <lastFoscSequence>1005041292</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
