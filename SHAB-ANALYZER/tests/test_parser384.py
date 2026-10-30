@@ -36,7 +36,7 @@ def test_complete_and_unchanged_legacy_payloads(digest):
     import shab_analyzer.parse as parser
     result, (args, kwargs) = captured(digest)
     added, rest = extract_parser384_leftovers(*args, **kwargs)
-    assert PARSER_VERSION == 435
+    assert PARSER_VERSION == 436
     assert result.status == 'FULLY_PARSED' and not result.leftover_text
     assert len(added) == (2 if digest[:8] in {'683e006d', 'ee29e5cf'} else 1) and not rest
     with patch.object(parser, 'extract_parser384_leftovers', lambda text, *a, **kw: ([], text)):

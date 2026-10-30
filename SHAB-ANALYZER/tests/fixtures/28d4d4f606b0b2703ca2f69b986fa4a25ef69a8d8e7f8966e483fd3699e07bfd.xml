@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>bf64faac-c147-4b00-b71c-26312ac9aa67</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>it</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005121489</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-11</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutazione dell'ente giuridico indicato è stata riportata nel registro di commercio. &lt;br />Pubblicazione secondo gli articoli 9 e 35 ORC.</legalRemedy>
+  <cantons>GR</cantons>
+  <title>
+    <de>Mutation Fontebella SA in liquidazione, Poschiavo</de>
+    <en>Change Fontebella SA in liquidazione, Poschiavo</en>
+    <it>Cambiamenti Fontebella SA in liquidazione, Poschiavo</it>
+    <fr>Mutation Fontebella SA in liquidazione, Poschiavo</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1601</journalNumber>
+  <journalDate>2021-03-08</journalDate>
+  <publicationText>Fontebella SA in liquidazione, in Poschiavo, CHE-102.714.364, società anonima (Nr. FUSC 52 del 16.03.2020, Pubbl. 1004853375). La liquidazione è terminata. La cancellazione anticipata con conferma di un perito revisore abilitato del 12.11.2020 non può ancora essere effettuata mancando il consenso delle autorità fiscali federali.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fontebella SA in liquidazione</name>
+      <uid>CHE-102.714.364</uid>
+      <uidOrganisationId>102714364</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030006808</code13>
+      <seat>Poschiavo</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Edgaro Marchesi</addressLine1>
+        <street>Vial di Curtin</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>7742</swissZipCode>
+        <town>Poschiavo</town>
+      </address>
+    </company>
+    <purpose>Prevalentemente la partecipazione ad altre imprese industriali o commerciali (Holding) nonchè la eventuale trattazione di affari commerciali, finanziari ed immobiliari, in Isvizzera od all'estero, anche a titolo fiduciario, gestione di stistemi informatici per conto terzi.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fontebella SA in liquidazione</name>
+      <uid>CHE-102.714.364</uid>
+      <uidOrganisationId>102714364</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH35030006808</code13>
+      <seat>Poschiavo</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Edgaro Marchesi</addressLine1>
+        <street>Vial di Curtin</street>
+        <houseNumber>18</houseNumber>
+        <swissZipCode>7742</swissZipCode>
+        <town>Poschiavo</town>
+      </address>
+    </company>
+    <purpose>Prevalentemente la partecipazione ad altre imprese industriali o commerciali (Holding) nonchè la eventuale trattazione di affari commerciali, finanziari ed immobiliari, in Isvizzera od all'estero, anche a titolo fiduciario, gestione di stistemi informatici per conto terzi.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-03-16</lastFoscDate>
+    <lastFoscNumber>52</lastFoscNumber>
+    <lastFoscSequence>1004853375</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Grundbuchinspektorat und Handelsregister (GIHA)</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>bcd19a34-fdfb-4d5d-9d3c-57d642b14aa9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005127647</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-18</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Innovative Care Holding SA, Neuchâtel</de>
+    <en>Change Innovative Care Holding SA, Neuchâtel</en>
+    <it>Cambiamenti Innovative Care Holding SA, Neuchâtel</it>
+    <fr>Mutation Innovative Care Holding SA, Neuchâtel</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1676</journalNumber>
+  <journalDate>2021-03-15</journalDate>
+  <publicationText>Innovative Care Holding SA, à Neuchâtel, CHE-115.792.296 (FOSC du 27.08.2020, p. 0/1004966416). reprise des actifs et passifs de "Innovative Care SA" (CHE-115.1785.531), à Nyon, selon contrat de fusion du 03.02.2021 et bilan intermédiaire au 30.09.2020, présentant des actifs de CHF 110'694.56, des passifs envers les tiers de CHF 138'765.07, soit un excédent de passifs de CHF 28'070.51. Conformément aux attestations d'un expert-réviseur agréé, la société reprenante dispose de fonds propres librement disponibles équivalent au moins au montant du découvert, et des créances ont été postposées d'un montant au moins équivalent au surendettement. Reprise des actifs et passifs de "Innovative Care Properties SA" (CHE-115.172.567), à Nyon, selon contrat de fusion du 03.02.2021 et bilan intermédiaire au 30.09.2020, présentant des actifs de CHF 104'032.45 et des passifs envers les tiers de CHF 73'441.05, soit un actif net de CHF 30'591.40. La société reprenante détenant l'ensemble des actions des sociétés transférantes, la fusion ne donne pas lieu à une augmentation du capital, ni à une attribution d'actions.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Innovative Care Holding SA</name>
+      <uid>CHE-115.792.296</uid>
+      <uidOrganisationId>115792296</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010708685</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>faubourg de l'Hôpital</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>prise de participations, à l'exclusion des opérations prohibées par la LFAIE (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Innovative Care Holding SA</name>
+      <uid>CHE-115.792.296</uid>
+      <uidOrganisationId>115792296</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010708685</code13>
+      <seat>Neuchâtel</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>faubourg de l'Hôpital</street>
+        <houseNumber>19</houseNumber>
+        <swissZipCode>2000</swissZipCode>
+        <town>Neuchâtel</town>
+      </address>
+    </company>
+    <purpose>prise de participations, à l'exclusion des opérations prohibées par la LFAIE (pour but complet, cf. statuts).</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-08-27</lastFoscDate>
+    <lastFoscNumber>166</lastFoscNumber>
+    <lastFoscSequence>1004966416</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>bde29ca4-091d-49bc-98c7-48b0cc4c9531</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005120786</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-10</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Family Office Yves Pinot, Genève</de>
+    <en>Change Family Office Yves Pinot, Genève</en>
+    <it>Cambiamenti Family Office Yves Pinot, Genève</it>
+    <fr>Mutation Family Office Yves Pinot, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4915</journalNumber>
+  <journalDate>2021-03-05</journalDate>
+  <publicationText>Family Office Yves Pinot, à Genève, CHE-112.804.738 (FOSC du 17.09.2020, p. 0/1004980956). Selon jugement du Tribunal de première instance du 25.02.2021, octroi d'un sursis concordataire définitif jusqu'au 31.05.2021.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Family Office Yves Pinot</name>
+      <uid>CHE-112.804.738</uid>
+      <uidOrganisationId>112804738</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66033360141</code13>
+      <seat>Genève</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Malagnou</street>
+        <houseNumber>38 a</houseNumber>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>assurer la gouvernance familiale, aider la famille à définir ses valeurs et les inscrire dans des projets; mise en valeur du patrimoine immobilier, financement, investissement, transactions immobilières; achat, vente, planification fiscale, audit, service personnalisé, coaching.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Family Office Yves Pinot</name>
+      <uid>CHE-112.804.738</uid>
+      <uidOrganisationId>112804738</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66033360141</code13>
+      <seat>Genève</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de Malagnou</street>
+        <houseNumber>38 a</houseNumber>
+        <swissZipCode>1208</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>assurer la gouvernance familiale, aider la famille à définir ses valeurs et les inscrire dans des projets; mise en valeur du patrimoine immobilier, financement, investissement, transactions immobilières; achat, vente, planification fiscale, audit, service personnalisé, coaching.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-09-17</lastFoscDate>
+    <lastFoscNumber>181</lastFoscNumber>
+    <lastFoscSequence>1004980956</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
