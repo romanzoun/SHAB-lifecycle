@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>c2fde88a-33c4-479d-9fa7-4d0f888238a2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005123060</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-03-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>VS</cantons>
+  <title>
+    <de>Mutation Val Agro Service GmbH in Liquidation, Turtmann-Unterems</de>
+    <en>Change Val Agro Service GmbH in Liquidation, Turtmann-Unterems</en>
+    <it>Cambiamenti Val Agro Service GmbH in Liquidation, Turtmann-Unterems</it>
+    <fr>Mutation Val Agro Service GmbH in Liquidation, Turtmann-Unterems</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>341</journalNumber>
+  <journalDate>2021-03-09</journalDate>
+  <publicationText>Berichtigung des im SHAB Nr. 37 vom 23.02.2021, S. 0, publizierten TR-Eintrages Nr. 234 vom 18.02.2021 Val Agro Service GmbH in Liquidation, in Turtmann-Unterems, CHE-146.464.706, Gesellschaft mit beschränkter Haftung (SHAB Nr. 37 vom 23.02.2021, Publ. 1005108152). Mit Entscheid vom 17.02.2021 wurde das summarische Konkursverfahren gemäss Art. 231 SchKG angeordnet. [nicht: Mit Entscheid vom 13.11.2020 wurde das summarische Konkursverfahren gemäss Art. 231 SchKG angeordnet.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Val Agro Service GmbH in Liquidation</name>
+      <uid>CHE-146.464.706</uid>
+      <uidOrganisationId>146464706</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH60040144997</code13>
+      <seat>Turtmann-Unterems</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Kantonsstrasse</street>
+        <houseNumber>39</houseNumber>
+        <swissZipCode>3946</swissZipCode>
+        <town>Turtmann</town>
+      </address>
+    </company>
+    <purpose>Erbringen von Dienstleistungen jeder Art an Drittbetriebe in der Landwirtschaft. Die Gesellschaft kann Zweigniederlassungen eröffnen oder sich an ähnlichen Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>30000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Val Agro Service GmbH in Liquidation</name>
+      <uid>CHE-146.464.706</uid>
+      <uidOrganisationId>146464706</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH60040144997</code13>
+      <seat>Turtmann-Unterems</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Kantonsstrasse</street>
+        <houseNumber>39</houseNumber>
+        <swissZipCode>3946</swissZipCode>
+        <town>Turtmann</town>
+      </address>
+    </company>
+    <purpose>Erbringen von Dienstleistungen jeder Art an Drittbetriebe in der Landwirtschaft. Die Gesellschaft kann Zweigniederlassungen eröffnen oder sich an ähnlichen Unternehmungen beteiligen.</purpose>
+    <capital>
+      <nominal>30000.00</nominal>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-02-23</lastFoscDate>
+    <lastFoscNumber>37</lastFoscNumber>
+    <lastFoscSequence>1005108152</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt Oberwallis</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
