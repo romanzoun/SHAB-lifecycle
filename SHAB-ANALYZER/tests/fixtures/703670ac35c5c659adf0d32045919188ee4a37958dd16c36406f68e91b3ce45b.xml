@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>00e1f210-841f-49c9-9e94-0f72981765b4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005150664</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-15</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Fondation Musée du Crest, Jussy</de>
+    <en>Change Fondation Musée du Crest, Jussy</en>
+    <it>Cambiamenti Fondation Musée du Crest, Jussy</it>
+    <fr>Mutation Fondation Musée du Crest, Jussy</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7516</journalNumber>
+  <journalDate>2021-04-12</journalDate>
+  <publicationText>Fondation Musée du Crest, à Jussy, CHE-284.344.268 (FOSC du 31.03.2021, p. 0/1005139200). L'inscription n° 6589 du 26.03.2021 est rectifiée en ce sens que tous les membres du conseil de fondation signent individuellement et non collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation Musée du Crest</name>
+      <uid>CHE-284.344.268</uid>
+      <uidOrganisationId>284344268</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005390215</code13>
+      <seat>Jussy</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Château-du-Crest</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>1254</swissZipCode>
+        <town>Jussy</town>
+      </address>
+    </company>
+    <purpose>La fondation a pour but la création et l'exploitation d'un musée dédié aux artistes genevois. La fondation peut effectuer toute opération se rapportant directement ou indirectement à son but. La fondation n'a aucun but lucratif ni aucun caractère politique, confessionnel ou gouvernemental.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation Musée du Crest</name>
+      <uid>CHE-284.344.268</uid>
+      <uidOrganisationId>284344268</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66005390215</code13>
+      <seat>Jussy</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route du Château-du-Crest</street>
+        <houseNumber>46</houseNumber>
+        <swissZipCode>1254</swissZipCode>
+        <town>Jussy</town>
+      </address>
+    </company>
+    <purpose>La fondation a pour but la création et l'exploitation d'un musée dédié aux artistes genevois. La fondation peut effectuer toute opération se rapportant directement ou indirectement à son but. La fondation n'a aucun but lucratif ni aucun caractère politique, confessionnel ou gouvernemental.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-03-31</lastFoscDate>
+    <lastFoscNumber>63</lastFoscNumber>
+    <lastFoscSequence>1005139200</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
