@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>28665afb-8ecd-414c-b659-775274c94022</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005146978</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Fondation du Refuge SPA de Saint-Légier-La Chiésaz, Saint-Légier-La Chiésaz</de>
+    <en>Change Fondation du Refuge SPA de Saint-Légier-La Chiésaz, Saint-Légier-La Chiésaz</en>
+    <it>Cambiamenti Fondation du Refuge SPA de Saint-Légier-La Chiésaz, Saint-Légier-La Chiésaz</it>
+    <fr>Mutation Fondation du Refuge SPA de Saint-Légier-La Chiésaz, Saint-Légier-La Chiésaz</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>6794</journalNumber>
+  <journalDate>2021-04-07</journalDate>
+  <publicationText>Fondation du Refuge SPA de Saint-Légier-La Chiésaz, à Saint-Légier-La Chiésaz, CHE-110.442.630 (FOSC du 28.07.2020, p. 0/1004946944). Jaton Bernard est nommé président, Fahrni Albert-Edouard est nommé secrétaire, et Jaton Jérôme est nommé trésorier.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fondation du Refuge SPA de Saint-Légier-La Chiésaz</name>
+      <uid>CHE-110.442.630</uid>
+      <uidOrganisationId>110442630</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010242103</code13>
+      <seat>Saint-Légier-La Chiésaz</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Fenil</street>
+        <houseNumber>62</houseNumber>
+        <swissZipCode>1806</swissZipCode>
+        <town>St-Légier-Chiésaz</town>
+      </address>
+    </company>
+    <purpose>activités relatives à la protection et au bien-être des animaux.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fondation du Refuge SPA de Saint-Légier-La Chiésaz</name>
+      <uid>CHE-110.442.630</uid>
+      <uidOrganisationId>110442630</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010242103</code13>
+      <seat>Saint-Légier-La Chiésaz</seat>
+      <legalForm>0110</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Route de Fenil</street>
+        <houseNumber>62</houseNumber>
+        <swissZipCode>1806</swissZipCode>
+        <town>St-Légier-Chiésaz</town>
+      </address>
+    </company>
+    <purpose>activités relatives à la protection et au bien-être des animaux.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-07-28</lastFoscDate>
+    <lastFoscNumber>144</lastFoscNumber>
+    <lastFoscSequence>1004946944</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
