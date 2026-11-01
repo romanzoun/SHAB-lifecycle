@@ -356,6 +356,7 @@ from .parser451 import extract_parser451_leftovers
 from .parser452 import extract_parser452_leftovers
 from .parser455 import extract_parser455_leftovers
 from .parser456 import extract_parser456_leftovers
+from .parser457 import extract_parser457_leftovers, needs_legacy_restriction_pass
 from .parser453 import extract_parser453_leftovers
 from .parser454 import (
     extract_parser454_leftovers, _FR_TWO_FOREIGN_MEMBERS_COLLECTIVE_LATE,
@@ -3200,6 +3201,19 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
         meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
     )
+    parser457_legacy_restriction_events = []
+    if needs_legacy_restriction_pass(leftover, meta.get("language")):
+        parser457_legacy_restriction_events, leftover = extract_parser60_leftovers(
+            leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+            meta.get("org_uid"), meta.get("plz"), meta.get("canton"),
+        )
+        parser457_legacy_restriction_events = [
+            event for event in parser457_legacy_restriction_events if event not in parser60_events
+        ]
+    parser457_events, leftover = extract_parser457_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
+    )
     events = (
         xml_events
         + person_events
@@ -3547,6 +3561,8 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser454_events
         + parser455_events
         + parser456_events
+        + parser457_legacy_restriction_events
+        + parser457_events
         + parser320_events
         + parser319_events
         + parser318_events
