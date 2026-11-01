@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>4186620c-1450-4103-a727-6d07d7f74804</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005145715</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Novo Cristal S.A., La Chaux-de-Fonds</de>
+    <en>Change Novo Cristal S.A., La Chaux-de-Fonds</en>
+    <it>Cambiamenti Novo Cristal S.A., La Chaux-de-Fonds</it>
+    <fr>Mutation Novo Cristal S.A., La Chaux-de-Fonds</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1960</journalNumber>
+  <journalDate>2021-04-06</journalDate>
+  <publicationText>Novo Cristal S.A., à La Chaux-de-Fonds, CHE-102.320.031 (FOSC du 30.12.2019, p. 0/1004795873). Administration: Dalloz Philippe, nommé président, et Donzé Damien Adrien, de et à Les Breuleux, lesquels signent collectivement à deux; les pouvoirs du président sont modifiés en ce sens.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Novo Cristal S.A.</name>
+      <uid>CHE-102.320.031</uid>
+      <uidOrganisationId>102320031</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510002239</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de l'Helvétie</street>
+        <houseNumber>277</houseNumber>
+        <swissZipCode>2300</swissZipCode>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>fabrication et commerce de verres de montres, de machines et outillages.</purpose>
+    <capital>
+      <nominal>875000.00</nominal>
+      <paid>875000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Novo Cristal S.A.</name>
+      <uid>CHE-102.320.031</uid>
+      <uidOrganisationId>102320031</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510002239</code13>
+      <seat>La Chaux-de-Fonds</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de l'Helvétie</street>
+        <houseNumber>277</houseNumber>
+        <town>La Chaux-de-Fonds</town>
+      </address>
+    </company>
+    <purpose>fabrication et commerce de verres de montres, de machines et outillages.</purpose>
+    <capital>
+      <nominal>875000.00</nominal>
+      <paid>875000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2019-12-30</lastFoscDate>
+    <lastFoscNumber>251</lastFoscNumber>
+    <lastFoscSequence>1004795873</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
