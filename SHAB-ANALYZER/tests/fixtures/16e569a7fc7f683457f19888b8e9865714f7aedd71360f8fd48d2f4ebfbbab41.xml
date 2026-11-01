@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>3a783a82-0ff3-471a-9142-a1ccdc62a38c</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005140706</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-06</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>BE</cantons>
+  <title>
+    <de>Mutation Idealbau AG, Thunstetten</de>
+    <en>Change Idealbau AG, Thunstetten</en>
+    <it>Cambiamenti Idealbau AG, Thunstetten</it>
+    <fr>Mutation Idealbau AG, Thunstetten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>5265</journalNumber>
+  <journalDate>2021-03-30</journalDate>
+  <publicationText>Idealbau AG, in Thunstetten, CHE-105.790.657, Aktiengesellschaft (SHAB Nr. 229 vom 24.11.2020, Publ. 1005029957). Vermögensübertragung: Die Gesellschaft überträgt gemäss Vermögensübertragungsvertrag vom 18.03.2021 und Inventar per 01.01.2021 Aktiven von CHF 5'746'424.35 und Passiven (Fremdkapital) von CHF 3'964'241.83 auf die Idealbau Architektur AG, in Thunstetten (CHE-418'198.725). Gegenleistung: CHF 1'852'182.50.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Idealbau AG</name>
+      <uid>CHE-105.790.657</uid>
+      <uidOrganisationId>105790657</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH05330032252</code13>
+      <seat>Thunstetten</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schlossstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>4922</swissZipCode>
+        <town>Bützberg</town>
+      </address>
+    </company>
+    <purpose>Erstellung von Hochbauten aller Art, insbesondere von Wohnhäusern "IDEALBAU", sowie An- und Verkauf von Liegenschaften und Grundstücken. Die Gesellschaft kann Zweigniederlassungen im In- und Ausland errichten, Immobilien und Grundstücke erwerben, veräussern und verwalten. Ein allfälliger Nebenzweck ist aus den Statuten ersichtlich.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Idealbau AG</name>
+      <uid>CHE-105.790.657</uid>
+      <uidOrganisationId>105790657</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH05330032252</code13>
+      <seat>Thunstetten</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Schlossstrasse</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>4922</swissZipCode>
+        <town>Bützberg</town>
+      </address>
+    </company>
+    <purpose>Erstellung von Hochbauten aller Art, insbesondere von Wohnhäusern "IDEALBAU", sowie An- und Verkauf von Liegenschaften und Grundstücken. Die Gesellschaft kann Zweigniederlassungen im In- und Ausland errichten, Immobilien und Grundstücke erwerben, veräussern und verwalten. Ein allfälliger Nebenzweck ist aus den Statuten ersichtlich.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-11-24</lastFoscDate>
+    <lastFoscNumber>229</lastFoscNumber>
+    <lastFoscSequence>1005029957</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Bern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
