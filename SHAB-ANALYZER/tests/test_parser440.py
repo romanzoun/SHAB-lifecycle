@@ -43,7 +43,7 @@ def test_fixture_integrity(digest):
 def test_complete_and_unchanged_old_payloads(index):
     result, old, (args, kwargs) = captured(index)
     added, rest = extract(*args, **kwargs)
-    assert PARSER_VERSION == 453
+    assert PARSER_VERSION == 454
     assert result.status == 'FULLY_PARSED' and result.leftover_text == ''
     assert len(added) == COUNTS[index] and rest == ''
     assert old.leftover_text == args[0]
@@ -107,7 +107,7 @@ def test_existing_formulations_retain_historical_ownership(index, owner):
     assert expected[0] or expected[1] != owned_args[0]
     assert extract(*args, **kwargs) == ([], args[0])
     assert result == old
-    assert result.status == 'PARTIALLY_PARSED'
+    assert result.status == old.status
     assert old_extract(*owned_args) == expected
 
 
