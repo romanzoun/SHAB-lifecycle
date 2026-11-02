@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>481e4314-265c-4538-a30d-c97c960a8e78</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005155835</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-21</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Sedifo SA, en liquidation, Genève</de>
+    <en>Change Sedifo SA, en liquidation, Genève</en>
+    <it>Cambiamenti Sedifo SA, en liquidation, Genève</it>
+    <fr>Mutation Sedifo SA, en liquidation, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7919</journalNumber>
+  <journalDate>2021-04-16</journalDate>
+  <publicationText>Sedifo SA, en liquidation, à Genève, CHE-100.078.729 (FOSC du 08.04.2021, p. 0/1005144433). L'inscription no 7146 du 01.04.2021 est complétée en ce sens que les 50 actions de CHF 1'000 ont été divisées en 50'000 actions de CHF 1. Capital-actions: CHF 50'000, libéré à concurrence de CHF 50'000, divisé en 50'000 actions de CHF 1, nominatives, liées selon statuts.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Sedifo SA, en liquidation</name>
+      <uid>CHE-100.078.729</uid>
+      <uidOrganisationId>100078729</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001069704</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Lausanne</street>
+        <houseNumber>17 bis</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>achat, vente et gestion de biens mobiliers et immobiliers, acquisition, exploitation et aliénation de brevets, licences et procédés, ainsi que participation à toutes entreprises commerciales, financières ou industrielles, à l'exclusion de participations immobilières en Suisse.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Sedifo SA, en liquidation</name>
+      <uid>CHE-100.078.729</uid>
+      <uidOrganisationId>100078729</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66001069704</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue de Lausanne</street>
+        <houseNumber>17 bis</houseNumber>
+        <swissZipCode>1201</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>achat, vente et gestion de biens mobiliers et immobiliers, acquisition, exploitation et aliénation de brevets, licences et procédés, ainsi que participation à toutes entreprises commerciales, financières ou industrielles, à l'exclusion de participations immobilières en Suisse.</purpose>
+    <capital>
+      <nominal>50000.00</nominal>
+      <paid>50000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-04-08</lastFoscDate>
+    <lastFoscNumber>67</lastFoscNumber>
+    <lastFoscSequence>1005144433</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
