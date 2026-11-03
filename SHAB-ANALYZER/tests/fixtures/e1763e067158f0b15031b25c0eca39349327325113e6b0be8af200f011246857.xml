@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>4cb4a9e8-6c93-4a02-8aa3-c5db3606a7cd</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005143423</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-08</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>LU</cantons>
+  <title>
+    <de>Mutation STARIMO INVESTMENT AG, Meggen</de>
+    <en>Change STARIMO INVESTMENT AG, Meggen</en>
+    <it>Cambiamenti STARIMO INVESTMENT AG, Meggen</it>
+    <fr>Mutation STARIMO INVESTMENT AG, Meggen</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>3060</journalNumber>
+  <journalDate>2021-04-01</journalDate>
+  <publicationText>STARIMO INVESTMENT AG, in Meggen, CHE-101.079.832, Aktiengesellschaft (SHAB Nr. 57 vom 23.03.2021, Publ. 1005130682). Mit der TR-Nr. 2359 vom 15.03.2021 wurde vom Handelsregister Luzern ein unzutreffender Zweck der Gesellschaft in das Handelsregister eingetragen. Es handelt sich dabei um ein offensichtliches Versehen des Handelsregisters Luzern. Der unzutreffende Zweck wurde mit TR-Nr. 2513 vom 18.03.2021 im Sinne der Handelsregisteranmeldung der Gesellschaft berichtigt.</publicationText>
+  <commonsNew>
+    <company>
+      <name>STARIMO INVESTMENT AG</name>
+      <uid>CHE-101.079.832</uid>
+      <uidOrganisationId>101079832</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10030225937</code13>
+      <seat>Meggen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Luzernerstrasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>6045</swissZipCode>
+        <town>Meggen</town>
+      </address>
+    </company>
+    <purpose>Immobilien- und Generalunternehmung; Beteiligungen; Finanzierungen; Handel mit Waren aller Art.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>STARIMO INVESTMENT AG</name>
+      <uid>CHE-101.079.832</uid>
+      <uidOrganisationId>101079832</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH10030225937</code13>
+      <seat>Meggen</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Luzernerstrasse</street>
+        <houseNumber>8</houseNumber>
+        <swissZipCode>6045</swissZipCode>
+        <town>Meggen</town>
+      </address>
+    </company>
+    <purpose>Immobilien- und Generalunternehmung; Beteiligungen; Finanzierungen; Handel mit Waren aller Art.</purpose>
+    <capital>
+      <nominal>1000000.00</nominal>
+      <paid>1000000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-03-23</lastFoscDate>
+    <lastFoscNumber>57</lastFoscNumber>
+    <lastFoscSequence>1005130682</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Handelsregisteramt des Kantons Luzern</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
