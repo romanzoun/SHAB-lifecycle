@@ -63,7 +63,7 @@ def test_payload_and_absent_optional_attributes():
                    payload={'kind': 'conditional_capital_clause', 'action': 'introduced'})
     assert Event(**vars(legacy)) == legacy
     assert 'previous_kind' not in legacy.payload
-    assert PARSER_VERSION == 503
+    assert PARSER_VERSION == 504
 
 
 @pytest.mark.parametrize('text,language,source', [
