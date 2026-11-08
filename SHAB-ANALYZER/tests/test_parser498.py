@@ -42,15 +42,18 @@ def test_pipeline_preserves_existing_events(index):
     added, rest = extract(*args, **kwargs)
     if index == 4:
         assert len(added) == 1
-        assert result.events == old.events + added
-        assert result.leftover_text == rest.strip(' .')
+        later = list(result.events)
+        for event in old.events + added:
+            later.remove(event)
+        assert all(event.rule_id != added[0].rule_id for event in later)
+        assert rest.strip(' .').endswith(result.leftover_text)
     else:
         assert (added, rest) == ([], args[0])
         assert result == old
 
 
 def test_payload_and_optional_metadata():
-    assert PARSER_VERSION == 498
+    assert PARSER_VERSION == 499
     _, _, (args, kwargs) = captured(4)
     events, rest = extract(*args, **kwargs)
     assert len(events) == 1
