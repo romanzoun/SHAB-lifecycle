@@ -395,6 +395,8 @@ from .parser496 import extract_parser496_leftovers
 from .parser497 import extract_parser497_leftovers
 from .parser498 import extract_parser498_leftovers
 from .parser499 import extract_parser499_leftovers
+from .parser500 import extract_parser500_leftovers
+from .parser80 import _DE_CONDITIONAL_PARTICIPATION_CAPITAL
 from .parser460 import extract_parser460_leftovers
 from .parser459 import extract_parser459_leftovers
 from .parser458 import extract_parser458_leftovers
@@ -3424,6 +3426,18 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
         meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
     )
+    # Parser499 can expose a complete clause after its historical owner ran.
+    # Reuse parser80's exact pattern and preserve its original event/payload.
+    parser500_legacy_events = []
+    if meta.get("language") == 'de' and _DE_CONDITIONAL_PARTICIPATION_CAPITAL.fullmatch(leftover.strip()):
+        parser500_legacy_events, leftover = extract_parser80_leftovers(
+            leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+            meta.get("org_uid"), meta.get("plz"), meta.get("canton"),
+        )
+    parser500_events, leftover = extract_parser500_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"), source_text=text,
+    )
     events = (
         xml_events
         + person_events
@@ -3811,6 +3825,8 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser497_events
         + parser498_events
         + parser499_events
+        + parser500_legacy_events
+        + parser500_events
         + parser469_events
         + parser463_events
         + parser462_events
