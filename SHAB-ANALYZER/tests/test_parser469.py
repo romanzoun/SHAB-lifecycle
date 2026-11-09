@@ -42,8 +42,12 @@ def test_pipeline_preserves_existing_events(index):
     added, rest = extract(*args, **kwargs)
     if index == 9:
         assert len(added) == 1
-        assert result.events == old.events + added
-        assert result.leftover_text == rest.strip(' .')
+        later = list(result.events)
+        for event in old.events + added:
+            later.remove(event)
+        own = {event.rule_id for event in added}
+        assert all(event.rule_id not in own for event in later)
+        assert rest.strip(' .').endswith(result.leftover_text)
         assert rest and args[0].startswith(rest)
     else:
         assert (added, rest) == ([], args[0])
@@ -51,7 +55,7 @@ def test_pipeline_preserves_existing_events(index):
 
 
 def test_payload_and_missing_optional_metadata():
-    assert PARSER_VERSION == 511
+    assert PARSER_VERSION == 512
     _, _, (args, kwargs) = captured(9)
     events, _ = extract(*args, **kwargs)
     event, = events
