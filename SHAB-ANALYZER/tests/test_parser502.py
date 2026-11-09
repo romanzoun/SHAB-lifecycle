@@ -63,7 +63,7 @@ def test_payload_and_absent_optional_attributes():
     legacy = Event('legacy', '', 'ownership_changed', 'legacy', payload={'action': 'partial_transfer'})
     assert Event(**vars(legacy)) == legacy
     assert 'origin' not in legacy.payload
-    assert PARSER_VERSION == 512
+    assert PARSER_VERSION == 513
 
 
 @pytest.mark.parametrize('text,language', [
