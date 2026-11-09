@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>943be786-8610-486b-9c30-e24e1ee4b1f1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005156824</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-22</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>VD</cantons>
+  <title>
+    <de>Mutation Grupac S.A., Lutry</de>
+    <en>Change Grupac S.A., Lutry</en>
+    <it>Cambiamenti Grupac S.A., Lutry</it>
+    <fr>Mutation Grupac S.A., Lutry</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>7585</journalNumber>
+  <journalDate>2021-04-19</journalDate>
+  <publicationText>Grupac S.A., à Lutry, CHE-106.512.204 (FOSC du 26.03.2021, p. 0/1005135061). DECIMUS Bureau fiduciaire Sàrl (CHE-389.472.141) qui se nomme maintenant Milleis Audit Sàrl (CHE-389.472.141), est désormais à Pully.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Grupac S.A.</name>
+      <uid>CHE-106.512.204</uid>
+      <uidOrganisationId>106512204</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001306891</code13>
+      <seat>Lutry</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>La Conversion, rte de La Conversion, centre comm. Apal</street>
+        <swissZipCode>1093</swissZipCode>
+        <town>La Conversion</town>
+      </address>
+    </company>
+    <purpose>commerce de produits, en particulier vente de machines et outillages pour l'industrie de l'emballage.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+      <revisionCompany>
+        <name>Milleis Audit Sàrl</name>
+        <country>CH</country>
+        <uid>CHE389472141</uid>
+        <uidOrganisationId>389472141</uidOrganisationId>
+        <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      </revisionCompany>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Grupac S.A.</name>
+      <uid>CHE-106.512.204</uid>
+      <uidOrganisationId>106512204</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55001306891</code13>
+      <seat>Lutry</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>La Conversion, rte de La Conversion, centre comm. Apal</street>
+        <swissZipCode>1093</swissZipCode>
+        <town>La Conversion</town>
+      </address>
+    </company>
+    <purpose>commerce de produits, en particulier vente de machines et outillages pour l'industrie de l'emballage.</purpose>
+    <capital>
+      <nominal>100000.00</nominal>
+      <paid>100000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-03-26</lastFoscDate>
+    <lastFoscNumber>60</lastFoscNumber>
+    <lastFoscSequence>1005135061</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Vaud</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
