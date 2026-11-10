@@ -74,7 +74,7 @@ def canonical_clauses():
 def test_payload_compatibility_and_missing_optional_metadata():
     from shab_analyzer.parser87 import extract_parser87_leftovers
     from shab_analyzer.parser288 import extract_parser288_leftovers
-    assert PARSER_VERSION == 519
+    assert PARSER_VERSION == 520
     _, _, (args, kwargs) = captured(1)
     new, rest = extract(*args, **kwargs)
     old = []
