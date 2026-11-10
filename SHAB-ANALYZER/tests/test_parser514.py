@@ -70,7 +70,7 @@ def test_payload_and_missing_optional_attributes():
     assert Event(**vars(legacy)) == legacy
     assert 'heimat' not in legacy.payload
     assert legacy.role is legacy.signing is None
-    assert PARSER_VERSION == 516
+    assert PARSER_VERSION == 517
 
 
 def test_no_old_rule_owns_input():
