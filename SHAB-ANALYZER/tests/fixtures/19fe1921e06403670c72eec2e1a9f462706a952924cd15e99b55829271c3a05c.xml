@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>9c75f05e-b8b1-49f3-85de-a0cc175b2354</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005145138</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Rohrbach Markus GmbH, Courtepin, neu Rohrbach Markus GmbH in Liquidation</de>
+    <en>Change Rohrbach Markus GmbH, Courtepin, new Rohrbach Markus GmbH in Liquidation</en>
+    <it>Cambiamenti Rohrbach Markus GmbH, Courtepin, nuovo Rohrbach Markus GmbH in Liquidation</it>
+    <fr>Mutation Rohrbach Markus GmbH, Courtepin, nouveau Rohrbach Markus GmbH in Liquidation</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2589</journalNumber>
+  <journalDate>2021-04-06</journalDate>
+  <publicationText>Rohrbach Markus GmbH, in Courtepin, CHE-115.594.543 (SHAB vom 19.12.2013, s. 0/7225828). Die Gesellschaft wird gemäss Beschluss der Gesellschafterversammlung vom 30.03.2021 aufgelöst. Neue Firma: Rohrbach Markus GmbH in Liquidation. Eingetragene Person geändert: Rohrbach Markus, Gesellschafter, Geschäftsführer, Einzelunterschrift, neu Gesellschafter, Geschäftsführer, Liquidator, Einzelunterschrift.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Rohrbach Markus GmbH in Liquidation</name>
+      <uid>CHE-115.594.543</uid>
+      <uidOrganisationId>115594543</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735444941</code13>
+      <seat>Courtepin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Champ de la Croix</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1784</swissZipCode>
+        <town>Courtepin</town>
+      </address>
+    </company>
+    <purpose>Ausführung von sämtlichen Schreinerarbeiten. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Rohrbach Markus GmbH</name>
+      <uid>CHE-115.594.543</uid>
+      <uidOrganisationId>115594543</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735444941</code13>
+      <seat>Courtepin</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Champ de la Croix</street>
+        <houseNumber>5</houseNumber>
+        <swissZipCode>1784</swissZipCode>
+        <town>Courtepin</town>
+      </address>
+    </company>
+    <purpose>Ausführung von sämtlichen Schreinerarbeiten. (Nebenzweck gemäss Statuten).</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2013-12-19</lastFoscDate>
+    <lastFoscNumber>246</lastFoscNumber>
+    <lastFoscSequence>7225828</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
