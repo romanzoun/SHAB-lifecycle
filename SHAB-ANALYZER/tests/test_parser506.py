@@ -58,7 +58,7 @@ def test_payload_and_optional_attributes():
     legacy = Event('legacy', '', 'capital_changed', 'legacy', payload={})
     assert Event(**vars(legacy)) == legacy
     assert 'share_kind' not in legacy.payload
-    assert PARSER_VERSION == 518
+    assert PARSER_VERSION == 519
 
 
 def test_no_old_rule_owns_input():
