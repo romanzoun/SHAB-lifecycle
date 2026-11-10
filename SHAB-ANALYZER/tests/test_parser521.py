@@ -68,7 +68,7 @@ def test_payload_and_missing_optional_attributes():
                               'legacy_registry_id': 'CH-300.9.123.456-7'}
     assert Event(**vars(legacy)) == legacy
     assert 'registration_date' not in legacy.payload
-    assert PARSER_VERSION == 522
+    assert PARSER_VERSION == 523
 
 
 def test_no_existing_rule_owns_input():
