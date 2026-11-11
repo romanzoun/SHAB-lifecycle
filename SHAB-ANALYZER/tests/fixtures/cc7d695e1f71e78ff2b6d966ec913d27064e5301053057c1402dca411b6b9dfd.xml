@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>aaabd3ed-9536-4009-81a3-baa6f4a088f2</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005166091</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation Sept Finance SA, Genève</de>
+    <en>Change Sept Finance SA, Genève</en>
+    <it>Cambiamenti Sept Finance SA, Genève</it>
+    <fr>Mutation Sept Finance SA, Genève</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8751</journalNumber>
+  <journalDate>2021-04-27</journalDate>
+  <publicationText>Sept Finance SA, à Genève, CHE-261.309.189 (FOSC du 20.10.2020, p. 0/1005004194). Koch Lafont Caroline, jusqu'ici administratrice, maintenant membre de la direction, continue à signer collectivement à deux.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Sept Finance SA</name>
+      <uid>CHE-261.309.189</uid>
+      <uidOrganisationId>261309189</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66054550153</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Albert-Gos</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1206</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>toute étude en matière de placement de capitaux, gestion de fortune, ainsi que toute opération financière, économique ou commerciale, tant pour son compte que pour le compte de tiers et l'exécution de tout mandat fiduciaire; prise et gestion de participations, sous une forme quelconque, à toutes entreprises commerciales, financières et industrielles (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>1500000.00</nominal>
+      <paid>1500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Sept Finance SA</name>
+      <uid>CHE-261.309.189</uid>
+      <uidOrganisationId>261309189</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66054550153</code13>
+      <seat>Genève</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>rue Albert-Gos</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>1206</swissZipCode>
+        <town>Genève</town>
+      </address>
+    </company>
+    <purpose>toute étude en matière de placement de capitaux, gestion de fortune, ainsi que toute opération financière, économique ou commerciale, tant pour son compte que pour le compte de tiers et l'exécution de tout mandat fiduciaire; prise et gestion de participations, sous une forme quelconque, à toutes entreprises commerciales, financières et industrielles (cf. statuts pour but complet).</purpose>
+    <capital>
+      <nominal>1500000.00</nominal>
+      <paid>1500000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-10-20</lastFoscDate>
+    <lastFoscNumber>204</lastFoscNumber>
+    <lastFoscSequence>1005004194</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
