@@ -55,7 +55,7 @@ def test_pipeline_preserves_existing_events(index):
 
 
 def test_legacy_owner_and_missing_optional_metadata():
-    assert PARSER_VERSION == 527
+    assert PARSER_VERSION == 528
     text = ('Die Gesellschaft hat mit Beschluss vom 07.04.2021 eine bedingte Erhöhung '
             'des Partizipationskapitals gemäss näherer Umschreibung in den Statuten beschlossen')
     args = ('de', 'fixture', '', None, None, None)
