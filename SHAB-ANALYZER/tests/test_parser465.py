@@ -62,7 +62,7 @@ def test_pipeline_preserves_existing_events(index):
 
 def test_payload_compatibility_and_optional_attributes():
     from shab_analyzer.parser226 import extract_parser226_leftovers
-    assert PARSER_VERSION == 529
+    assert PARSER_VERSION == 530
     _, _, (args, kwargs) = captured(10)
     new, rest = extract(*args, **kwargs)
     canonical = args[0].replace(', président et', ' et').replace(', secrétaire,', ',')
