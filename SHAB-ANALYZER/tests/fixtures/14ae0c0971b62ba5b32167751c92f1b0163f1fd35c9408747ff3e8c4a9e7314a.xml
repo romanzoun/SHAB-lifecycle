@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>b75783b6-f3e0-449b-9a29-ea83ef56cff9</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005153787</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation EWMS Technomanagement GmbH, Plaffeien</de>
+    <en>Change EWMS Technomanagement GmbH, Plaffeien</en>
+    <it>Cambiamenti EWMS Technomanagement GmbH, Plaffeien</it>
+    <fr>Mutation EWMS Technomanagement GmbH, Plaffeien</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2791</journalNumber>
+  <journalDate>2021-04-15</journalDate>
+  <publicationText>EWMS Technomanagement GmbH, in Plaffeien, CHE-107.579.211 (SHAB vom 11.03.2021, s. 0/1005121252). Die Gesellschaft ist nicht mehr an Plötscha 82, c/o Dietmar Poll, 1716 Oberschrot, domiziliert.</publicationText>
+  <commonsNew>
+    <company>
+      <name>EWMS Technomanagement GmbH</name>
+      <uid>CHE-107.579.211</uid>
+      <uidOrganisationId>107579211</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706407358</code13>
+      <seat>Plaffeien</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>true</noAddress>
+    </company>
+    <purpose>Beratung, Engineering, Bau und Betrieb von technischen Anlagen, Handel mit Technologiekomponenten, insbesondere auf dem Gebiet der Kunststofftechnik, des Metall- und Flugzeugbaus. Sie kann alle Finanz- und Handelsgeschäftes tätigen die zur Entwicklung beitragen können.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>EWMS Technomanagement GmbH</name>
+      <uid>CHE-107.579.211</uid>
+      <uidOrganisationId>107579211</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21706407358</code13>
+      <seat>Plaffeien</seat>
+      <legalForm>0107</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <addressLine1>c/o Dietmar Poll</addressLine1>
+        <street>Plötscha</street>
+        <houseNumber>82</houseNumber>
+        <swissZipCode>1716</swissZipCode>
+        <town>Oberschrot</town>
+      </address>
+    </company>
+    <purpose>Beratung, Engineering, Bau und Betrieb von technischen Anlagen, Handel mit Technologiekomponenten, insbesondere auf dem Gebiet der Kunststofftechnik, des Metall- und Flugzeugbaus. Sie kann alle Finanz- und Handelsgeschäftes tätigen die zur Entwicklung beitragen können.</purpose>
+    <capital>
+      <nominal>20000.00</nominal>
+      <paid>20000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-03-11</lastFoscDate>
+    <lastFoscNumber>49</lastFoscNumber>
+    <lastFoscSequence>1005121252</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
