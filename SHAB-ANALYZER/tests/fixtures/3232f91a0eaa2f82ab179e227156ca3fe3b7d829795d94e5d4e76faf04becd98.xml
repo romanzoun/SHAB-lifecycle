@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.12/HR02-export.xsd">
+<meta>
+  <id>b7fd2da8-1bc6-4af7-9adc-81cf6ab705f4</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005166079</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-30</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>GE</cantons>
+  <title>
+    <de>Mutation PICTET &amp; PARTNERS, Cologny</de>
+    <en>Change PICTET &amp; PARTNERS, Cologny</en>
+    <it>Cambiamenti PICTET &amp; PARTNERS, Cologny</it>
+    <fr>Mutation PICTET &amp; PARTNERS, Cologny</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>8740</journalNumber>
+  <journalDate>2021-04-27</journalDate>
+  <publicationText>PICTET &amp; PARTNERS, à Cologny, CHE-416.770.749 (FOSC du 29.09.2020, p. 0/1004988641). Nouvelle associée commanditaire : Fondation du Groupe Pictet (CHE-242.674.582), à Carouge (GE), avec une commandite de: CHF 30'000'000.</publicationText>
+  <commonsNew>
+    <company>
+      <name>PICTET &amp; PARTNERS</name>
+      <uid>CHE-416.770.749</uid>
+      <uidOrganisationId>416770749</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66015160131</code13>
+      <seat>Cologny</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de la Capite</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1223</swissZipCode>
+        <town>Cologny</town>
+      </address>
+    </company>
+    <purpose>prise de participations directes dans des sociétés actives principalement dans le domaine financier.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>PICTET &amp; PARTNERS</name>
+      <uid>CHE-416.770.749</uid>
+      <uidOrganisationId>416770749</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH66015160131</code13>
+      <seat>Cologny</seat>
+      <legalForm>0104</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>route de la Capite</street>
+        <houseNumber>13</houseNumber>
+        <swissZipCode>1223</swissZipCode>
+        <town>Cologny</town>
+      </address>
+    </company>
+    <purpose>prise de participations directes dans des sociétés actives principalement dans le domaine financier.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-09-29</lastFoscDate>
+    <lastFoscNumber>189</lastFoscNumber>
+    <lastFoscSequence>1004988641</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Genève</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
