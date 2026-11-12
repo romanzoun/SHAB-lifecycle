@@ -62,7 +62,7 @@ def test_payload_and_legacy_schema():
     legacy = Event('legacy', '', 'address_changed', 'legacy', payload={'kind': 'other_address'})
     assert Event(**vars(legacy)) == legacy
     assert 'notice_ref' not in legacy.payload
-    assert PARSER_VERSION == 538
+    assert PARSER_VERSION == 539
 
 
 def test_no_old_rule_owns_input():

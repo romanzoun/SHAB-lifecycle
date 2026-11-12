@@ -74,7 +74,7 @@ def test_payload_and_missing_optional_attributes():
     assert 'ordinary_count' not in legacy.payload
     assert 'voting_count' not in legacy.payload
     assert Event(**vars(legacy)) == legacy
-    assert PARSER_VERSION == 538
+    assert PARSER_VERSION == 539
 
 
 def test_context():
