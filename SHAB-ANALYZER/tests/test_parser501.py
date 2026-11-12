@@ -65,7 +65,7 @@ def test_annotation_payload_and_missing_optional_metadata():
     assert Event(**vars(legacy)) == legacy
     assert 'official_change' not in legacy.payload
     assert 'previous_place' not in legacy.payload
-    assert PARSER_VERSION == 537
+    assert PARSER_VERSION == 538
 
 
 @pytest.mark.parametrize('text', [
