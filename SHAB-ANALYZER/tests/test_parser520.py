@@ -71,7 +71,7 @@ def test_payload_and_missing_optional_attributes():
     assert Event(**vars(event)) == event
     assert 'new_place' not in old[0].payload
     assert Event(**vars(old[0])) == old[0]
-    assert PARSER_VERSION == 539
+    assert PARSER_VERSION == 540
 
 
 def test_no_existing_rule_owns_input():

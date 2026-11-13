@@ -63,7 +63,7 @@ def test_payload_and_optional_attributes():
     legacy = Event('legacy', '', 'assets_transferred', 'legacy', payload={'consideration': 'aucune'})
     assert Event(**vars(legacy)) == legacy
     assert 'consideration_kind' not in legacy.payload
-    assert PARSER_VERSION == 539
+    assert PARSER_VERSION == 540
 
 
 def test_no_old_rule_owns_input():
