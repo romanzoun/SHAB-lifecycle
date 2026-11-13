@@ -68,7 +68,7 @@ def test_payload_and_missing_optional_attributes():
     legacy = Event('old', '', 'address_changed', 'legacy', payload={'action': 'removed'})
     assert Event(**vars(legacy)) == legacy
     assert 'previous' not in legacy.payload
-    assert PARSER_VERSION == 542
+    assert PARSER_VERSION == 543
 
 
 def test_no_existing_rule_owns_target():

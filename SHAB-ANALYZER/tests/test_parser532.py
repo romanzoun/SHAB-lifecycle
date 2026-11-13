@@ -72,7 +72,7 @@ def test_payload_and_legacy_optional_attributes():
     legacy = Event('old', '', 'status_changed', 'legacy', payload={'kind': 'registration_reinstated'})
     assert Event(**vars(legacy)) == legacy
     assert 'previous' not in legacy.payload
-    assert PARSER_VERSION == 542
+    assert PARSER_VERSION == 543
 
 
 def test_no_existing_rule_owns_target():
