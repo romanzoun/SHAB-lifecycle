@@ -65,7 +65,7 @@ def test_payload_and_missing_optional_attributes():
     assert 'previous_contribution' not in legacy.payload
     assert 'previous_acquisition' not in legacy.payload
     assert extract(target_text(), *ARGS, source_text=target_text()) == (events, rest)
-    assert PARSER_VERSION == 545
+    assert PARSER_VERSION == 546
 
 
 def test_no_existing_rule_owns_input():

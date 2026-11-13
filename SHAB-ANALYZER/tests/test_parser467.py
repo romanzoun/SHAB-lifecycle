@@ -50,7 +50,7 @@ def test_pipeline_preserves_existing_events(index):
 
 
 def test_payload_and_missing_optional_metadata():
-    assert PARSER_VERSION == 545
+    assert PARSER_VERSION == 546
     _, _, (args, kwargs) = captured(2)
     events, rest = extract(*args, **kwargs)
     assert rest == '' and len(events) == 1

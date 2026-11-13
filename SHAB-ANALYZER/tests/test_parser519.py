@@ -99,7 +99,7 @@ def test_payload_and_missing_optional_attributes():
     assert Event(**vars(event)) == event
     assert 'transfer_restricted' not in old[0].payload
     assert Event(**vars(old[0])) == old[0]
-    assert PARSER_VERSION == 545
+    assert PARSER_VERSION == 546
 
 
 @pytest.mark.parametrize('before,after', [
