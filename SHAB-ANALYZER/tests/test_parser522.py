@@ -61,7 +61,7 @@ def test_payload_and_optional_attributes():
     }
     assert event.org_uid is event.plz is event.canton is None
     assert Event(**vars(event)) == event
-    assert PARSER_VERSION == 540
+    assert PARSER_VERSION == 541
 
 
 def test_no_existing_rule_owns_input():
