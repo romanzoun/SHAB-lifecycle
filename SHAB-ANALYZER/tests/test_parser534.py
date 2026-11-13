@@ -70,7 +70,7 @@ def test_payload_and_missing_optional_attributes():
     legacy = Event('old', '', 'officer_changed', 'legacy', payload={'name': 'Legacy'})
     assert Event(**vars(legacy)) == legacy
     assert 'limited_partnership_contribution' not in legacy.payload
-    assert PARSER_VERSION == 544
+    assert PARSER_VERSION == 545
 
 
 def test_no_existing_rule_owns_target():
