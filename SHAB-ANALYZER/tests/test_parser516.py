@@ -64,7 +64,7 @@ def test_payload_and_missing_optional_attributes():
     legacy = Event('legacy', '', 'status_changed', 'legacy', payload={'action': 'extended'})
     assert Event(**vars(legacy)) == legacy
     assert 'commissioner_mandate_extended' not in legacy.payload
-    assert PARSER_VERSION == 546
+    assert PARSER_VERSION == 547
 
 
 def test_no_old_rule_owns_input():

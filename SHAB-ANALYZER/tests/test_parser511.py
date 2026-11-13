@@ -74,7 +74,7 @@ def test_payload_and_missing_optional_attributes():
         'kind': 'composition_moratorium_extended', 'until': '2021-05-14'})
     assert Event(**vars(legacy)) == legacy
     assert 'publication_order_date' not in legacy.payload
-    assert PARSER_VERSION == 546
+    assert PARSER_VERSION == 547
 
 
 def test_no_old_rule_owns_input():

@@ -74,7 +74,7 @@ def test_payload_and_missing_optional_attributes():
         assert Event(**vars(legacy)) == legacy
         assert 'notice_date' not in legacy.payload and 'notice_ref' not in legacy.payload
     assert extract(target_text(), *ARGS, source_text=source_text()) == (events, rest)
-    assert PARSER_VERSION == 546
+    assert PARSER_VERSION == 547
 
 
 def test_context():
