@@ -56,7 +56,7 @@ def test_pipeline_and_payload_preservation(index):
         assert result == old
 
 def test_exact_events_and_version():
-    assert PARSER_VERSION == 549
+    assert PARSER_VERSION == 550
     _, _, (args, kwargs) = captured(4)
     events, rest = extract(*args, **kwargs)
     assert rest == ''
