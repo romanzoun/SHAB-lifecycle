@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>d40af269-23ec-4b1d-8f33-7d243c69d353</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005145125</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-09</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>FR</cantons>
+  <title>
+    <de>Mutation Fallah Consulting, Murten</de>
+    <en>Change Fallah Consulting, Murten</en>
+    <it>Cambiamenti Fallah Consulting, Murten</it>
+    <fr>Mutation Fallah Consulting, Murten</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2578</journalNumber>
+  <journalDate>2021-04-06</journalDate>
+  <publicationText>Fallah Consulting, in Murten, CHE-392.686.926 (SHAB vom 25.03.2021, s. 0/1005133198). Der Eintrag Nr. 2273 vom 22.03.2021 (SHAB vom 25.03.2021, Id 1005133198) ist wie folgt berichtigt: Fallah Khalil, Inhaber, Einzelunterschrift (und nicht Fallah Kahalil).</publicationText>
+  <commonsNew>
+    <company>
+      <name>Fallah Consulting</name>
+      <uid>CHE-392.686.926</uid>
+      <uidOrganisationId>392686926</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735766148</code13>
+      <seat>Murten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Paganaweg</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren und Gütern, insbesondere Pumpen und Armaturen sowie das Erbrinen von Service-, Wartungs- und Beratungsdienstleistungen in diesen Bereichen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Fallah Consulting</name>
+      <uid>CHE-392.686.926</uid>
+      <uidOrganisationId>392686926</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH21735766148</code13>
+      <seat>Murten</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Paganaweg</street>
+        <houseNumber>3</houseNumber>
+        <swissZipCode>3280</swissZipCode>
+        <town>Murten</town>
+      </address>
+    </company>
+    <purpose>Handel mit Waren und Gütern, insbesondere Pumpen und Armaturen sowie das Erbrinen von Service-, Wartungs- und Beratungsdienstleistungen in diesen Bereichen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-03-25</lastFoscDate>
+    <lastFoscNumber>59</lastFoscNumber>
+    <lastFoscSequence>1005133198</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Fribourg</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
