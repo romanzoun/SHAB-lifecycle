@@ -66,7 +66,7 @@ def test_payload_and_missing_optional_attributes():
     assert Event(**vars(legacy)) == legacy
     assert 'previous_role' not in legacy.payload and 'signing_continued' not in legacy.payload
     assert extract(target_text(), *ARGS, source_text=target_text()) == (events, rest)
-    assert PARSER_VERSION == 550
+    assert PARSER_VERSION == 551
 
 
 def test_no_existing_rule_owns_input():
