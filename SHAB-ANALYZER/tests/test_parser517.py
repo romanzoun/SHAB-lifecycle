@@ -59,7 +59,7 @@ def test_payload_and_missing_optional_attributes():
     legacy = Event('legacy', '', 'officer_changed', 'legacy', payload={'name': 'Example'})
     assert Event(**vars(legacy)) == legacy
     assert 'previous_name' not in legacy.payload
-    assert PARSER_VERSION == 563
+    assert PARSER_VERSION == 564
 
 
 def test_no_old_rule_owns_input():

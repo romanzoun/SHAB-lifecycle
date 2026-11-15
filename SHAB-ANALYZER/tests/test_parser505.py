@@ -61,7 +61,7 @@ def test_payload_and_optional_attributes():
     legacy = Event('legacy', '', 'officer_changed', 'legacy', payload={'name': 'Example'})
     assert Event(**vars(legacy)) == legacy
     assert 'entry_date' not in legacy.payload
-    assert PARSER_VERSION == 563
+    assert PARSER_VERSION == 564
 
 
 def test_no_old_rule_owns_input():

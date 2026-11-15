@@ -72,7 +72,7 @@ def test_payload_and_missing_optional_attributes():
     assert Event(**vars(legacy)) == legacy
     assert legacy.role is legacy.signing is None
     assert 'decision_date' not in legacy.payload
-    assert PARSER_VERSION == 563
+    assert PARSER_VERSION == 564
 
 
 def test_no_old_rule_owns_input():
