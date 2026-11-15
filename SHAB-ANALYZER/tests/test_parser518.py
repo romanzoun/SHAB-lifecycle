@@ -71,7 +71,7 @@ def test_payload_and_missing_optional_attributes(digest):
     legacy = Event('legacy', '', 'organization_changed', 'legacy', payload={'action': 'legacy'})
     assert Event(**vars(legacy)) == legacy
     assert 'transfer_restriction' not in legacy.payload
-    assert PARSER_VERSION == 556
+    assert PARSER_VERSION == 557
 
 
 @pytest.mark.parametrize('digest', sorted(TARGETS))
