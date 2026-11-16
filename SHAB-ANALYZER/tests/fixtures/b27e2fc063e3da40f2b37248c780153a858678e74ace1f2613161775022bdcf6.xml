@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>e318212e-a608-4ef8-8fc5-ce5c3a115933</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>de</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005162635</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-28</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>Die Mutation der aufgeführten Rechtseinheit wurde im Handelsregister vorgenommen. &lt;br />Publikation nach HRegV Art. 9 und Art. 35.</legalRemedy>
+  <cantons>SG</cantons>
+  <title>
+    <de>Mutation Teezze Esta, Sonja Inetas, Rheineck</de>
+    <en>Change Teezze Esta, Sonja Inetas, Rheineck</en>
+    <it>Cambiamenti Teezze Esta, Sonja Inetas, Rheineck</it>
+    <fr>Mutation Teezze Esta, Sonja Inetas, Rheineck</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>4547</journalNumber>
+  <journalDate>2021-04-23</journalDate>
+  <publicationText>Teezze Esta, Sonja Inetas, in Rheineck, CHE-249.757.134, Einzelunternehmen (SHAB Nr. 74 vom 19.04.2021, Publ. 1005152722). Mit Entscheid vom 21.04.2021 hat das Kantonsgericht des Kantons St. Gallen der Beschwerde gegen den Entscheid des Konkursrichters des Kreisgerichts Rheintal vom 12.04.2021 betreffend Konkurseröffnung aufschiebende Wirkung zuerkannt. Demnach wird die Eintragung betreffend Konkurs im Handelsregister gestrichen. [gestrichen: Über die Inhaberin dieses Einzelunternehmens ist mit Entscheid des Konkursrichters des Kreisgerichts Rheintal vom 12.04.2021 mit Wirkung ab dem 12.04.2021, 09.30 Uhr, der Konkurs eröffnet worden.]</publicationText>
+  <commonsNew>
+    <company>
+      <name>Teezze Esta, Sonja Inetas</name>
+      <uid>CHE-249.757.134</uid>
+      <uidOrganisationId>249757134</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010672561</code13>
+      <seat>Rheineck</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Langenhagstrasse</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>9424</swissZipCode>
+        <town>Rheineck</town>
+      </address>
+    </company>
+    <purpose>Handel und Vertrieb von Waren aller Art, insbesondere im Beauty, Fashion und Kosmetikbereich sowie alle in diesem Zusammenhang stehenden Dienstleistungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Teezze Esta, Sonja Inetas</name>
+      <uid>CHE-249.757.134</uid>
+      <uidOrganisationId>249757134</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH02010672561</code13>
+      <seat>Rheineck</seat>
+      <legalForm>0101</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Langenhagstrasse</street>
+        <houseNumber>31</houseNumber>
+        <swissZipCode>9424</swissZipCode>
+        <town>Rheineck</town>
+      </address>
+    </company>
+    <purpose>Handel und Vertrieb von Waren aller Art, insbesondere im Beauty, Fashion und Kosmetikbereich sowie alle in diesem Zusammenhang stehenden Dienstleistungen.</purpose>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2021-04-19</lastFoscDate>
+    <lastFoscNumber>74</lastFoscNumber>
+    <lastFoscSequence>1005152722</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>false</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>true</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Amt für Handelsregister und Notariate Kanton SG</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
