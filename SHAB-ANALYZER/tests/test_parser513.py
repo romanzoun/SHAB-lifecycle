@@ -65,7 +65,7 @@ def test_payload_and_legacy_schema():
     assert Event(**vars(legacy)) == legacy
     assert 'remains_registered' not in legacy.payload
     assert legacy.signing is None
-    assert PARSER_VERSION == 585
+    assert PARSER_VERSION == 586
 
 
 def test_no_old_rule_owns_input():
