@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>ff0dca24-0f37-4a75-80ed-b8b21e91d6ff</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005154427</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-20</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Mauler &amp; Cie S.A., Val-de-Travers</de>
+    <en>Change Mauler &amp; Cie S.A., Val-de-Travers</en>
+    <it>Cambiamenti Mauler &amp; Cie S.A., Val-de-Travers</it>
+    <fr>Mutation Mauler &amp; Cie S.A., Val-de-Travers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>2101</journalNumber>
+  <journalDate>2021-04-15</journalDate>
+  <publicationText>Mauler &amp; Cie S.A., à Val-de-Travers, CHE-101.310.633 (FOSC du 03.02.2020, p. 0/1004820936). Mauler Amélie Ella continue de signer par procuration collectivement à deux, mais désormais avec le président.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Mauler &amp; Cie S.A.</name>
+      <uid>CHE-101.310.633</uid>
+      <uidOrganisationId>101310633</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510004584</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Môtiers, Prieuré Saint-Pierre</street>
+        <swissZipCode>2112</swissZipCode>
+        <town>Môtiers NE</town>
+      </address>
+    </company>
+    <purpose>fabrication et commerce de vins mousseux et de champagne et autres produits ou denrées alimentaires.</purpose>
+    <capital>
+      <nominal>2883000.00</nominal>
+      <paid>2883000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Mauler &amp; Cie S.A.</name>
+      <uid>CHE-101.310.633</uid>
+      <uidOrganisationId>101310633</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH64510004584</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Môtiers, Prieuré Saint-Pierre</street>
+        <swissZipCode>2112</swissZipCode>
+        <town>Môtiers NE</town>
+      </address>
+    </company>
+    <purpose>fabrication et commerce de vins mousseux et de champagne et autres produits ou denrées alimentaires.</purpose>
+    <capital>
+      <nominal>2883000.00</nominal>
+      <paid>2883000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2020-02-03</lastFoscDate>
+    <lastFoscNumber>22</lastFoscNumber>
+    <lastFoscSequence>1004820936</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
