@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HR02:publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HR02="https://shab.ch/shab/HR02-export" xsi:schemaLocation="https://shab.ch/shab/HR02-export https://amtsblattportal.ch/api/v1/schemas/shab/1.11/HR02-export.xsd">
+<meta>
+  <id>fc39f70f-1f6f-4e71-aa74-a8d499da13f1</id>
+  <rubric>HR</rubric>
+  <subRubric>HR02</subRubric>
+  <language>fr</language>
+  <registrationOffice>
+    <id>e15a629a-a08d-11e8-aa11-0050569d3c43</id>
+    <displayName>Bundesamt für Justiz (BJ), Eidgenössisches Amt für das Handelsregister</displayName>
+    <street>Bundesrain</street>
+    <streetNumber>20</streetNumber>
+    <swissZipCode>3003</swissZipCode>
+    <town>Bern</town>
+    <containsPostOfficeBox>false</containsPostOfficeBox>
+  </registrationOffice>
+  <publicationNumber>HR02-1005147092</publicationNumber>
+  <publicationState>PUBLISHED</publicationState>
+  <publicationDate>2021-04-12</publicationDate>
+  <primaryTenantCode>shab</primaryTenantCode>
+  <legalRemedy>La mutation de l'entité juridique mentionnée a été effectuée dans le registre du commerce. &lt;br />Publication selon les art. 9 et 35 ORC.</legalRemedy>
+  <cantons>NE</cantons>
+  <title>
+    <de>Mutation Le Temps Manufactures SA, Val-de-Travers</de>
+    <en>Change Le Temps Manufactures SA, Val-de-Travers</en>
+    <it>Cambiamenti Le Temps Manufactures SA, Val-de-Travers</it>
+    <fr>Mutation Le Temps Manufactures SA, Val-de-Travers</fr>
+  </title>
+</meta>
+<content>
+  <testImport>false</testImport>
+  <journalNumber>1983</journalNumber>
+  <journalDate>2021-04-07</journalDate>
+  <publicationText>Le Temps Manufactures SA, à Val-de-Travers, CHE-114.421.006 (FOSC du 09.03.2018, p. 0/4103823). Lüthi Christophe Fritz, maintenant domicilié à Neuchâtel, nommé directeur, signe désormais collectivement à deux, avec un administrateur; sa procuration est radiée.</publicationText>
+  <commonsNew>
+    <company>
+      <name>Le Temps Manufactures SA</name>
+      <uid>CHE-114.421.006</uid>
+      <uidOrganisationId>114421006</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010550134</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fleurier, rue de l'Hôpital</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>2114</swissZipCode>
+        <town>Fleurier</town>
+      </address>
+    </company>
+    <purpose>production et commercialisation de composants horlogers ou micromécaniques et toutes activités liées à l'horlogerie et à la micromécanique (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>210000.00</nominal>
+      <paid>210000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsNew>
+  <commonsActual>
+    <company>
+      <name>Le Temps Manufactures SA</name>
+      <uid>CHE-114.421.006</uid>
+      <uidOrganisationId>114421006</uidOrganisationId>
+      <uidOrganisationIdCategorie>CHE</uidOrganisationIdCategorie>
+      <code13>CH55010550134</code13>
+      <seat>Val-de-Travers</seat>
+      <legalForm>0106</legalForm>
+      <noAddress>false</noAddress>
+      <address>
+        <street>Fleurier, rue de l'Hôpital</street>
+        <houseNumber>33</houseNumber>
+        <swissZipCode>2114</swissZipCode>
+        <town>Fleurier</town>
+      </address>
+    </company>
+    <purpose>production et commercialisation de composants horlogers ou micromécaniques et toutes activités liées à l'horlogerie et à la micromécanique (pour but complet cf. statuts).</purpose>
+    <capital>
+      <nominal>210000.00</nominal>
+      <paid>210000.00</paid>
+    </capital>
+    <revision>
+      <optingOut>false</optingOut>
+    </revision>
+  </commonsActual>
+  <lastFosc>
+    <lastFoscDate>2018-03-09</lastFoscDate>
+    <lastFoscNumber>48</lastFoscNumber>
+    <lastFoscSequence>4103823</lastFoscSequence>
+  </lastFosc>
+  <transaction>
+    <update>
+      <changements>
+        <others>true</others>
+        <nameChanged>false</nameChanged>
+        <uidChanged>false</uidChanged>
+        <legalStatusChanged>false</legalStatusChanged>
+        <seatChanged>false</seatChanged>
+        <addressChanged>false</addressChanged>
+        <purposeChanged>false</purposeChanged>
+        <capitalChanged>
+          <nominal>false</nominal>
+          <paid>false</paid>
+          <other>false</other>
+        </capitalChanged>
+        <statusChanged>
+          <bankruptcy>
+            <dissolution>false</dissolution>
+            <dismissal>false</dismissal>
+            <revocation>false</revocation>
+            <cancellation>false</cancellation>
+            <summary>false</summary>
+          </bankruptcy>
+          <liquidation>
+            <dissolution>
+              <nonExceptional>false</nonExceptional>
+              <or731b>false</or731b>
+              <hregv153b>false</hregv153b>
+            </dissolution>
+            <revocation>false</revocation>
+          </liquidation>
+          <suspension>false</suspension>
+          <reentry>false</reentry>
+          <reapplication>false</reapplication>
+        </statusChanged>
+      </changements>
+    </update>
+  </transaction>
+  <senderOffice>
+    <officeName>Registre du commerce du Canton de Neuchâtel</officeName>
+  </senderOffice>
+</content>
+</HR02:publication>
