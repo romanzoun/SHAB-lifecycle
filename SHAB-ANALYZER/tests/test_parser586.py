@@ -16,7 +16,7 @@ ARGS = ('de', 'fixture', '', None, None, None)
 
 def test_fixture_integrity():
     assert hashlib.sha256(FIXTURE.read_bytes()).hexdigest() == DIGEST
-    assert PARSER_VERSION == 589
+    assert PARSER_VERSION == 590
 
 
 def test_pipeline_and_compatibility():
