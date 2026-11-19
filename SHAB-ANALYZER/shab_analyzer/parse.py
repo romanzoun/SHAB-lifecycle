@@ -483,6 +483,7 @@ from .parser585 import extract_parser585_leftovers
 from .parser586 import extract_parser586_leftovers
 from .parser587 import extract_parser587_leftovers
 from .parser588 import extract_parser588_leftovers
+from .parser589 import extract_parser589_leftovers
 from .parser579 import extract_parser579_leftovers
 from .parser80 import _DE_CONDITIONAL_PARTICIPATION_CAPITAL
 from .parser460 import extract_parser460_leftovers
@@ -3878,6 +3879,10 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
         meta.get("org_uid"), meta.get("plz"), meta.get("canton"),
     )
+    parser589_events, leftover = extract_parser589_leftovers(
+        leftover, meta.get("language"), pub_id, meta.get("published_at") or "",
+        meta.get("org_uid"), meta.get("plz"), meta.get("canton"),
+    )
     events = (
         xml_events
         + person_events
@@ -4320,6 +4325,7 @@ def parse_publication_xml(path: Path, publication_id: str | None = None) -> Pars
         + parser586_events
         + parser587_events
         + parser588_events
+        + parser589_events
         + parser579_events
         + parser578_events
         + parser577_events
